@@ -156,12 +156,12 @@
             rel="noreferrer"
             class="hover:underline"
           >
-            Creative Commons BY 4.0 Attribution Licence.
+            CC BY 4.0 Attribution
           </a>
         </span>
       </div>
       <div class="flex items-center gap-4">
-        <a class="hover:underline" href="https://restoremag.com" target="_blank" rel="noreferrer">The Restorationist&trade;</a>
+        <a class="hover:underline" href="https://restoremag.com" target="_blank" rel="noreferrer">Restorationist&trade;</a>
         <a class="hover:underline" href="https://github.com/restorationists/bills-dashboard" target="_blank" rel="noreferrer">GitHub</a>
       </div>
     </div>
