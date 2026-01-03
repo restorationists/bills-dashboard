@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit unpaid work experience exceeding four weeks; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4122,
+        "name": "Alex Cunningham",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4122/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4122/contact",
+        "memberFrom": "Stockton North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2632,
+  "shortTitle": "Unpaid Work Experience (Prohibition) (No. 2) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-06T11:17:23.5461229",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11862,
+    "stageId": 7,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 10777,
+        "stageId": 7,
+        "billStageId": 11862,
+        "billId": 2632,
+        "date": "2020-09-11T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

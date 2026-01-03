@@ -1,0 +1,56 @@
+{
+  "longTitle": null,
+  "summary": "A Bill to make provision about the promotion of online safety; to require internet service providers and mobile phone operators to provide a service that excludes pornographic images; and to require electronic device manufacturers to provide a means of filtering content.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3610,
+        "name": "Baroness Howe of Idlicote",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3610/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3610/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 991,
+  "shortTitle": "Online Safety Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-04-30T11:14:32",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 5302,
+    "stageId": 2,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 4991,
+        "stageId": 2,
+        "billStageId": 5302,
+        "billId": 991,
+        "date": "2012-11-09T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

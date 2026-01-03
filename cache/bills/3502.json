@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit Ministers of the Crown from making or implementing any legal instrument which is not consistent with the sovereignty of the United Kingdom Parliament, unless it has been approved by a referendum; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4133,
+        "name": "Andrew Bridgen",
+        "party": "The Reclaim Party",
+        "partyColour": "14172d",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4133/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4133/contact",
+        "memberFrom": "North West Leicestershire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3502,
+  "shortTitle": "Parliamentary Sovereignty (Referendums) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T12:46:41.6565561",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17985,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14983,
+        "stageId": 6,
+        "billStageId": 17985,
+        "billId": 3502,
+        "date": "2023-10-24T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

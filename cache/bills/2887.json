@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit the use of raised laying or battery cages to keep certain game birds for the purpose of producing eggs; to set minimum space requirements for enclosures for such birds; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 209,
+        "name": "Lord Randall of Uxbridge",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/209/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/209/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2887,
+  "shortTitle": "Game Birds (Cage Breeding) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-04-28T14:57:49.7148647",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15328,
+    "stageId": 2,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 12887,
+        "stageId": 2,
+        "billStageId": 15328,
+        "billId": 2887,
+        "date": "2022-03-25T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

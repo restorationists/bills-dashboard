@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to establish and maintain a framework for the regular evaluation of tax reliefs, including in relation to their effectiveness, cost and value for money and to require annual reporting under that framework; to require the Secretary of State to review all existing tax reliefs; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5083,
+        "name": "Bobby Dean",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5083/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5083/contact",
+        "memberFrom": "Carshalton and Wallington"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4040,
+  "shortTitle": "Tax Reliefs (Evaluation) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-21T11:10:55.7005784",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20316,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17547,
+        "stageId": 7,
+        "billStageId": 20316,
+        "billId": 4040,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make the offence of driving or riding in a motor vehicle on a road without a seat belt an endorsable offence; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 411,
+        "name": "Mr Barry Sheerman",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/411/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/411/contact",
+        "memberFrom": "Huddersfield"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3411,
+  "shortTitle": "Seat Belts (Penalty Points) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T16:33:31.5976687",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17363,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14205,
+        "stageId": 6,
+        "billStageId": 17363,
+        "billId": 3411,
+        "date": "2023-01-31T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

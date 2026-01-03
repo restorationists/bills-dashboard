@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about the granting of old-style secure tenancies in cases of domestic abuse.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4282,
+        "name": "Lord Bourne of Aberystwyth",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4282/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4282/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3945,
+        "name": "Sajid Javid",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3945/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3945/contact",
+        "memberFrom": "Bromsgrove"
+      },
+      "organisation": {
+        "name": "Ministry of Housing, Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2192,
+  "shortTitle": "Secure Tenancies (Victims of Domestic Abuse) Act 2018",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2018-05-11T09:32:56",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 10410,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 9611,
+        "stageId": 11,
+        "billStageId": 10410,
+        "billId": 2192,
+        "date": "2018-05-10T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

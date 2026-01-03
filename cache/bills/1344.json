@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to place a fiduciary duty on those involved in managing an investment to act in the best interest of investors, including pension savers, in a transparent and accountable way; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1603,
+        "name": "Phil Wilson",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1603/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1603/contact",
+        "memberFrom": "Sedgefield"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1344,
+  "shortTitle": "Investment Management (Fiduciary Duties) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-05-15T14:41:07",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14136,
+    "stageId": 7,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

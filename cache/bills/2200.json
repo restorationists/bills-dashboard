@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require all private landlords in England to be registered; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1603,
+        "name": "Phil Wilson",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1603/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1603/contact",
+        "memberFrom": "Sedgefield"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2200,
+  "shortTitle": "Private Landlords (Registration) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-09-19T14:03:47",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14941,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

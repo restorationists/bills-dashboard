@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to regulate the use of automated decision-making in the public sector; to require a public authority to complete an algorithmic impact assessment in prescribed form where it procures or develops an automated decision-making system; to establish a Minister for standards in algorithm use; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3396,
+        "name": "Lord Clement-Jones",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3396/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3396/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3074,
+  "shortTitle": "Public Authority Algorithm Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-04-28T15:10:13.7946229",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15920,
+    "stageId": 1,
+    "sessionId": 36,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 12531,
+        "stageId": 1,
+        "billStageId": 15920,
+        "billId": 3074,
+        "date": "2021-11-29T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

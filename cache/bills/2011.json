@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for marriages taking place in any Church of England chapel licensed for the solemnization of marriages under sections 20 and 21 of the Marriage Act 1949 to be solemnized according to the rites and ceremonies of Christian denominations other than the Church of England.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4154,
+        "name": "Lord Deben",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4154/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4154/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2011,
+  "shortTitle": "Ecumenical Marriage Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-09-12T12:54:33",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9588,
+    "stageId": 2,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 8900,
+        "stageId": 2,
+        "billStageId": 9588,
+        "billId": 2011,
+        "date": "2018-02-23T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

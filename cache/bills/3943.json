@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for a right to manage for freeholders on unadopted private or mixed-use housing estates; to set minimum standards for public amenities on new housing estates; to make provision about the enforcement of those standards; to make provision about the adoption by local authorities of public amenities on new housing estates; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5000,
+        "name": "Alistair Strathern",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5000/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5000/contact",
+        "memberFrom": "Hitchin"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3943,
+  "shortTitle": "Housing Estates Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-26T13:15:48.5519106",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19722,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16767,
+        "stageId": 7,
+        "billStageId": 19722,
+        "billId": 3943,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

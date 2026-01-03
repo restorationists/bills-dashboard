@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide for corporate status of and for certain privileges and immunities to be accorded to the international inter-parliamentary organisation of national and sub-national legislatures of Commonwealth countries known as the Commonwealth Parliamentary Association and to its Secretary-General; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1396,
+        "name": "Mr Ian Liddell-Grainger",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1396/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1396/contact",
+        "memberFrom": "Bridgwater and West Somerset"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3117,
+  "shortTitle": "Commonwealth Parliamentary Association (Status) (No. 2) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-04-29T15:14:42.5348158",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16187,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12851,
+        "stageId": 7,
+        "billStageId": 16187,
+        "billId": 3117,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

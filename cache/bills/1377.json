@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision for strategic highways companies and the funding of transport services by land; to make provision for the control of invasive non-native species; to make provision about nationally significant infrastructure projects; to make provision about town and country planning; to make provision about the Homes and Communities Agency and Mayoral development corporations; to make provision about the Greater London Authority so far as it exercises functions for the purposes of housing and regeneration; to make provision about Her Majesty’s Land Registry and local land charges; to make provision enabling building regulations to provide for off-site carbon abatement measures; to make provision for giving members of communities the right to buy stakes in local renewable electricity generation facilities; to make provision about maximising economic recovery of petroleum in the United Kingdom; to provide for a levy to be charged on holders of certain energy licences; to enable Her Majesty’s Revenue and Customs to exercise functions in connection with the Extractive Industries Transparency Initiative; to make provision about onshore petroleum and geothermal energy; to make provision about renewable heat incentives; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1557,
+        "name": "Baroness Kramer",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1557/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1557/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 333,
+        "name": "Mr Patrick McLoughlin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/333/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/333/contact",
+        "memberFrom": "Derbyshire Dales"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1377,
+  "shortTitle": "Infrastructure Act 2015",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2015-02-13T10:56:03",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7591,
+    "stageId": 11,
+    "sessionId": 27,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7082,
+        "stageId": 11,
+        "billStageId": 7591,
+        "billId": 1377,
+        "date": "2015-02-12T00:00:00"
+      }
+    ],
+    "sortOrder": 18
+  }
+}

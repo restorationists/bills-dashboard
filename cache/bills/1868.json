@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about protecting existing and established use of property; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4497,
+        "name": "Michael Tomlinson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4497/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4497/contact",
+        "memberFrom": "Mid Dorset and North Poole"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1868,
+  "shortTitle": "Use of Property (Protection) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-02-21T10:20:51",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 8847,
+    "stageId": 7,
+    "sessionId": 29,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 8241,
+        "stageId": 7,
+        "billStageId": 8847,
+        "billId": 1868,
+        "date": "2017-01-27T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

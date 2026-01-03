@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to amend the Scotland Act 1998 and make provision about the functions of the Scottish Ministers; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1512,
+        "name": "David Mundell",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1512/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1512/contact",
+        "memberFrom": "Dumfriesshire, Clydesdale and Tweeddale"
+      },
+      "organisation": {
+        "name": "Scotland Office",
+        "url": "https://www.gov.uk/government/organisations/scotland-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4534,
+        "name": "Lord Dunlop",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4534/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4534/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Scotland Office",
+        "url": "https://www.gov.uk/government/organisations/scotland-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1571,
+  "shortTitle": "Scotland Act 2016",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-03-24T10:52:16",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 8508,
+    "stageId": 11,
+    "sessionId": 28,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7885,
+        "stageId": 11,
+        "billStageId": 8508,
+        "billId": 1571,
+        "date": "2016-03-23T00:00:00"
+      }
+    ],
+    "sortOrder": 19
+  }
+}

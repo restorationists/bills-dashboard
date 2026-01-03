@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the appointment of a Commission to advise the Prime Minister on recommendations to the Crown for the creation of life peerages; to establish principles to be followed in making recommendations; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3187,
+        "name": "Lord Norton of Louth",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3187/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3187/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3175,
+  "shortTitle": "House of Lords (Peerage Nominations) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-10-31T14:22:55.9561794",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16523,
+    "stageId": 2,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 13831,
+        "stageId": 2,
+        "billStageId": 16523,
+        "billId": 3175,
+        "date": "2022-11-18T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require local authorities to publish statements of expenditure and the numbers of grants made to residents through the local welfare assistance scheme; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3926,
+        "name": "Paul Maynard",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3926/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3926/contact",
+        "memberFrom": "Blackpool North and Cleveleys"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3112,
+  "shortTitle": "Local Welfare Assistance (Statements) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-04T17:07:27.7548553",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16159,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12819,
+        "stageId": 7,
+        "billStageId": 16159,
+        "billId": 3112,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

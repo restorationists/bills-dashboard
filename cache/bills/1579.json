@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the promotion of online safety; to require internet service providers and mobile phone operators to provide an internet service that excludes adult content; to require electronic device manufacturers to provide a means of filtering internet content; to make provision for parents to be educated about online safety and for the regulation of harmful material through on-demand programme services.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3610,
+        "name": "Baroness Howe of Idlicote",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3610/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3610/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1579,
+  "shortTitle": "Online Safety Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2015-12-14T15:43:04",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 8161,
+    "stageId": 3,
+    "sessionId": 28,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 7576,
+        "stageId": 3,
+        "billStageId": 8161,
+        "billId": 1579,
+        "date": "2015-12-11T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

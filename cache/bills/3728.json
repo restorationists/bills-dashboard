@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision for the House of Commons to nominate the Prime Minister and approve appointments to the Cabinet; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4432,
+        "name": "Patrick Grady",
+        "party": "Scottish National Party",
+        "partyColour": "fff685",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4432/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4432/contact",
+        "memberFrom": "Glasgow North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3728,
+  "shortTitle": "Prime Minister (Nomination) and Cabinet (Appointment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-02-12T16:37:37.3383033",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19643,
+    "stageId": 7,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

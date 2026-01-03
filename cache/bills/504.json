@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to establish and make provision about the Cornish Assembly; to transfer functions and powers to the Assembly; and for connect purposes.",
+  "summary": "This Bill would establish an Assembly for Cornwall, with 123 Members elected by single transferable vote, and an Executive, headed by a First Minister. Some provisions of the Bill are modelled on the Assembly and Executive which operates under the Government of Wales Acts 1998 and 2006. The Assembly would have power to promote the wellbeing of Cornwall and pass legislation.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1504,
+        "name": "Dan Rogerson",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1504/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1504/contact",
+        "memberFrom": "North Cornwall"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 504,
+  "shortTitle": "Government of Cornwall Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-11-12T11:36:10",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13370,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

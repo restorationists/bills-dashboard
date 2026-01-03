@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the labelling of alcoholic beverages; and for connected purposes.",
+  "summary": "The Bill would require alcoholic drinks to be labelled with the following warning:   GOVERNMENT WARNING: Avoid alcohol if pregnant or trying to conceive.  <br><br>The Bill would stipulate details on the size of the warning.  Failure to comply would be a criminal offence. <br><p> </p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2570,
+        "name": "Lord Mitchell",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2570/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2570/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 198,
+  "shortTitle": "Alcohol Labelling Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-02-23T11:43:30",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 1657,
+    "stageId": 5,
+    "sessionId": 21,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 1535,
+        "stageId": 5,
+        "billStageId": 1657,
+        "billId": 198,
+        "date": "2008-07-01T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  }
+}

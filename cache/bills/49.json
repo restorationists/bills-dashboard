@@ -1,0 +1,76 @@
+{
+  "longTitle": "Amend the Mental Health Act 1983 and the Mental Capacity Act 2005 in relation to mentally disordered persons; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1732,
+        "name": "Lord Warner",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1732/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1732/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department of Health",
+        "url": "http://www.dh.gov.uk"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 340,
+        "name": "Ms Patricia Hewitt",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/340/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/340/contact",
+        "memberFrom": "Leicester West"
+      },
+      "organisation": {
+        "name": "Department of Health",
+        "url": "http://www.dh.gov.uk"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 49,
+  "shortTitle": "Mental Health Act 2007",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2007-10-27T15:00:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 776,
+    "stageId": 11,
+    "sessionId": 20,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 525,
+        "stageId": 11,
+        "billStageId": 776,
+        "billId": 49,
+        "date": "2007-07-19T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

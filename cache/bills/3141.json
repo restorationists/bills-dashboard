@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to report to Parliament on the merits of devolving management and administration of the money allocated to Wales via the Shared Prosperity Fund to the Welsh Government.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4630,
+        "name": "Ben Lake",
+        "party": "Plaid Cymru",
+        "partyColour": "348837",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4630/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4630/contact",
+        "memberFrom": "Ceredigion"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3141,
+  "shortTitle": "Shared Prosperity Fund (Wales) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-03T16:35:25.3409022",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16326,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13009,
+        "stageId": 7,
+        "billStageId": 16326,
+        "billId": 3141,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

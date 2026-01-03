@@ -1,0 +1,76 @@
+{
+  "longTitle": "Make a provision for the temporary validity of certain Orders in Council imposing financial restrictions on, and in relation to, persons suspected of involvement in terrorist activity; and for connected purposes.",
+  "summary": "<p>This Bill will reinstate the Government's terrorist asset-freezing regime, after the Supreme Court quashed the Terrorism (United Nations Measures) Order 2006 and provisions in the Al-Qaida and Taliban (United Nations Measures) Order 2006. </p><p>The Court found that the Treasury was exceeding its powers in using the United Nations Act to give effect to United Nations Security Council Resolutions on freezing terrorists' assets. The Bill, which will be put through Parliament using the fast-track procedure, will make the provisions of the two Orders in Council valid again.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 596,
+        "name": "Mr Alistair Darling",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/596/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/596/contact",
+        "memberFrom": "Edinburgh South West"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3869,
+        "name": "Lord Myners",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3869/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3869/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 609,
+  "shortTitle": "Terrorist Asset-Freezing (Temporary Provisions) Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-08-17T14:29:44",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3186,
+    "stageId": 11,
+    "sessionId": 23,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3060,
+        "stageId": 11,
+        "billStageId": 3186,
+        "billId": 609,
+        "date": "2010-02-10T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

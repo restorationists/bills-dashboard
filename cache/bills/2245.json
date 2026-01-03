@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision about the protection of pollinators; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4663,
+        "name": "Ben Bradley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4663/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4663/contact",
+        "memberFrom": "Mansfield"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2245,
+  "shortTitle": "Protection of Pollinators Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2018-10-25T12:08:34",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14984,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

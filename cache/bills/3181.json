@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to establish a public Advocate to provide advice to, and act as data controller for, representatives of the deceased after major incidents",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 260,
+        "name": "Lord Wills",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/260/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/260/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3181,
+  "shortTitle": "Public Advocate Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-10-31T12:56:08.3662797",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16537,
+    "stageId": 2,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 14621,
+        "stageId": 2,
+        "billStageId": 16537,
+        "billId": 3181,
+        "date": "2023-06-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

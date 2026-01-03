@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to publish an assessment of the effectiveness of current regulation of the debt collection and civil enforcement sectors and to report to Parliament on the potential merits of statutory regulation of those sectors; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5199,
+        "name": "Mr Luke Charters",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5199/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5199/contact",
+        "memberFrom": "York Outer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3979,
+  "shortTitle": "Regulation of Bailiffs (Assessment and Report) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-06-11T11:35:41.182986",
+  "billWithdrawn": "2025-06-11T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19958,
+    "stageId": 6,
+    "sessionId": 39,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17079,
+        "stageId": 6,
+        "billStageId": 19958,
+        "billId": 3979,
+        "date": "2025-05-21T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

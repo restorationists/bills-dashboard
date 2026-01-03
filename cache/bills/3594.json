@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to confer powers on and place duties on the Environment Agency in respect of the monitoring of water quality; to make provision about environmental permits for water discharge activities; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4942,
+        "name": "Richard Foord",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4942/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4942/contact",
+        "memberFrom": "Tiverton and Honiton"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3594,
+  "shortTitle": "Water Quality Monitoring Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-02-21T12:08:05.8660034",
+  "billWithdrawn": "2024-02-20T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18246,
+    "stageId": 6,
+    "sessionId": 38,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15232,
+        "stageId": 6,
+        "billStageId": 18246,
+        "billId": 3594,
+        "date": "2023-12-11T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

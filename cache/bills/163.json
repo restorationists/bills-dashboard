@@ -1,0 +1,59 @@
+{
+  "longTitle": "To grant certain duties, to alter other duties, and to amend the law relating to the National Debt and the Public Revenue, and to make further provision in connection with finance.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 217,
+        "name": "Dawn Primarolo",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/217/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/217/contact",
+        "memberFrom": "Bristol South"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 163,
+  "shortTitle": "Finance Act 2007",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-10-27T17:15:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 843,
+    "stageId": 11,
+    "sessionId": 20,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 660,
+        "stageId": 11,
+        "billStageId": 843,
+        "billId": 163,
+        "date": "2007-07-19T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

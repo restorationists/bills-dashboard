@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about interference with wireless telegraphy in prisons and similar institutions.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4492,
+        "name": "Maria Caulfield",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4492/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4492/contact",
+        "memberFrom": "Lewes"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4552,
+        "name": "Baroness Pidding",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4552/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4552/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2060,
+  "shortTitle": "Prisons (Interference with Wireless Telegraphy) Act 2018",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-01-21T09:28:41",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 10880,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 9966,
+        "stageId": 11,
+        "billStageId": 10880,
+        "billId": 2060,
+        "date": "2018-12-20T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

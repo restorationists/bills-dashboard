@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision in relation to the duties of employers and the protection of workers under the Equality Act 2010",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4602,
+        "name": "Wera Hobhouse",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4602/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4602/contact",
+        "memberFrom": "Bath"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1567,
+        "name": "Baroness Burt of Solihull",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1567/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1567/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3205,
+  "shortTitle": "Worker Protection (Amendment of Equality Act 2010) Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-08-19T15:52:18.8255814",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17979,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14987,
+        "stageId": 11,
+        "billStageId": 17979,
+        "billId": 3205,
+        "date": "2023-10-26T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

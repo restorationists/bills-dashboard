@@ -1,0 +1,77 @@
+{
+  "longTitle": "A Bill to amend the law relating to capital and income in trusts.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 919,
+        "name": "Lord McNally",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/919/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/919/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1413,
+        "name": "Chris Grayling",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1413/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1413/contact",
+        "memberFrom": "Epsom and Ewell"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 962,
+  "shortTitle": "Trusts (Capital and Income) Act 2013",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-02-01T09:31:29",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24,
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5659,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5275,
+        "stageId": 11,
+        "billStageId": 5659,
+        "billId": 962,
+        "date": "2013-01-31T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "To designate 11th November as an annual public holiday in the United Kingdom; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 478,
+        "name": "Mr Frank Field",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/478/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/478/contact",
+        "memberFrom": "Birkenhead"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 350,
+  "shortTitle": "Remembrance Day Bank Holiday Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-11-20T19:54:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13239,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

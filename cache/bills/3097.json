@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to grant a right of access to the digital devices of a dead or incapacitated person to their next of kin; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4129,
+        "name": "Ian Paisley",
+        "party": "Democratic Unionist Party",
+        "partyColour": "d46a4c",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4129/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4129/contact",
+        "memberFrom": "North Antrim"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3097,
+  "shortTitle": "Digital Devices (Access for Next of Kin) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-04-29T15:57:21.1211741",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16059,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12698,
+        "stageId": 7,
+        "billStageId": 16059,
+        "billId": 3097,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

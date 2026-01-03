@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to amend the Adoption and Children Act 2002 to allow access to information for the descendants of deceased adopted people; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4002,
+        "name": "Nick de Bois",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4002/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4002/contact",
+        "memberFrom": "Enfield North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1303,
+  "shortTitle": "Descendants of Deceased Adopted People (Access to Information) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-05-15T13:22:19",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14096,
+    "stageId": 7,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

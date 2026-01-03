@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision for the holding of an inquiry into the Iraq war.",
+  "summary": "<p>This Bill was presented by the Liberal Democrat spokesperson for foreign affairs, and supported by other front bench Liberal Democrats. <br><br>Key areas:</p><ul><li>It is designed to establish an inquiry into the circumstances surrounding the invasion of Iraq in 2003, using powers under the Inquiries Act 2005</li><li>The Government would be responsible for appointing a panel of 12 members who would have powers to investigate </li><li>The inquiry would cover the origins, inception, legality and conduct of the hostilities and would make its findings public. Since 2003, there have been a number of campaigns to establish an independent inquiry.<br></li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 919,
+        "name": "Lord McNally",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/919/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/919/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 299,
+  "shortTitle": "Iraq War Inquiry Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-02-23T12:31:56",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2187,
+    "stageId": 2,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

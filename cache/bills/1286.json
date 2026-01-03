@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to enable the law relating to societies registered under the Industrial and Provident Societies Act 1965 or the Friendly Societies Act 1992 and certain mutual insurers to be amended to permit and facilitate the use of a new and additional class of redeemable share capital; to provide consequential rights to members of such societies or insurers; and to restrict the voting rights of certain members who hold such shares.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1251,
+        "name": "Lord Naseby",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1251/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1251/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1286,
+  "shortTitle": "Mutuals’ Redeemable Shares Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-07-23T09:14:16",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14080,
+    "stageId": 2,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

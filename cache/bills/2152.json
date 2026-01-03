@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require local authorities to facilitate the delivery of programmes that provide free meals and activities for children during school holidays; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 478,
+        "name": "Frank Field",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/478/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/478/contact",
+        "memberFrom": "Birkenhead"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2152,
+  "shortTitle": "School Holidays (Meals and Activities) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2018-04-24T10:17:33",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9926,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 9152,
+        "stageId": 7,
+        "billStageId": 9926,
+        "billId": 2152,
+        "date": "2018-01-19T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

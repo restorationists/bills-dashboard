@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to Authorise the use of resources for the year ending with 31 March 2020; to authorise both the issue of sums out of the Consolidated Fund and the application of income for that year; and to appropriate the supply authorised for that year by this Act and by the Supply and Appropriation (Anticipation and Adjustments) Act 2019.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3991,
+        "name": "Jesse Norman",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3991/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3991/contact",
+        "memberFrom": "Hereford and South Herefordshire"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 57,
+        "name": "Lord Young of Cookham",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/57/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/57/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2435,
+  "shortTitle": "Supply and Appropriation (Main Estimates) Act 2019",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-09-16T12:23:11",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11385,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10407,
+        "stageId": 11,
+        "billStageId": 11385,
+        "billId": 2435,
+        "date": "2019-07-17T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

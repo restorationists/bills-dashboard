@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to Confer further powers to gather and share information for counter-terrorism and other purposes; to make further provision about the detention and questioning of terrorist suspects and the prosecution and punishment of terrorist offences; to impose notification requirements on persons convicted of such offences; to amend the law relating to asset freezing proceedings under  \r\nUnited Nations terrorism orders; to amend the law relating to inquests and inquiries; to amend the definition of “terrorism”; to amend the enactments relating to terrorist offences, control orders and the forfeiture of terrorist cash; to provide for recovering the costs of policing at certain gas facilities; to amend\r\nprovisions about the appointment of special advocates in Northern Ireland; and for connected purposes.",
+  "summary": "<p>The Bill contains a number of provisions which the Government states are designed to enhance counter-terrorism powers. The main elements of the Bill are:</p><ul><li>a provision to allow the pre-charge detention of terrorist suspects to be extended from 28 days to 42 days in certain circumstances </li><li>changes to enable the post-charge questioning of terrorist suspects and the drawing of adverse inferences from silence </li><li>imposing requirements on people convicted of terrorist offences to let authorities know where they are living and any changes to their circumstances </li><li>enhanced sentencing of offenders who commit offences with a terrorist connection </li><li>provision for inquests and inquiries to be heard without a jury.</li></ul><p>The Bill would also confer further powers to gather and share information for counter-terrorism and other purposes, and amend the law relating to asset-freezing procedures.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 269,
+        "name": "Jacqui Smith",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/269/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/269/contact",
+        "memberFrom": "Redditch"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3834,
+        "name": "Lord West of Spithead",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3834/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3834/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 270,
+  "shortTitle": "Counter-Terrorism Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-02-25T11:51:41",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1931,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1844,
+        "stageId": 11,
+        "billStageId": 1931,
+        "billId": 270,
+        "date": "2008-11-26T00:00:00"
+      }
+    ],
+    "sortOrder": 17
+  }
+}

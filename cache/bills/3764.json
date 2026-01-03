@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision changing the law about rented homes, including provision abolishing fixed term assured tenancies and assured shorthold tenancies; imposing obligations on landlords and others in relation to rented homes and temporary and supported accommodation; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4356,
+        "name": "Angela Rayner",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4356/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4356/contact",
+        "memberFrom": "Ashton-under-Lyne"
+      },
+      "organisation": {
+        "name": "Ministry of Housing, Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4956,
+        "name": "Baroness Taylor of Stevenage",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4956/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4956/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Housing, Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3764,
+  "shortTitle": "Renters’ Rights Act 2025",
+  "formerShortTitle": "",
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-18T13:36:19.76058",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 20254,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 17476,
+        "stageId": 11,
+        "billStageId": 20254,
+        "billId": 3764,
+        "date": "2025-10-27T00:00:00"
+      }
+    ],
+    "sortOrder": 18
+  }
+}

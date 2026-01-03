@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the notice period for termination of funding agreements for secure 16 to 19 Academies; to make provision about the Secretary of State’s duty to consider the impact on existing educational institutions when it is proposed to establish or expand a secure 16 to 19 Academy; and to alter the consultation question required when it is proposed to establish or expand a secure 16 to 19 Academy.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4592,
+        "name": "Dr Caroline Johnson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4592/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4592/contact",
+        "memberFrom": "Sleaford and North Hykeham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3654,
+  "shortTitle": "Secure 16 to 19 Academies Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-05-29T11:25:53.8192764",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18804,
+    "stageId": 1,
+    "sessionId": 38,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15888,
+        "stageId": 1,
+        "billStageId": 18804,
+        "billId": 3654,
+        "date": "2024-05-20T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  }
+}

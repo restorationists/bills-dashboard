@@ -1,0 +1,59 @@
+{
+  "longTitle": "Make provision about immigration and asylum; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 617,
+        "name": "John Reid",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/617/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/617/contact",
+        "memberFrom": "Airdrie and Shotts"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 115,
+  "shortTitle": "UK Borders Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-10-31T14:53:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 985,
+    "stageId": 11,
+    "sessionId": 20,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 851,
+        "stageId": 11,
+        "billStageId": 985,
+        "billId": 115,
+        "date": "2007-10-30T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

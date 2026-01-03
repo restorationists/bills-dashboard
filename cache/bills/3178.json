@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to support women in UK sponsored and supported conflict prevention, peace processes, mediation and diplomatic delegations; to ensure systematic gender consideration and responsiveness in UK foreign and defence policy; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4301,
+        "name": "Baroness Hodgson of Abinger",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4301/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4301/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4459,
+        "name": "Mrs Flick Drummond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4459/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4459/contact",
+        "memberFrom": "Meon Valley"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3178,
+  "shortTitle": "Women, Peace and Security Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-11-03T09:49:40.8619725",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17922,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14910,
+        "stageId": 6,
+        "billStageId": 17922,
+        "billId": 3178,
+        "date": "2023-09-06T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide for the implementation of the United Kingdom’s free trade agreements with Australia and New Zealand to be subject to approval by resolution by each House of Parliament; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4918,
+        "name": "Sarah Green",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4918/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4918/contact",
+        "memberFrom": "Chesham and Amersham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3373,
+  "shortTitle": "Trade (Australia and New Zealand) (Parliamentary Approval) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T17:04:31.0931154",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17127,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13930,
+        "stageId": 6,
+        "billStageId": 17127,
+        "billId": 3373,
+        "date": "2022-11-16T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

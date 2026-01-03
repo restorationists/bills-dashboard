@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to allow subjects of Her Majesty’s realms to enter the United Kingdom through a dedicated channel at international terminals, to ensure that all points of entry to the United Kingdom at airports, ports and terminals display prominently a portrait of Her Majesty as Head of State, the Union Flag and other national symbols; to rename and re-establish the UK Border Agency as ‘Her Majesty’s Border Police’; and to enhance the Agency’s powers to protect and defend the borders of the United Kingdom of Great Britain and Northern Ireland.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1447,
+        "name": "Andrew Rosindell",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1447/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1447/contact",
+        "memberFrom": "Romford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1074,
+  "shortTitle": "United Kingdom Borders Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-04-26T11:55:14",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13877,
+    "stageId": 7,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

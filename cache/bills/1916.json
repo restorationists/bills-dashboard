@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about technical and further education.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1555,
+        "name": "Justine Greening",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1555/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1555/contact",
+        "memberFrom": "Putney"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4270,
+        "name": "Lord Nash",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4270/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4270/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1916,
+  "shortTitle": "Technical and Further Education Act 2017",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-04-28T12:34:41",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 9533,
+    "stageId": 11,
+    "sessionId": 29,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 8808,
+        "stageId": 11,
+        "billStageId": 9533,
+        "billId": 1916,
+        "date": "2017-04-27T00:00:00"
+      }
+    ],
+    "sortOrder": 17
+  }
+}

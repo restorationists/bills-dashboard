@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision in connection with any arrangements that may be made by the Secretary of State with respect to the provision to the Secretary of State of defence procurement services; to make provision relating to defence procurement contracts awarded, or amended, otherwise than as the result of a competitive process; to make provision in relation to the reserve forces of the Crown; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 105,
+        "name": "Mr Philip Hammond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/105/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/105/contact",
+        "memberFrom": "Runnymede and Weybridge"
+      },
+      "organisation": {
+        "name": "Ministry of Defence",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-defence"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3428,
+        "name": "Lord Astor of Hever",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3428/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3428/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "Ministry of Defence",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-defence"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1276,
+  "shortTitle": "Defence Reform Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-05-20T09:49:49",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 6830,
+    "stageId": 11,
+    "sessionId": 26,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 6382,
+        "stageId": 11,
+        "billStageId": 6830,
+        "billId": 1276,
+        "date": "2014-05-14T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

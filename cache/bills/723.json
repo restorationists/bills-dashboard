@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide for an annual Taxation Freedom Day to reflect the proportion of tax paid by individuals from their income; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1537,
+        "name": "Mr Philip Hollobone",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1537/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1537/contact",
+        "memberFrom": "Kettering"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 723,
+  "shortTitle": "Taxation Freedom Day Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-01T15:55:27",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 3605,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 3369,
+        "stageId": 7,
+        "billStageId": 3605,
+        "billId": 723,
+        "date": "2011-11-25T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

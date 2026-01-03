@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to provide certain protections for persons who live together as a couple or have lived together as a couple; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1579,
+        "name": "Mary Creagh",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1579/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1579/contact",
+        "memberFrom": "Wakefield"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 464,
+  "shortTitle": "Cohabitation (No. 2) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-07-07T15:35:11",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13336,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

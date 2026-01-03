@@ -1,0 +1,41 @@
+{
+  "longTitle": "A Bill to create an offence of administering or attempting to administer drugs or alcohol to a person without their consent; and for connected purposes",
+  "summary": null,
+  "sponsors": [],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3103,
+  "shortTitle": "Spiking (Offence) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-03-08T10:29:41.8940993",
+  "billWithdrawn": "2022-03-07T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16098,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12737,
+        "stageId": 7,
+        "billStageId": 16098,
+        "billId": 3103,
+        "date": "2022-03-18T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

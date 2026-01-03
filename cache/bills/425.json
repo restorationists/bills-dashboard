@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the protection of gardens and urban green spaces; and for connected purposes",
+  "summary": "The Bill would require planning authorities to have special regard to the desirability of preserving gardens and urban green spaces. Current planning guidance provides some protection for public open space but not for private gardens. The Bill has been drafted in response to concerns that too many private gardens are used to provide for house building.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 179,
+        "name": "Mr Andrew Dismore",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/179/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/179/contact",
+        "memberFrom": "Hendon"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 425,
+  "shortTitle": "Land Use (Gardens Protection Etc) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-11-09T11:36:59",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2116,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 2064,
+        "stageId": 7,
+        "billStageId": 2116,
+        "billId": 425,
+        "date": "2009-05-08T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

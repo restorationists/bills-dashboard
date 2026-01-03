@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to place a duty on candidates for elected office to declare any past or current income or gifts from the government of the Russian Federation or from any person or organisation connected to that government; to place a duty on political parties to ensure that their candidates have made this declaration; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5055,
+        "name": "Max Wilkinson",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5055/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5055/contact",
+        "memberFrom": "Cheltenham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4041,
+  "shortTitle": "Declaration of Income and Gifts by Candidates for Elected Office (Russian Federation) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-21T11:15:32.0209727",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20318,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17549,
+        "stageId": 7,
+        "billStageId": 20318,
+        "billId": 4041,
+        "date": "2026-07-10T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

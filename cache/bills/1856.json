@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to repeal provisions in the Counter-Terrorism and Security Act 2015 requiring teachers, carers and responsible adults to report signs of extremism or radicalisation amongst children in primary school, nursery school or other pre-school educational settings; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4411,
+        "name": "Lucy Allan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4411/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4411/contact",
+        "memberFrom": "Telford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1856,
+  "shortTitle": "Counter-Terrorism and Security Act 2015 (Amendment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-08-15T13:08:24",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9846,
+    "stageId": 7,
+    "sessionId": 29,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 9062,
+        "stageId": 7,
+        "billStageId": 9846,
+        "billId": 1856,
+        "date": "2017-01-27T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision to extend the period following the Northern Ireland Assembly election of 5 May 2022 during which Ministers may be appointed and after which the Secretary of State must propose a date for another election; about the exercise of functions in the absence of Northern Ireland Ministers; to confer powers on the Secretary of State to determine salaries and other benefits for Members of the Assembly in respect of periods in which the Assembly is not functioning; and to confer powers on the Secretary of State to set the regional rate in Northern Ireland.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3977,
+        "name": "Chris Heaton-Harris",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3977/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3977/contact",
+        "memberFrom": "Daventry"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4581,
+        "name": "Lord Caine",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4581/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4581/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3377,
+  "shortTitle": "Northern Ireland (Executive Formation etc) Act 2022",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-02-21T14:00:15.7283287",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17213,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14023,
+        "stageId": 11,
+        "billStageId": 17213,
+        "billId": 3377,
+        "date": "2022-12-06T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

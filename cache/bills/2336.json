@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to amend building regulations to require letter boxes in new buildings to be positioned above a certain height; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4674,
+        "name": "Vicky Ford",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4674/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4674/contact",
+        "memberFrom": "Chelmsford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2336,
+  "shortTitle": "Low-level Letter Boxes (Prohibition) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-03-06T11:40:57",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15073,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision to prohibit the use of wild animals in travelling circuses.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1571,
+        "name": "Michael Gove",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1571/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1571/contact",
+        "memberFrom": "Surrey Heath"
+      },
+      "organisation": {
+        "name": "Department for Environment, Food and Rural Affairs",
+        "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4161,
+        "name": "Lord Gardiner of Kimble",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4161/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4161/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Environment, Food and Rural Affairs",
+        "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2394,
+  "shortTitle": "Wild Animals in Circuses Act 2019",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-07-25T10:21:21",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11360,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10368,
+        "stageId": 11,
+        "billStageId": 11360,
+        "billId": 2394,
+        "date": "2019-07-24T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

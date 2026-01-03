@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the abolition of the television licence fee; and for connected purposes",
+  "summary": "<p><span><span>The Bill would abolish the requirement for a television licence fee, by repealing the part of the Communications Act 2003 that relates to licensing of TV reception.<br><br><br><br></span></span></p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 242,
+        "name": "Mr Christopher Chope",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/242/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/242/contact",
+        "memberFrom": "Christchurch"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 246,
+  "shortTitle": "Broadcasting (Television Licence Fee Abolition) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-10-20T11:17:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 1207,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 1090,
+        "stageId": 7,
+        "billStageId": 1207,
+        "billId": 246,
+        "date": "2008-10-17T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to apply the provisions of the Gangmasters (Licensing) Act 2004 to the construction industry; and for connected purposes.",
+  "summary": "The Bill would amend section 3 of the Gangmasters (Licensing) Act 2004 so that the provisions of the Act would apply to the construction industry.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1432,
+        "name": "Mr David Hamilton",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1432/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1432/contact",
+        "memberFrom": "Midlothian"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 694,
+  "shortTitle": "Gangmasters Licensing (Extension to Construction Industry) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-01T15:09:25",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 3524,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 3329,
+        "stageId": 7,
+        "billStageId": 3524,
+        "billId": 694,
+        "date": "2010-12-03T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to impose certain duties upon Her Majesty’s Government to ensure the accuracy, completeness and utility of electoral registers; to make provision for the sharing of data for the purposes of electoral registration; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 193,
+        "name": "Siobhain McDonagh",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/193/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/193/contact",
+        "memberFrom": "Mitcham and Morden"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1741,
+  "shortTitle": "Automatic Electoral Registration (No. 2) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2018-11-21T16:45:55",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14513,
+    "stageId": 7,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

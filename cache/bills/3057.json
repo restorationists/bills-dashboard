@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision for the implementation of a regulated asset base model for nuclear\r\nenergy generation projects; for revenue collection for the purposes of that model; for a\r\nspecial administration regime for licensees subject to that model; and about the\r\ncircumstances in which bodies corporate are not associated with site operators for the\r\npurposes of programmes relating to funding the decommissioning of nuclear sites.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1526,
+        "name": "Greg Hands",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1526/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1526/contact",
+        "memberFrom": "Chelsea and Fulham"
+      },
+      "organisation": {
+        "name": "Department for Business, Energy and Industrial Strategy",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4336,
+        "name": "Lord Callanan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4336/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business, Energy and Industrial Strategy",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3057,
+  "shortTitle": "Nuclear Energy (Financing) Act 2022",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-04-05T17:02:11.0553152",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 16381,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 13069,
+        "stageId": 11,
+        "billStageId": 16381,
+        "billId": 3057,
+        "date": "2022-03-31T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

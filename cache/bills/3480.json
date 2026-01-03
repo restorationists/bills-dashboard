@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision to require the sharing with parents and guardians of copies of materials used in relationships and sex education lessons in schools in England; to prohibit schools in England from using externally produced teaching resources for relationships and sex education that have not been published; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4865,
+        "name": "Miriam Cates",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4865/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4865/contact",
+        "memberFrom": "Penistone and Stocksbridge"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3480,
+  "shortTitle": "Relationships and Sex Education (Transparency) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T15:46:47.644859",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17811,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14766,
+        "stageId": 6,
+        "billStageId": 17811,
+        "billId": 3480,
+        "date": "2023-06-26T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

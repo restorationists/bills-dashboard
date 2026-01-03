@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision for the abolition of the Department of Energy and Climate Change and for its functions to be absorbed into the Department for Business, Innovation and Skills.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1581,
+        "name": "Mr Peter Bone",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1581/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1581/contact",
+        "memberFrom": "Wellingborough"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1450,
+  "shortTitle": "Department of Energy and Climate Change (Abolition) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-30T11:59:39",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14238,
+    "stageId": 7,
+    "sessionId": 27,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

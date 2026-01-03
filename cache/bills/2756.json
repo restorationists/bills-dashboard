@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require residential developers to meet minimum standards of provision for insulation, broadband connectivity and electric car charging points in new homes; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 249,
+        "name": "Sir Geoffrey Clifton-Brown",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/249/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/249/contact",
+        "memberFrom": "The Cotswolds"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2756,
+  "shortTitle": "New Homes (New Development Standards) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-05T14:55:49.434875",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12270,
+    "stageId": 7,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

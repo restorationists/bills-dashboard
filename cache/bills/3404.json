@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require providers of in vitro fertilisation to publish information annually about the number of NHS-funded IVF cycles they carry out and about their provision of certain additional treatments in connection with in vitro fertilisation; to require such providers to publish a report about their provision of NHS-funded IVF treatment in certain circumstances; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4849,
+        "name": "Alex Davies-Jones",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4849/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4849/contact",
+        "memberFrom": "Pontypridd"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3404,
+  "shortTitle": "Fertility Treatment (Transparency) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-01T13:18:02.325172",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17308,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14132,
+        "stageId": 6,
+        "billStageId": 17308,
+        "billId": 3404,
+        "date": "2023-01-18T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

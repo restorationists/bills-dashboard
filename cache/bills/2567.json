@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to prohibit the publication of certain information regarding persons who have been arrested until they have been charged with an offence; to set out the circumstances where such information can be published without committing an offence; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4288,
+        "name": "Lord Paddick",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4288/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4288/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2567,
+  "shortTitle": "Anonymity (Arrested Persons) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2021-05-05T11:08:30.4143436",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11691,
+    "stageId": 2,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

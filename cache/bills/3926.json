@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the provision of audio and tactile measures at polling stations for the purpose of enabling blind voters to vote independently and in secret; to require the Secretary of State to take steps to identify, develop and implement new accessible voting solutions for blind voters; to require the Secretary of State to undertake a review of the arrangements for postal voting in respect of accessibility for blind voters and to implement any recommendations of that review; and for connected purposes;",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5094,
+        "name": "Ms Julie Minns",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5094/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5094/contact",
+        "memberFrom": "Carlisle"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3926,
+  "shortTitle": "Elections (Accessibility for Blind Voters) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-25T13:43:03.2401124",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19484,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16638,
+        "stageId": 7,
+        "billStageId": 19484,
+        "billId": 3926,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

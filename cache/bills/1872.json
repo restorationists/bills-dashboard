@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about guidance to local authorities on when to take enforcement action for breaches of planning law; to clarify guidance on the scope of permitted development rights; to make provision about rights and entitlements, including of appeal, for people whose homes are affected by such breaches; to make provision for the inspection and regulation of building under the permitted development regime; to establish financial penalties for developers who breach planning law in certain circumstances; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 298,
+        "name": "Steve McCabe",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/298/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/298/contact",
+        "memberFrom": "Birmingham, Selly Oak"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1872,
+  "shortTitle": "Protection of Family Homes (Enforcement and Permitted Development) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-04-28T15:07:22",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9106,
+    "stageId": 7,
+    "sessionId": 29,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 8407,
+        "stageId": 7,
+        "billStageId": 9106,
+        "billId": 1872,
+        "date": "2016-11-25T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

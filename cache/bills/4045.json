@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for a register of iconic trees; to make provision about the designation and protection of trees on that register; to require the Secretary of State to review the provision of nature education in England; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5081,
+        "name": "Joe Morris",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5081/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5081/contact",
+        "memberFrom": "Hexham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4045,
+  "shortTitle": "Iconic Trees and Nature Education Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-02T12:27:06.846873",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20339,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17585,
+        "stageId": 7,
+        "billStageId": 20339,
+        "billId": 4045,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

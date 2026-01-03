@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about the judiciary and the functions of the staff of courts and tribunals",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4538,
+        "name": "Lord Keen of Elie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4538/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4538/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1529,
+        "name": "Mr David Gauke",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1529/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1529/contact",
+        "memberFrom": "South West Hertfordshire"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2252,
+  "shortTitle": "Courts and Tribunals (Judiciary and Functions of Staff) Act 2018",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2018-12-21T10:51:06",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 10881,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 9990,
+        "stageId": 11,
+        "billStageId": 10881,
+        "billId": 2252,
+        "date": "2018-12-20T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

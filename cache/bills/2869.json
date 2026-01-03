@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision for a public consultation to inform a set of national wellbeing goals; to require public bodies to act in pursuit of the United Kingdom’s environmental, social, economic and cultural wellbeing by meeting wellbeing objectives, publishing future generations impact assessments and accounting for preventative spending; to establish a futures and forecasting report; to establish a Commission for Future Generations for the United Kingdom; to extend the duty of the Office of Budget Responsibility to consider wellbeing and the future generations principle in their work; to add onto a Minister in each government department's portfolio a duty to promote the future generations principle across government policy; to establish a Joint Parliamentary Committee on Future Generations; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4564,
+        "name": "Lord Bird",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4564/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4564/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4744,
+        "name": "Simon Fell",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4744/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4744/contact",
+        "memberFrom": "Barrow and Furness"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2869,
+  "shortTitle": "Wellbeing of Future Generations Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-05-05T15:28:48.8846408",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16161,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12821,
+        "stageId": 7,
+        "billStageId": 16161,
+        "billId": 2869,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 6
+  }
+}

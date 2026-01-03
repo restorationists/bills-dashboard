@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about finance.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4031,
+        "name": "Rachel Reeves",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4031/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4031/contact",
+        "memberFrom": "Leeds West and Pudsey"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4559,
+        "name": "Lord Livermore",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4559/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4559/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3873,
+  "shortTitle": "Finance Act 2025",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-03-24T10:22:39.8544094",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 19781,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 16854,
+        "stageId": 11,
+        "billStageId": 19781,
+        "billId": 3873,
+        "date": "2025-03-20T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "longTitle": "Make provision in relation to policing and justice in Northern Ireland; and to amend section 86 of the Northern Ireland Act 1998",
+  "summary": "<p>This Bill is designed to assist with the devolution of policing and justice to Northern Ireland by making amendments to the Northern Ireland Act 1998. </p><p>Key areas</p><ul><li>Adds to the options for appointing the Policing and Justice Minister already set out in the Northern Ireland Act 1998 </li><li>Amends the Judicature (Northern Ireland) Act 1978 and the Justice (Northern Ireland) Act 2002 in respect of judicial appointments and removals.<br></li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 98,
+        "name": "Shaun Woodward",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/98/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/98/contact",
+        "memberFrom": "St. Helens South"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3703,
+        "name": "Baroness Royall of Blaisdon",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3703/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3703/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 447,
+  "shortTitle": "Northern Ireland Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-06-03T15:04:51",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 2295,
+    "stageId": 11,
+    "sessionId": 22,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2163,
+        "stageId": 11,
+        "billStageId": 2295,
+        "billId": 447,
+        "date": "2009-03-12T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

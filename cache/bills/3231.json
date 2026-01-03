@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision to increase the energy performance of buildings; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4591,
+        "name": "Sarah Olney",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4591/contact",
+        "memberFrom": "Richmond Park"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3231,
+  "shortTitle": "Minimum Energy Performance of Buildings Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T11:14:06.6726455",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16657,
+    "stageId": 7,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13367,
+        "stageId": 7,
+        "billStageId": 16657,
+        "billId": 3231,
+        "date": "2023-03-24T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

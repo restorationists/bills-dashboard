@@ -1,0 +1,66 @@
+{
+  "longTitle": "A Bill To Make provision for the regulation of Academies; about school and local education funding; about the attendance of children at school; about the regulation of independent educational institutions; about teacher misconduct; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4703,
+        "name": "Baroness Barran",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4703/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4703/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3156,
+  "shortTitle": "Schools Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-10-31T12:57:43.3720894",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16790,
+    "stageId": 4,
+    "sessionId": 37,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 13519,
+        "stageId": 4,
+        "billStageId": 16790,
+        "billId": 3156,
+        "date": "2022-07-12T00:00:00"
+      },
+      {
+        "id": 13520,
+        "stageId": 4,
+        "billStageId": 16790,
+        "billId": 3156,
+        "date": "2022-07-18T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

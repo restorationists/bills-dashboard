@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about paternity leave in cases where a mother, or a person with whom a child is placed or expected to be placed for adoption, dies.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4572,
+        "name": "Chris Elmore",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4572/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4572/contact",
+        "memberFrom": "Ogmore"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4508,
+        "name": "Baroness Anderson of Stoke-on-Trent",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4508/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4508/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3542,
+  "shortTitle": "Paternity Leave (Bereavement) Act 2024",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-01-17T17:16:25.9998625",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 18846,
+    "stageId": 11,
+    "sessionId": 38,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 15936,
+        "stageId": 11,
+        "billStageId": 18846,
+        "billId": 3542,
+        "date": "2024-05-24T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

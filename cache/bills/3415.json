@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to lay before Parliament proposals for the seizure of Russian state assets to provide support for Ukraine; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1446,
+        "name": "Chris Bryant",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1446/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1446/contact",
+        "memberFrom": "Rhondda"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3415,
+  "shortTitle": "Seizure of Russian State Assets and Support for Ukraine Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T16:40:28.459246",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17390,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14230,
+        "stageId": 6,
+        "billStageId": 17390,
+        "billId": 3415,
+        "date": "2023-02-07T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

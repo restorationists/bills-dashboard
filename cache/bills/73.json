@@ -1,0 +1,76 @@
+{
+  "longTitle": "Make provision about the provision of probation services, prisons and other matters relating to the management of offenders; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 617,
+        "name": "John Reid",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/617/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/617/contact",
+        "memberFrom": "Airdrie and Shotts"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2099,
+        "name": "Baroness Scotland of Asthal",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2099/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2099/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 73,
+  "shortTitle": "Offender Management Act 2007",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-10-27T15:01:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 362,
+    "stageId": 11,
+    "sessionId": 20,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 215,
+        "stageId": 11,
+        "billStageId": 362,
+        "billId": 73,
+        "date": "2007-07-26T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require Ministers of the Crown to disclose that they have been issued with a fixed penalty notice; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1442,
+        "name": "Mr Alistair Carmichael",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1442/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1442/contact",
+        "memberFrom": "Orkney and Shetland"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3106,
+  "shortTitle": "Ministerial Disclosure (Fixed Penalty Notices) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-04T15:10:15.9058412",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16130,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12790,
+        "stageId": 7,
+        "billStageId": 16130,
+        "billId": 3106,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to publish a ten-year cancer strategy for England; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5207,
+        "name": "Clive Jones",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5207/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5207/contact",
+        "memberFrom": "Wokingham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3804,
+  "shortTitle": "National Cancer Strategy Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-26T13:27:10.4289601",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19083,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16155,
+        "stageId": 7,
+        "billStageId": 19083,
+        "billId": 3804,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

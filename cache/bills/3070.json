@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require matters relating to climate change and sustainability to be integrated throughout the curriculum in primary and secondary schools and included in vocational training courses; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4869,
+        "name": "Nadia Whittome",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4869/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4869/contact",
+        "memberFrom": "Nottingham East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3070,
+  "shortTitle": "Climate Education Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-04-29T14:19:29.1197583",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15902,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12512,
+        "stageId": 7,
+        "billStageId": 15902,
+        "billId": 3070,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

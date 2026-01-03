@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to set up a register of overseas entities and their beneficial owners and require overseas entities who own land to register in certain circumstances.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4656,
+        "name": "Layla Moran",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4656/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4656/contact",
+        "memberFrom": "Oxford West and Abingdon"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3098,
+  "shortTitle": "Registration of Overseas Entities Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-03-11T10:17:52.9246919",
+  "billWithdrawn": "2022-03-10T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16063,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12703,
+        "stageId": 7,
+        "billStageId": 16063,
+        "billId": 3098,
+        "date": "2022-03-18T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

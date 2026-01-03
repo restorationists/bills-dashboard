@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to extend eligibility for free school meals to all children in state primary schools; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4786,
+        "name": "Zarah Sultana",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4786/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4786/contact",
+        "memberFrom": "Coventry South"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3393,
+  "shortTitle": "Free School Meals (Primary Schools) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-01T14:50:05.2776037",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17247,
+    "stageId": 7,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14054,
+        "stageId": 7,
+        "billStageId": 17247,
+        "billId": 3393,
+        "date": "2023-09-15T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

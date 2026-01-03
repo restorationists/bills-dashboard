@@ -1,0 +1,48 @@
+{
+  "longTitle": null,
+  "summary": "A Bill to make provision about controls on the transportation of nuclear weapons.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4482,
+        "name": "Owen Thompson",
+        "party": "Scottish National Party",
+        "partyColour": "fff685",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4482/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4482/contact",
+        "memberFrom": "Midlothian"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1736,
+  "shortTitle": "Transport of Nuclear Weapons Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-05-13T12:20:10",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14508,
+    "stageId": 7,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

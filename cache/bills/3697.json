@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require providers of electronic communications networks to allow their customers to access certain public sector websites free of charge; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4943,
+        "name": "Simon Lightwood",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4943/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4943/contact",
+        "memberFrom": "Wakefield"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3697,
+  "shortTitle": "Public Sector Websites (Data Charges) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-02-12T16:41:33.3850952",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19649,
+    "stageId": 7,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

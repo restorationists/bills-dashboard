@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the maintenance of registers by local authorities of children in their area who are not full-time pupils at any school; to make provision about support by local authorities to promote the education of such children; to make provision about school attendance orders; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4803,
+        "name": "Paul Holmes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4803/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4803/contact",
+        "memberFrom": "Hamble Valley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3812,
+  "shortTitle": "Children Not in School (Registers, Support and Orders) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-03-24T12:52:36.2762598",
+  "billWithdrawn": "2025-03-24T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19099,
+    "stageId": 6,
+    "sessionId": 39,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16171,
+        "stageId": 6,
+        "billStageId": 19099,
+        "billId": 3812,
+        "date": "2024-10-21T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

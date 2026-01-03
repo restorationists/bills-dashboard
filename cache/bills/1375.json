@@ -1,0 +1,59 @@
+{
+  "longTitle": "A Bill to make provision for and in connection with the making of payments to persons towards the costs of childcare; and to restrict the availability of an exemption from income tax in respect of the provision for an employee of childcare, or vouchers for obtaining childcare, under a scheme operated by or on behalf of the employer.",
+  "summary": "<p>The Bill introduces a new tax-free childcare scheme to support eligible parents with childcare costs. </p><p><strong>Key areas</strong></p><ul><li>the Government would provide 20 per cent support on costs up to &pound;10,000 per year for each child via an online account </li><li>the Government would top up any payments made into the account, capped at a maximum Government contribution of &pound;2,000 a year for each child.</li></ul><p>The Bill extends to the United Kingdom. In relation to Northern Ireland, the Bill requires a Legislative Consent Motion of the Northern Ireland Assembly</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1458,
+        "name": "Mr George Osborne",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1458/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1458/contact",
+        "memberFrom": "Tatton"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1375,
+  "shortTitle": "Childcare Payments Act 2014",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-10T12:51:53",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7407,
+    "stageId": 11,
+    "sessionId": 27,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 6876,
+        "stageId": 11,
+        "billStageId": 7407,
+        "billId": 1375,
+        "date": "2014-12-17T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

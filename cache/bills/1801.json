@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to create a right to die at home.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1732,
+        "name": "Lord Warner",
+        "party": "Non-affiliated",
+        "partyColour": null,
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1732/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1732/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1801,
+  "shortTitle": "Right to Die at Home Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2017-05-02T14:23:10",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14569,
+    "stageId": 2,
+    "sessionId": 29,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

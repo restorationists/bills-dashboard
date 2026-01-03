@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision requiring landlords exercising a right of forfeiture or re-entry in relation to a property subject to a long lease to account to the tenant for the tenant’s equity in that property and to hold the tenant’s equity on trust; to restrict the landlord’s right to legal and administrative costs; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 57,
+        "name": "Lord Young of Cookham",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/57/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/57/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3387,
+  "shortTitle": "Leasehold Reform (Forfeiture) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-10-31T14:28:14.9013876",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17206,
+    "stageId": 1,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 14017,
+        "stageId": 1,
+        "billStageId": 17206,
+        "billId": 3387,
+        "date": "2022-12-01T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require that any birth, death or marriage certificate issued in Wales be issued bilingually in English and Welsh; to make provision for the issuance in England of birth certificates bilingually in English and Welsh where either parent named on the certificate is a Welsh speaker; to make provision for the issuance in England of death certificates bilingually in English and Welsh where the deceased person lived in Wales or was a Welsh speaker; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5175,
+        "name": "Mr Alex Barros-Curtis",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5175/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5175/contact",
+        "memberFrom": "Cardiff West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4025,
+  "shortTitle": "Registration of Births, Deaths and Marriages (Welsh Language Provision) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-28T11:46:15.7254903",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20229,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17424,
+        "stageId": 7,
+        "billStageId": 20229,
+        "billId": 4025,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

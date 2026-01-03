@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to enable adults who are terminally ill to be provided at their request with specified assistance to end their own life; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3810,
+        "name": "Baroness Meacher",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3810/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3810/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2875,
+  "shortTitle": "Assisted Dying Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-04-28T14:59:37.6130629",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15289,
+    "stageId": 2,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 12291,
+        "stageId": 2,
+        "billStageId": 15289,
+        "billId": 2875,
+        "date": "2021-10-22T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "longTitle": "A Bill to Make in relation to marriage and civil partnership in England and Wales provision about divorce, dissolution and separation; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1529,
+        "name": "Mr David Gauke",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1529/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1529/contact",
+        "memberFrom": "South West Hertfordshire"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2423,
+  "shortTitle": "Divorce, Dissolution and Separation Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-09-24T11:04:03",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11390,
+    "stageId": 9,
+    "sessionId": 30,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 6
+  }
+}

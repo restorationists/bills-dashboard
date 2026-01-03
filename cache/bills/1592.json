@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about free childcare for young children of working parents and about the publication of information about childcare and related matters by local authorities in England",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4270,
+        "name": "Lord Nash",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4270/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4270/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4027,
+        "name": "Nicky Morgan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4027/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4027/contact",
+        "memberFrom": "Loughborough"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1592,
+  "shortTitle": "Childcare Act 2016",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2016-08-15T15:45:29",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 8506,
+    "stageId": 11,
+    "sessionId": 28,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7888,
+        "stageId": 11,
+        "billStageId": 8506,
+        "billId": 1592,
+        "date": "2016-03-16T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

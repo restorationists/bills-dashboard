@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en-GB" class="h-full">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>Current UK Parliamentary Bills — Dashboard, Topics, Fast Browse from The Restorationist&trade;</title>
+    <meta
+      name="description"
+      content="A fast, topic-grouped dashboard for UK Parliamentary Bills with charts, sponsors, stages, and quick external links — built for speed and readability."
+    />
+    <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" />
+
+    <!-- Canonical (set to your real domain in production) -->
+    <link rel="canonical" href="https://bills.restorationist.org.uk/" />
+
+    <!-- Theme -->
+    <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#070A12" media="(prefers-color-scheme: dark)" />
+
+    <!-- Favicons (place these files in /public) -->
+    <link rel="icon" id="site-favicon" href="/assets/favicon-Dzif_xcw.png" type="image/png" />
+    <link rel="icon" type="image/png" href="/assets/favicon-96x96-BAoNWVSm.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon-fQhnOF6j.svg" />
+    <link rel="apple-touch-icon" href="/assets/apple-touch-icon-B6dhw3iz.png" sizes="180x180" />
+    <link rel="manifest" href="/assets/site-DGWt2i2_.webmanifest" />
+    <link rel="icon" href="/assets/favicon-Dsvl0W4i.ico" sizes="any" />
+
+    <!-- Open Graph -->
+    <meta property="og:site_name" content="The Restorationist" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="UK Parliamentary Bills — Dashboard, Topics, Fast Browse" />
+    <meta
+      property="og:description"
+      content="A fast, topic-grouped dashboard for UK Parliamentary Bills with charts, sponsors, stages, and quick external links."
+    />
+    <meta property="og:url" content="https://bills.restorationist.org.uk/" />
+    <meta property="og:image" content="/share.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="UK Parliamentary Bills dashboard preview" />
+    <meta property="og:locale" content="en_GB" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="UK Parliamentary Bills — Dashboard, Topics, Fast Browse" />
+    <meta
+      name="twitter:description"
+      content="A fast, topic-grouped dashboard for UK Parliamentary Bills with charts, sponsors, stages, and quick external links."
+    />
+    <meta name="twitter:image" content="/share.png" />
+
+    <!-- Merriweather -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Iconify -->
+    <script src="https://code.iconify.design/3/3.1.1/iconify.min.js"></script>
+
+    <!-- Structured data -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "UK Parliamentary Bills",
+        "applicationCategory": "GovernmentApplication",
+        "operatingSystem": "Any",
+        "description": "A fast, topic-grouped dashboard for UK Parliamentary Bills with charts, sponsors, stages, and quick external links.",
+        "inLanguage": "en-GB",
+        "publisher": { "@type": "Organization", "name": "The Restorationist" }
+      }
+    </script>
+
+    <!-- Dark/Light favicon swap (works with prefers-color-scheme AND your manual 'dark' class) -->
+    <script>
+      (function () {
+        const fav = () => document.getElementById("site-favicon");
+        const prefers_dark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+        const html_dark = document.documentElement.classList.contains("dark");
+        const is_dark = html_dark || prefers_dark;
+
+        const el = fav();
+        if (el) el.href = is_dark ? "/favicon-dark.png" : "/favicon-light.png";
+
+        // React to OS theme changes
+        if (window.matchMedia) {
+          const mq = window.matchMedia("(prefers-color-scheme: dark)");
+          const on_change = () => {
+            const html_is_dark = document.documentElement.classList.contains("dark");
+            const now_dark = html_is_dark || mq.matches;
+            const f = fav();
+            if (f) f.href = now_dark ? "/favicon-dark.png" : "/favicon-light.png";
+          };
+          if (mq.addEventListener) mq.addEventListener("change", on_change);
+          else if (mq.addListener) mq.addListener(on_change);
+        }
+
+        // React to manual toggles that add/remove the 'dark' class
+        const obs = new MutationObserver(() => {
+          const mq = window.matchMedia("(prefers-color-scheme: dark)");
+          const html_is_dark = document.documentElement.classList.contains("dark");
+          const now_dark = html_is_dark || (mq && mq.matches);
+          const f = fav();
+          if (f) f.href = now_dark ? "/favicon-dark.png" : "/favicon-light.png";
+        });
+        obs.observe(document.documentElement, { attributes: true, attributeFilter: ["class"] });
+      })();
+    </script>
+    <script type="module" crossorigin src="/assets/index-ClV5BlTB.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-owWObZsT.css">
+  </head>
+
+  <body class="h-full bg-white text-neutral-900 antialiased dark:bg-[#070A12] dark:text-neutral-100">
+    <div id="app" class="h-full"></div>
+  </body>
+</html>

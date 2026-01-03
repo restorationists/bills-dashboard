@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the succession of female heirs to hereditary titles; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4107,
+        "name": "Harriett Baldwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4107/contact",
+        "memberFrom": "West Worcestershire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3561,
+  "shortTitle": "Hereditary Titles (Female Succession) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-06-03T12:24:41.333364",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18176,
+    "stageId": 7,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15162,
+        "stageId": 7,
+        "billStageId": 18176,
+        "billId": 3561,
+        "date": "2024-02-23T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

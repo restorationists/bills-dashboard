@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the designation of rivers, streams and lakes as having protected status; to specify criteria for minimum standards that a site must meet where it has been designated as a river, stream or lake with protected status; to set minimum standards of water quality, safety, environmental management and provision of information in relation to such sites; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5201,
+        "name": "Victoria Collins",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5201/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5201/contact",
+        "memberFrom": "Harpenden and Berkhamsted"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3906,
+  "shortTitle": "Rivers, Streams and Lakes (Protected Status) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-26T12:56:19.5047336",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19376,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16483,
+        "stageId": 7,
+        "billStageId": 19376,
+        "billId": 3906,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

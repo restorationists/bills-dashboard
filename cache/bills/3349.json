@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Working Time Regulations 1998 to reduce the maximum working week from 48 hours per week to 32 hours per week and to provide for overtime pay; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4397,
+        "name": "Peter Dowd",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4397/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4397/contact",
+        "memberFrom": "Bootle"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3349,
+  "shortTitle": "Working Time Regulations (Amendment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-03T09:50:33.1306583",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17007,
+    "stageId": 7,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13787,
+        "stageId": 7,
+        "billStageId": 17007,
+        "billId": 3349,
+        "date": "2023-10-20T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

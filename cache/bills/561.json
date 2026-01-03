@@ -1,0 +1,56 @@
+{
+  "longTitle": "To introduce a Bill to make provision in respect of transport for patients attending National Health Service hospitals and health care facilities.",
+  "summary": "The purpose of the Patient Transport Bill is to ensure the provision of patient transport services is co-ordinated between primary care trusts, hospital trusts and local transport authorities.  <br><br>Through such co-ordination, the Bill aims to provide for more effective, user-focused transport services, and to prevent problems such as patients missing appointments from a lack of available transport.<br><br><strong>Key areas</strong><br><br><ul><li>The Bill would place a duty on primary care trusts, hospital trusts and local transport authorities to co-ordinate the provision of patient transport services.</li></ul><ul><li>In fulfilling this duty, primary care trusts, hospital trusts and local transport authorities would have to have regard to efficiency and economy.</li></ul><ul><li>Primary care trusts, hospital trusts and local transport authorities would have to specify in their annual reports how they had fulfilled these obligations.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2518,
+        "name": "Baroness Greengross",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2518/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2518/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 561,
+  "shortTitle": "Patient Transport Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2010-04-08T19:03:28",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2881,
+    "stageId": 2,
+    "sessionId": 23,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 2767,
+        "stageId": 2,
+        "billStageId": 2881,
+        "billId": 561,
+        "date": "2010-02-05T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

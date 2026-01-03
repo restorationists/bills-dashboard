@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend section 62 of the Coroners and Justice Act 2009 to apply additionally to the possession of prohibited written material about children; to make consequential amendments to the Act; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 103,
+        "name": "Sir Paul Beresford",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/103/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/103/contact",
+        "memberFrom": "Mole Valley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1083,
+  "shortTitle": "Coroners and Justice (Amendment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-04-26T10:04:04",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 5234,
+    "stageId": 7,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 4968,
+        "stageId": 7,
+        "billStageId": 5234,
+        "billId": 1083,
+        "date": "2012-10-19T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

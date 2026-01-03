@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the penalties for driving without insurance; to require the Secretary of State to prepare and publish a report containing an assessment of the effectiveness of existing methods of enforcing the law on driving without insurance; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5165,
+        "name": "Peter Swallow",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5165/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5165/contact",
+        "memberFrom": "Bracknell"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4039,
+  "shortTitle": "Driving Without Insurance (Penalties and Enforcement) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-20T10:17:16.5844482",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20313,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17544,
+        "stageId": 7,
+        "billStageId": 20313,
+        "billId": 4039,
+        "date": "2026-05-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to publish proposals for measures to address gender inequality in football.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5265,
+        "name": "James MacCleary",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5265/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5265/contact",
+        "memberFrom": "Lewes"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3833,
+  "shortTitle": "Football (Gender Inequality) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-10-16T12:12:23.945827",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19151,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16233,
+        "stageId": 7,
+        "billStageId": 19151,
+        "billId": 3833,
+        "date": "2026-05-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

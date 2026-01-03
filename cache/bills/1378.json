@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill To make provision about service complaints; about financial assistance for the armed forces community; and for connected purposes.",
+  "summary": "The Bill would improve and strengthen the Service Complaints system by transforming the existing Service Complaints Commissioner into a new Service Complaints Ombudsman. It also contains provisions relating to financial assistance for the armed forces community.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3428,
+        "name": "Lord Astor of Hever",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3428/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3428/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "Ministry of Defence",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-defence"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 88,
+        "name": "Michael Fallon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/88/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/88/contact",
+        "memberFrom": "Sevenoaks"
+      },
+      "organisation": {
+        "name": "Ministry of Defence",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-defence"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1378,
+  "shortTitle": "Armed Forces (Service Complaints and Financial Assistance) Act 2015",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2015-03-27T11:02:02",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7706,
+    "stageId": 11,
+    "sessionId": 27,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7168,
+        "stageId": 11,
+        "billStageId": 7706,
+        "billId": 1378,
+        "date": "2015-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

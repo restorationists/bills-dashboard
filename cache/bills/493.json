@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to provide for the suspension or restriction of programming of Bills when the House of Commons is scheduled to meet for fewer than a prescribed number of days in any specified period; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 68,
+        "name": "Mr Peter Lilley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/68/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/68/contact",
+        "memberFrom": "Hitchin and Harpenden"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 493,
+  "shortTitle": "Programming of Bills (Suspension) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-09-08T15:51:34",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13360,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

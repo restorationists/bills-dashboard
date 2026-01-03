@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about looked-after children; to make other provision in relation to the welfare of children; and to make provision about the regulation of social workers.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4270,
+        "name": "Lord Nash",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4270/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4270/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1555,
+        "name": "Justine Greening",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1555/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1555/contact",
+        "memberFrom": "Putney"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1774,
+  "shortTitle": "Children and Social Work Act 2017",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2017-07-28T12:22:31",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 9530,
+    "stageId": 11,
+    "sessionId": 29,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 8771,
+        "stageId": 11,
+        "billStageId": 9530,
+        "billId": 1774,
+        "date": "2017-04-27T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

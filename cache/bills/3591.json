@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require landlords in the private rented sector to remedy hazards in leased dwellings; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4788,
+        "name": "Fleur Anderson",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4788/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4788/contact",
+        "memberFrom": "Putney"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3591,
+  "shortTitle": "Landlord and Tenant Act 1985 (Amendment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-02-12T16:17:31.3134427",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19621,
+    "stageId": 7,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

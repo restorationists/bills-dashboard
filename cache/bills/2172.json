@@ -1,0 +1,68 @@
+{
+  "longTitle": "Make provision about the implementation of international trade agreements; to make provision establishing the Trade Remedies Authority and conferring functions on it; and to make provision about the collection and disclosure of information relating to trade.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 223,
+        "name": "Dr Liam Fox",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/223/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/223/contact",
+        "memberFrom": "North Somerset"
+      },
+      "organisation": {
+        "name": "Department for International Trade",
+        "url": "https://www.gov.uk/government/organisations/department-for-international-trade"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4690,
+        "name": "Baroness Fairhead",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4690/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4690/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for International Trade",
+        "url": "https://www.gov.uk/government/organisations/department-for-international-trade"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2172,
+  "shortTitle": "Trade Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-09-26T17:44:38",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11396,
+    "stageId": 12,
+    "sessionId": 30,
+    "description": "Consideration of Lords amendments",
+    "abbreviation": "COLA",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 13
+  }
+}

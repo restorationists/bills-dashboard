@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to establish an independent Office of the Whistleblower to protect whistleblowers and whistleblowing; to make provision for the Office of the Whistleblower to set, monitor and enforce standards for the management of whistleblowing cases, to provide disclosure and advice services, to direct whistleblowing investigations and to order redress of detriment suffered by whistleblowers; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4595,
+        "name": "Gareth Snell",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4595/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4595/contact",
+        "memberFrom": "Stoke-on-Trent Central"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3914,
+  "shortTitle": "Office of the Whistleblower Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-07-04T11:59:42.3481238",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19413,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16528,
+        "stageId": 7,
+        "billStageId": 19413,
+        "billId": 3914,
+        "date": "2026-05-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

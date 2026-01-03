@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Road Traffic Act 1988 to lower the prescribed limit of alcohol in relation to driving or being in charge of a vehicle",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3335,
+        "name": "Lord Brooke of Alverthorpe",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3335/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3335/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3090,
+  "shortTitle": "Road Traffic Act 1988 (Alcohol Limits) (Amendment) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-04-28T15:15:24.0357409",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16004,
+    "stageId": 1,
+    "sessionId": 36,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 12637,
+        "stageId": 1,
+        "billStageId": 16004,
+        "billId": 3090,
+        "date": "2022-01-06T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

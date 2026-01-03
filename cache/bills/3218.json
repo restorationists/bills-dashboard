@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide for a category of protection for chalk streams for the purpose of providing additional protections from pollution, abstraction and other forms of environmental damage; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4918,
+        "name": "Sarah Green",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4918/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4918/contact",
+        "memberFrom": "Chesham and Amersham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3218,
+  "shortTitle": "Chalk Streams (Protection) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-31T12:40:03.9457385",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16629,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13335,
+        "stageId": 6,
+        "billStageId": 16629,
+        "billId": 3218,
+        "date": "2022-06-20T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to provide for a maximum limit on the number of Peers entitled to vote in the House of Lords; and to provide for a moratorium on new appointments.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 242,
+        "name": "Mr Christopher Chope",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/242/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/242/contact",
+        "memberFrom": "Christchurch"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1455,
+  "shortTitle": "House of Lords (Maximum Membership) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-30T14:09:48",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14243,
+    "stageId": 7,
+    "sessionId": 27,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

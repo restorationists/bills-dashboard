@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision regarding arrangements for children involved in court cases; to make provision about the transparency, administration and accountability of courts and case conferences; to require the promotion of measures to assist families and such other persons as may be specified to reduce the cost of living through lower fuel bills; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1483,
+        "name": "John Hemming",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1483/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1483/contact",
+        "memberFrom": "Birmingham, Yardley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1029,
+  "shortTitle": "Family Justice (Transparency, Accountability and Cost of Living) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-10-29T13:22:34",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 5069,
+    "stageId": 7,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 4824,
+        "stageId": 7,
+        "billStageId": 5069,
+        "billId": 1029,
+        "date": "2012-10-26T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

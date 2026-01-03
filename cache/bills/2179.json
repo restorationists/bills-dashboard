@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to impose certain duties upon Her Majesty’s Government to ensure the accuracy, completeness and utility of electoral registers; to make provision for the sharing of data for the purposes of electoral registration; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4425,
+        "name": "Jo Stevens",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4425/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4425/contact",
+        "memberFrom": "Cardiff Central"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2179,
+  "shortTitle": "Automatic Electoral Registration (No. 2) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-09-17T16:35:43",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14920,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

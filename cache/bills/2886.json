@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to bring into force the remaining sections of Part 3 of the Digital Economy Act 2017",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3795,
+        "name": "Lord Morrow",
+        "party": "Democratic Unionist Party",
+        "partyColour": "d46a4c",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3795/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3795/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2886,
+  "shortTitle": "Digital Economy Act 2017 (Commencement of Part 3) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-04-28T15:19:20.7947905",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15326,
+    "stageId": 2,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 12733,
+        "stageId": 2,
+        "billStageId": 15326,
+        "billId": 2886,
+        "date": "2022-01-28T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

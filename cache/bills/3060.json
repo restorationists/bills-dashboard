@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to grant certain duties, to alter other duties, and to amend the law relating to the\r\nnational debt and the public revenue, and to make further provision in connection\r\nwith finance.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4483,
+        "name": "Rishi Sunak",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4483/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4483/contact",
+        "memberFrom": "Richmond (Yorks)"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4726,
+        "name": "Baroness Penn",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4726/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4726/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3060,
+  "shortTitle": "Finance Act 2022",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-04-10T11:48:38.1729554",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 16183,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 12841,
+        "stageId": 11,
+        "billStageId": 16183,
+        "billId": 3060,
+        "date": "2022-02-24T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

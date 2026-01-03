@@ -1,0 +1,48 @@
+{
+  "longTitle": null,
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 369,
+        "name": "Mr Ian Cawsey",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/369/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/369/contact",
+        "memberFrom": "Brigg and Goole"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 174,
+  "shortTitle": "Grandparents (Rights of Access) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-11-02T00:00:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13086,
+    "stageId": 7,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

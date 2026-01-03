@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to amend certain provisions of the Richmond Burgage Pastures Act 1853.",
+  "summary": null,
+  "sponsors": [],
+  "promoters": [],
+  "petitioningPeriod": "House of Lords: 23 January 2017 to 5pm on 6 February 2017 \r\nHouse of Commons: TBA",
+  "petitionInformation": "<p>If you are &quot;specially and directly affected&quot; by this Bill you may oppose the Bill or seek its amendment before a Select Committee in either or both Houses.  If you present a &quot;petition&quot; against the bill at the appropriate times (during a &quot;petitioning period&quot;) you may be able to have your views on the bill heard by the Committee (in whichever House you petition). </p><p>There are specific times when petitions can be presented. The petitioning period in the House of Lords ended on 6 February 2017 (no petitions were deposited against the Bill).  There will be a further, short petitioning period in the House of Commons if the Bill successfully passes through the House of Lords.  The dates will be posted here when known.</p><p><a>Further information about petitioning</a> can be found by following the link or you can <a>contact</a> one of the Private Bill Offices.  Staff in either office will be happy to answer any questions you may have about the process of opposing a private bill.  </p>",
+  "agent": {
+    "name": "Sharpe Pritchard LLP",
+    "address": "Elm Yard, 13-16 Elm Street, London WC1X 0BJ",
+    "phoneNo": "020 7405 4600",
+    "email": "alewis@sharpepritchard.co.uk",
+    "website": ""
+  },
+  "billId": 1929,
+  "shortTitle": "Richmond Burgage Pastures Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-10-08T10:14:14",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 6,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29,
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9764,
+    "stageId": 3,
+    "sessionId": 30,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 8975,
+        "stageId": 3,
+        "billStageId": 9764,
+        "billId": 1929,
+        "date": "2017-09-13T15:45:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

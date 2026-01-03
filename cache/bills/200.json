@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to establish the Infrastructure Planning Commission and make provision about its functions; to make provision about, and about matters ancillary to, the authorisation of projects for the development of nationally significant infrastructure; to make provision about town and country planning; to make provision about the imposition of a Community Infrastructure Levy; and for connected purposes.",
+  "summary": "<p><strong>Planning Bill</strong></p><p>The Bill introduces a new system for approving major infrastructure of national importance, such as harbours and waste facilities, and replaces current regimes under several pieces of legislation. The objective is to streamline these decisions and avoid long public inquiries.</p><p><strong>Key areas</strong></p><ul><li>Decisions would be taken by a new Infrastructure Planning Commission </li><li>Decisions would be based on new national policy statements </li><li>The hearing and decision-making process by the Commission would be timetabled</li><li>The new regime would be used for energy developments like nuclear power </li><li>The Secretary of State would no longer have the final say on major infrastructure decisions</li><li>There would be a new Community Infrastructure Levy on developments to finance infrastructure. The idea of this would be to raise money from developers to pay for facilities needed as a consequence of new developments, such as schools, hospitals and sewage plants.</li><li>Planning appeals for minor developments would be heard by a panel of local councillors rather than by a planning inspector.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 456,
+        "name": "Hazel Blears",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/456/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/456/contact",
+        "memberFrom": "Salford"
+      },
+      "organisation": {
+        "name": "Department for Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2534,
+        "name": "Baroness Andrews",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2534/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2534/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 200,
+  "shortTitle": "Planning Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-02-23T12:45:46",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1932,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1807,
+        "stageId": 11,
+        "billStageId": 1932,
+        "billId": 200,
+        "date": "2008-11-26T00:00:00"
+      }
+    ],
+    "sortOrder": 18
+  }
+}

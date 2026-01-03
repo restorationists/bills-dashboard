@@ -1,0 +1,80 @@
+{
+  "longTitle": "A Bill to make provision about automated vehicles, electric vehicles, vehicle testing and civil aviation; to create an offence of shining or directing a laser at a vehicle; and to make provision about fees for courses offered as an alternative to prosecution for road traffic offences.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1413,
+        "name": "Chris Grayling",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1413/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1413/contact",
+        "memberFrom": "Epsom and Ewell"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1960,
+  "shortTitle": "Vehicle Technology and Aviation Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-17T10:49:41.213481",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9398,
+    "stageId": 8,
+    "sessionId": 29,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 8728,
+        "stageId": 8,
+        "billStageId": 9398,
+        "billId": 1960,
+        "date": "2017-03-14T00:00:00"
+      },
+      {
+        "id": 8729,
+        "stageId": 8,
+        "billStageId": 9398,
+        "billId": 1960,
+        "date": "2017-03-16T00:00:00"
+      },
+      {
+        "id": 8730,
+        "stageId": 8,
+        "billStageId": 9398,
+        "billId": 1960,
+        "date": "2017-03-21T00:00:00"
+      },
+      {
+        "id": 8731,
+        "stageId": 8,
+        "billStageId": 9398,
+        "billId": 1960,
+        "date": "2017-03-23T00:00:00"
+      }
+    ],
+    "sortOrder": 6
+  }
+}

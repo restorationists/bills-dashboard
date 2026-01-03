@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about education and training; and for connected purposes.",
+  "summary": "<p>The Bill introduces a requirement to remain in education or training beyond the current statutory leaving age, and implements the recommendations of the Leitch Review on adult skills.<br><br>The Bill contains measures to encourage more young people to participate in learning post-16 and to achieve higher levels of skill and qualification. The Government proposals go beyond the current aspiration so that by 2013, all 17 year olds, and by 2015, all 18 year olds, are participating in some form of education or training. </p><p><strong>Key areas</strong></p><ul><li>Raises the age young people stay in education or training, with a duty on young people to participate and on parents to assist their children to participate</li><li>Sets out duties on employers to release young people for the equivalent of one day a week to undertake training elsewhere (where the employer does not provide their own training) </li><li>Introduces a duty on local authorities to ensure that young people participate and to provide the support service currently known as Connexions</li><li>Requires local authorities to assess the education and training needs of young people aged 16-19 with special educational needs</li><li>Requires the Learning and Skills Council to secure the proper provision of courses for learners over the age of 19.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1549,
+        "name": "Ed Balls",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1549/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1549/contact",
+        "memberFrom": "Normanton"
+      },
+      "organisation": {
+        "name": "Department for Children, Schools and Families",
+        "url": "http://www.dcsf.gov.uk"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3743,
+        "name": "Lord Adonis",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3743/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3743/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Children, Schools and Families",
+        "url": "http://www.dcsf.gov.uk"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 202,
+  "shortTitle": "Education and Skills Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-02-25T12:05:19",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1929,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1811,
+        "stageId": 11,
+        "billStageId": 1929,
+        "billId": 202,
+        "date": "2008-11-26T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

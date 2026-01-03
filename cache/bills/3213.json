@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for an offence in relation to the sending of flashing images; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4771,
+        "name": "Tom Hunt",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4771/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4771/contact",
+        "memberFrom": "Ipswich"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3213,
+  "shortTitle": "Flashing Images Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-01-11T13:01:20.2890924",
+  "billWithdrawn": "2023-01-10T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16619,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13325,
+        "stageId": 6,
+        "billStageId": 16619,
+        "billId": 3213,
+        "date": "2022-06-20T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

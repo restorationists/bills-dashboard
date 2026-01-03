@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for co-funding and for the extension of co-payment for NHS services in England; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 242,
+        "name": "Sir Christopher Chope",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/242/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/242/contact",
+        "memberFrom": "Christchurch"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3869,
+  "shortTitle": "National Health Service Co-Funding and Co-Payment Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-07-07T17:10:52.2087986",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19223,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16305,
+        "stageId": 7,
+        "billStageId": 19223,
+        "billId": 3869,
+        "date": "2026-04-17T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

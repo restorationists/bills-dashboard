@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for a certificate to be issued to mothers in respect of miscarried and still-born children not eligible for registration under the Births and Deaths Registration Act 1953; to establish a database for archiving the certificate and recording information about the miscarriage or still-birth; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4167,
+        "name": "Baroness Benjamin",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4167/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4167/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3316,
+  "shortTitle": "Certificate of Loss Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-10-31T14:36:18.8137589",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16857,
+    "stageId": 1,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 13585,
+        "stageId": 1,
+        "billStageId": 16857,
+        "billId": 3316,
+        "date": "2022-07-08T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

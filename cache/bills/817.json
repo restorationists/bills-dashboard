@@ -1,0 +1,76 @@
+{
+  "longTitle": "To establish and make provision about a National Health Service Commissioning Board and commissioning consortia and to make other provision about the National Health Service in England; to make provision about public health in the United Kingdom; to make provision about regulating health and adult social care services; to make provision about publicinvolvement in health and social care matters, scrutiny of health matters by local authorities and co-operation between local authorities and commissioners of health care services; to make provision about regulating health and social care workers; to establish and make provision about a National Institute for Health and Care Excellence; to establish and make provision about a Health and Social Care Information Centre and to make other provision about information relating to health or social care matters; to abolish certain public bodies involved in health or social care; to make other provision about health care; and for connected purposes.",
+  "summary": "<p>The Bill proposes to create an independent NHS Board, promote patient choice, and to reduce NHS administration costs.</p><p><strong>Key areas</strong></p><ul><li>establishes an independent NHS Board to allocate resources and provide commissioning guidance</li><li>increases GPs&rsquo; powers to commission services on behalf of their patients</li><li>strengthens the role of the Care Quality Commission</li><li>develops Monitor, the body that currently regulates NHS foundation trusts, into an economic regulator to oversee aspects of access and competition in the NHS</li><li>cuts the number of health bodies to help meet the Government's commitment to cut NHS administration costs by a third, including abolishing Primary Care Trusts and Strategic Health Authorities. </li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 123,
+        "name": "Mr Andrew Lansley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/123/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/123/contact",
+        "memberFrom": "South Cambridgeshire"
+      },
+      "organisation": {
+        "name": "Department of Health",
+        "url": "http://www.dh.gov.uk"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2000,
+        "name": "Earl Howe",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2000/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2000/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "Department of Health",
+        "url": "http://www.dh.gov.uk"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 817,
+  "shortTitle": "Health and Social Care Act 2012",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-03-30T10:52:46",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4860,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4609,
+        "stageId": 11,
+        "billStageId": 4860,
+        "billId": 817,
+        "date": "2012-03-27T00:00:00"
+      }
+    ],
+    "sortOrder": 17
+  }
+}

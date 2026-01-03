@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to enable the recall of Members of the House of Commons who voluntarily change their political party affiliation; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4762,
+        "name": "Anthony Mangnall",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4762/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4762/contact",
+        "memberFrom": "Totnes"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2773,
+  "shortTitle": "Recall of MPs (Change of Party Affiliation) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-05T16:43:11.8577544",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12372,
+    "stageId": 7,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

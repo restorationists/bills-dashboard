@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the provision of Emergency First Aid (EFA) education by all state-funded secondary schools; to require that EFA education include cardiopulmonary resuscitation and defibrillator awareness; to provide for initial and continuing teacher education and guidance on best practice for delivering and inspecting EFA education; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4003,
+        "name": "Teresa Pearce",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4003/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4003/contact",
+        "memberFrom": "Erith and Thamesmead"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1636,
+  "shortTitle": "Compulsory Emergency First Aid Education (State-funded Secondary Schools) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-05-12T15:53:15",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 7845,
+    "stageId": 7,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 7334,
+        "stageId": 7,
+        "billStageId": 7845,
+        "billId": 1636,
+        "date": "2015-11-20T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

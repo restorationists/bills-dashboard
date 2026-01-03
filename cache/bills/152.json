@@ -1,0 +1,56 @@
+{
+  "longTitle": "Make provision about post-16 education and training; to amend the law relating to the definition of compulsory school age; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 411,
+        "name": "Mr Barry Sheerman",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/411/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/411/contact",
+        "memberFrom": "Huddersfield"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 152,
+  "shortTitle": "Post-16 Education and Training Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-11-01T09:46:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 755,
+    "stageId": 7,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 592,
+        "stageId": 7,
+        "billStageId": 755,
+        "billId": 152,
+        "date": "2007-05-18T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

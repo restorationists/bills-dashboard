@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision approving for the purposes of section 8 of the European Union Act 2011 certain draft decisions under Article 352 of the Treaty on the functioning of the European Union; and to make provision approving for the purposes of section 7(3) of that Act a draft decision under Article 17(5) of the Treaty on European Union about the number of members of the European Commission.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 919,
+        "name": "Lord McNally",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/919/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/919/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1413,
+        "name": "Chris Grayling",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1413/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1413/contact",
+        "memberFrom": "Epsom and Ewell"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1107,
+  "shortTitle": "European Union (Approvals) Act 2013",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-03-01T16:10:41",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5735,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5410,
+        "stageId": 11,
+        "billStageId": 5735,
+        "billId": 1107,
+        "date": "2013-02-28T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

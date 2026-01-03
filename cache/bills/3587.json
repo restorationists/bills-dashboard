@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the approval of remuneration paid to local government employees.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4792,
+        "name": "Paul Bristow",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4792/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4792/contact",
+        "memberFrom": "Peterborough"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3587,
+  "shortTitle": "Local Government (Pay Accountability) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-09-23T14:54:50.0556849",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18560,
+    "stageId": 8,
+    "sessionId": 38,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15911,
+        "stageId": 8,
+        "billStageId": 18560,
+        "billId": 3587,
+        "date": "2024-05-22T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

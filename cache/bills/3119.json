@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision in connection with the deployment of UK armed forces outside the United Kingdom, overseas territories and Crown dependencies; to make provision for the approval by Parliament of a declaration of war by Her Majesty’s Government; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 123,
+        "name": "Lord Lansley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/123/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/123/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3119,
+  "shortTitle": "War Powers Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-04-28T15:22:52.7242655",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16196,
+    "stageId": 1,
+    "sessionId": 36,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 12869,
+        "stageId": 1,
+        "billStageId": 16196,
+        "billId": 3119,
+        "date": "2022-02-24T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

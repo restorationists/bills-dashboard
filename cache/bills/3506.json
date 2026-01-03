@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to regulate the use of automated vehicles on roads and in other public places; and to make other provision in relation to vehicle automation.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4499,
+        "name": "Lord Davies of Gower",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4499/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4499/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1520,
+        "name": "Mr Mark Harper",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1520/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1520/contact",
+        "memberFrom": "Forest of Dean"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3506,
+  "shortTitle": "Automated Vehicles Act 2024",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2024-09-19T12:47:31.7121918",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 18758,
+    "stageId": 11,
+    "sessionId": 38,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 15876,
+        "stageId": 11,
+        "billStageId": 18758,
+        "billId": 3506,
+        "date": "2024-05-20T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

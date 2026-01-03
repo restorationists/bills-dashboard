@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to restrict the possession, use and sale of lead ammunition; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 620,
+        "name": "Lord Browne of Ladyton",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/620/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/620/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3096,
+  "shortTitle": "Lead Ammunition (Restriction) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-04-28T15:15:50.3390026",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16037,
+    "stageId": 1,
+    "sessionId": 36,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 12674,
+        "stageId": 1,
+        "billStageId": 16037,
+        "billId": 3096,
+        "date": "2022-01-13T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

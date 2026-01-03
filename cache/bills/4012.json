@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about the sentencing, release and management after sentencing of offenders; to make provision about bail; to make provision about the removal from the United Kingdom of foreign criminals; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3914,
+        "name": "Shabana Mahmood",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3914/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3914/contact",
+        "memberFrom": "Birmingham Ladywood"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 5364,
+        "name": "Lord Timpson",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5364/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5364/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4012,
+  "shortTitle": "Sentencing Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2026-01-02T19:14:47.2581926",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20341,
+    "stageId": 4,
+    "sessionId": 39,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 17588,
+        "stageId": 4,
+        "billStageId": 20341,
+        "billId": 4012,
+        "date": "2026-01-06T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

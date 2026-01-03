@@ -1,0 +1,48 @@
+{
+  "longTitle": null,
+  "summary": "A bill to establish a committee to advise on haemophilia; to make provision in relation to blood donations; to establish a scheme for NHS Compensation Cards for people who have been treated with and infected by contaminated blood or blood products; to make provision for the financial compensation of people treated with and infected by contaminated blood and blood products and their widows, dependants and carers; to establish a review of the support available for people who have been treated with and infected by contaminated blood or blood products; and for connected purposes.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1906,
+        "name": "Lord Morris of Manchester",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1906/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1906/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1007,
+  "shortTitle": "Contaminated Blood (Support for Infected and Bereaved Persons) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-04-30T11:03:22",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13818,
+    "stageId": 2,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Inheritance Tax Act 1984 to make transfers between siblings exempt in certain circumstances",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4202,
+        "name": "Lord Lexden",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4202/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4202/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3314,
+  "shortTitle": "Inheritance Tax Act 1984 (Amendment) (Siblings) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-10-31T14:26:06.694652",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16851,
+    "stageId": 1,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 13582,
+        "stageId": 1,
+        "billStageId": 16851,
+        "billId": 3314,
+        "date": "2022-07-07T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to enable electricity generators to become local electricity suppliers; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4069,
+        "name": "Peter Aldous",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4069/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4069/contact",
+        "memberFrom": "Waveney"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2747,
+  "shortTitle": "Local Electricity Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-05T14:16:35.8034328",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12221,
+    "stageId": 7,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

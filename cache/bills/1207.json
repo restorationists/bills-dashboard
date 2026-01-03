@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to establish a mandatory national register of private landlords; to introduce regulation of private sector letting agents and managing agents; to establish a body to administer the national register and to monitor compliance with regulations applying to letting agents and managing agents; to require all tenancy agreements entered into with private landlords to take the form of written agreements; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 361,
+        "name": "Sir Alan Meale",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/361/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/361/contact",
+        "memberFrom": "Mansfield"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1207,
+  "shortTitle": "Private Landlords and Letting and Managing Agents (Regulation) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-05-15T15:17:50",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 6036,
+    "stageId": 7,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 5691,
+        "stageId": 7,
+        "billStageId": 6036,
+        "billId": 1207,
+        "date": "2013-10-25T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

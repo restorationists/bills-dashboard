@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision about licences to search and bore for and get offshore petroleum.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4806,
+        "name": "Claire Coutinho",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4806/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4806/contact",
+        "memberFrom": "East Surrey"
+      },
+      "organisation": {
+        "name": "Department for Energy Security and Net Zero",
+        "url": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4336,
+        "name": "Lord Callanan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4336/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Energy Security and Net Zero",
+        "url": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3504,
+  "shortTitle": "Offshore Petroleum Licensing Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-05-29T11:56:02.920413",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18652,
+    "stageId": 3,
+    "sessionId": 38,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15698,
+        "stageId": 3,
+        "billStageId": 18652,
+        "billId": 3504,
+        "date": "2024-04-23T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

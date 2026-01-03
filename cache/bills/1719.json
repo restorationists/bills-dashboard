@@ -1,0 +1,54 @@
+{
+  "longTitle": "To confer powers upon New Southgate Cemetery and Crematorium Limited and the National Spiritual Assembly of the Bahá'is of the United Kingdom to extinguish rights of burial and disturb human remains in respect of New Southgate Cemetery for the purpose of increasing the space for interments; and for connected purposes.",
+  "summary": null,
+  "sponsors": [],
+  "promoters": [
+    {
+      "organisationName": "New Southgate Cemetery and Crematorium Limited",
+      "organisationUrl": null
+    }
+  ],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": {
+    "name": "Broadfield Law UK LLP",
+    "address": "One Bartholomew Close, London, EC1A 7BL.",
+    "phoneNo": "020 7783 3437",
+    "email": "PamThompson@bdbpitmans.com",
+    "website": ""
+  },
+  "billId": 1719,
+  "shortTitle": "New Southgate Cemetery Act 2017",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2017-11-21T11:15:49",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 6,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28,
+    29,
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 10059,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 9260,
+        "stageId": 11,
+        "billStageId": 10059,
+        "billId": 1719,
+        "date": "2017-11-16T00:00:00"
+      }
+    ],
+    "sortOrder": 17
+  }
+}

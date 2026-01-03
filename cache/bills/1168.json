@@ -1,0 +1,73 @@
+{
+  "longTitle": "A Bill to establish a diffuse mesothelioma payments scheme and make related provision, and to make provision about the resolution of certain insurance disputes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3893,
+        "name": "Lord Freud",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3893/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3893/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 152,
+        "name": "Mr Iain Duncan Smith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/152/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/152/contact",
+        "memberFrom": "Chingford and Woodford Green"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1168,
+  "shortTitle": "Mesothelioma Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2014-01-31T09:02:13",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 6599,
+    "stageId": 11,
+    "sessionId": 26,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 6177,
+        "stageId": 11,
+        "billStageId": 6599,
+        "billId": 1168,
+        "date": "2014-01-30T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

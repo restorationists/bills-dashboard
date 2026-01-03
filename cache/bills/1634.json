@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for exempting carers from hospital car parking charges; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4405,
+        "name": "Julie Cooper",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4405/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4405/contact",
+        "memberFrom": "Burnley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1634,
+  "shortTitle": "Hospital Parking Charges (Exemption for Carers) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-05-13T11:08:41",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 7841,
+    "stageId": 7,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 7330,
+        "stageId": 7,
+        "billStageId": 7841,
+        "billId": 1634,
+        "date": "2015-10-30T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

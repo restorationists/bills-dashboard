@@ -1,0 +1,77 @@
+{
+  "longTitle": "To make provision about the regulation of operators of dominant airports; to confer functions on the Civil Aviation Authority under competition legislation in relation to services provided at airports; to make provision about aviation security; to make provision about the regulation of provision of flight accommodation; to make further provision about the Civil Aviation Authority’s membership, administration and functions in relation to enforcement, regulatory burdens and the provision of information relating to aviation; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1500,
+        "name": "Mrs Theresa Villiers",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1500/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1500/contact",
+        "memberFrom": "Chipping Barnet"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3425,
+        "name": "Earl Attlee",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3425/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3425/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 993,
+  "shortTitle": "Civil Aviation Act 2012",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-01-18T14:30:54",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24,
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5539,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5188,
+        "stageId": 11,
+        "billStageId": 5539,
+        "billId": 993,
+        "date": "2012-12-19T00:00:00"
+      }
+    ],
+    "sortOrder": 19
+  }
+}

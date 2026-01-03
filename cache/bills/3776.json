@@ -1,0 +1,63 @@
+{
+  "longTitle": "A Bill to require the United Kingdom to achieve climate and nature targets; to give the Secretary of State a duty to implement a strategy to achieve those targets; to establish a Climate and Nature Assembly to advise the Secretary of State in creating that strategy; to give duties to the Committee on Climate Change and the Joint Nature Conservation Committee regarding the strategy and targets; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5352,
+        "name": "Dr Roz Savage",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5352/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5352/contact",
+        "memberFrom": "South Cotswolds"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3776,
+  "shortTitle": "Climate and Nature Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-07-14T13:50:22.8181348",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19018,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16094,
+        "stageId": 7,
+        "billStageId": 19018,
+        "billId": 3776,
+        "date": "2025-01-24T00:00:00"
+      },
+      {
+        "id": 16639,
+        "stageId": 7,
+        "billStageId": 19018,
+        "billId": 3776,
+        "date": "2026-05-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the categorisation and use of B2 gaming machines; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3396,
+        "name": "Lord Clement-Jones",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3396/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3396/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1604,
+  "shortTitle": "Gambling (Categorisation and Use of B2 Gaming Machines) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2016-05-12T15:13:40",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 8420,
+    "stageId": 2,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 7777,
+        "stageId": 2,
+        "billStageId": 8420,
+        "billId": 1604,
+        "date": "2016-03-11T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

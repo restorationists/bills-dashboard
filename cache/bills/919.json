@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to prepare and publish a strategy for the promotion of passive flue gas heat recovery systems; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 566,
+        "name": "Martin Caton",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/566/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/566/contact",
+        "memberFrom": "Gower"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 919,
+  "shortTitle": "Passive Flue Gas Systems (Strategy) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-01T15:28:27",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13738,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

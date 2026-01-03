@@ -1,0 +1,76 @@
+{
+  "longTitle": null,
+  "summary": "<span>A Bill to authorise expenditure for certain agricultural and other purposes; to make provision about direct payments following the United Kingdom’s departure from the European Union and about payments in response to exceptional market conditions affecting agricultural markets; to confer power to modify retained direct EU legislation relating to agricultural and rural development payments and public market intervention and private storage aid; to make provision about reports on food security; to make provision about the acquisition and use of information connected with food supply chains; to confer powers to make regulations about the imposition of obligations on business purchasers of agricultural products, marketing standards, organic products and the classification of carcasses; to make provision for the recognition of associations of agricultural producers which may benefit from certain exemptions from competition law; to make provision about fertilisers; to make provision about the identification and traceability of animals; to make provision about red meat levy in Great Britain; to make provision about agricultural</span><span>tenancies; to confer power to make regulations about securing compliance with the WTO Agreement on Agriculture; and for connected purposes.</span>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3934,
+        "name": "George Eustice",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3934/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3934/contact",
+        "memberFrom": "Camborne and Redruth"
+      },
+      "organisation": {
+        "name": "Department for Environment, Food and Rural Affairs",
+        "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4161,
+        "name": "Lord Gardiner of Kimble",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4161/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4161/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Environment, Food and Rural Affairs",
+        "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2551,
+  "shortTitle": "Agriculture Act 2020",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-03-19T16:51:16.3254625",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12546,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 11338,
+        "stageId": 11,
+        "billStageId": 12546,
+        "billId": 2551,
+        "date": "2020-11-11T00:00:00"
+      }
+    ],
+    "sortOrder": 18
+  }
+}

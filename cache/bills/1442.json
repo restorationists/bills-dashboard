@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require that asylum claims in the United Kingdom be lodged within three months of the claimant’s arrival in the United Kingdom; and that persons who have already entered the United Kingdom and wish to make an asylum claim must do so within three months of the passing of this Act.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 242,
+        "name": "Mr Christopher Chope",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/242/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/242/contact",
+        "memberFrom": "Christchurch"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1442,
+  "shortTitle": "Asylum (Time Limit) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-30T11:26:35",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 7009,
+    "stageId": 7,
+    "sessionId": 27,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 6559,
+        "stageId": 7,
+        "billStageId": 7009,
+        "billId": 1442,
+        "date": "2015-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

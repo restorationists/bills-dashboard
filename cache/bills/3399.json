@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to reduce the duty charged on renewable liquid heating fuel; to provide for the imposition of obligations on suppliers of heating fuel in relation to the supply of renewable fuel; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3934,
+        "name": "George Eustice",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3934/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3934/contact",
+        "memberFrom": "Camborne and Redruth"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3399,
+  "shortTitle": "Renewable Liquid Heating Fuel Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-09-25T10:17:17.2241664",
+  "billWithdrawn": "2023-09-18T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17285,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14106,
+        "stageId": 6,
+        "billStageId": 17285,
+        "billId": 3399,
+        "date": "2023-01-11T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

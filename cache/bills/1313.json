@@ -1,0 +1,68 @@
+{
+  "longTitle": "A Bill to make provision for a railway between Euston in London and a junction with the West Coast Main Line at Handsacre in Staffordshire, with a spur from Old Oak Common in the London Borough of Hammersmith and Fulham to a junction with the Channel Tunnel Rail Link at York Way in the London Borough of Islington and a spur from Water Orton in Warwickshire to Curzon Street in Birmingham; and for connected purposes.",
+  "summary": "<p>On 25 November 2013 the Government published the High Speed Rail (London-West Midlands) Bill. The Bill confers the powers required to construct phase 1 of the proposed HS2 scheme from London Euston to Birmingham Curzon Street with intermediate stations in West London (Old Oak Common) and at Birmingham Airport. It provides for a connection to the existing rail link to the Channel Tunnel (HS1) but not to Heathrow Airport.</p><p><strong>Key areas</strong></p><ul><li>authorisation of necessary works to construct and maintain phase 1 of the HS2 line (powers to carry out these works are conferred on a nominated undertaker (HS2 Ltd.))</li><li>power to acquire land (and limited rights in land) necessary for the works to be carried out</li><li>deeming of planning permission to be granted for the works</li><li>deregulation of works on HS2 (the disapplication of certain powers contained in other legislation)</li><li>railways matters, essentially the application of existing legislation to HS2 and the future regulatory regime for the line </li><li>facilitating works on conventional lines to integrate them with HS2.</li></ul><p>This is a Hybrid Bill, meaning that it has elements of both a Public and a Private Bill. The Bill was given a Second Reading, therefore those directly and specially affected by the construction of the route were able to petition in front of a specially-convened Select Committee on the Bill.</p><p><strong>Background information: Hybrid Bills</strong></p><p>Further information on how hybrid bills are dealt with in Parliament is available on the Parliament website.</p><ul><li><a>About Parliament: Hybrid Bills</a></li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 333,
+        "name": "Mr Patrick McLoughlin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/333/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/333/contact",
+        "memberFrom": "Derbyshire Dales"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": "<p><strong>The petitioning period in the House of Lords ran from: 24 March 2016 to 17:00 on 18 April 2016  820 petitions were accepted.  </strong><a><strong>A list is available here.</strong></a><strong> </strong>The petitions themselves are also online. They can be found by going to the publications tab (on the left of this page) and then scrolling down the page.Petitions (objections) had to be deposited within those dates. <a>The House of Lords Petitioning Kit is available here (for reference)</a> (on the right hand side of the page).</p>",
+  "agent": {
+    "name": "Berwin Leighton Paisner LLP",
+    "address": "Adelaide House, London Bridge, London EC4R 9HA",
+    "phoneNo": "020 7760 1000",
+    "email": "helen.kemp@blplaw.com",
+    "website": ""
+  },
+  "billId": 1313,
+  "shortTitle": "High Speed Rail (London–West Midlands) Act 2017",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-06-27T16:09:31.4504243",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 4,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26,
+    27,
+    28,
+    29
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 9368,
+    "stageId": 11,
+    "sessionId": 29,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 8661,
+        "stageId": 11,
+        "billStageId": 9368,
+        "billId": 1313,
+        "date": "2017-02-23T00:00:00"
+      }
+    ],
+    "sortOrder": 33
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about industrial action, trade unions, employers’ associations and the functions of the Certification Officer.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3945,
+        "name": "Sajid Javid",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3945/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3945/contact",
+        "memberFrom": "Bromsgrove"
+      },
+      "organisation": {
+        "name": "Department for Business, Innovation and Skills",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4284,
+        "name": "Baroness Neville-Rolfe",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4284/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4284/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business, Innovation and Skills",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1685,
+  "shortTitle": "Trade Union Act 2016",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-05-23T12:09:48",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 8596,
+    "stageId": 11,
+    "sessionId": 28,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7979,
+        "stageId": 11,
+        "billStageId": 8596,
+        "billId": 1685,
+        "date": "2016-05-04T00:00:00"
+      }
+    ],
+    "sortOrder": 18
+  }
+}

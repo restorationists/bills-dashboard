@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to Set up a register of overseas entities and their beneficial owners and require overseas entities who own land to register in certain circumstances; to make provision about unexplained wealth orders; and to make provision about sanctions.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4066,
+        "name": "Priti Patel",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4066/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4066/contact",
+        "memberFrom": "Witham"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4336,
+        "name": "Lord Callanan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4336/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business, Energy and Industrial Strategy",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3120,
+  "shortTitle": "Economic Crime (Transparency and Enforcement) Act 2022",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-03-28T10:55:04.0658368",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 16285,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 12967,
+        "stageId": 11,
+        "billStageId": 16285,
+        "billId": 3120,
+        "date": "2022-03-14T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

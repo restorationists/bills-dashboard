@@ -1,0 +1,76 @@
+{
+  "longTitle": "Make provision for the restructuring of the Royal Mail group and about the Royal Mail Pension Plan; to make new provision about the regulation of postal services, including provision for a special administration regime; and for connected purposes.",
+  "summary": "<p>The Bill's provisions are divided into four main parts.</p><ul><li>Part 1 provides for the restructuring of Royal Mail, including the introduction of private sector capital and expertise from the sale of up to 90% of Royal Mail, an employee share scheme and provisions for Post Office Ltd to continue to be owned by the Crown or a mutual ownership structure </li><li>Part 2 deals with the Royal Mail&rsquo;s pension deficit by transferring the historic liabilities of the scheme to the Government</li><li>Part 3 makes provisions for the regulatory arrangements for postal services through the transfer of powers from Postcomm to Ofcom</li><li>Part 4 contains provisions for a &ldquo;special administrative regime&rdquo; should the universal postal service be at risk from the provider entering insolvency proceedings</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 207,
+        "name": "Vince Cable",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/207/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/207/contact",
+        "memberFrom": "Twickenham"
+      },
+      "organisation": {
+        "name": "Department for Business, Innovation and Skills",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1727,
+        "name": "Baroness Wilcox",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1727/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1727/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business, Innovation and Skills",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 765,
+  "shortTitle": "Postal Services Act 2011",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2011-11-10T15:29:54",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4320,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4107,
+        "stageId": 11,
+        "billStageId": 4320,
+        "billId": 765,
+        "date": "2011-06-13T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

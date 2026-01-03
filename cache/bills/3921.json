@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about the prevention of fraud against public authorities and the making of erroneous payments by public authorities; about the recovery of money paid by public authorities as a result of fraud or error; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4026,
+        "name": "Liz Kendall",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4026/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4026/contact",
+        "memberFrom": "Leicester West"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4147,
+        "name": "Baroness Sherlock",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4147/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4147/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3921,
+  "shortTitle": "Public Authorities (Fraud, Error and Recovery) Act 2025",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-03T08:54:35.5648616",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 20288,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 17580,
+        "stageId": 11,
+        "billStageId": 20288,
+        "billId": 3921,
+        "date": "2025-12-02T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

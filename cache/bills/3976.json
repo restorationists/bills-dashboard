@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the paying out of compensation under the Equitable Life (Payments) Act 2010 for persons adversely affected by maladministration in the regulation before December 2001 of the Equitable Life Assurance Society; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4005,
+        "name": "Bob Blackman",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4005/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4005/contact",
+        "memberFrom": "Harrow East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3976,
+  "shortTitle": "Equitable Life Policyholders (Compensation) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-25T14:03:06.2340656",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19938,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17052,
+        "stageId": 7,
+        "billStageId": 19938,
+        "billId": 3976,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "longTitle": "A Bill to make provision about the release on licence of offenders convicted of terrorist offences or offences with a terrorist connection; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4106,
+        "name": "Robert Buckland",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4106/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4106/contact",
+        "memberFrom": "South Swindon"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2641,
+  "shortTitle": "Terrorist Offenders (Restriction of Early Release) Act 2020",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2020-02-27T09:24:24",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12023,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10843,
+        "stageId": 11,
+        "billStageId": 12023,
+        "billId": 2641,
+        "date": "2020-02-26T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to establish a passenger charter for disabled land transport passengers setting out their rights, the legal obligations of transport operators, complaints procedures, passenger assistance schemes and accessibility requirements; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4799,
+        "name": "Charlotte Nichols",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4799/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4799/contact",
+        "memberFrom": "Warrington North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3044,
+  "shortTitle": "Transport (Disabled Passenger Charter) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-11-23T11:45:58.3254564",
+  "billWithdrawn": "2021-11-22T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15712,
+    "stageId": 6,
+    "sessionId": 36,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12252,
+        "stageId": 6,
+        "billStageId": 15712,
+        "billId": 3044,
+        "date": "2021-09-07T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

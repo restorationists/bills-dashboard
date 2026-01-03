@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require banks and investment institutions regulated in the UK to verify and certify that they do not provide any form of financial or investment support to businesses which derive income from forest risk commodities, or that relevant local laws were complied with in relation to such commodities; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1413,
+        "name": "Chris Grayling",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1413/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1413/contact",
+        "memberFrom": "Epsom and Ewell"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3347,
+  "shortTitle": "Financial Investment and Deforestation Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-01T13:28:40.8842144",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16994,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13772,
+        "stageId": 6,
+        "billStageId": 16994,
+        "billId": 3347,
+        "date": "2022-10-17T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

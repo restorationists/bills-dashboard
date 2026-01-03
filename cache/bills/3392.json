@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require Parliamentary approval of coal extraction from new coal mines commissioned after November 2022; to require the Secretary of State to set targets for phasing out the extraction and use of coal and to report to Parliament on performance against those targets; to require the Secretary of State to publish a strategy for increasing the use of renewable energy sources for steel production in place of coal; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1591,
+        "name": "Tim Farron",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1591/contact",
+        "memberFrom": "Westmorland and Lonsdale"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3392,
+  "shortTitle": "Coal Extraction and Use Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-31T12:58:13.0471351",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17244,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14051,
+        "stageId": 6,
+        "billStageId": 17244,
+        "billId": 3392,
+        "date": "2022-12-13T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

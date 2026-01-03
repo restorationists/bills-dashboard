@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to expand the list of sporting events that must be made available for broadcast by free-to-air television channels; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 318,
+        "name": "John Spellar",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/318/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/318/contact",
+        "memberFrom": "Warley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3296,
+  "shortTitle": "Broadcasting (Listed Sporting Events) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-31T12:15:12.562098",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16806,
+    "stageId": 7,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13727,
+        "stageId": 7,
+        "billStageId": 16806,
+        "billId": 3296,
+        "date": "2023-10-20T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

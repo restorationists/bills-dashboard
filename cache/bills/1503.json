@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to amend the Ministerial and Other Salaries Act 1975 in order to increase the maxiumum number of salaries payable to Secretaries of State; and to make provision about the Leader of the House of Lords.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1141,
+        "name": "Lord Forsyth of Drumlean",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1141/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1141/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1503,
+  "shortTitle": "Leader of the House of Lords Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2014-10-15T09:46:26",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14288,
+    "stageId": 2,
+    "sessionId": 27,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit the carrying out of construction work in respect of new waste incinerators, other than in cases where substantial construction has already begun; to make provision about the taxation of waste disposed of by way of incineration; to prohibit local authorities from entering into any contract for the incineration of waste which requires them to pay financial penalties if a minimum amount of waste is not delivered for incineration; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1466,
+        "name": "Dr Andrew Murrison",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1466/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1466/contact",
+        "memberFrom": "South West Wiltshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4043,
+  "shortTitle": "Waste Incinerators Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-26T12:35:23.7428157",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20327,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17556,
+        "stageId": 7,
+        "billStageId": 20327,
+        "billId": 4043,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

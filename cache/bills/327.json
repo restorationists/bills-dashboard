@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision for the making of orders for securing the anonymity of witnesses in criminal proceedings.",
+  "summary": "This Bill would abolish the common law rules relating to anonymity orders for witnesses in criminal trials and replace them with statutory powers. <br><br>This is in response to the judgment of the House of Lords, on 18 June 2008, in R v Davis, in which it was held that the measures ordered by the court to ensure the anonymity of some witnesses had been beyond its jurisdiction.<br><br>The Bill has been introduced as an emergency measure because the judgment is likely to affect a number of ongoing prosecutions in which similar anonymity measures have been ordered, as well as convictions resulting from trials in which witnesses have given evidence anonymously.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 463,
+        "name": "Mr Jack Straw",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/463/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/463/contact",
+        "memberFrom": "Blackburn"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2024,
+        "name": "Lord Hunt of Kings Heath",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2024/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2024/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 327,
+  "shortTitle": "Criminal Evidence (Witness Anonymity) Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-02-24T15:05:42",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1774,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1760,
+        "stageId": 11,
+        "billStageId": 1774,
+        "billId": 327,
+        "date": "2008-07-21T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

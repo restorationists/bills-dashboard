@@ -1,0 +1,52 @@
+{
+  "longTitle": "An Act to make provisions as to the National Trust for Places of Historic Interest or Natural Beauty in relation to Northern Ireland.",
+  "summary": null,
+  "sponsors": [],
+  "promoters": [
+    {
+      "organisationName": "National Trust",
+      "organisationUrl": null
+    }
+  ],
+  "petitioningPeriod": null,
+  "petitionInformation": "No petitions were deposited against the Bill in either House and the Bill was, therefore, unopposed.",
+  "agent": {
+    "name": "Winckworth Sherwood LLP",
+    "address": "Minerva House, 5 Montagu Close, London, SE1 9BB",
+    "phoneNo": "020 7593 5005",
+    "email": "agorlov@wslaw.co.uk",
+    "website": ""
+  },
+  "billId": 275,
+  "shortTitle": "National Trust (Northern Ireland) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-02-05T14:37:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 6,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 1372,
+    "stageId": 8,
+    "sessionId": 20,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 1285,
+        "stageId": 8,
+        "billStageId": 1372,
+        "billId": 275,
+        "date": "2007-05-09T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

@@ -1,0 +1,6019 @@
+{
+  "items": [
+    {
+      "billId": 3109,
+      "shortTitle": "Parliamentary Elections (Optional Preferential Vote) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2022-05-04T17:08:15.1282038",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 36,
+      "includedSessionIds": [
+        36
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 16153,
+        "stageId": 7,
+        "sessionId": 36,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 12813,
+            "stageId": 7,
+            "billStageId": 16153,
+            "billId": 3109,
+            "date": "2022-05-06T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3317,
+      "shortTitle": "Parliamentary Elections (Optional Preferential Vote) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2023-11-02T12:45:56.9034336",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 37,
+      "includedSessionIds": [
+        37
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 16869,
+        "stageId": 6,
+        "sessionId": 37,
+        "description": "1st reading",
+        "abbreviation": "1R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 13596,
+            "stageId": 6,
+            "billStageId": 16869,
+            "billId": 3317,
+            "date": "2022-07-11T00:00:00"
+          }
+        ],
+        "sortOrder": 1
+      }
+    },
+    {
+      "billId": 517,
+      "shortTitle": "Parliamentary Elections (Recall and Primaries) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2009-10-23T10:39:53",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 22,
+      "includedSessionIds": [
+        22
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13381,
+        "stageId": 7,
+        "sessionId": 22,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1384,
+      "shortTitle": "Parliamentary Privilege (Defamation) Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2014-06-30T09:13:26",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 2,
+      "introducedSessionId": 27,
+      "includedSessionIds": [
+        27
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 6907,
+        "stageId": 2,
+        "sessionId": 27,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords",
+        "stageSittings": [
+          {
+            "id": 6496,
+            "stageId": 2,
+            "billStageId": 6907,
+            "billId": 1384,
+            "date": "2014-06-27T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3967,
+      "shortTitle": "Parliamentary Scrutiny of Trade Agreements Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2025-05-16T10:38:46.8289275",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 39,
+      "includedSessionIds": [
+        39
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 19891,
+        "stageId": 7,
+        "sessionId": 39,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3502,
+      "shortTitle": "Parliamentary Sovereignty (Referendums) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2023-11-02T12:46:41.6565561",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 37,
+      "includedSessionIds": [
+        37
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 17985,
+        "stageId": 6,
+        "sessionId": 37,
+        "description": "1st reading",
+        "abbreviation": "1R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 14983,
+            "stageId": 6,
+            "billStageId": 17985,
+            "billId": 3502,
+            "date": "2023-10-24T00:00:00"
+          }
+        ],
+        "sortOrder": 1
+      }
+    },
+    {
+      "billId": 495,
+      "shortTitle": "Parliamentary Standards",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2009-10-16T12:48:04",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 22,
+      "includedSessionIds": [
+        22
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 2662,
+        "stageId": 11,
+        "sessionId": 22,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 2553,
+            "stageId": 11,
+            "billStageId": 2662,
+            "billId": 495,
+            "date": "2009-07-21T00:00:00"
+          }
+        ],
+        "sortOrder": 15
+      }
+    },
+    {
+      "billId": 744,
+      "shortTitle": "Parliamentary Standards (Amendment) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2012-05-01T15:23:45",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 24,
+      "includedSessionIds": [
+        24
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13570,
+        "stageId": 7,
+        "sessionId": 24,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 952,
+      "shortTitle": "Parliamentary Standards (Amendment) (No. 2) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2012-05-01T15:24:20",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 24,
+      "includedSessionIds": [
+        24
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13770,
+        "stageId": 7,
+        "sessionId": 24,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 748,
+      "shortTitle": "Parliamentary Voting System and Constituencies Act 2011",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2011-11-10T15:08:12",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 24,
+      "includedSessionIds": [
+        24
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 4097,
+        "stageId": 11,
+        "sessionId": 24,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 3819,
+            "stageId": 11,
+            "billStageId": 4097,
+            "billId": 748,
+            "date": "2011-02-16T00:04:00"
+          }
+        ],
+        "sortOrder": 23
+      }
+    },
+    {
+      "billId": 1879,
+      "shortTitle": "Parthenon Sculptures (Return to Greece) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2017-02-22T11:15:38",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 29,
+      "includedSessionIds": [
+        29
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14639,
+        "stageId": 7,
+        "sessionId": 29,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3288,
+      "shortTitle": "Participation in Court Proceedings (Live Links) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2023-11-02T12:47:22.7595347",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 37,
+      "includedSessionIds": [
+        37
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 16778,
+        "stageId": 6,
+        "sessionId": 37,
+        "description": "1st reading",
+        "abbreviation": "1R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 13497,
+            "stageId": 6,
+            "billStageId": 16778,
+            "billId": 3288,
+            "date": "2022-06-20T00:00:00"
+          }
+        ],
+        "sortOrder": 1
+      }
+    },
+    {
+      "billId": 1098,
+      "shortTitle": "Partnerships (Prosecution) (Scotland) Act",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2013-11-12T12:29:54",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 25,
+      "includedSessionIds": [
+        25
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 5898,
+        "stageId": 11,
+        "sessionId": 25,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 5507,
+            "stageId": 11,
+            "billStageId": 5898,
+            "billId": 1098,
+            "date": "2013-04-25T00:00:00"
+          }
+        ],
+        "sortOrder": 13
+      }
+    },
+    {
+      "billId": 3732,
+      "shortTitle": "Passenger Railway Services (Public Ownership) Act 2024",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2024-11-29T08:28:50.1594523",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 39,
+      "includedSessionIds": [
+        39
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 19312,
+        "stageId": 11,
+        "sessionId": 39,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 16411,
+            "stageId": 11,
+            "billStageId": 19312,
+            "billId": 3732,
+            "date": "2024-11-28T00:00:00"
+          }
+        ],
+        "sortOrder": 15
+      }
+    },
+    {
+      "billId": 919,
+      "shortTitle": "Passive Flue Gas Systems (Strategy) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2012-05-01T15:28:27",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 24,
+      "includedSessionIds": [
+        24
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13738,
+        "stageId": 7,
+        "sessionId": 24,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2930,
+      "shortTitle": "Paternity (Leave and Pay) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2022-05-05T14:55:08.2398592",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 36,
+      "includedSessionIds": [
+        36
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15426,
+        "stageId": 7,
+        "sessionId": 36,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 11950,
+            "stageId": 7,
+            "billStageId": 15426,
+            "billId": 2930,
+            "date": "2022-05-06T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3290,
+      "shortTitle": "Paternity (Leave and Pay) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2023-11-02T12:48:02.0638751",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 37,
+      "includedSessionIds": [
+        37
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 16782,
+        "stageId": 6,
+        "sessionId": 37,
+        "description": "1st reading",
+        "abbreviation": "1R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 13501,
+            "stageId": 6,
+            "billStageId": 16782,
+            "billId": 3290,
+            "date": "2022-06-20T00:00:00"
+          }
+        ],
+        "sortOrder": 1
+      }
+    },
+    {
+      "billId": 3542,
+      "shortTitle": "Paternity Leave (Bereavement) Act 2024",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2025-01-17T17:16:25.9998625",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 7,
+      "introducedSessionId": 38,
+      "includedSessionIds": [
+        38
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 18846,
+        "stageId": 11,
+        "sessionId": 38,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 15936,
+            "stageId": 11,
+            "billStageId": 18846,
+            "billId": 3542,
+            "date": "2024-05-24T00:00:00"
+          }
+        ],
+        "sortOrder": 10
+      }
+    },
+    {
+      "billId": 561,
+      "shortTitle": "Patient Transport Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2010-04-08T19:03:28",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 2,
+      "introducedSessionId": 23,
+      "includedSessionIds": [
+        23
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 2881,
+        "stageId": 2,
+        "sessionId": 23,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords",
+        "stageSittings": [
+          {
+            "id": 2767,
+            "stageId": 2,
+            "billStageId": 2881,
+            "billId": 561,
+            "date": "2010-02-05T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1431,
+      "shortTitle": "Pavement Parking Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2015-03-30T15:02:41",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 7,
+      "introducedSessionId": 27,
+      "includedSessionIds": [
+        27
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14219,
+        "stageId": 7,
+        "sessionId": 27,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2563,
+      "shortTitle": "Pavement Parking Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2021-05-05T12:34:09.7047332",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 2,
+      "introducedSessionId": 35,
+      "includedSessionIds": [
+        35
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 11682,
+        "stageId": 2,
+        "sessionId": 35,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3930,
+      "shortTitle": "Pavement Parking Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2025-11-28T11:43:59.5746219",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 39,
+      "includedSessionIds": [
+        39
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 19502,
+        "stageId": 7,
+        "sessionId": 39,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 16662,
+            "stageId": 7,
+            "billStageId": 19502,
+            "billId": 3930,
+            "date": "2026-01-16T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1640,
+      "shortTitle": "Pavement Parking (Protection of Vulnerable Pedestrians) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2015-12-11T12:19:15",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 7,
+      "introducedSessionId": 28,
+      "includedSessionIds": [
+        28
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 7853,
+        "stageId": 7,
+        "sessionId": 28,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 7342,
+            "stageId": 7,
+            "billStageId": 7853,
+            "billId": 1640,
+            "date": "2015-12-04T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 601,
+      "shortTitle": "Pedicabs Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2010-04-13T11:17:55",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 23,
+      "includedSessionIds": [
+        23
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13458,
+        "stageId": 7,
+        "sessionId": 23,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2201,
+      "shortTitle": "Pedicabs (London) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2019-03-25T11:13:58",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14942,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2745,
+      "shortTitle": "Pedicabs (London) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2021-05-05T14:59:06.6414694",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 35,
+      "includedSessionIds": [
+        35
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 12211,
+        "stageId": 7,
+        "sessionId": 35,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2940,
+      "shortTitle": "Pedicabs (London) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2022-05-03T16:54:30.5528213",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 36,
+      "includedSessionIds": [
+        36
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15446,
+        "stageId": 7,
+        "sessionId": 36,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 11970,
+            "stageId": 7,
+            "billStageId": 15446,
+            "billId": 2940,
+            "date": "2021-11-19T00:00:00"
+          },
+          {
+            "id": 12506,
+            "stageId": 7,
+            "billStageId": 15446,
+            "billId": 2940,
+            "date": "2022-05-06T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3507,
+      "shortTitle": "Pedicabs (London) Act 2024",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2024-04-26T09:57:39.2984576",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 38,
+      "includedSessionIds": [
+        38
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 18651,
+        "stageId": 11,
+        "sessionId": 38,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 15758,
+            "stageId": 11,
+            "billStageId": 18651,
+            "billId": 3507,
+            "date": "2024-04-25T00:00:00"
+          }
+        ],
+        "sortOrder": 13
+      }
+    },
+    {
+      "billId": 436,
+      "shortTitle": "Pedlars (Amendment) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2009-10-23T10:40:14",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 22,
+      "includedSessionIds": [
+        22
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13308,
+        "stageId": 7,
+        "sessionId": 22,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 90,
+      "shortTitle": "Pedlars (Street Trading Regulation) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2007-10-26T09:15:00",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 20,
+      "includedSessionIds": [
+        20
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13008,
+        "stageId": 7,
+        "sessionId": 20,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 251,
+      "shortTitle": "Pedlars (Street Trading Regulations) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2008-10-30T19:08:00",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 21,
+      "includedSessionIds": [
+        21
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13150,
+        "stageId": 7,
+        "sessionId": 21,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3067,
+      "shortTitle": "Peerage Nominations (Disqualification of Party Donors) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2022-05-05T15:28:12.8178264",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 36,
+      "includedSessionIds": [
+        36
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15875,
+        "stageId": 7,
+        "sessionId": 36,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 12485,
+            "stageId": 7,
+            "billStageId": 15875,
+            "billId": 3067,
+            "date": "2022-05-06T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3802,
+      "shortTitle": "Pension (Special Rules for End of Life) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2025-07-10T13:25:47.8568385",
+      "billWithdrawn": "2025-07-09T00:00:00",
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 39,
+      "includedSessionIds": [
+        39
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 19079,
+        "stageId": 7,
+        "sessionId": 39,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2193,
+      "shortTitle": "Pension Benefits (Ill Health) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2019-09-19T13:56:08",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14934,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2401,
+      "shortTitle": "Pension Charges Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2019-05-09T11:19:19",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15136,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3433,
+      "shortTitle": "Pension Contributions Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2023-11-02T12:48:23.2762995",
+      "billWithdrawn": "2023-03-21T00:00:00",
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 37,
+      "includedSessionIds": [
+        37
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 17490,
+        "stageId": 7,
+        "sessionId": 37,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 462,
+      "shortTitle": "Pension Credit and Personal Expense Allowance (Duty of Consultation and Review) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2009-10-20T15:31:07",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 22,
+      "includedSessionIds": [
+        22
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13334,
+        "stageId": 7,
+        "sessionId": 22,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1411,
+      "shortTitle": "Pension Schemes Act",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2015-03-04T11:03:30",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 27,
+      "includedSessionIds": [
+        27
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 7611,
+        "stageId": 11,
+        "sessionId": 27,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 7102,
+            "stageId": 11,
+            "billStageId": 7611,
+            "billId": 1411,
+            "date": "2015-03-03T00:00:00"
+          }
+        ],
+        "sortOrder": 16
+      }
+    },
+    {
+      "billId": 1912,
+      "shortTitle": "Pension Schemes Act 2017",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2017-04-28T12:29:17",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 29,
+      "includedSessionIds": [
+        29
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 9531,
+        "stageId": 11,
+        "sessionId": 29,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 8807,
+            "stageId": 11,
+            "billStageId": 9531,
+            "billId": 1912,
+            "date": "2017-04-27T00:00:00"
+          }
+        ],
+        "sortOrder": 16
+      }
+    },
+    {
+      "billId": 2467,
+      "shortTitle": "Pension Schemes Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2019-11-08T10:20:52",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 34,
+      "includedSessionIds": [
+        34
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15192,
+        "stageId": 2,
+        "sessionId": 34,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2526,
+      "shortTitle": "Pension Schemes Act 2021",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2021-02-12T09:54:34",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 35,
+      "includedSessionIds": [
+        35
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 12730,
+        "stageId": 11,
+        "sessionId": 35,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 11505,
+            "stageId": 11,
+            "billStageId": 12730,
+            "billId": 2526,
+            "date": "2021-02-11T00:00:00"
+          }
+        ],
+        "sortOrder": 14
+      }
+    },
+    {
+      "billId": 3982,
+      "shortTitle": "Pension Schemes Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-01-02T17:11:42.6992687",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 39,
+      "includedSessionIds": [
+        39
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 20365,
+        "stageId": 3,
+        "sessionId": 39,
+        "description": "Committee stage",
+        "abbreviation": "CS",
+        "house": "Lords",
+        "stageSittings": [
+          {
+            "id": 17612,
+            "stageId": 3,
+            "billStageId": 20365,
+            "billId": 3982,
+            "date": "2026-01-12T00:00:00"
+          },
+          {
+            "id": 17613,
+            "stageId": 3,
+            "billStageId": 20365,
+            "billId": 3982,
+            "date": "2026-01-14T00:00:00"
+          },
+          {
+            "id": 17642,
+            "stageId": 3,
+            "billStageId": 20365,
+            "billId": 3982,
+            "date": "2026-01-19T00:00:00"
+          },
+          {
+            "id": 17643,
+            "stageId": 3,
+            "billStageId": 20365,
+            "billId": 3982,
+            "date": "2026-01-22T00:00:00"
+          }
+        ],
+        "sortOrder": 11
+      }
+    },
+    {
+      "billId": 2907,
+      "shortTitle": "Pension Schemes (Conversion of Guaranteed Minimum Pensions) Act 2022",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2022-05-03T14:07:11.6534638",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 7,
+      "introducedSessionId": 36,
+      "includedSessionIds": [
+        36
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 16433,
+        "stageId": 11,
+        "sessionId": 36,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 13111,
+            "stageId": 11,
+            "billStageId": 16433,
+            "billId": 2907,
+            "date": "2022-04-28T00:00:00"
+          }
+        ],
+        "sortOrder": 9
+      }
+    },
+    {
+      "billId": 146,
+      "shortTitle": "Pensions Act 2007",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2008-01-10T10:55:00",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 20,
+      "includedSessionIds": [
+        20
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 730,
+        "stageId": 11,
+        "sessionId": 20,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 570,
+            "stageId": 11,
+            "billStageId": 730,
+            "billId": 146,
+            "date": "2007-07-26T00:00:00"
+          }
+        ],
+        "sortOrder": 17
+      }
+    },
+    {
+      "billId": 220,
+      "shortTitle": "Pensions Act 2008",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2009-02-25T13:44:52",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 21,
+      "includedSessionIds": [
+        21
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 1933,
+        "stageId": 11,
+        "sessionId": 21,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 1835,
+            "stageId": 11,
+            "billStageId": 1933,
+            "billId": 220,
+            "date": "2008-11-26T00:00:00"
+          }
+        ],
+        "sortOrder": 15
+      }
+    },
+    {
+      "billId": 815,
+      "shortTitle": "Pensions Act 2011",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2011-11-10T15:24:21",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 24,
+      "includedSessionIds": [
+        24
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 4570,
+        "stageId": 11,
+        "sessionId": 24,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 4341,
+            "stageId": 11,
+            "billStageId": 4570,
+            "billId": 815,
+            "date": "2011-11-03T00:00:00"
+          }
+        ],
+        "sortOrder": 16
+      }
+    },
+    {
+      "billId": 1177,
+      "shortTitle": "Pensions Act",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2014-05-15T11:26:38",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 26,
+      "includedSessionIds": [
+        26
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 6829,
+        "stageId": 11,
+        "sessionId": 26,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 6372,
+            "stageId": 11,
+            "billStageId": 6829,
+            "billId": 1177,
+            "date": "2014-05-14T00:00:00"
+          }
+        ],
+        "sortOrder": 19
+      }
+    },
+    {
+      "billId": 2514,
+      "shortTitle": "Pensions (Amendment) Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2019-11-08T10:19:19",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 2,
+      "introducedSessionId": 34,
+      "includedSessionIds": [
+        34
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15236,
+        "stageId": 2,
+        "sessionId": 34,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2561,
+      "shortTitle": "Pensions (Amendment) Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2021-05-05T12:35:06.8990328",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 2,
+      "introducedSessionId": 35,
+      "includedSessionIds": [
+        35
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 11676,
+        "stageId": 2,
+        "sessionId": 35,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3091,
+      "shortTitle": "Pensions (Extension of Automatic Enrolment) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2022-05-05T15:34:59.9823024",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 36,
+      "includedSessionIds": [
+        36
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 16007,
+        "stageId": 7,
+        "sessionId": 36,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3331,
+      "shortTitle": "Pensions (Extension of Automatic Enrolment) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2023-02-23T16:38:15.2264331",
+      "billWithdrawn": "2023-02-23T00:00:00",
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 37,
+      "includedSessionIds": [
+        37
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 16922,
+        "stageId": 6,
+        "sessionId": 37,
+        "description": "1st reading",
+        "abbreviation": "1R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 13655,
+            "stageId": 6,
+            "billStageId": 16922,
+            "billId": 3331,
+            "date": "2022-07-20T00:00:00"
+          }
+        ],
+        "sortOrder": 1
+      }
+    },
+    {
+      "billId": 3422,
+      "shortTitle": "Pensions (Extension of Automatic Enrolment) Act 2023",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2023-09-21T17:05:01.2271159",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 37,
+      "includedSessionIds": [
+        37
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 17949,
+        "stageId": 11,
+        "sessionId": 37,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 14944,
+            "stageId": 11,
+            "billStageId": 17949,
+            "billId": 3422,
+            "date": "2023-09-18T00:00:00"
+          }
+        ],
+        "sortOrder": 9
+      }
+    },
+    {
+      "billId": 2147,
+      "shortTitle": "Pensions (Review of Women’s Arrangements) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2019-02-18T13:21:36",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14890,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2156,
+      "shortTitle": "Pensions (Review of Women's Arrangements) (No. 2) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2019-03-21T11:44:38",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14899,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3543,
+      "shortTitle": "Pensions (Special Rules for End of Life) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2024-05-29T12:07:25.6304967",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 7,
+      "introducedSessionId": 38,
+      "includedSessionIds": [
+        38
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 18798,
+        "stageId": 1,
+        "sessionId": 38,
+        "description": "1st reading",
+        "abbreviation": "1R",
+        "house": "Lords",
+        "stageSittings": [
+          {
+            "id": 15883,
+            "stageId": 1,
+            "billStageId": 18798,
+            "billId": 3543,
+            "date": "2024-05-20T00:00:00"
+          }
+        ],
+        "sortOrder": 7
+      }
+    },
+    {
+      "billId": 147,
+      "shortTitle": "Pensions (Unclaimed Assets) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2007-10-24T15:24:00",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 20,
+      "includedSessionIds": [
+        20
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13061,
+        "stageId": 7,
+        "sessionId": 20,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3215,
+      "shortTitle": "Pensions Dashboards (Prohibition of Indemnification) Act 2023",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2023-05-11T21:46:38.7779026",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 37,
+      "includedSessionIds": [
+        37
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 17624,
+        "stageId": 11,
+        "sessionId": 37,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 14543,
+            "stageId": 11,
+            "billStageId": 17624,
+            "billId": 3215,
+            "date": "2023-05-02T00:00:00"
+          }
+        ],
+        "sortOrder": 9
+      }
+    },
+    {
+      "billId": 4029,
+      "shortTitle": "Perinatal Mental Health Assessments Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2025-10-31T15:53:40.5057146",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 39,
+      "includedSessionIds": [
+        39
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 20251,
+        "stageId": 7,
+        "sessionId": 39,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1704,
+      "shortTitle": "Perinatal Mental Illness (NHS Family Services) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2016-05-13T11:43:16",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 28,
+      "includedSessionIds": [
+        28
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14477,
+        "stageId": 7,
+        "sessionId": 28,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1886,
+      "shortTitle": "Perinatal Mental Illness (NHS Family Services) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2017-04-28T14:50:02",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 29,
+      "includedSessionIds": [
+        29
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14646,
+        "stageId": 7,
+        "sessionId": 29,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2612,
+      "shortTitle": "Period Products (Free Provision) Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2021-05-05T12:35:49.3136884",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 2,
+      "introducedSessionId": 35,
+      "includedSessionIds": [
+        35
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 11810,
+        "stageId": 2,
+        "sessionId": 35,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1310,
+      "shortTitle": "Permitted Development (Basements) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2014-05-15T15:08:18",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 26,
+      "includedSessionIds": [
+        26
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14103,
+        "stageId": 7,
+        "sessionId": 26,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3761,
+      "shortTitle": "Permitted Development Rights (Extension) Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2025-02-10T10:20:19.9516954",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 2,
+      "introducedSessionId": 39,
+      "includedSessionIds": [
+        39
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 19534,
+        "stageId": 3,
+        "sessionId": 39,
+        "description": "Committee stage",
+        "abbreviation": "CS",
+        "house": "Lords",
+        "stageSittings": [],
+        "sortOrder": 3
+      }
+    },
+    {
+      "billId": 467,
+      "shortTitle": "Perpetuities and Accumulations ",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2009-11-20T14:51:54",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 22,
+      "includedSessionIds": [
+        22
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 2787,
+        "stageId": 11,
+        "sessionId": 22,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 2651,
+            "stageId": 11,
+            "billStageId": 2787,
+            "billId": 467,
+            "date": "2009-11-12T00:00:00"
+          }
+        ],
+        "sortOrder": 14
+      }
+    },
+    {
+      "billId": 542,
+      "shortTitle": "Personal Care at Home Act 2010",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2010-08-17T11:46:37",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 23,
+      "includedSessionIds": [
+        23
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 3431,
+        "stageId": 11,
+        "sessionId": 23,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 3211,
+            "stageId": 11,
+            "billStageId": 3431,
+            "billId": 542,
+            "date": "2010-04-08T00:00:00"
+          }
+        ],
+        "sortOrder": 14
+      }
+    },
+    {
+      "billId": 286,
+      "shortTitle": "Personal Debt (Advice and Regulation) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2008-04-25T09:42:00",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 21,
+      "includedSessionIds": [
+        21
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13180,
+        "stageId": 7,
+        "sessionId": 21,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3696,
+      "shortTitle": "Personal Protective Equipment at Work (Protected Characteristics) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2025-02-12T16:35:00.3635101",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 38,
+      "includedSessionIds": [
+        38
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 19640,
+        "stageId": 7,
+        "sessionId": 38,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 507,
+      "shortTitle": "Personal Responsibility Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2009-10-29T18:18:06",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 22,
+      "includedSessionIds": [
+        22
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13373,
+        "stageId": 7,
+        "sessionId": 22,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1461,
+      "shortTitle": "Personal, Social, Health and Economic Education (Statutory Requirement) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2015-03-30T15:06:29",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 27,
+      "includedSessionIds": [
+        27
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14249,
+        "stageId": 7,
+        "sessionId": 27,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1686,
+      "shortTitle": "Personal, Social, Health and Economic Education (Statutory Requirement) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2016-05-13T11:44:27",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 28,
+      "includedSessionIds": [
+        28
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14459,
+        "stageId": 7,
+        "sessionId": 28,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1873,
+      "shortTitle": "Personal, Social, Health and Economic Education (Statutory Requirement) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2017-08-15T13:12:09",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 29,
+      "includedSessionIds": [
+        29
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 9847,
+        "stageId": 7,
+        "sessionId": 29,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 9064,
+            "stageId": 7,
+            "billStageId": 9847,
+            "billId": 1873,
+            "date": "2017-01-20T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3549,
+      "shortTitle": "Pet Abduction Act 2024",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2024-05-31T14:08:12.1199126",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 7,
+      "introducedSessionId": 38,
+      "includedSessionIds": [
+        38
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 18845,
+        "stageId": 11,
+        "sessionId": 38,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 15940,
+            "stageId": 11,
+            "billStageId": 18845,
+            "billId": 3549,
+            "date": "2024-05-24T00:00:00"
+          }
+        ],
+        "sortOrder": 10
+      }
+    },
+    {
+      "billId": 2552,
+      "shortTitle": "Petroleum (Amendment) Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2021-05-05T12:36:26.2725318",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 2,
+      "introducedSessionId": 35,
+      "includedSessionIds": [
+        35
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 11654,
+        "stageId": 2,
+        "sessionId": 35,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3144,
+      "shortTitle": "Petroleum (Amendment) Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2022-04-28T14:52:11.9950245",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 2,
+      "introducedSessionId": 36,
+      "includedSessionIds": [
+        36
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 16348,
+        "stageId": 1,
+        "sessionId": 36,
+        "description": "1st reading",
+        "abbreviation": "1R",
+        "house": "Lords",
+        "stageSittings": [
+          {
+            "id": 13035,
+            "stageId": 1,
+            "billStageId": 16348,
+            "billId": 3144,
+            "date": "2022-03-24T00:00:00"
+          }
+        ],
+        "sortOrder": 1
+      }
+    },
+    {
+      "billId": 2784,
+      "shortTitle": "Pets (Microchips) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2021-05-05T14:59:35.7427157",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 35,
+      "includedSessionIds": [
+        35
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 12420,
+        "stageId": 7,
+        "sessionId": 35,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3135,
+      "shortTitle": "Pets (Microchips) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2022-05-05T14:09:25.4162255",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 36,
+      "includedSessionIds": [
+        36
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 16274,
+        "stageId": 7,
+        "sessionId": 36,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 12954,
+            "stageId": 7,
+            "billStageId": 16274,
+            "billId": 3135,
+            "date": "2022-05-06T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3318,
+      "shortTitle": "Pets (Microchips) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2023-11-02T14:35:31.6887411",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 37,
+      "includedSessionIds": [
+        37
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 16879,
+        "stageId": 7,
+        "sessionId": 37,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 13607,
+            "stageId": 7,
+            "billStageId": 16879,
+            "billId": 3318,
+            "date": "2023-03-24T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3578,
+      "shortTitle": "Pets (Microchips) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2025-02-12T16:35:39.0106433",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 38,
+      "includedSessionIds": [
+        38
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 19641,
+        "stageId": 7,
+        "sessionId": 38,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3824,
+      "shortTitle": "Pets (Microchips) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2025-10-29T17:29:10.5525421",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 39,
+      "includedSessionIds": [
+        39
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 19124,
+        "stageId": 7,
+        "sessionId": 39,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 16200,
+            "stageId": 7,
+            "billStageId": 19124,
+            "billId": 3824,
+            "date": "2025-11-28T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3469,
+      "shortTitle": "Pets (Theft and Importation) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2023-11-02T14:43:27.0998348",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 37,
+      "includedSessionIds": [
+        37
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 17739,
+        "stageId": 6,
+        "sessionId": 37,
+        "description": "1st reading",
+        "abbreviation": "1R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 14674,
+            "stageId": 6,
+            "billStageId": 17739,
+            "billId": 3469,
+            "date": "2023-06-06T00:00:00"
+          }
+        ],
+        "sortOrder": 1
+      }
+    },
+    {
+      "billId": 2277,
+      "shortTitle": "Pets (Theft) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2019-09-19T13:56:42",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15014,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 421,
+      "shortTitle": "Pharmaceutical Labelling (Warning Of Cognitive Function Impairment) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2009-11-09T11:38:24",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 22,
+      "includedSessionIds": [
+        22
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13293,
+        "stageId": 7,
+        "sessionId": 22,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2069,
+      "shortTitle": "Physician Associates (Regulation) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2018-12-07T13:06:18",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 7,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 9729,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 9024,
+            "stageId": 7,
+            "billStageId": 9729,
+            "billId": 2069,
+            "date": "2018-10-26T00:00:00"
+          },
+          {
+            "id": 9884,
+            "stageId": 7,
+            "billStageId": 9729,
+            "billId": 2069,
+            "date": "2018-11-23T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2844,
+      "shortTitle": "Pig Husbandry (Farrowing) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2021-05-05T15:00:20.2089163",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 35,
+      "includedSessionIds": [
+        35
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 12867,
+        "stageId": 7,
+        "sessionId": 35,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2146,
+      "shortTitle": "Pilot (Licensing) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2019-03-22T12:30:32",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14889,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 148,
+      "shortTitle": "Piped Music etc (Hospitals) Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2007-11-02T00:00:00",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 2,
+      "introducedSessionId": 20,
+      "includedSessionIds": [
+        20
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 960,
+        "stageId": 7,
+        "sessionId": 20,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 6
+      }
+    },
+    {
+      "billId": 200,
+      "shortTitle": "Planning Act 2008",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2009-02-23T12:45:46",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 21,
+      "includedSessionIds": [
+        21
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 1932,
+        "stageId": 11,
+        "sessionId": 21,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 1807,
+            "stageId": 11,
+            "billStageId": 1932,
+            "billId": 200,
+            "date": "2008-11-26T00:00:00"
+          }
+        ],
+        "sortOrder": 18
+      }
+    },
+    {
+      "billId": 2361,
+      "shortTitle": "Planning (Affordable Housing and Land Compensation) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2019-09-19T14:00:18",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15097,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2198,
+      "shortTitle": "Planning (Agent of Change) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2018-09-14T11:34:45",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14939,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2323,
+      "shortTitle": "Planning (Appeals) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2019-03-21T11:42:42",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15060,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 149,
+      "shortTitle": "Planning (Consultation) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2007-10-22T11:42:00",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 20,
+      "includedSessionIds": [
+        20
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13063,
+        "stageId": 7,
+        "sessionId": 20,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 785,
+      "shortTitle": "Planning (Developer Bonds) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2012-05-01T15:32:23",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 24,
+      "includedSessionIds": [
+        24
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13610,
+        "stageId": 7,
+        "sessionId": 24,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2905,
+      "shortTitle": "Planning (Enforcement) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2021-11-19T16:49:43.4192989",
+      "billWithdrawn": "2021-11-19T00:00:00",
+      "isDefeated": false,
+      "billTypeId": 7,
+      "introducedSessionId": 36,
+      "includedSessionIds": [
+        36
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15375,
+        "stageId": 7,
+        "sessionId": 36,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 11901,
+            "stageId": 7,
+            "billStageId": 15375,
+            "billId": 2905,
+            "date": "2021-11-19T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3994,
+      "shortTitle": "Planning (Flooding) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2025-10-14T15:59:37.3599743",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 39,
+      "includedSessionIds": [
+        39
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 20041,
+        "stageId": 7,
+        "sessionId": 39,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 17193,
+            "stageId": 7,
+            "billStageId": 20041,
+            "billId": 3994,
+            "date": "2026-05-29T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 861,
+      "shortTitle": "Planning (Grade 1 Agricultural Land Protection) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2012-05-01T15:43:08",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 24,
+      "includedSessionIds": [
+        24
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13684,
+        "stageId": 7,
+        "sessionId": 24,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 858,
+      "shortTitle": "Planning (Green Belt Protection) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2012-02-03T10:26:19",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 24,
+      "includedSessionIds": [
+        24
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13681,
+        "stageId": 7,
+        "sessionId": 24,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1710,
+      "shortTitle": "Planning (Listed Buildings and Conservation Areas) Act 1990 (Amendment) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2016-05-13T11:46:19",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 28,
+      "includedSessionIds": [
+        28
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14483,
+        "stageId": 7,
+        "sessionId": 28,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2853,
+      "shortTitle": "Planning (Local Authority Housing Developments) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2021-05-05T15:00:50.7739756",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 35,
+      "includedSessionIds": [
+        35
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 12890,
+        "stageId": 6,
+        "sessionId": 35,
+        "description": "1st reading",
+        "abbreviation": "1R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 11722,
+            "stageId": 6,
+            "billStageId": 12890,
+            "billId": 2853,
+            "date": "2021-04-20T00:00:00"
+          }
+        ],
+        "sortOrder": 1
+      }
+    },
+    {
+      "billId": 260,
+      "shortTitle": "Planning (Location of Hazardous Sites) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2008-06-06T15:03:00",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 21,
+      "includedSessionIds": [
+        21
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13159,
+        "stageId": 7,
+        "sessionId": 21,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 691,
+      "shortTitle": "Planning (Opencast Mining Separation Zones) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2012-05-01T15:52:39",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 7,
+      "introducedSessionId": 24,
+      "includedSessionIds": [
+        24
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 3533,
+        "stageId": 7,
+        "sessionId": 24,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 3323,
+            "stageId": 7,
+            "billStageId": 3533,
+            "billId": 691,
+            "date": "2011-02-11T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2782,
+      "shortTitle": "Planning (Proper Maintenance of Land) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2021-05-05T15:01:53.6593507",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 35,
+      "includedSessionIds": [
+        35
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 12413,
+        "stageId": 7,
+        "sessionId": 35,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3012,
+      "shortTitle": "Planning (Proper Maintenance of Land) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2022-05-05T14:55:31.9960168",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 36,
+      "includedSessionIds": [
+        36
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15596,
+        "stageId": 7,
+        "sessionId": 36,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 12122,
+            "stageId": 7,
+            "billStageId": 15596,
+            "billId": 3012,
+            "date": "2022-05-06T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3434,
+      "shortTitle": "Planning (Quarries) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2023-11-02T14:52:51.1908971",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 37,
+      "includedSessionIds": [
+        37
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 17511,
+        "stageId": 6,
+        "sessionId": 37,
+        "description": "1st reading",
+        "abbreviation": "1R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 14367,
+            "stageId": 6,
+            "billStageId": 17511,
+            "billId": 3434,
+            "date": "2023-03-14T00:00:00"
+          }
+        ],
+        "sortOrder": 1
+      }
+    },
+    {
+      "billId": 3047,
+      "shortTitle": "Planning (Street Plans) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2022-05-04T17:02:36.9932423",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 36,
+      "includedSessionIds": [
+        36
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15736,
+        "stageId": 7,
+        "sessionId": 36,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 12276,
+            "stageId": 7,
+            "billStageId": 15736,
+            "billId": 3047,
+            "date": "2022-05-06T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1593,
+      "shortTitle": "Planning (Subterranean Development) Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2015-11-23T10:10:30",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 2,
+      "introducedSessionId": 28,
+      "includedSessionIds": [
+        28
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 8123,
+        "stageId": 2,
+        "sessionId": 28,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords",
+        "stageSittings": [
+          {
+            "id": 7588,
+            "stageId": 2,
+            "billStageId": 8123,
+            "billId": 1593,
+            "date": "2015-11-20T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3131,
+      "shortTitle": "Planning (Women’s Safety) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2022-05-04T17:16:02.776854",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 36,
+      "includedSessionIds": [
+        36
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 16252,
+        "stageId": 7,
+        "sessionId": 36,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 12932,
+            "stageId": 7,
+            "billStageId": 16252,
+            "billId": 3131,
+            "date": "2022-05-06T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1120,
+      "shortTitle": "Planning Act 2008 (Amendment) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2013-04-26T10:45:56",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 25,
+      "includedSessionIds": [
+        25
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13921,
+        "stageId": 7,
+        "sessionId": 25,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 4018,
+      "shortTitle": "Planning and Development (Community Infrastructure) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2025-11-26T12:47:03.2367127",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 39,
+      "includedSessionIds": [
+        39
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 20198,
+        "stageId": 7,
+        "sessionId": 39,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 17384,
+            "stageId": 7,
+            "billStageId": 20198,
+            "billId": 4018,
+            "date": "2026-01-16T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 222,
+      "shortTitle": "Planning and Energy Act 2008",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2009-02-25T13:46:42",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 7,
+      "introducedSessionId": 21,
+      "includedSessionIds": [
+        21
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 1900,
+        "stageId": 11,
+        "sessionId": 21,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 1838,
+            "stageId": 11,
+            "billStageId": 1900,
+            "billId": 222,
+            "date": "2008-11-13T00:00:00"
+          }
+        ],
+        "sortOrder": 12
+      }
+    },
+    {
+      "billId": 3946,
+      "shortTitle": "Planning and Infrastructure Act 2025",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2025-12-19T10:47:59.7498041",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 39,
+      "includedSessionIds": [
+        39
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 20368,
+        "stageId": 11,
+        "sessionId": 39,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 17639,
+            "stageId": 11,
+            "billStageId": 20368,
+            "billId": 3946,
+            "date": "2025-12-18T00:00:00"
+          }
+        ],
+        "sortOrder": 20
+      }
+    },
+    {
+      "billId": 3030,
+      "shortTitle": "Planning and Local Representation Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2022-05-03T16:54:53.2570316",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 36,
+      "includedSessionIds": [
+        36
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15659,
+        "stageId": 7,
+        "sessionId": 36,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 12192,
+            "stageId": 7,
+            "billStageId": 15659,
+            "billId": 3030,
+            "date": "2022-05-06T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3372,
+      "shortTitle": "Planning Application Fees Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2023-11-02T14:54:05.700681",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 37,
+      "includedSessionIds": [
+        37
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 17125,
+        "stageId": 6,
+        "sessionId": 37,
+        "description": "1st reading",
+        "abbreviation": "1R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 13928,
+            "stageId": 6,
+            "billStageId": 17125,
+            "billId": 3372,
+            "date": "2022-11-16T00:00:00"
+          }
+        ],
+        "sortOrder": 1
+      }
+    },
+    {
+      "billId": 965,
+      "shortTitle": "Planning Applications (Appeals by Town and Parish Councils) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2012-05-01T15:44:24",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 24,
+      "includedSessionIds": [
+        24
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13783,
+        "stageId": 7,
+        "sessionId": 24,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1116,
+      "shortTitle": "Planning Applications (Community Right of Appeal) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2013-04-26T10:46:48",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 25,
+      "includedSessionIds": [
+        25
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13917,
+        "stageId": 7,
+        "sessionId": 25,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1529,
+      "shortTitle": "Planning Consent Applications (Contracts) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2015-03-30T15:07:20",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 27,
+      "includedSessionIds": [
+        27
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14312,
+        "stageId": 7,
+        "sessionId": 27,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1162,
+      "shortTitle": "Planning Permission (Financial Penalties) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2013-04-26T10:47:43",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 25,
+      "includedSessionIds": [
+        25
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13961,
+        "stageId": 7,
+        "sessionId": 25,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1277,
+      "shortTitle": "Planning Regulations (Removal of Provisions in Respect of Gypsies and Travellers) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2014-05-15T15:09:51",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 26,
+      "includedSessionIds": [
+        26
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14071,
+        "stageId": 7,
+        "sessionId": 26,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 150,
+      "shortTitle": "Planning-Gain Supplement (Preparations) Act 2007",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2007-10-27T15:05:00",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 20,
+      "includedSessionIds": [
+        20
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 751,
+        "stageId": 11,
+        "sessionId": 20,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 589,
+            "stageId": 11,
+            "billStageId": 751,
+            "billId": 150,
+            "date": "2007-03-20T00:00:00"
+          }
+        ],
+        "sortOrder": 12
+      }
+    },
+    {
+      "billId": 3822,
+      "shortTitle": "Plant Protection Products (Prohibition on Public Sector Use) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2025-12-04T13:53:00.9303846",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 39,
+      "includedSessionIds": [
+        39
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 19120,
+        "stageId": 7,
+        "sessionId": 39,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 16196,
+            "stageId": 7,
+            "billStageId": 19120,
+            "billId": 3822,
+            "date": "2026-05-01T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1079,
+      "shortTitle": "Plastic Glasses and Bottles (Mandatory Use) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2013-04-18T16:21:23",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 25,
+      "includedSessionIds": [
+        25
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 5219,
+        "stageId": 7,
+        "sessionId": 25,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2355,
+      "shortTitle": "Plastic Pollution Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2019-03-25T11:17:43",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15091,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2799,
+      "shortTitle": "Plastic Pollution Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2021-05-05T15:02:21.718416",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 35,
+      "includedSessionIds": [
+        35
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 12533,
+        "stageId": 7,
+        "sessionId": 35,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3013,
+      "shortTitle": "Plastic Pollution Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2022-05-04T15:12:01.0005788",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 36,
+      "includedSessionIds": [
+        36
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15598,
+        "stageId": 7,
+        "sessionId": 36,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 12124,
+            "stageId": 7,
+            "billStageId": 15598,
+            "billId": 3013,
+            "date": "2022-05-06T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2438,
+      "shortTitle": "Plastic Pollution (No. 2) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2019-09-19T14:00:59",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15165,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2246,
+      "shortTitle": "Plastics Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2019-03-22T10:40:54",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14985,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3364,
+      "shortTitle": "Plastics (Recycling, Sustainability and Pollution Reduction) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2023-11-02T14:54:56.603653",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 37,
+      "includedSessionIds": [
+        37
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 17103,
+        "stageId": 6,
+        "sessionId": 37,
+        "description": "1st reading",
+        "abbreviation": "1R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 13898,
+            "stageId": 6,
+            "billStageId": 17103,
+            "billId": 3364,
+            "date": "2022-11-09T00:00:00"
+          }
+        ],
+        "sortOrder": 1
+      }
+    },
+    {
+      "billId": 3062,
+      "shortTitle": "Plastics (Wet Wipes) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2022-05-03T16:41:52.2722219",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 36,
+      "includedSessionIds": [
+        36
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15843,
+        "stageId": 7,
+        "sessionId": 36,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 12443,
+            "stageId": 7,
+            "billStageId": 15843,
+            "billId": 3062,
+            "date": "2022-05-06T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3232,
+      "shortTitle": "Plastics (Wet Wipes) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2023-11-02T15:00:11.0222669",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 37,
+      "includedSessionIds": [
+        37
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 16659,
+        "stageId": 7,
+        "sessionId": 37,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 13369,
+            "stageId": 7,
+            "billStageId": 16659,
+            "billId": 3232,
+            "date": "2023-10-20T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1105,
+      "shortTitle": "Police (Complaints and Conduct) Act 2012",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2013-02-01T09:55:03",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 25,
+      "includedSessionIds": [
+        25
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 5542,
+        "stageId": 11,
+        "sessionId": 25,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 5235,
+            "stageId": 11,
+            "billStageId": 5542,
+            "billId": 1105,
+            "date": "2012-12-19T00:00:00"
+          }
+        ],
+        "sortOrder": 13
+      }
+    },
+    {
+      "billId": 3679,
+      "shortTitle": "Police (Declaration) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2025-02-12T16:37:08.4488213",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 38,
+      "includedSessionIds": [
+        38
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 19642,
+        "stageId": 7,
+        "sessionId": 38,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 879,
+      "shortTitle": "Police (Detention and Bail) Act 2011",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2011-10-20T17:28:17",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 24,
+      "includedSessionIds": [
+        24
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 4408,
+        "stageId": 11,
+        "sessionId": 24,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 4176,
+            "stageId": 11,
+            "billStageId": 4408,
+            "billId": 879,
+            "date": "2011-07-12T00:00:00"
+          }
+        ],
+        "sortOrder": 9
+      }
+    },
+    {
+      "billId": 351,
+      "shortTitle": "Police (Justice Commissioners) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2008-11-20T19:55:00",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 21,
+      "includedSessionIds": [
+        21
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13240,
+        "stageId": 7,
+        "sessionId": 21,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 4026,
+      "shortTitle": "Police and Crime Commissioners (Accountability and Review) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2025-10-16T11:17:29.4101549",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 39,
+      "includedSessionIds": [
+        39
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 20234,
+        "stageId": 7,
+        "sessionId": 39,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 17434,
+            "stageId": 7,
+            "billStageId": 20234,
+            "billId": 4026,
+            "date": "2026-05-29T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2597,
+      "shortTitle": "Police Conduct (Operation Conifer) Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2021-05-05T12:37:07.3494335",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 2,
+      "introducedSessionId": 35,
+      "includedSessionIds": [
+        35
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 11775,
+        "stageId": 2,
+        "sessionId": 35,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2398,
+      "shortTitle": "Police Officer Training (Autism Awareness) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2019-05-02T10:50:04",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15133,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 754,
+      "shortTitle": "Police Reform and Social Responsibility Act 2011",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2011-11-10T15:26:28",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 24,
+      "includedSessionIds": [
+        24
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 4484,
+        "stageId": 11,
+        "sessionId": 24,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 4213,
+            "stageId": 11,
+            "billStageId": 4484,
+            "billId": 754,
+            "date": "2011-09-15T00:00:00"
+          }
+        ],
+        "sortOrder": 17
+      }
+    },
+    {
+      "billId": 2754,
+      "shortTitle": "Police Stop and Search (Repeal) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2021-05-05T15:02:48.7815121",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 35,
+      "includedSessionIds": [
+        35
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 12252,
+        "stageId": 7,
+        "sessionId": 35,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 767,
+      "shortTitle": "Police Terms and Conditions of Service (Redundancy) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2011-11-10T11:35:42",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 24,
+      "includedSessionIds": [
+        24
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13592,
+        "stageId": 7,
+        "sessionId": 24,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2839,
+      "shortTitle": "Police, Crime, Sentencing and Courts Act 2022",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2022-07-14T14:43:02.5451994",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 35,
+      "includedSessionIds": [
+        35,
+        36
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 16431,
+        "stageId": 11,
+        "sessionId": 36,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 13132,
+            "stageId": 11,
+            "billStageId": 16431,
+            "billId": 2839,
+            "date": "2022-04-28T00:00:00"
+          }
+        ],
+        "sortOrder": 24
+      }
+    },
+    {
+      "billId": 380,
+      "shortTitle": "Policing and Crime",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2010-01-18T12:48:55",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 22,
+      "includedSessionIds": [
+        22
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 2794,
+        "stageId": 11,
+        "sessionId": 22,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 2629,
+            "stageId": 11,
+            "billStageId": 2794,
+            "billId": 380,
+            "date": "2009-11-12T00:00:00"
+          }
+        ],
+        "sortOrder": 16
+      }
+    },
+    {
+      "billId": 1745,
+      "shortTitle": "Policing and Crime Act 2017",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2017-02-01T09:31:23",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 28,
+      "includedSessionIds": [
+        28,
+        29
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 9298,
+        "stageId": 11,
+        "sessionId": 29,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 8566,
+            "stageId": 11,
+            "billStageId": 9298,
+            "billId": 1745,
+            "date": "2017-01-31T00:00:00"
+          }
+        ],
+        "sortOrder": 22
+      }
+    },
+    {
+      "billId": 2033,
+      "shortTitle": "Policing Resources Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2019-09-12T11:23:15",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 2,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14777,
+        "stageId": 2,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2507,
+      "shortTitle": "Policing Resources Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2019-11-08T10:17:49",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 2,
+      "introducedSessionId": 34,
+      "includedSessionIds": [
+        34
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15229,
+        "stageId": 2,
+        "sessionId": 34,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2619,
+      "shortTitle": "Policing Resources Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2021-05-05T12:37:41.8565058",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 2,
+      "introducedSessionId": 35,
+      "includedSessionIds": [
+        35
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 11836,
+        "stageId": 2,
+        "sessionId": 35,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3937,
+      "shortTitle": "Political Donations Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2025-09-11T16:28:34.0398403",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 39,
+      "includedSessionIds": [
+        39
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 19678,
+        "stageId": 7,
+        "sessionId": 39,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 16719,
+            "stageId": 7,
+            "billStageId": 19678,
+            "billId": 3937,
+            "date": "2025-10-31T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1804,
+      "shortTitle": "Political Parties (Funding and Expenditure) Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2017-05-02T14:12:46",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 2,
+      "introducedSessionId": 29,
+      "includedSessionIds": [
+        29
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 8705,
+        "stageId": 2,
+        "sessionId": 29,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords",
+        "stageSittings": [
+          {
+            "id": 8133,
+            "stageId": 2,
+            "billStageId": 8705,
+            "billId": 1804,
+            "date": "2017-03-10T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 336,
+      "shortTitle": "Political Parties and Elections",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2009-10-16T12:52:46",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 21,
+      "includedSessionIds": [
+        21,
+        22
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 2661,
+        "stageId": 11,
+        "sessionId": 22,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 2495,
+            "stageId": 11,
+            "billStageId": 2661,
+            "billId": 336,
+            "date": "2009-07-21T00:00:00"
+          }
+        ],
+        "sortOrder": 21
+      }
+    },
+    {
+      "billId": 1480,
+      "shortTitle": "Political Party Policy Costings (Office for Budget Responsibility) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2015-03-30T15:07:54",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 27,
+      "includedSessionIds": [
+        27
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14267,
+        "stageId": 7,
+        "sessionId": 27,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1619,
+      "shortTitle": "Polling Day (Saturday) Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2015-06-10T09:55:03",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 2,
+      "introducedSessionId": 28,
+      "includedSessionIds": [
+        28
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14393,
+        "stageId": 2,
+        "sessionId": 28,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 151,
+      "shortTitle": "Polling Stations (Regulation) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2007-10-24T15:26:00",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 7,
+      "introducedSessionId": 20,
+      "includedSessionIds": [
+        20
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13065,
+        "stageId": 7,
+        "sessionId": 20,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3883,
+      "shortTitle": "Poly and Perfluorinated Alkyl Substances (Guidance) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2025-07-11T15:16:54.6191326",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 39,
+      "includedSessionIds": [
+        39
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 19260,
+        "stageId": 7,
+        "sessionId": 39,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 16344,
+            "stageId": 7,
+            "billStageId": 19260,
+            "billId": 3883,
+            "date": "2025-07-11T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 169,
+      "shortTitle": "Ports (Regulation) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2007-10-22T11:43:00",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 20,
+      "includedSessionIds": [
+        20
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13081,
+        "stageId": 7,
+        "sessionId": 20,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1047,
+      "shortTitle": "Ports Act 1991 (Amendment) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2013-02-27T11:29:57",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 25,
+      "includedSessionIds": [
+        25
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 5091,
+        "stageId": 7,
+        "sessionId": 25,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3526,
+      "shortTitle": "Post Office (Horizon System) Compensation Act 2024",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2024-08-19T15:26:14.5700544",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 38,
+      "includedSessionIds": [
+        38
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 18427,
+        "stageId": 11,
+        "sessionId": 38,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 15471,
+            "stageId": 11,
+            "billStageId": 18427,
+            "billId": 3526,
+            "date": "2024-01-25T00:00:00"
+          }
+        ],
+        "sortOrder": 11
+      }
+    },
+    {
+      "billId": 3694,
+      "shortTitle": "Post Office (Horizon System) Offences Act 2024",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2024-10-02T10:09:50.8621501",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 38,
+      "includedSessionIds": [
+        38
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 18840,
+        "stageId": 11,
+        "sessionId": 38,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 15932,
+            "stageId": 11,
+            "billStageId": 18840,
+            "billId": 3694,
+            "date": "2024-05-24T00:00:00"
+          }
+        ],
+        "sortOrder": 15
+      }
+    },
+    {
+      "billId": 152,
+      "shortTitle": "Post-16 Education and Training Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2007-11-01T09:46:00",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 7,
+      "introducedSessionId": 20,
+      "includedSessionIds": [
+        20
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 755,
+        "stageId": 7,
+        "sessionId": 20,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 592,
+            "stageId": 7,
+            "billStageId": 755,
+            "billId": 152,
+            "date": "2007-05-18T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 449,
+      "shortTitle": "Postal Services Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2009-11-13T14:13:30",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 22,
+      "includedSessionIds": [
+        22
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13321,
+        "stageId": 7,
+        "sessionId": 22,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 7
+      }
+    },
+    {
+      "billId": 765,
+      "shortTitle": "Postal Services Act 2011",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2011-11-10T15:29:54",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 24,
+      "includedSessionIds": [
+        24
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 4320,
+        "stageId": 11,
+        "sessionId": 24,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 4107,
+            "stageId": 11,
+            "billStageId": 4320,
+            "billId": 765,
+            "date": "2011-06-13T00:00:00"
+          }
+        ],
+        "sortOrder": 14
+      }
+    },
+    {
+      "billId": 2211,
+      "shortTitle": "Postal Voting Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2019-03-20T16:36:01",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14951,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2367,
+      "shortTitle": "Postnatal Check-ups (Mental Health) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2019-03-22T13:15:02",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15103,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3210,
+      "shortTitle": "Powers of Attorney Act 2023",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2023-09-25T10:09:03.8354653",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 7,
+      "introducedSessionId": 37,
+      "includedSessionIds": [
+        37
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 17947,
+        "stageId": 11,
+        "sessionId": 37,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 14941,
+            "stageId": 11,
+            "billStageId": 17947,
+            "billId": 3210,
+            "date": "2023-09-18T00:00:00"
+          }
+        ],
+        "sortOrder": 10
+      }
+    },
+    {
+      "billId": 3892,
+      "shortTitle": "Powers of Attorney Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2025-07-14T14:34:46.5646318",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 39,
+      "includedSessionIds": [
+        39
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 19318,
+        "stageId": 7,
+        "sessionId": 39,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 184,
+      "shortTitle": "Powers of Entry etc. Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2009-02-25T13:48:18",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 2,
+      "introducedSessionId": 21,
+      "includedSessionIds": [
+        21
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 1751,
+        "stageId": 5,
+        "sessionId": 21,
+        "description": "3rd reading",
+        "abbreviation": "3R",
+        "house": "Lords",
+        "stageSittings": [
+          {
+            "id": 1601,
+            "stageId": 5,
+            "billStageId": 1751,
+            "billId": 184,
+            "date": "2008-07-17T00:00:00"
+          }
+        ],
+        "sortOrder": 5
+      }
+    },
+    {
+      "billId": 555,
+      "shortTitle": "Powers of Entry etc. Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2010-04-13T11:19:42",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 2,
+      "introducedSessionId": 23,
+      "includedSessionIds": [
+        23
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 3338,
+        "stageId": 5,
+        "sessionId": 23,
+        "description": "3rd reading",
+        "abbreviation": "3R",
+        "house": "Lords",
+        "stageSittings": [
+          {
+            "id": 3139,
+            "stageId": 5,
+            "billStageId": 3338,
+            "billId": 555,
+            "date": "2010-04-06T00:00:00"
+          }
+        ],
+        "sortOrder": 5
+      }
+    },
+    {
+      "billId": 2404,
+      "shortTitle": "Pregnancy and Maternity (Redundancy Protection) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2019-05-22T10:51:16",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15139,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2761,
+      "shortTitle": "Pregnancy and Maternity (Redundancy Protection) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2021-05-05T15:50:38.9680469",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 35,
+      "includedSessionIds": [
+        35
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 12297,
+        "stageId": 7,
+        "sessionId": 35,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3007,
+      "shortTitle": "Pregnancy and Maternity (Redundancy Protection) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2022-05-05T13:56:20.5748789",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 36,
+      "includedSessionIds": [
+        36
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15586,
+        "stageId": 7,
+        "sessionId": 36,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 12112,
+            "stageId": 7,
+            "billStageId": 15586,
+            "billId": 3007,
+            "date": "2022-05-06T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 153,
+      "shortTitle": "Prenuptial Agreements Title Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2007-10-22T11:43:00",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 20,
+      "includedSessionIds": [
+        20
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13067,
+        "stageId": 7,
+        "sessionId": 20,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1080,
+      "shortTitle": "Pre-Paid Meters (Level of Debt) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2012-12-20T14:32:59",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 25,
+      "includedSessionIds": [
+        25
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13882,
+        "stageId": 7,
+        "sessionId": 25,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3379,
+      "shortTitle": "Pre-Payment Meters (Self-Disconnection) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2023-11-02T15:00:42.2357337",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 37,
+      "includedSessionIds": [
+        37
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 17162,
+        "stageId": 7,
+        "sessionId": 37,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 13969,
+            "stageId": 7,
+            "billStageId": 17162,
+            "billId": 3379,
+            "date": "2023-03-24T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3390,
+      "shortTitle": "Pre-Payment Meters (Temporary Prohibition) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2023-11-02T15:01:24.5611348",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 37,
+      "includedSessionIds": [
+        37
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 17223,
+        "stageId": 6,
+        "sessionId": 37,
+        "description": "1st reading",
+        "abbreviation": "1R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 14038,
+            "stageId": 6,
+            "billStageId": 17223,
+            "billId": 3390,
+            "date": "2022-12-07T00:00:00"
+          }
+        ],
+        "sortOrder": 1
+      }
+    },
+    {
+      "billId": 334,
+      "shortTitle": "Press Complaints Commission (Breaches of Code of Practice) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2008-10-16T17:36:00",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 21,
+      "includedSessionIds": [
+        21
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13223,
+        "stageId": 7,
+        "sessionId": 21,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 413,
+      "shortTitle": "Presumption of Death Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2009-06-25T21:43:58",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 7,
+      "introducedSessionId": 22,
+      "includedSessionIds": [
+        22
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13286,
+        "stageId": 7,
+        "sessionId": 22,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1033,
+      "shortTitle": "Presumption of Death Act 2013",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2013-03-27T10:09:25",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 7,
+      "introducedSessionId": 25,
+      "includedSessionIds": [
+        25
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 5817,
+        "stageId": 11,
+        "sessionId": 25,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 5397,
+            "stageId": 11,
+            "billStageId": 5817,
+            "billId": 1033,
+            "date": "2013-03-26T00:00:00"
+          }
+        ],
+        "sortOrder": 10
+      }
+    },
+    {
+      "billId": 997,
+      "shortTitle": "Presumption of Death and Provisions Relating to Missing Persons Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2013-04-30T11:15:13",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 2,
+      "introducedSessionId": 25,
+      "includedSessionIds": [
+        25
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13810,
+        "stageId": 2,
+        "sessionId": 25,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1954,
+      "shortTitle": "Preventing and Combating Violence Against Women and Domestic Violence (Ratification of Convention) Act 2017",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2017-08-15T13:05:46",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 7,
+      "introducedSessionId": 29,
+      "includedSessionIds": [
+        29
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 9532,
+        "stageId": 11,
+        "sessionId": 29,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 8817,
+            "stageId": 11,
+            "billStageId": 9532,
+            "billId": 1954,
+            "date": "2017-04-27T00:00:00"
+          }
+        ],
+        "sortOrder": 10
+      }
+    },
+    {
+      "billId": 475,
+      "shortTitle": "Prevention of Excessive Charges Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2009-11-03T16:08:50",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 22,
+      "includedSessionIds": [
+        22
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13344,
+        "stageId": 7,
+        "sessionId": 22,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1037,
+      "shortTitle": "Prevention of Social Housing Fraud Act 2013",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2013-02-01T09:35:58",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 7,
+      "introducedSessionId": 25,
+      "includedSessionIds": [
+        25
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 5661,
+        "stageId": 11,
+        "sessionId": 25,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 5300,
+            "stageId": 11,
+            "billStageId": 5661,
+            "billId": 1037,
+            "date": "2013-01-31T00:00:00"
+          }
+        ],
+        "sortOrder": 11
+      }
+    },
+    {
+      "billId": 833,
+      "shortTitle": "Prevention of Terrorism Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2012-05-01T15:47:58",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 24,
+      "includedSessionIds": [
+        24
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13657,
+        "stageId": 7,
+        "sessionId": 24,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1040,
+      "shortTitle": "Price Marking (Consumer Information) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2012-10-19T09:18:44",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 7,
+      "introducedSessionId": 25,
+      "includedSessionIds": [
+        25
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 13843,
+        "stageId": 7,
+        "sessionId": 25,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3489,
+      "shortTitle": "Primary care services (report) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2023-11-02T15:02:09.4529727",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 5,
+      "introducedSessionId": 37,
+      "includedSessionIds": [
+        37
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 17871,
+        "stageId": 6,
+        "sessionId": 37,
+        "description": "1st reading",
+        "abbreviation": "1R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 14841,
+            "stageId": 6,
+            "billStageId": 17871,
+            "billId": 3489,
+            "date": "2023-07-12T00:00:00"
+          }
+        ],
+        "sortOrder": 1
+      }
+    },
+    {
+      "billId": 2130,
+      "shortTitle": "Prime Minister (Accountability to House of Commons) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2019-03-22T10:46:05",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14873,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2957,
+      "shortTitle": "Prime Minister (Accountability to House of Commons) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2022-05-05T15:34:16.198467",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 36,
+      "includedSessionIds": [
+        36
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15485,
+        "stageId": 7,
+        "sessionId": 36,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 12012,
+            "stageId": 7,
+            "billStageId": 15485,
+            "billId": 2957,
+            "date": "2022-03-11T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3250,
+      "shortTitle": "Prime Minister (Accountability to House of Commons) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2023-11-02T15:02:38.4053343",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 37,
+      "includedSessionIds": [
+        37
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 16698,
+        "stageId": 6,
+        "sessionId": 37,
+        "description": "1st reading",
+        "abbreviation": "1R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 13417,
+            "stageId": 6,
+            "billStageId": 16698,
+            "billId": 3250,
+            "date": "2022-06-20T00:00:00"
+          }
+        ],
+        "sortOrder": 1
+      }
+    },
+    {
+      "billId": 2688,
+      "shortTitle": "Prime Minister (Accountability to the House of Commons) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2021-05-05T15:51:03.9391175",
+      "billWithdrawn": "2020-12-30T00:00:00",
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 35,
+      "includedSessionIds": [
+        35
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 11975,
+        "stageId": 6,
+        "sessionId": 35,
+        "description": "1st reading",
+        "abbreviation": "1R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 10860,
+            "stageId": 6,
+            "billStageId": 11975,
+            "billId": 2688,
+            "date": "2020-02-10T00:00:00"
+          }
+        ],
+        "sortOrder": 1
+      }
+    },
+    {
+      "billId": 2380,
+      "shortTitle": "Prime Minister (Confidence) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2019-09-19T14:01:54",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15116,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1516,
+      "shortTitle": "Prime Minister (Limitation of Period of Office) Bill [HL]",
+      "formerShortTitle": null,
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2014-11-12T10:17:33",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 2,
+      "introducedSessionId": 27,
+      "includedSessionIds": [
+        27
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14300,
+        "stageId": 2,
+        "sessionId": 27,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2441,
+      "shortTitle": "Prime Minister (Nomination) and Cabinet (Appointment) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2019-09-19T14:02:37",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15167,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3728,
+      "shortTitle": "Prime Minister (Nomination) and Cabinet (Appointment) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2025-02-12T16:37:37.3383033",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 38,
+      "includedSessionIds": [
+        38
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 19643,
+        "stageId": 7,
+        "sessionId": 38,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1249,
+      "shortTitle": "Prime Minister (Replacement) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2014-05-15T15:12:09",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 26,
+      "includedSessionIds": [
+        26
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 6123,
+        "stageId": 7,
+        "sessionId": 26,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 5740,
+            "stageId": 7,
+            "billStageId": 6123,
+            "billId": 1249,
+            "date": "2013-11-29T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 1658,
+      "shortTitle": "Prime Minister (Temporary Appointment) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2016-05-13T11:48:05",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 28,
+      "includedSessionIds": [
+        28
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14432,
+        "stageId": 7,
+        "sessionId": 28,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2127,
+      "shortTitle": "Prime Minister (Temporary Replacement) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2019-09-19T14:03:03",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14870,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2687,
+      "shortTitle": "Prime Minister (Temporary Replacement) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2021-05-05T16:42:03.6588513",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 35,
+      "includedSessionIds": [
+        35
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 11974,
+        "stageId": 7,
+        "sessionId": 35,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 11579,
+            "stageId": 7,
+            "billStageId": 11974,
+            "billId": 2687,
+            "date": "2021-03-19T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2924,
+      "shortTitle": "Prime Minister (Temporary Replacement) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2022-05-05T13:47:45.8045651",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 36,
+      "includedSessionIds": [
+        36
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15414,
+        "stageId": 7,
+        "sessionId": 36,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 11938,
+            "stageId": 7,
+            "billStageId": 15414,
+            "billId": 2924,
+            "date": "2022-01-14T00:00:00"
+          },
+          {
+            "id": 12677,
+            "stageId": 7,
+            "billStageId": 15414,
+            "billId": 2924,
+            "date": "2022-05-06T00:00:00"
+          }
+        ],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3251,
+      "shortTitle": "Prime Minister (Temporary Replacement) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2023-11-02T15:02:59.734514",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 37,
+      "includedSessionIds": [
+        37
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 16700,
+        "stageId": 6,
+        "sessionId": 37,
+        "description": "1st reading",
+        "abbreviation": "1R",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 13419,
+            "stageId": 6,
+            "billStageId": 16700,
+            "billId": 3251,
+            "date": "2022-06-20T00:00:00"
+          }
+        ],
+        "sortOrder": 1
+      }
+    },
+    {
+      "billId": 2090,
+      "shortTitle": "Principal Local Authorities (Grounds for Abolition) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2019-09-19T14:03:23",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 30,
+      "includedSessionIds": [
+        30
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14833,
+        "stageId": 7,
+        "sessionId": 30,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 3577,
+      "shortTitle": "Prison Media Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2024-09-23T14:53:56.4968129",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 38,
+      "includedSessionIds": [
+        38
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 18559,
+        "stageId": 8,
+        "sessionId": 38,
+        "description": "Committee stage",
+        "abbreviation": "CS",
+        "house": "Commons",
+        "stageSittings": [
+          {
+            "id": 15852,
+            "stageId": 8,
+            "billStageId": 18559,
+            "billId": 3577,
+            "date": "2024-05-22T00:00:00"
+          }
+        ],
+        "sortOrder": 3
+      }
+    },
+    {
+      "billId": 1227,
+      "shortTitle": "Prisoners (Completion of Custodial Sentences) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2014-05-15T15:13:33",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 8,
+      "introducedSessionId": 26,
+      "includedSessionIds": [
+        26
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 14021,
+        "stageId": 7,
+        "sessionId": 26,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2462,
+      "shortTitle": "Prisoners (Disclosure of Information About Victims) Bill",
+      "formerShortTitle": null,
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2019-11-06T12:38:37",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 34,
+      "includedSessionIds": [
+        34
+      ],
+      "isAct": false,
+      "currentStage": {
+        "id": 15188,
+        "stageId": 7,
+        "sessionId": 34,
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons",
+        "stageSittings": [],
+        "sortOrder": 2
+      }
+    },
+    {
+      "billId": 2521,
+      "shortTitle": "Prisoners (Disclosure of Information About Victims) Act 2020",
+      "formerShortTitle": null,
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2020-11-12T15:31:38",
+      "billWithdrawn": null,
+      "isDefeated": false,
+      "billTypeId": 1,
+      "introducedSessionId": 35,
+      "includedSessionIds": [
+        35
+      ],
+      "isAct": true,
+      "currentStage": {
+        "id": 12552,
+        "stageId": 11,
+        "sessionId": 35,
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned",
+        "stageSittings": [
+          {
+            "id": 11331,
+            "stageId": 11,
+            "billStageId": 12552,
+            "billId": 2521,
+            "date": "2020-11-04T00:00:00"
+          }
+        ],
+        "sortOrder": 12
+      }
+    }
+  ],
+  "totalResults": 3823,
+  "itemsPerPage": 200
+}

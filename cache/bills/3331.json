@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the extension of pensions automatic enrolment to jobholders under the age of 22; to make provision about the lower qualifying earnings threshold for automatic enrolment; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4814,
+        "name": "Jonathan Gullis",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4814/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4814/contact",
+        "memberFrom": "Stoke-on-Trent North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3331,
+  "shortTitle": "Pensions (Extension of Automatic Enrolment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-02-23T16:38:15.2264331",
+  "billWithdrawn": "2023-02-23T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16922,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13655,
+        "stageId": 6,
+        "billStageId": 16922,
+        "billId": 3331,
+        "date": "2022-07-20T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

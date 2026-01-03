@@ -1,0 +1,59 @@
+{
+  "longTitle": "To make provision for the giving of financial assistance for the purpose of securing the reduction of charges for the supply of water and the provision of sewerage services and in connection with the construction of, and the carrying out of works in respect of, water and sewerage infrastructure.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 312,
+        "name": "Mrs Caroline Spelman",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/312/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/312/contact",
+        "memberFrom": "Meriden"
+      },
+      "organisation": {
+        "name": "Department for Environment, Food and Rural Affairs",
+        "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 955,
+  "shortTitle": "Water Industry (Financial Assistance) Act 2012",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-02T10:22:55",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4924,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4635,
+        "stageId": 11,
+        "billStageId": 4924,
+        "billId": 955,
+        "date": "2012-05-01T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+}

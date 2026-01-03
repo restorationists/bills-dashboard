@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to limit the period in which a person may be Prime Minister",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 992,
+        "name": "Lord Owen",
+        "party": "Independent Social Democrat",
+        "partyColour": null,
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/992/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/992/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1516,
+  "shortTitle": "Prime Minister (Limitation of Period of Office) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2014-11-12T10:17:33",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14300,
+    "stageId": 2,
+    "sessionId": 27,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

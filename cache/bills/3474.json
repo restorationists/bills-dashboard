@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to ensure that families eligible for the Healthy Start scheme are registered to receive it; to confer certain powers on government departments and agencies and public bodies for that purpose; to provide for an opt-out where the family wishes; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4277,
+        "name": "Mrs Emma Lewell-Buck",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4277/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4277/contact",
+        "memberFrom": "South Shields"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3474,
+  "shortTitle": "Healthy Start Scheme (Take-Up) (No. 2) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-01T15:58:25.2958149",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17767,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14710,
+        "stageId": 6,
+        "billStageId": 17767,
+        "billId": 3474,
+        "date": "2023-06-14T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

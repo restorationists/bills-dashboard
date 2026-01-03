@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision to extend the period following the Northern Ireland Assembly election of 5 May 2022 during which Ministers may be appointed.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3977,
+        "name": "Chris Heaton-Harris",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3977/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3977/contact",
+        "memberFrom": "Daventry"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4581,
+        "name": "Lord Caine",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4581/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4581/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3672,
+  "shortTitle": "Northern Ireland (Executive Formation) Act 2024",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-01-26T09:19:04.5297103",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 18459,
+    "stageId": 11,
+    "sessionId": 38,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 15472,
+        "stageId": 11,
+        "billStageId": 18459,
+        "billId": 3672,
+        "date": "2024-01-25T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

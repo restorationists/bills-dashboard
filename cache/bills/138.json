@@ -1,0 +1,56 @@
+{
+  "longTitle": "Amend section 3 of the Criminal Law Act 1967 and section 3 of the Criminal Law Act (Northern Ireland) 1967 in relation to the use of force in the prevention of crime or in the defence of persons or property.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1496,
+        "name": "Mr Shailesh Vara",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1496/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1496/contact",
+        "memberFrom": "North West Cambridgeshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 138,
+  "shortTitle": "Criminal Law (Amendment) (Protection of Property) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-10-22T12:23:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 713,
+    "stageId": 7,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 529,
+        "stageId": 7,
+        "billStageId": 713,
+        "billId": 138,
+        "date": "2007-06-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

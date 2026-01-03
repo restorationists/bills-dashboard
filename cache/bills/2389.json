@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to provide for Class 1A national insurance contributions on certain termination awards; and to provide for the controller of a sporting testimonial to be the person liable to pay Class 1A national insurance contributions on payments from money raised by the testimonial.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 105,
+        "name": "Mr Philip Hammond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/105/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/105/contact",
+        "memberFrom": "Runnymede and Weybridge"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 57,
+        "name": "Lord Young of Cookham",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/57/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/57/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2389,
+  "shortTitle": "National Insurance Contributions (Termination Awards and Sporting Testimonials) Act 2019",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-07-25T10:22:12",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11359,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10360,
+        "stageId": 11,
+        "billStageId": 11359,
+        "billId": 2389,
+        "date": "2019-07-24T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "Require the British Broadcasting Corporation to publish all invoices for amounts in excess of £500 each quarter; to allow unrestricted access to the Corporation’s accounts by the National Audit Office; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4086,
+        "name": "Alun Cairns",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4086/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4086/contact",
+        "memberFrom": "Vale of Glamorgan"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1104,
+  "shortTitle": "BBC (Audit Arrangements and Publication of Invoices) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-04-26T09:52:31",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13905,
+    "stageId": 7,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

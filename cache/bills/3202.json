@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision prohibiting the import of hunting trophies into Great Britain.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3960,
+        "name": "Henry Smith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3960/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3960/contact",
+        "memberFrom": "Crawley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 830,
+        "name": "Baroness Fookes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/830/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/830/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3202,
+  "shortTitle": "Hunting Trophies (Import Prohibition) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-31T12:30:17.7513351",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17776,
+    "stageId": 3,
+    "sessionId": 37,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 14894,
+        "stageId": 3,
+        "billStageId": 17776,
+        "billId": 3202,
+        "date": "2023-09-12T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision about access to contraceptive services; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1507,
+        "name": "Mrs Natascha Engel",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1507/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1507/contact",
+        "memberFrom": "North East Derbyshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 26,
+  "shortTitle": "Access To Contraceptive Services Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-05-10T11:40:52.5925826",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12944,
+    "stageId": 7,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

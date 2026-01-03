@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to limit levels of additional amounts charged by utility companies on bills not paid by direct debit; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3985,
+        "name": "Robert Halfon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3985/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3985/contact",
+        "memberFrom": "Harlow"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1346,
+  "shortTitle": "Additional Charges for Utility Bills Not Paid by Direct Debit (Limits) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-05-15T11:17:13",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14137,
+    "stageId": 7,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

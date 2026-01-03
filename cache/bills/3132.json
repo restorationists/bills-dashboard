@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to lay before Parliament annual reports on progress in reducing miscarriage and stillbirth rates among Black and Asian women.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4776,
+        "name": "Munira Wilson",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4776/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4776/contact",
+        "memberFrom": "Twickenham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3132,
+  "shortTitle": "Miscarriage and Stillbirth (Black and Asian Women) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-04T17:15:39.6842911",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16254,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12934,
+        "stageId": 7,
+        "billStageId": 16254,
+        "billId": 3132,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

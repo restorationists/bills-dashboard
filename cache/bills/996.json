@@ -1,0 +1,48 @@
+{
+  "longTitle": null,
+  "summary": "A Bill to make provision for a minimum distance between wind turbines and residential premises according to the size of the wind turbine, and for connected purposes.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3272,
+        "name": "Lord Reay",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3272/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3272/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 996,
+  "shortTitle": "Wind Turbines (Minimum Distance from Residential Premises) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-04-30T11:18:51",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13809,
+    "stageId": 2,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

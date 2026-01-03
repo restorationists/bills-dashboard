@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to increase the powers available to local authorities in relation to unauthorised development of green belt and greenfield land; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3919,
+        "name": "Bob Stewart",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3919/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3919/contact",
+        "memberFrom": "Beckenham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 858,
+  "shortTitle": "Planning (Green Belt Protection) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-02-03T10:26:19",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13681,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

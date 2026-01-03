@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for leave to enter or remain in the United Kingdom to be granted to the family members of refugees and of people granted humanitarian protection; to provide for legal aid to be made available for such family reunion cases; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1546,
+        "name": "Angus Brendan MacNeil",
+        "party": "Scottish National Party",
+        "partyColour": "fff685",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1546/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1546/contact",
+        "memberFrom": "Na h-Eileanan an Iar"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2072,
+  "shortTitle": "Refugees (Family Reunion) (No. 2) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-09-19T14:16:40",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9735,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 9029,
+        "stageId": 7,
+        "billStageId": 9735,
+        "billId": 2072,
+        "date": "2018-03-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to consolidate certain enactments relating to co-operative societies, community benefit societies and other societies registered or treated as registered under the Industrial and Provident Societies Act 1965, with amendments to give effect to recommendations of the Law Commission and the Scottish Law Commission.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1916,
+        "name": "Lord Newby",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1916/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1916/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3945,
+        "name": "Sajid Javid",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3945/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3945/contact",
+        "memberFrom": "Bromsgrove"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1325,
+  "shortTitle": "Co-operative and Community Benefit Societies Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2014-05-15T10:21:18",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 6824,
+    "stageId": 11,
+    "sessionId": 26,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 6398,
+        "stageId": 11,
+        "billStageId": 6824,
+        "billId": 1325,
+        "date": "2014-05-14T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

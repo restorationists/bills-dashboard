@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about sentencing for theft in relation to the theft of tools of trade; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5294,
+        "name": "Amanda Martin",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5294/contact",
+        "memberFrom": "Portsmouth North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3908,
+  "shortTitle": "Theft of Tools of Trade (Sentencing) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-10-31T14:01:41.1766193",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19380,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16492,
+        "stageId": 7,
+        "billStageId": 19380,
+        "billId": 3908,
+        "date": "2026-05-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

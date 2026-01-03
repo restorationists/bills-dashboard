@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Privacy and Electronic Communications (EC Directive) Regulations 2003.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2127,
+        "name": "Lord Selsdon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2127/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2127/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1188,
+  "shortTitle": "Unsolicited Telephone Communications Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-12-18T09:40:23",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 6477,
+    "stageId": 5,
+    "sessionId": 26,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 6113,
+        "stageId": 5,
+        "billStageId": 6477,
+        "billId": 1188,
+        "date": "2013-12-17T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

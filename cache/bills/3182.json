@@ -1,0 +1,97 @@
+{
+  "longTitle": "Make provision about the effect in domestic law of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement, about other domestic law in subject areas dealt with by the Protocol and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4097,
+        "name": "Elizabeth Truss",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4097/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4097/contact",
+        "memberFrom": "South West Norfolk"
+      },
+      "organisation": {
+        "name": "Foreign, Commonwealth and Development Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4210,
+        "name": "Lord Ahmad of Wimbledon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4210/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4210/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Foreign, Commonwealth and Development Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3182,
+  "shortTitle": "Northern Ireland Protocol Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-31T14:51:30.4568772",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16958,
+    "stageId": 3,
+    "sessionId": 37,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 13700,
+        "stageId": 3,
+        "billStageId": 16958,
+        "billId": 3182,
+        "date": "2022-10-25T00:00:00"
+      },
+      {
+        "id": 13709,
+        "stageId": 3,
+        "billStageId": 16958,
+        "billId": 3182,
+        "date": "2022-10-31T00:00:00"
+      },
+      {
+        "id": 13711,
+        "stageId": 3,
+        "billStageId": 16958,
+        "billId": 3182,
+        "date": "2022-11-02T00:00:00"
+      },
+      {
+        "id": 13792,
+        "stageId": 3,
+        "billStageId": 16958,
+        "billId": 3182,
+        "date": "2022-11-07T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

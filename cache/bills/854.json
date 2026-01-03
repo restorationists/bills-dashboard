@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to introduce measures to reduce the exposure of children to the marketing of alcohol products; to make provision to establish the permitted content of marketing of alcohol products; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4073,
+        "name": "Dr Sarah Wollaston",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4073/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4073/contact",
+        "memberFrom": "Totnes"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 854,
+  "shortTitle": "Alcohol Marketing Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-01T14:50:49",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13677,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

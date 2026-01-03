@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require parliamentary approval for the deployment of UK armed forces for armed conflict; to provide for exemptions from that requirement in cases of emergency or in respect of compliance with treaty obligations; to make provision for retrospective parliamentary approval in certain circumstances; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4942,
+        "name": "Richard Foord",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4942/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4942/contact",
+        "memberFrom": "Tiverton and Honiton"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3668,
+  "shortTitle": "Military Action (Parliamentary Approval) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-02-12T16:19:19.6143541",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19624,
+    "stageId": 7,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

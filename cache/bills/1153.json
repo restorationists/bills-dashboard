@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision about the effect of certain provisions relating to\r\nparticipation in a scheme designed to assist persons to obtain employment and about notices relating to participation in such a scheme.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 152,
+        "name": "Mr Iain Duncan Smith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/152/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/152/contact",
+        "memberFrom": "Chingford and Woodford Green"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3893,
+        "name": "Lord Freud",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3893/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3893/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1153,
+  "shortTitle": "Jobseekers (Back to Work Schemes) Act 2013",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-03-27T10:14:31",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5821,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5460,
+        "stageId": 11,
+        "billStageId": 5821,
+        "billId": 1153,
+        "date": "2013-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

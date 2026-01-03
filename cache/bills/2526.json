@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about pension schemes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4174,
+        "name": "Baroness Stedman-Scott",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4174/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4174/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4098,
+        "name": "Dr Thérèse Coffey",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4098/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4098/contact",
+        "memberFrom": "Suffolk Coastal"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2526,
+  "shortTitle": "Pension Schemes Act 2021",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2021-02-12T09:54:34",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12730,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 11505,
+        "stageId": 11,
+        "billStageId": 12730,
+        "billId": 2526,
+        "date": "2021-02-11T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "longTitle": "A Bill to make provision about the status of, and privileges and immunities in connection with, the Commonwealth Parliamentary Association and the International Committee of the Red Cross; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4222,
+        "name": "Lord Collins of Highbury",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4222/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4222/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": null,
+      "organisation": {
+        "name": "Foreign, Commonwealth and Development Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
+      },
+      "sortOrder": 2
+    },
+    {
+      "member": {
+        "memberId": 206,
+        "name": "Mr David Lammy",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/206/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/206/contact",
+        "memberFrom": "Tottenham"
+      },
+      "organisation": null,
+      "sortOrder": 3
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3735,
+  "shortTitle": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Act 2025",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2025-01-17T09:05:16.6978709",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 19422,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 16596,
+        "stageId": 11,
+        "billStageId": 19422,
+        "billId": 3735,
+        "date": "2025-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

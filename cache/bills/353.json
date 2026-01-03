@@ -1,0 +1,48 @@
+{
+  "longTitle": "To provide for no-fault compensation for personal injury in road traffic accidents where liability cannot be established",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 438,
+        "name": "Dr Brian Iddon",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/438/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/438/contact",
+        "memberFrom": "Bolton South East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 353,
+  "shortTitle": "Road Traffic (Accident Compensation) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-11-27T12:47:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13242,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

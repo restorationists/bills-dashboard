@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision about The NHS Constitution; to make provision about health care (including provision about the National Health Service and health bodies); to make provision for the control of the promotion and sale of tobacco products; to make provision about the investigation of complaints about privately arranged or funded adult social care; and for connected purposes.",
+  "summary": "The Bill aims to improve the quality of NHS care and services and to improve public health.<br><br><strong>Key areas:</strong><br><ul><li>Places a duty on providers and commissioners of NHS services to have regard to a new NHS Constitution, which will set out the responsibilities of patients and staff </li><li>introduces direct payments for health services with the intention of giving patients greater control over the health care services they receive </li><li>introduces quality accounts, which would provide information on quality for patients, clinicians and managers, with the aim of improving local accountability for services </li><li>makes provisions to protect children and young people from the harm caused by smoking. These provisions relate particularly to advertising and sales from vending machines </li><li>extends the remit of the Local Government Ombudsman to consider complaints from people who have arranged their own adult social care</li><li>introduces a scheme by which prizes for innovation in health service provision may be awarded.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3779,
+        "name": "Lord Darzi of Denham",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3779/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3779/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department of Health",
+        "url": "http://www.dh.gov.uk"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 376,
+        "name": "Alan Johnson",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/376/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/376/contact",
+        "memberFrom": "Kingston upon Hull West and Hessle"
+      },
+      "organisation": {
+        "name": "Department of Health",
+        "url": "http://www.dh.gov.uk"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 398,
+  "shortTitle": "Health",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-11-20T12:04:25",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 2790,
+    "stageId": 11,
+    "sessionId": 22,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2642,
+        "stageId": 11,
+        "billStageId": 2790,
+        "billId": 398,
+        "date": "2009-11-12T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

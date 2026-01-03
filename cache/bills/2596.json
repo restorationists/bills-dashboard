@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to empower local authorities to introduce Workplace Parking Levies with immediate effect and to impose penalty charges for moving traffic contraventions",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4176,
+        "name": "Lord Shipley",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4176/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4176/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2596,
+  "shortTitle": "Local Authorities (Transport Powers) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2021-05-05T12:21:08.9650221",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11773,
+    "stageId": 2,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

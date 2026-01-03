@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to Make provision about public service television; about the sustainability of, and programme-making by, C4C; about the name, remit, powers, governance and audit of S4C; about the regulation of television selection services; about the regulation of on-demand programme services; about the regulation of radio services; about the regulation of radio selection services; for the repeal of section 40 of the Crime and Courts Act 2013; for addressing deficiencies in broadcasting legislation arising from the withdrawal of the United Kingdom from the European Union; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4517,
+        "name": "Lucy Frazer",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4517/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4517/contact",
+        "memberFrom": "South East Cambridgeshire"
+      },
+      "organisation": {
+        "name": "Department for Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4728,
+        "name": "Lord Parkinson of Whitley Bay",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4728/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4728/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3505,
+  "shortTitle": "Media Act 2024",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-09-19T16:09:23.3817298",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 18841,
+    "stageId": 11,
+    "sessionId": 38,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 15933,
+        "stageId": 11,
+        "billStageId": 18841,
+        "billId": 3505,
+        "date": "2024-05-24T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

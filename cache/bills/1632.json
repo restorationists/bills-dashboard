@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision for access to innovative medical treatments; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3977,
+        "name": "Chris Heaton-Harris",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3977/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3977/contact",
+        "memberFrom": "Daventry"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2154,
+        "name": "Lord Saatchi",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2154/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2154/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1632,
+  "shortTitle": "Access to Medical Treatments (Innovation) Act 2016",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-05-12T14:30:03",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 8502,
+    "stageId": 11,
+    "sessionId": 28,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7893,
+        "stageId": 11,
+        "billStageId": 8502,
+        "billId": 1632,
+        "date": "2016-03-23T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

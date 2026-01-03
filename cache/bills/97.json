@@ -1,0 +1,56 @@
+{
+  "longTitle": "Make provision for the Secretary of State to publish action plans in connection with promoting the sustainability of local communities and to enable local authorities and local communities to participate in the formulation and implementation of those plans; to require the Secretary of State to provide information on government spending in local authority areas to local authorities upon request; to make provision for local authorities to produce local spending plans; to require the Secretary of State to approve and implement those plans; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1561,
+        "name": "Mr Nick Hurd",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1561/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1561/contact",
+        "memberFrom": "Ruislip-Northwood"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 97,
+  "shortTitle": "Sustainable Communities Act 2007",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-11-02T00:00:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 967,
+    "stageId": 11,
+    "sessionId": 20,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 843,
+        "stageId": 11,
+        "billStageId": 967,
+        "billId": 97,
+        "date": "2007-10-23T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

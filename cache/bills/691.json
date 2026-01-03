@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require planning authorities to impose a minimum distance between opencast mining developments and residential properties; and for connected purposes.",
+  "summary": "<p>The Bill would require the Secretary of State to publish guidance on opencast mining policy in England. The guidance must include a specific policy requiring a 500-metre separation zone to be maintained between opencast mining sites and the nearest residential premises, unless the circumstances are exceptional.</p><p>It would require that mineral planning authorities in England must have regard to any such guidance issued when fulfilling their functions.</p><p>The Bill would bring the guidance on opencast mining in England more closely into line with the guidance that applies in Scotland and Wales.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4133,
+        "name": "Andrew Bridgen",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4133/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4133/contact",
+        "memberFrom": "North West Leicestershire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 691,
+  "shortTitle": "Planning (Opencast Mining Separation Zones) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-01T15:52:39",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 3533,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 3323,
+        "stageId": 7,
+        "billStageId": 3533,
+        "billId": 691,
+        "date": "2011-02-11T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

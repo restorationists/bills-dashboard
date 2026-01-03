@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision for the imposition of a cap on rates charged to domestic customers for the supply of gas and electricity; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1578,
+        "name": "Greg Clark",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1578/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1578/contact",
+        "memberFrom": "Tunbridge Wells"
+      },
+      "organisation": {
+        "name": "Department for Business, Energy and Industrial Strategy",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2616,
+        "name": "Lord Henley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2616/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2616/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "Department for Business, Energy and Industrial Strategy",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2213,
+  "shortTitle": "Domestic Gas and Electricity (Tariff Cap) Act 2018",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2018-09-07T12:19:35",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 10627,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 9797,
+        "stageId": 11,
+        "billStageId": 10627,
+        "billId": 2213,
+        "date": "2018-07-19T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

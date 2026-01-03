@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to reduce the voting age to 16 in general elections, elections to the Scottish Parliament, the National Assembly for Wales, the Northern Ireland Assembly and the European Parliament, local government elections and referendums; to make provision about young people’s education in citizenship and the constitution; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4491,
+        "name": "Vicky Foxcroft",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4491/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4491/contact",
+        "memberFrom": "Lewisham, Deptford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1646,
+  "shortTitle": "Representation of the People (Young Persons’ Enfranchisement and Education) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-05-13T15:14:28",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 7868,
+    "stageId": 7,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 7350,
+        "stageId": 7,
+        "billStageId": 7868,
+        "billId": 1646,
+        "date": "2015-09-11T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "longTitle": "A bill to make provision about local and school bus services; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4972,
+        "name": "Lord Hendy of Richmond Hill",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4972/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4972/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4038,
+        "name": "Heidi Alexander",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4038/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4038/contact",
+        "memberFrom": "Swindon South"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3910,
+  "shortTitle": "Bus Services Act 2025",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2025-10-29T18:57:34.2704875",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 20221,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 17474,
+        "stageId": 11,
+        "billStageId": 20221,
+        "billId": 3910,
+        "date": "2025-10-27T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

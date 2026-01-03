@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to place a duty on the Secretary of State to prevent the evictions of Universal Credit claimants in rent arrears; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4463,
+        "name": "Chris Stephens",
+        "party": "Scottish National Party",
+        "partyColour": "fff685",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4463/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4463/contact",
+        "memberFrom": "Glasgow South West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2697,
+  "shortTitle": "Evictions (Universal Credit Claimants) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-04T16:23:23.8939607",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11994,
+    "stageId": 7,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

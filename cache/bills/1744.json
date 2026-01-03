@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about the Independent Reporting Commission, extend the period for the appointment of Northern Ireland Ministers, modify the pledge made by Northern Ireland Ministers on taking office, provide for persons becoming Members of the Northern Ireland Assembly to give an undertaking, and make provision about the draft budget of the Northern Ireland Executive, in pursuance of the agreement made on 17 November 2015 called A Fresh Start: The Stormont Agreement and Implementation Plan.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1500,
+        "name": "Mrs Theresa Villiers",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1500/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1500/contact",
+        "memberFrom": "Chipping Barnet"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4534,
+        "name": "Lord Dunlop",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4534/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4534/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1744,
+  "shortTitle": "Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-05-05T10:37:40",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 8594,
+    "stageId": 11,
+    "sessionId": 28,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 8021,
+        "stageId": 11,
+        "billStageId": 8594,
+        "billId": 1744,
+        "date": "2016-05-04T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+}

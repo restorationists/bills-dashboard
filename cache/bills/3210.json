@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about lasting powers of attorney; to make provision about proof of instruments creating powers of attorney; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4092,
+        "name": "Stephen Metcalfe",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4092/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4092/contact",
+        "memberFrom": "South Basildon and East Thurrock"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4925,
+        "name": "Viscount Stansgate",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4925/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4925/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3210,
+  "shortTitle": "Powers of Attorney Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-09-25T10:09:03.8354653",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17947,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14941,
+        "stageId": 11,
+        "billStageId": 17947,
+        "billId": 3210,
+        "date": "2023-09-18T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

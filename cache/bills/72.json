@@ -1,0 +1,48 @@
+{
+  "longTitle": "Provide for the establishment of an indicator for rural tranquillity; to provide for the protection of rural tranquillity in the planning process; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1584,
+        "name": "John Penrose",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1584/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1584/contact",
+        "memberFrom": "Weston-Super-Mare"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 72,
+  "shortTitle": "Rural Tranquility Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-10-26T09:17:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12990,
+    "stageId": 7,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

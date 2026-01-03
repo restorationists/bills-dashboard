@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the Prime Minister to establish a public inquiry into the Government’s handling of the coronavirus pandemic.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 188,
+        "name": "Sir Edward Davey",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/188/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/188/contact",
+        "memberFrom": "Kingston and Surbiton"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2768,
+  "shortTitle": "Coronavirus Inquiry Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-04T14:27:03.6578583",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12344,
+    "stageId": 7,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

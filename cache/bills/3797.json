@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to publish proposals for the funding of hospice clinical services by NHS England; to require the Secretary of State to report to Parliament on the potential merits of including pharmacy, pathology, patient community equipment, palliative consultant costs, clinical nurse specialist services, and advance care planning costs within the NHS funding framework; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5103,
+        "name": "Luke Taylor",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5103/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5103/contact",
+        "memberFrom": "Sutton and Cheam"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3797,
+  "shortTitle": "Hospices and Health Care (Report on Funding) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-27T12:09:33.3774628",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19069,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16141,
+        "stageId": 7,
+        "billStageId": 19069,
+        "billId": 3797,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

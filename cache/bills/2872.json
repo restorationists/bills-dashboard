@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to establish a publicly owned body to provide insurance for home owners at cost against selling their homes to pay for elderly social care; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 68,
+        "name": "Lord Lilley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/68/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/68/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4778,
+        "name": "Greg Smith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4778/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4778/contact",
+        "memberFrom": "Buckingham"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2872,
+  "shortTitle": "Elderly Social Care (Insurance) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-04-29T16:22:27.6123222",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16230,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12907,
+        "stageId": 7,
+        "billStageId": 16230,
+        "billId": 2872,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 6
+  }
+}

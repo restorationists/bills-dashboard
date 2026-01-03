@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to introduce more freedom, flexibility and opportunity for those seeking employment in the public and private sectors.",
+  "summary": "<p>The Bill would:</p><ul><li>create a general right to employment, subject to specified exceptions for foreign visitors and foreign nationals who have been refused entry into the UK or given the right to remain </li><li>allow individual employees to opt out of the requirements of national minimum wage legislation</li><li>include protection for those who refuse to work for pay below the national minimum wage.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 242,
+        "name": "Mr Christopher Chope",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/242/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/242/contact",
+        "memberFrom": "Christchurch"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 445,
+  "shortTitle": "Employment Opportunities Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-11-09T11:29:20",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13317,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

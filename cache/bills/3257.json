@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for asylum seekers to challenge the proportionality of a proposed eviction from accommodation before an independent court or tribunal; to establish asylum seeker accommodation eviction procedures for public authorities; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4463,
+        "name": "Chris Stephens",
+        "party": "Scottish National Party",
+        "partyColour": "fff685",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4463/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4463/contact",
+        "memberFrom": "Glasgow South West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3257,
+  "shortTitle": "Asylum Seekers (Accommodation Eviction Procedures) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-30T15:59:12.4791899",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16712,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13431,
+        "stageId": 6,
+        "billStageId": 16712,
+        "billId": 3257,
+        "date": "2022-06-20T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

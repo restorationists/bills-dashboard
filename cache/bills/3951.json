@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the Groceries Code Adjudicator; to require coordination between the Groceries Code Adjudicator and the Agricultural Supply Chain Adjudicator; to make provision about public procurement in respect of British food products; to make provision about the labelling of food products; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1442,
+        "name": "Mr Alistair Carmichael",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1442/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1442/contact",
+        "memberFrom": "Orkney and Shetland"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3951,
+  "shortTitle": "Food Products (Market Regulation and Public Procurement) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-10-31T13:50:01.1861398",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19784,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16857,
+        "stageId": 7,
+        "billStageId": 19784,
+        "billId": 3951,
+        "date": "2026-05-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

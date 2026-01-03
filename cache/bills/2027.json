@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to extend the franchise for parliamentary and other elections to all citizens over the age of 16 years",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3743,
+        "name": "Lord Adonis",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3743/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3743/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2027,
+  "shortTitle": "Voting Age (Reduction) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-09-10T15:02:36",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14771,
+    "stageId": 2,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision about the drugs for which persons detained in prisons and similar institutions may be tested.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4115,
+        "name": "Margot James",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4115/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4115/contact",
+        "memberFrom": "Stourbridge"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1217,
+  "shortTitle": "Prisons (Drug Testing) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-05-15T15:15:14",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14011,
+    "stageId": 7,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

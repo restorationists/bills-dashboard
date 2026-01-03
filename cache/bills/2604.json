@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to report on devolution in England.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4337,
+        "name": "Baroness Janke",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4337/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4337/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2604,
+  "shortTitle": "Devolution in England Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2021-05-05T11:53:14.95493",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11791,
+    "stageId": 2,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

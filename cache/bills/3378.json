@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit the use of disposable barbecues on open moorland, on beaches, in Areas of Outstanding Natural Beauty and in certain other areas designated for environmental protection; to give local authorities the power to prohibit the sale of disposable barbecues in their area; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4863,
+        "name": "Selaine Saxby",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4863/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4863/contact",
+        "memberFrom": "North Devon"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3378,
+  "shortTitle": "Disposable Barbecues Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-31T16:51:25.7211588",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17154,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13957,
+        "stageId": 6,
+        "billStageId": 17154,
+        "billId": 3378,
+        "date": "2022-11-22T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

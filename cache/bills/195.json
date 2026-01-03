@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to set a target for the year 2050 for the reduction of targeted greenhouse gas emissions; to provide for a system of carbon budgeting; to establish a Committee on Climate Change; to confer powers to establish trading schemes for the purpose of limiting greenhouse gas emissions or encouraging activities that reduce such emissions or remove greenhouse gas from the atmosphere; to make provision about adaptation to climate change; to confer powers to make schemes for providing financial incentives to produce less domestic waste and to recycle more of what is produced; to amend the provisions of the Energy Act 2004 about renewable transport fuel obligations; to make other provisions about climate change; and for connected purposes.",
+  "summary": "<p>The Climate Change Bill contains provisions that will set a legally binding target for reducing UK carbon dioxide emission by at least 26 per cent by 2020 and at least 80 per cent by 2050, compared to 1990 levels. </p><p><strong>Key areas</strong></p><ul><li>Requires the Government to publish five-yearly carbon budgets as from 2008</li><li>Creates a Committee on Climate Change </li><li>Requires the Committee on Climate Change to advise the Government on the levels of carbon budgets to be set, the balance between domestic emissions reductions and the use of carbon credits, and whether the 2050 target should be increased </li><li>Places a duty on the Government to assess the risk to the UK from the impacts of climate change</li><li>Provides powers to establish trading schemes for the purpose of limiting greenhouse gas</li><li>Confers powers to create waste reduction pilot schemes</li><li>Amends the provisions of the Energy Act 2004 on renewable transport fuel obligations.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 302,
+        "name": "Lord Rooker",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/302/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/302/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Environment, Food and Rural Affairs",
+        "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 413,
+        "name": "Hilary Benn",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/413/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/413/contact",
+        "memberFrom": "Leeds Central"
+      },
+      "organisation": {
+        "name": "Department for Environment, Food and Rural Affairs",
+        "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 195,
+  "shortTitle": "Climate Change Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2025-09-09T14:49:44.3243072",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1930,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1806,
+        "stageId": 11,
+        "billStageId": 1930,
+        "billId": 195,
+        "date": "2008-11-26T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

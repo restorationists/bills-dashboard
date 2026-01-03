@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to place a duty on local authorities to keep a register of individuals and community groups who have expressed an interest in acquiring land to bring forward self-build and custom-build projects and to take account of and make provision for the interests of those on such registers in developing their housing initiatives and their local plans; to allow volume house builders to include self-build and custom-build projects as contributing towards their affordable housing obligations, when in partnership for this purpose with a Registered Social Landlord; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1451,
+        "name": "Mr Richard Bacon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1451/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1451/contact",
+        "memberFrom": "South Norfolk"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3605,
+        "name": "Lord Best",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3605/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3605/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1415,
+  "shortTitle": "Self-build and Custom Housebuilding Act 2015",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-27T11:03:07",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7703,
+    "stageId": 11,
+    "sessionId": 27,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7175,
+        "stageId": 11,
+        "billStageId": 7703,
+        "billId": 1415,
+        "date": "2015-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

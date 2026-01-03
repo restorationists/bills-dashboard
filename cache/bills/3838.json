@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require water companies and relevant public bodies to use nature-based solutions as a means to improve water and flood risk management services; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5320,
+        "name": "Adrian Ramsay",
+        "party": "Green Party",
+        "partyColour": "78b82a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5320/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5320/contact",
+        "memberFrom": "Waveney Valley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3838,
+  "shortTitle": "Nature-based Solutions (Water and Flooding) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-04T14:27:00.5835145",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19161,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16243,
+        "stageId": 7,
+        "billStageId": 19161,
+        "billId": 3838,
+        "date": "2026-03-20T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

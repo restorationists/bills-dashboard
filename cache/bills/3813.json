@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend Section 50 of the Employment Rights Act 1996 to add Special Constables to the list of those granted the right to take time off work to perform their duties.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5101,
+        "name": "Sir Ashley Fox",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5101/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5101/contact",
+        "memberFrom": "Bridgwater"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3813,
+  "shortTitle": "Employment Rights (Special Constables) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-10-24T11:25:18.6223928",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19102,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16174,
+        "stageId": 7,
+        "billStageId": 19102,
+        "billId": 3813,
+        "date": "2026-05-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

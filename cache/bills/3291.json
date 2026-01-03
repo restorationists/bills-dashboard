@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for safeguards for workers against dismissal and re-engagement on inferior terms and conditions; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4420,
+        "name": "Gavin Newlands",
+        "party": "Scottish National Party",
+        "partyColour": "fff685",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4420/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4420/contact",
+        "memberFrom": "Paisley and Renfrewshire North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3291,
+  "shortTitle": "Employment (Dismissal and Re-engagement) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-01T12:55:08.199132",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16784,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13503,
+        "stageId": 6,
+        "billStageId": 16784,
+        "billId": 3291,
+        "date": "2022-06-20T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

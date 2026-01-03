@@ -1,0 +1,56 @@
+{
+  "longTitle": "To make provision for the labelling of alcoholic beverages; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2570,
+        "name": "Lord Mitchell",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2570/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2570/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 29,
+  "shortTitle": "Alcohol Labelling Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2007-10-10T09:11:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 146,
+    "stageId": 2,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 5,
+        "stageId": 2,
+        "billStageId": 146,
+        "billId": 29,
+        "date": "2007-04-20T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision amending, and supplementary to, the Channel Tunnel Rail Link Act 1996",
+  "summary": "<p>The aim of the Bill is to clarify the legislation and regulations on the Channel Tunnel Rail Link. This comes ahead of a restructuring of London &amp; Continental Railways, who won the bid to construct the Channel Tunnel Rail Link in February 1996.</p><p>In January 1998, the then Deputy Prime Minister announced that London &amp; Continental Railways had failed to find the necessary money for the project. On 3 June he announced its rescue: a public private partnership was set up and a new management team put in place.</p><p>Clause 1 of this Bill is of primary importance as it confirms that the Secretary of State is empowered to fund the Channel Tunnel Rail Link and the trains that run on it. </p><p><br><strong>Key areas</strong></p><ul><li>Amends the railway track access agreements set out in the original Channel Tunnel Rail Link Act 1996</li><li>Repeals certain duties of the Office of Rail Regulation</li><li>Allows the Office of Rail Regulation to charge a fee for carrying out its regulatory functions in relation to Channel Tunnel </li><li>Amends the definition of the agreement to develop the Channel Tunnel Rail Link in the 1996 Act to include the word 'operation'.  <br></li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 439,
+        "name": "Ruth Kelly",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/439/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/439/contact",
+        "memberFrom": "Bolton West"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3504,
+        "name": "Lord Bassam of Brighton",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3504/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3504/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 189,
+  "shortTitle": "Channel Tunnel Rail Link (Supplementary Provisions) Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-02-23T11:49:46",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1614,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1508,
+        "stageId": 11,
+        "billStageId": 1614,
+        "billId": 189,
+        "date": "2008-05-22T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+}

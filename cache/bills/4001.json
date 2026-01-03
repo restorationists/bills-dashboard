@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the evaluation of training about Special Educational Needs and Disabilities in Initial Teacher Education; to require training about Special Education Needs and Disabilities for certain persons working in schools as part of their continuing professional development; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5180,
+        "name": "Nesil Caliskan",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5180/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5180/contact",
+        "memberFrom": "Barking"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4001,
+  "shortTitle": "Special Educational Needs and Disabilities (Training in Schools) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-09-10T12:29:43.8627152",
+  "billWithdrawn": "2025-09-09T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20102,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17258,
+        "stageId": 7,
+        "billStageId": 20102,
+        "billId": 4001,
+        "date": "2025-11-28T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

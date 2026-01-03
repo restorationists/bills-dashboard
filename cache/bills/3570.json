@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision changing the law about the offence of livestock worrying, including changes to what constitutes an offence and increased powers for investigation of suspected offences; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4098,
+        "name": "Dr Thérèse Coffey",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4098/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4098/contact",
+        "memberFrom": "Suffolk Coastal"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4596,
+        "name": "Lord Colgrain",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4596/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4596/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3570,
+  "shortTitle": "Dogs (Protection of Livestock) (Amendment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-05-29T12:19:02.2026193",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18802,
+    "stageId": 1,
+    "sessionId": 38,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15886,
+        "stageId": 1,
+        "billStageId": 18802,
+        "billId": 3570,
+        "date": "2024-05-20T00:00:00"
+      }
+    ],
+    "sortOrder": 6
+  }
+}

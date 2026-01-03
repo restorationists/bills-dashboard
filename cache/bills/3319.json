@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Landlord and Tenant Act 1985 to provide for service charges to be reduced where they do not reflect the landlord’s actual costs in providing goods and services; to make fixed service charges subject to reasonableness requirements; to amend the Commonhold and Leasehold Reform Act 2002 to make the same changes; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4303,
+        "name": "Baroness Kennedy of Cradley",
+        "party": "Non-affiliated",
+        "partyColour": null,
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4303/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4303/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3319,
+  "shortTitle": "Leasehold Reform (Reasonableness of Service Charges) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-10-31T14:28:54.7692708",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16881,
+    "stageId": 1,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 13617,
+        "stageId": 1,
+        "billStageId": 16881,
+        "billId": 3319,
+        "date": "2022-07-13T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

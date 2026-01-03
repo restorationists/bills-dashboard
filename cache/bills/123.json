@@ -1,0 +1,48 @@
+{
+  "longTitle": "To establish a Citizens’ Convention to facilitate the involvement of people from all sections of society in considering the way in which the United Kingdom is governed; to make provision relating to the implementation of recommendations made by the Convention; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1519,
+        "name": "Julia Goldsworthy",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1519/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1519/contact",
+        "memberFrom": "Falmouth and Camborne"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 123,
+  "shortTitle": "Citizens' Convention Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-10-27T16:04:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13040,
+    "stageId": 7,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

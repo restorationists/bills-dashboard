@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to establish the Historical Institutional Abuse Redress Board and to confer an entitlement to compensation in connection with children who were resident in certain institutions in Northern Ireland; and to establish the Commissioner for Survivors of Institutional Childhood Abuse.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4686,
+        "name": "Lord Duncan of Springbank",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4686/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4686/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4118,
+        "name": "Julian Smith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4118/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4118/contact",
+        "memberFrom": "Skipton and Ripon"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2468,
+  "shortTitle": "Historical Institutional Abuse (Northern Ireland) Act 2019",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-11-11T16:30:10",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 34,
+  "includedSessionIds": [
+    34
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11574,
+    "stageId": 11,
+    "sessionId": 34,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10546,
+        "stageId": 11,
+        "billStageId": 11574,
+        "billId": 2468,
+        "date": "2019-11-05T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to mandate those providing and carrying out regulated or other activities with responsibility for the care of children to report known and suspected child sexual abuse; to protect mandated reporters from detriment; to create a criminal offence of failing to report prescribed concerns; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3862,
+        "name": "Baroness Grey-Thompson",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3862/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3862/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3328,
+  "shortTitle": "Regulated and Other Activities (Mandatory Reporting of Child Sexual Abuse) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-10-31T12:56:52.148081",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16914,
+    "stageId": 1,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 13642,
+        "stageId": 1,
+        "billStageId": 16914,
+        "billId": 3328,
+        "date": "2022-07-20T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

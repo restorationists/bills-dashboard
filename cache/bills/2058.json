@@ -1,0 +1,70 @@
+{
+  "longTitle": "To make provision about offences when perpetrated against emergency workers, and persons assisting such workers; to make certain offences aggravated when perpetrated against such workers in the exercise of their duty; to require persons suspected of certain assaults against such workers which may pose a health risk to provide intimate samples and to make it an offence, without reasonable excuse, to refuse to provide such samples; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1446,
+        "name": "Chris Bryant",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1446/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1446/contact",
+        "memberFrom": "Rhondda"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4166,
+        "name": "Baroness Donaghy",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4166/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4166/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2058,
+  "shortTitle": "Assaults on Emergency Workers (Offences) Act 2018",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2018-09-14T12:32:55",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 10688,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 9869,
+        "stageId": 11,
+        "billStageId": 10688,
+        "billId": 2058,
+        "date": "2018-09-13T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

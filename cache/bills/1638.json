@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to seek licences for off-patent drugs in new indications; to require the National Institute for Health and Care Excellence to conduct technology appraisals for off-patent drugs in new indications; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4479,
+        "name": "Nick Thomas-Symonds",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4479/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4479/contact",
+        "memberFrom": "Torfaen"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1638,
+  "shortTitle": "Off-patent Drugs Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-05-13T11:34:33",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 7849,
+    "stageId": 7,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 7338,
+        "stageId": 7,
+        "billStageId": 7849,
+        "billId": 1638,
+        "date": "2015-11-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

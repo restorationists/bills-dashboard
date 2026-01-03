@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to provide for a statutory code of conduct for Ministers of the Crown; for a statutory code of conduct for Members of the House of Commons and Members of the House of Lords; for a statutory code of conduct for councillors in England; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4212,
+        "name": "Debbie Abrahams",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4212/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4212/contact",
+        "memberFrom": "Oldham East and Saddleworth"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3706,
+  "shortTitle": "Standards in Public Life (Codes of Conduct) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-02-12T16:51:21.6206637",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19664,
+    "stageId": 7,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

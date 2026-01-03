@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to publish a child poverty strategy which includes proposals for removing the limit on the number of children or qualifying young persons included in the calculation of an award of Universal Credit; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4357,
+        "name": "Kirsty Blackman",
+        "party": "Scottish National Party",
+        "partyColour": "fff685",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4357/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4357/contact",
+        "memberFrom": "Aberdeen North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4021,
+  "shortTitle": "Child Poverty Strategy (Removal of Two Child Limit) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-05T15:19:29.8302776",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20208,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17395,
+        "stageId": 7,
+        "billStageId": 20208,
+        "billId": 4021,
+        "date": "2026-02-20T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to amend the Census Act 1920 and the Census Act (Northern Ireland) 1969 in relation to the provision of particulars about sexual orientation and gender identity",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 57,
+        "name": "Lord Young of Cookham",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/57/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/57/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 15,
+        "name": "Mr David Lidington",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/15/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/15/contact",
+        "memberFrom": "Aylesbury"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2396,
+  "shortTitle": "Census (Return Particulars and Removal of Penalties) Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-10-09T08:47:25",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11408,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10454,
+        "stageId": 11,
+        "billStageId": 11408,
+        "billId": 2396,
+        "date": "2019-10-08T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to Authorise the use of resources for the years ending with 31 March 2022, 31 March 2023 and 31 March 2024; to authorise the issue of sums out of the Consolidated Fund for those years; and to appropriate the supply authorised by this Act for the years ending with 31 March 2022 and 31 March 2023.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4399,
+        "name": "Victoria Atkins",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4399/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4399/contact",
+        "memberFrom": "Louth and Horncastle"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4726,
+        "name": "Baroness Penn",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4726/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4726/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3431,
+  "shortTitle": "Supply and Appropriation (Anticipation and Adjustments) Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-03-27T17:16:10.1527644",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17529,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14410,
+        "stageId": 11,
+        "billStageId": 17529,
+        "billId": 3431,
+        "date": "2023-03-23T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

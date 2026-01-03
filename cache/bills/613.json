@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to exempt the Department for Work and Pensions from statutory requirements to retain files in written form where it holds electronic files of the information in an approved form; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 192,
+        "name": "Harry Cohen",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/192/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/192/contact",
+        "memberFrom": "Leyton and Wanstead"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 613,
+  "shortTitle": "Department for Work and Pensions (Electronic File retention) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-04-12T16:34:50",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13470,
+    "stageId": 7,
+    "sessionId": 23,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

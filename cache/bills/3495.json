@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the provision of automated external defibrillators in all new housing developments of ten dwellings or more; to require developers to provide funding for the maintenance of such defibrillators for a period of ten years after installation; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4092,
+        "name": "Stephen Metcalfe",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4092/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4092/contact",
+        "memberFrom": "South Basildon and East Thurrock"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3495,
+  "shortTitle": "Automated External Defibrillators (Housing Developments) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-30T16:01:34.0237497",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17924,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14912,
+        "stageId": 6,
+        "billStageId": 17924,
+        "billId": 3495,
+        "date": "2023-09-06T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

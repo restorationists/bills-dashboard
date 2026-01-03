@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision charging a levy in respect of the use or keeping of heavy  goods vehicles on public roads in the United Kingdom, and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1585,
+        "name": "Stephen Hammond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1585/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1585/contact",
+        "memberFrom": "Wimbledon"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3425,
+        "name": "Earl Attlee",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3425/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3425/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1092,
+  "shortTitle": "HGV Road User Levy Act 2013",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-03-01T16:04:55",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5733,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5404,
+        "stageId": 11,
+        "billStageId": 5733,
+        "billId": 1092,
+        "date": "2013-02-28T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

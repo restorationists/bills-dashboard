@@ -1,0 +1,59 @@
+{
+  "longTitle": "To make provision about minimum service levels in connection with the taking by trade unions of strike action relating to transport services.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4531,
+        "name": "Anne-Marie Trevelyan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4531/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4531/contact",
+        "memberFrom": "Berwick-upon-Tweed"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3350,
+  "shortTitle": "Transport Strikes (Minimum Service Levels) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-09-05T10:01:42.6454319",
+  "billWithdrawn": "2023-09-04T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17015,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13795,
+        "stageId": 6,
+        "billStageId": 17015,
+        "billId": 3350,
+        "date": "2022-10-20T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

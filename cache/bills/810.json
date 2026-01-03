@@ -1,0 +1,56 @@
+{
+  "longTitle": "To make provision for the devolution of timescales, time zones and the subject-matter of the Summer Time Act 1972.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3200,
+        "name": "Lord Tanlaw",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3200/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3200/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 810,
+  "shortTitle": "Devolution (Time) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2012-05-02T12:34:20",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 4633,
+    "stageId": 5,
+    "sessionId": 24,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 4412,
+        "stageId": 5,
+        "billStageId": 4633,
+        "billId": 810,
+        "date": "2011-12-13T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require an electrical safety certificate to be provided to a prospective purchaser of domestic premises in specified circumstances; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 214,
+        "name": "Lord Foster of Bath",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/214/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/214/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3166,
+  "shortTitle": "Domestic Premises (Electrical Safety Certificate) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-10-31T12:18:36.7390677",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17102,
+    "stageId": 5,
+    "sessionId": 37,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 14161,
+        "stageId": 5,
+        "billStageId": 17102,
+        "billId": 3166,
+        "date": "2023-02-01T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

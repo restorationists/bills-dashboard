@@ -1,0 +1,77 @@
+{
+  "longTitle": "A Bill to make provision changing the law about rented homes, including provision abolishing fixed term assured tenancies and assured shorthold tenancies; imposing obligations on landlords and others in relation to rented homes and temporary and supported accommodation; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1571,
+        "name": "Michael Gove",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1571/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1571/contact",
+        "memberFrom": "Surrey Heath"
+      },
+      "organisation": {
+        "name": "Department for Levelling Up, Housing and Communities",
+        "url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4985,
+        "name": "Baroness Swinburne",
+        "party": null,
+        "partyColour": null,
+        "house": "Unassigned",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4985/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4985/contact",
+        "memberFrom": null
+      },
+      "organisation": {
+        "name": "Department for Levelling Up, Housing and Communities",
+        "url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3462,
+  "shortTitle": "Renters (Reform) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-09-23T10:17:58.0340255",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37,
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18740,
+    "stageId": 2,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15817,
+        "stageId": 2,
+        "billStageId": 18740,
+        "billId": 3462,
+        "date": "2024-05-15T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

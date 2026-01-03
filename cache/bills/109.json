@@ -1,0 +1,73 @@
+{
+  "longTitle": "Make provision about tribunals and inquiries; to establish an Administrative Justice and Tribunals Council; to amend the law relating to judicial appointments; to amend the law relating to the enforcement of judgments and debts; to make further provision about the management and relief of debt; to make provision protecting cultural objects from seizure or forfeiture in certain circumstances; to amend the law relating to the taking of possession of land affected by compulsory purchase; to alter the powers of the High Court in judicial review applications; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2500,
+        "name": "Baroness Ashton of Upholland",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2500/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2500/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1445,
+        "name": "Vera Baird",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1445/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1445/contact",
+        "memberFrom": "Redcar"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 109,
+  "shortTitle": "Tribunals, Courts and Enforcement Act 2007",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2007-11-02T00:00:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 538,
+    "stageId": 11,
+    "sessionId": 20,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 392,
+        "stageId": 11,
+        "billStageId": 538,
+        "billId": 109,
+        "date": "2007-07-19T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

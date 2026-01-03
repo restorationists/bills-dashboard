@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to provide for the early payment of winter fuel allowance to eligible persons whose residences are not connected to the mains gas grid and whose principal source of fuel is home fuel oil, liquid petroleum gas or propane gas; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1384,
+        "name": "Mr Mike Weir",
+        "party": "Scottish National Party",
+        "partyColour": "fff685",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1384/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1384/contact",
+        "memberFrom": "Angus"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1032,
+  "shortTitle": "Winter Fuel Allowance Payments (Off Gas Grid Claimants) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-04-26T12:07:30",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13835,
+    "stageId": 7,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

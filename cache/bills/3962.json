@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to increase penalties for civil offences relating to littering from vehicles; to make provision about the use of technology in detecting and identifying persons who have committed such offences; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5113,
+        "name": "Claire Hughes",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5113/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5113/contact",
+        "memberFrom": "Bangor Aberconwy"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3962,
+  "shortTitle": "Littering from Vehicles (Offences) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-09-10T12:50:19.8211946",
+  "billWithdrawn": "2025-09-09T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19856,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16942,
+        "stageId": 7,
+        "billStageId": 19856,
+        "billId": 3962,
+        "date": "2026-05-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

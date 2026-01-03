@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision for the setting of levelling-up missions and reporting on progress in delivering them; about local democracy; about town and country planning; about Community Infrastructure Levy; about the imposition of Infrastructure Levy; about environmental outcome reports for certain consents and plans; about regeneration; about the compulsory purchase of land; about information and records relating to land, the environment or heritage; for the provision for pavement licences to be permanent; about governance of the Royal Institution of Chartered Surveyors; about vagrancy and begging; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1571,
+        "name": "Michael Gove",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1571/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1571/contact",
+        "memberFrom": "Surrey Heath"
+      },
+      "organisation": {
+        "name": "Department for Levelling Up, Housing and Communities",
+        "url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4553,
+        "name": "Baroness Scott of Bybrook",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4553/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4553/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Levelling Up, Housing and Communities",
+        "url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3155,
+  "shortTitle": "Levelling-up and Regeneration Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-02-20T13:00:24.396849",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17991,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 15001,
+        "stageId": 11,
+        "billStageId": 17991,
+        "billId": 3155,
+        "date": "2023-10-26T00:00:00"
+      }
+    ],
+    "sortOrder": 20
+  }
+}

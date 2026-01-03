@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision changing the law about the offence of livestock worrying, including changes to what constitutes an offence and increased powers for investigation of suspected offences; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5241,
+        "name": "Aphra Brandreth",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5241/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5241/contact",
+        "memberFrom": "Chester South and Eddisbury"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4098,
+        "name": "Dr Thérèse Coffey",
+        "party": null,
+        "partyColour": null,
+        "house": "Unassigned",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4098/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4098/contact",
+        "memberFrom": null
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3821,
+  "shortTitle": "Dogs (Protection of Livestock) (Amendment) Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-19T10:38:22.2962816",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 20353,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 17637,
+        "stageId": 11,
+        "billStageId": 20353,
+        "billId": 3821,
+        "date": "2025-12-18T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

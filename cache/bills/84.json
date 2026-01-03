@@ -1,0 +1,56 @@
+{
+  "longTitle": "To provide for joint departments of the Houses of Parliament; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3477,
+        "name": "Baroness Amos",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3477/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3477/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 84,
+  "shortTitle": "Parliament (Joint Departments) Act 2007",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2021-02-22T15:56:48",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 393,
+    "stageId": 11,
+    "sessionId": 20,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 265,
+        "stageId": 11,
+        "billStageId": 393,
+        "billId": 84,
+        "date": "2007-07-19T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

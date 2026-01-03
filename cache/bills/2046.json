@@ -1,0 +1,84 @@
+{
+  "longTitle": "A Bill to make provision for a railway between a junction with Phase One of High Speed 2, near Fradley Wood in Staffordshire, and a junction with the West Coast Main Line near Crewe in Cheshire; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4044,
+        "name": "Andrew Stephenson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4044/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4044/contact",
+        "memberFrom": "Pendle"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4580,
+        "name": "Baroness Vere of Norbiton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4580/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4580/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": {
+    "name": "Berwin Leighton Paisner LLP",
+    "address": "Adelaide House, London Bridge, London EC4R 9HA",
+    "phoneNo": "020 7760 1000",
+    "email": "helen.kemp@blplaw.com",
+    "website": ""
+  },
+  "billId": 2046,
+  "shortTitle": "High Speed Rail (West Midlands-Crewe) Act 2021",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-09-18T14:08:38.0991081",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 4,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30,
+    34,
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12734,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 11501,
+        "stageId": 11,
+        "billStageId": 12734,
+        "billId": 2046,
+        "date": "2021-02-11T00:00:00"
+      }
+    ],
+    "sortOrder": 25
+  }
+}

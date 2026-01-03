@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit the creation and uploading of unauthorised media content relating to prisons.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4834,
+        "name": "Katherine Fletcher",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4834/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4834/contact",
+        "memberFrom": "South Ribble"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3577,
+  "shortTitle": "Prison Media Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-09-23T14:53:56.4968129",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18559,
+    "stageId": 8,
+    "sessionId": 38,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15852,
+        "stageId": 8,
+        "billStageId": 18559,
+        "billId": 3577,
+        "date": "2024-05-22T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

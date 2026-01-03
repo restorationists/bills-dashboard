@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to extend the period of time for making Ministerial appointments following the election of the Northern Ireland Assembly on 2 March 2017, and to make provision about the regional rate in Northern Ireland for the year ending 31 March 2018.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1530,
+        "name": "James Brokenshire",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1530/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1530/contact",
+        "memberFrom": "Old Bexley and Sidcup"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4534,
+        "name": "Lord Dunlop",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4534/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4534/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1984,
+  "shortTitle": "Northern Ireland (Ministerial Appointments and Regional Rates) Act 2017",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2018-05-21T15:45:39",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 9538,
+    "stageId": 11,
+    "sessionId": 29,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 8842,
+        "stageId": 11,
+        "billStageId": 9538,
+        "billId": 1984,
+        "date": "2017-04-27T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the coroner or jury at an inquest to record an opinion as to gambling addiction and any other relevant factors in a case of death by suicide; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4308,
+        "name": "The Lord Bishop of St Albans",
+        "party": "Bishops",
+        "partyColour": "702082",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4308/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4308/contact",
+        "memberFrom": "Bishops"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2557,
+  "shortTitle": "Coroners (Determination of Suicide) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2021-05-05T11:18:14.0775945",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11668,
+    "stageId": 2,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

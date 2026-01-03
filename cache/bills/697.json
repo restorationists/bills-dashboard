@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to implement the Nairobi International Convention on the Removal of Wrecks 2007.",
+  "summary": "<p>The Nairobi International Convention for the Removal of Wrecks (ICRW) was adopted by the International Maritime Organisation in May 2007. </p><p>The Bill provides measures to enable the United Kingdom to ratify and implement the ICRW in the United Kingdom&rsquo;s domestic law by the insertion of new sections and a Schedule into the Merchant Shipping Act 1995.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4098,
+        "name": "Dr Thérèse Coffey",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4098/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4098/contact",
+        "memberFrom": "Suffolk Coastal"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4205,
+        "name": "Baroness Stowell of Beeston",
+        "party": null,
+        "partyColour": null,
+        "house": "Unassigned",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4205/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4205/contact",
+        "memberFrom": null
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 697,
+  "shortTitle": "Wreck Removal Convention Act 2011",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2011-10-20T17:31:50",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4426,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4204,
+        "stageId": 11,
+        "billStageId": 4426,
+        "billId": 697,
+        "date": "2011-07-12T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

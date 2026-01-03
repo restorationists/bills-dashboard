@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for an inquiry into the end use of arms sold to foreign states to determine whether they have been used in violation of international law; to immediately suspend the sale of arms to foreign states where it cannot be demonstrated that arms sold will not be used in violation of international law; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4786,
+        "name": "Zarah Sultana",
+        "party": "Independent",
+        "partyColour": "909090",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4786/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4786/contact",
+        "memberFrom": "Coventry South"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3922,
+  "shortTitle": "Arms Trade (Inquiry and Suspension) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-09-12T11:50:03.8542857",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19474,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16622,
+        "stageId": 7,
+        "billStageId": 19474,
+        "billId": 3922,
+        "date": "2026-01-09T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

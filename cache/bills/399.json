@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make further provision about fuel poverty; and for connected purposes.",
+  "summary": "<p>The provisions of the Bill would </p><ul><li>require the Government to introduce an energy efficiency programme to bring existing homes up to current energy efficiency levels <br></li><li>impose a duty on energy suppliers to offer social tariffs to limit vulnerable households&rsquo; exposure to high energy bills <br></li><li>reinforce the legal duty on the Government to act to end fuel poverty.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 255,
+        "name": "Mr David Heath",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/255/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/255/contact",
+        "memberFrom": "Somerton and Frome"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 399,
+  "shortTitle": "Fuel Poverty Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-10-26T15:57:56",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2068,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 1965,
+        "stageId": 7,
+        "billStageId": 2068,
+        "billId": 399,
+        "date": "2009-03-20T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

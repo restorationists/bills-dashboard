@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to publish and implement a Care Workers Employment Strategy, with the aim of improving the recruitment and retention of care workers; to establish an independent National Care Workers Council with responsibility for setting professional standards for care workers, for establishing a system of professional qualifications and accreditation for care workers, and for advising the Government on those matters; to require the Secretary of State to commission an independent assessment of the support available to unpaid carers, including financial support and employment rights; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4934,
+        "name": "Helen Morgan",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4934/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4934/contact",
+        "memberFrom": "North Shropshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3456,
+  "shortTitle": "Carers and Care Workers Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-31T12:27:55.6640125",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17642,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14531,
+        "stageId": 6,
+        "billStageId": 17642,
+        "billId": 3456,
+        "date": "2023-04-26T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

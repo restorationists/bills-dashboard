@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to grant powers to the Parliamentary and Health Service Ombudsman to identify and investigate systemic problems in the benefits system and make associated recommendations to the Secretary of State; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4463,
+        "name": "Chris Stephens",
+        "party": "Scottish National Party",
+        "partyColour": "fff685",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4463/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4463/contact",
+        "memberFrom": "Glasgow South West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3261,
+  "shortTitle": "Parliamentary and Health Service Ombudsman (Powers) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T12:45:16.7366624",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16720,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13439,
+        "stageId": 6,
+        "billStageId": 16720,
+        "billId": 3261,
+        "date": "2022-06-20T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

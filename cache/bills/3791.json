@@ -1,0 +1,63 @@
+{
+  "longTitle": "A Bill to make provision about the sale of fireworks; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4777,
+        "name": "Sarah Owen",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4777/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4777/contact",
+        "memberFrom": "Luton North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3791,
+  "shortTitle": "Fireworks Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-26T13:14:47.3357828",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19048,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16124,
+        "stageId": 7,
+        "billStageId": 19048,
+        "billId": 3791,
+        "date": "2025-01-17T00:00:00"
+      },
+      {
+        "id": 16609,
+        "stageId": 7,
+        "billStageId": 19048,
+        "billId": 3791,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

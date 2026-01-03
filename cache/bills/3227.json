@@ -1,0 +1,59 @@
+{
+  "longTitle": "A Bill to reform the law relating to human rights.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4007,
+        "name": "Dominic Raab",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4007/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4007/contact",
+        "memberFrom": "Esher and Walton"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3227,
+  "shortTitle": "Bill of Rights Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-06-28T17:20:56.7162634",
+  "billWithdrawn": "2023-06-27T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16648,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13353,
+        "stageId": 6,
+        "billStageId": 16648,
+        "billId": 3227,
+        "date": "2022-06-22T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

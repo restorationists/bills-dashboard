@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to amend the Budget Responsibility and National Audit Act 2011 to allow the Office for Budget Responsibility to scrutinise and certificate the policy costings of political parties represented in the House of Commons.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4083,
+        "name": "Alison McGovern",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4083/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4083/contact",
+        "memberFrom": "Wirral South"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1480,
+  "shortTitle": "Political Party Policy Costings (Office for Budget Responsibility) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-30T15:07:54",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14267,
+    "stageId": 7,
+    "sessionId": 27,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

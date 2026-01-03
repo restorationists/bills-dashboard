@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about the marketing or use of products in the United Kingdom; about units of measurement and the quantities in which goods are marketed in the United Kingdom; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business and Trade ",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+      },
+      "sortOrder": 2
+    },
+    {
+      "member": {
+        "memberId": 4119,
+        "name": "Jonathan Reynolds",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4119/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4119/contact",
+        "memberFrom": "Stalybridge and Hyde"
+      },
+      "organisation": {
+        "name": "Department for Business and Trade ",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+      },
+      "sortOrder": 3
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3752,
+  "shortTitle": "Product Regulation and Metrology Act 2025",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2025-08-11T11:59:32.7014585",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 20117,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 17313,
+        "stageId": 11,
+        "billStageId": 20117,
+        "billId": 3752,
+        "date": "2025-07-21T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

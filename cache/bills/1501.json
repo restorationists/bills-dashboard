@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision about the recall of members of the House of Commons; and for connected purposes.",
+  "summary": "<p>The Bill provides for a recall petition to be triggered if a Member is sentenced to a prison term or is suspended from the House for at least 21 sitting days. If either occurred, the Speaker would give notice to a petition officer, who in turn would give notice to parliamentary electors in the constituency. </p><p>A petition would then be open for signing for eight weeks. If at the end of that period at least 10 per cent of eligible electors had signed the petition, the seat would be declared vacant and a by-election would follow. The Member who was recalled could stand in the by-election. </p><p>The Bill also introduces rules on the conduct of the recall petition, including campaign spending limits for those supporting and opposing recalling the Member.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1563,
+        "name": "Mr Nick Clegg",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1563/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1563/contact",
+        "memberFrom": "Sheffield, Hallam"
+      },
+      "organisation": {
+        "name": "Office of the Deputy Prime Minister",
+        "url": "/https://www.gov.uk/government/ministers/deputy-prime-minister"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1816,
+        "name": "Lord Wallace of Saltaire",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1816/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1816/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1501,
+  "shortTitle": "Recall of MPs Act 2015",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-27T11:09:31",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7707,
+    "stageId": 11,
+    "sessionId": 27,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7188,
+        "stageId": 11,
+        "billStageId": 7707,
+        "billId": 1501,
+        "date": "2015-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

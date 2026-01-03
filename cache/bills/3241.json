@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the installation of automated external defibrillators in public buildings, sporting facilities, schools, higher education and other education and skills facilities, and facilities that provide care to vulnerable people; and to make associated provision about training and signage.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4131,
+        "name": "Jim Shannon",
+        "party": "Democratic Unionist Party",
+        "partyColour": "d46a4c",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4131/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4131/contact",
+        "memberFrom": "Strangford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3241,
+  "shortTitle": "Automated External Defibrillators (Public Access) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-03-22T14:15:30.3456966",
+  "billWithdrawn": "2023-03-21T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16681,
+    "stageId": 7,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13400,
+        "stageId": 7,
+        "billStageId": 16681,
+        "billId": 3241,
+        "date": "2023-03-24T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

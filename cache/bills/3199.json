@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about unpaid leave for employees with caring responsibilities.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4765,
+        "name": "Wendy Chamberlain",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4765/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4765/contact",
+        "memberFrom": "North East Fife"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4322,
+        "name": "Lord Fox",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4322/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4322/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3199,
+  "shortTitle": "Carer's Leave Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-06-01T19:12:51.6259266",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17705,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14633,
+        "stageId": 11,
+        "billStageId": 17705,
+        "billId": 3199,
+        "date": "2023-05-24T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

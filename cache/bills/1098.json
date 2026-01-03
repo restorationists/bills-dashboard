@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision for the prosecution in Scotland of partnerships, partners and others following dissolution or changes in membership.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 630,
+        "name": "Lord Wallace of Tankerness",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/630/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/630/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Scotland Office",
+        "url": "https://www.gov.uk/government/organisations/scotland-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1512,
+        "name": "David Mundell",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1512/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1512/contact",
+        "memberFrom": "Dumfriesshire, Clydesdale and Tweeddale"
+      },
+      "organisation": {
+        "name": "Scotland Office",
+        "url": "https://www.gov.uk/government/organisations/scotland-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1098,
+  "shortTitle": "Partnerships (Prosecution) (Scotland) Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-11-12T12:29:54",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5898,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5507,
+        "stageId": 11,
+        "billStageId": 5898,
+        "billId": 1098,
+        "date": "2013-04-25T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+}

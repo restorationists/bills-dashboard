@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to create an offence of child criminal exploitation; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 103,
+        "name": "Sir Paul Beresford",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/103/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/103/contact",
+        "memberFrom": "Mole Valley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3566,
+  "shortTitle": "Child Criminal Exploitation Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-05-31T12:50:16.7757038",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18191,
+    "stageId": 7,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15176,
+        "stageId": 7,
+        "billStageId": 18191,
+        "billId": 3566,
+        "date": "2024-02-23T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

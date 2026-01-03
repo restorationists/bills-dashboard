@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to enable rights of admission to the freedom of cities or towns to be extended to women; to enable other amendments relating to admission to be made; to confer powers to admit persons as honorary freemen of certain places in the Confederation of the Clinque Ports; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1202,
+        "name": "Derek Conway",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1202/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1202/contact",
+        "memberFrom": "Old Bexley and Sidcup"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 237,
+  "shortTitle": "Borough Freedom Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-04-25T09:22:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13136,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

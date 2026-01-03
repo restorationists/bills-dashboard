@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to continue the Armed Forces Act 2006; to make provision about service discipline; to make provision about war pensions committees established under section 25 of the Social Security Act 1989; to make provision about Ministry of Defence fire-fighters; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 88,
+        "name": "Michael Fallon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/88/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/88/contact",
+        "memberFrom": "Sevenoaks"
+      },
+      "organisation": {
+        "name": "Ministry of Defence",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-defence"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2000,
+        "name": "Earl Howe",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2000/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2000/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "Ministry of Defence",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-defence"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1694,
+  "shortTitle": "Armed Forces Act 2016",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-01-06T10:02:17.9930172",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 8613,
+    "stageId": 11,
+    "sessionId": 28,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7982,
+        "stageId": 11,
+        "billStageId": 8613,
+        "billId": 1694,
+        "date": "2016-05-12T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

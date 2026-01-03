@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for disqualification from membership of the House of Commons and the House of Lords on grounds relating to residence and domicile for taxation purposes; and for connected purposes",
+  "summary": "<p>This Bill would introduce a new disqualification procedure for members of both Houses relating to residence and domicile for tax purposes. It would require Members and peers to submit a declaration that they complied with these conditions to the Speaker or the Lord Speaker.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 472,
+        "name": "Mr Gordon Prentice",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/472/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/472/contact",
+        "memberFrom": "Pendle"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 242,
+  "shortTitle": "Disqualification from Parliament (Taxation Status) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-06-16T17:59:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 1192,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 1084,
+        "stageId": 7,
+        "billStageId": 1192,
+        "billId": 242,
+        "date": "2008-01-25T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

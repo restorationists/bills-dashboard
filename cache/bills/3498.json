@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit the import of puppies under six months; to prohibit the import of pregnant dogs in specified circumstances; to prohibit the import of dogs with cropped ears or docked tails; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4775,
+        "name": "Elliot Colburn",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4775/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4775/contact",
+        "memberFrom": "Carshalton and Wallington"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3498,
+  "shortTitle": "Import of Dogs Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T10:36:14.2345005",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17957,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14952,
+        "stageId": 6,
+        "billStageId": 17957,
+        "billId": 3498,
+        "date": "2023-09-19T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

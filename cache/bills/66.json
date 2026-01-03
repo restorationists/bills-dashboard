@@ -1,0 +1,48 @@
+{
+  "longTitle": null,
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1578,
+        "name": "Greg Clark",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1578/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1578/contact",
+        "memberFrom": "Tunbridge Wells"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 66,
+  "shortTitle": "National Institute for Health and Clinical Excellence (Impact on Carers) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-11-01T09:55:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12984,
+    "stageId": 7,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

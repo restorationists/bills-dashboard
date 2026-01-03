@@ -1,0 +1,56 @@
+{
+  "longTitle": "To provide for the amendment of the Building Regulations 2000 to make it a requirement to install an automatic fire suppression system in new residential premises.",
+  "summary": "<p>The Building Regulations (Amendment) Bill proposes that all new residential premises must be fitted with an automatic fire suppression system. </p><p><br><strong>Key areas</strong></p><ul><li>The Bill would amend the Building Regulations 2000, SI 2000/2531, to make it a requirement that new residential premises are built with automatic fire suppression systems.</li></ul><ul><li>The requirement would apply to England and Wales only.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2488,
+        "name": "Lord Harrison",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2488/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2488/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 553,
+  "shortTitle": "Building Regulations (Amendment) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2010-04-09T09:33:38",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 3264,
+    "stageId": 4,
+    "sessionId": 23,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 3034,
+        "stageId": 4,
+        "billStageId": 3264,
+        "billId": 553,
+        "date": "2010-03-22T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

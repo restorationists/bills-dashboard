@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the advertising, marketing and promotion of food and drink products to children; and for connected purposes",
+  "summary": "Under the provisions of the Bill, it would be an offence for a person or organisation to advertise or promote to children food products (including drinks products) which are classified as &lsquo;less healthy&rsquo;.  <br><br><strong>Key areas</strong><br><br><ul><li>Introduces a 9pm watershed for television advertising of unhealthy food</li><li>Introduces significant restrictions on non-broadcast marketing.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 600,
+        "name": "Nigel Griffiths",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/600/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/600/contact",
+        "memberFrom": "Edinburgh South"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 228,
+  "shortTitle": "Food Products (Marketing to Children) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-10-30T18:59:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 1166,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 1063,
+        "stageId": 7,
+        "billStageId": 1166,
+        "billId": 228,
+        "date": "2008-04-25T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

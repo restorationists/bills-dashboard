@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision for the re-establishment of the control and sovereignty of policy, administration and all other matters relating to the United Kingdom’s borders with the European Union and to the entry and exit to the United Kingdom of foreign nationals; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1447,
+        "name": "Andrew Rosindell",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1447/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1447/contact",
+        "memberFrom": "Romford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1695,
+  "shortTitle": "United Kingdom Borders (Control and Sovereignty) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-05-13T12:22:36",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14468,
+    "stageId": 7,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

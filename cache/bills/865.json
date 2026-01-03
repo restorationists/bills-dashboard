@@ -1,0 +1,76 @@
+{
+  "longTitle": "To abolish control orders and make provision for the imposition of terrorism prevention and investigation measures.",
+  "summary": "<p>The provisions in the Bill follow on from the Coalition Government&rsquo;s 'Review of Counter-Terrorism and Security Powers', published in January 2011.</p><p>The Bill abolishes the system of control orders, established under the Prevention of Terrorism Act 2005, and replaces it with a new regime designed to protect the public from terrorism, called Terrorism Prevention and Investigation Measures.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 8,
+        "name": "Mrs Theresa May",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/8/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/8/contact",
+        "memberFrom": "Maidenhead"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2616,
+        "name": "Lord Henley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2616/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2616/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 865,
+  "shortTitle": "Terrorism Prevention and Investigation Measures Act 2011",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2011-12-15T11:05:12",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4654,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4439,
+        "stageId": 11,
+        "billStageId": 4654,
+        "billId": 865,
+        "date": "2011-12-14T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

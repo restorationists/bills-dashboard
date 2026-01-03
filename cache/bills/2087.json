@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the carrying out and publication of reviews of the level of public expenditure in connection with the High Speed 2 rail line (Phase 1); to establish procedures in connection with changes in these levels; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 242,
+        "name": "Mr Christopher Chope",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/242/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/242/contact",
+        "memberFrom": "Christchurch"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2087,
+  "shortTitle": "High Speed 2 Phase 1 (Reviews of Public Expenditure) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-02-15T12:39:28",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9892,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 9080,
+        "stageId": 7,
+        "billStageId": 9892,
+        "billId": 2087,
+        "date": "2019-02-08T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

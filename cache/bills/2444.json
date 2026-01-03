@@ -1,0 +1,84 @@
+{
+  "longTitle": "A Bill To make provision in relation to domestic abuse; to make provision for and in connection with the establishment of a Domestic Abuse Commissioner; to prohibit cross-examination in person in family proceedings in certain circumstances; to make provision about certain violent or sexual offences, and offences involving other abusive behaviour, committed outside the United Kingdom; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3945,
+        "name": "Sajid Javid",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3945/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3945/contact",
+        "memberFrom": "Bromsgrove"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4066,
+        "name": "Priti Patel",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4066/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4066/contact",
+        "memberFrom": "Witham"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2444,
+  "shortTitle": "Domestic Abuse Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-11-04T17:37:54",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30,
+    34
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11411,
+    "stageId": 8,
+    "sessionId": 34,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 10468,
+        "stageId": 8,
+        "billStageId": 11411,
+        "billId": 2444,
+        "date": "2019-10-29T00:00:00"
+      },
+      {
+        "id": 10469,
+        "stageId": 8,
+        "billStageId": 11411,
+        "billId": 2444,
+        "date": "2019-10-31T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

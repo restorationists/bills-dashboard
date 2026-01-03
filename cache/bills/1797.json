@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about elections to and membership of the House of Lords; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4297,
+        "name": "Baroness Jones of Moulsecoomb",
+        "party": "Green Party",
+        "partyColour": "78b82a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4297/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4297/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1797,
+  "shortTitle": "House of Lords Reform Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2017-05-02T11:55:26",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 8692,
+    "stageId": 2,
+    "sessionId": 29,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 8121,
+        "stageId": 2,
+        "billStageId": 8692,
+        "billId": 1797,
+        "date": "2017-02-03T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

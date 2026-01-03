@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision relating to the demonstration, assessment and use of carbon capture and storage technology; to make provision for requiring benefits to be provided by holders of gas or electricity supply licences; to make provision about functions of the Gas and Electricity Markets Authority; to make provision about general duties of the Secretary of State in relation to gas and electricity markets; to make provision about electricity generation licences; to make provision about persons authorised to supply gas or electricity; and for connected purposes.",
+  "summary": "<p>The Bill follows on from the low carbon transition plan, published in July 2009. This plan aims to deliver emissions cuts of 34 per cent from 1990 levels by 2020 and of 80 per cent by 2050, while maintaining security of supply, maximising economic opportunities and protecting vulnerable consumers. The Bill will deliver some of the primary legislation required by the plan.</p><p><strong>Key areas</strong></p><ul><li>introduces a carbon capture and storage incentive to support the construction of up to four UK demonstration projects, to be chosen in a competition</li><li>provides for mandatory social price support to reduce energy bills for the most vulnerable. This would replace the current voluntary agreement which expires in 2011</li><li>increases the powers of the regulator, Ofgem, to deal with exploitation of electricity distribution constraints by generators</li><li>increases Ofgem&rsquo;s power to fine companies</li><li>clarifies Ofgem&rsquo;s objectives on tackling climate change, ensuring secure energy supplies and the role of measures other than competition in protecting the interests of consumers</li><li>gives the Secretary of State the power to ban cross-subsidy between gas and electricity accounts</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1510,
+        "name": "Edward Miliband",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1510/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1510/contact",
+        "memberFrom": "Doncaster North"
+      },
+      "organisation": {
+        "name": "Department of Energy and Climate Change",
+        "url": "https://www.gov.uk/government/organisations/department-of-energy-climate-change"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2024,
+        "name": "Lord Hunt of Kings Heath",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2024/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2024/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department of Energy and Climate Change",
+        "url": "https://www.gov.uk/government/organisations/department-of-energy-climate-change"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 533,
+  "shortTitle": "Energy Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-08-16T10:43:26",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3448,
+    "stageId": 11,
+    "sessionId": 23,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3208,
+        "stageId": 11,
+        "billStageId": 3448,
+        "billId": 533,
+        "date": "2010-04-08T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

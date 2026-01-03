@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the delivery of youth services by local authorities, including services under section 507B of the Education Act 1996; to require local authorities to specify groups of young people to receive particular services for the purposes of personal and social development of people in those groups; to make provision about the inclusion of youth services in arrangements for the inspection of children’s services and social care services; to make provision about targets for the delivery of youth work and measurement of delivery against those targets; to require local authorities to consult users and prospective users of youth services about the provision of those services; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5119,
+        "name": "Natasha Irons",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5119/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5119/contact",
+        "memberFrom": "Croydon East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4055,
+  "shortTitle": "Youth Services Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-18T11:27:59.4136514",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20398,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17660,
+        "stageId": 7,
+        "billStageId": 20398,
+        "billId": 4055,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

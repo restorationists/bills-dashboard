@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about water, including provision about the management of risks in connection with flooding and coastal erosion.",
+  "summary": "<p>The Bill responds to recent pressure to introduce legislation to address the threat of flooding and water scarcity, both of which are predicted to increase with climate change.</p><p><strong>Key areas</strong></p><ul><li>requires the Environment Agency to create a National Flood and Coastal Erosion Risk Management Strategy, which a number of organisations will have to follow</li><li>requires leading local flood authorities to create local flood risk management strategies</li><li>enables the Environment Agency and local authorities more easily to carry out flood risk management works</li><li>introduces a more risk-based approach to reservoir management</li><li>changes the arrangements that would apply should a water company go into administration</li><li>enables water companies more easily to control non-essential uses of water, such as the use of hosepipes</li><li>enables water companies to offer concessions to community groups for surface water drainage charges</li><li>requires the use of sustainable drainage systems in certain new developments</li><li>introduces a mandatory building standard for sewers</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 413,
+        "name": "Hilary Benn",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/413/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/413/contact",
+        "memberFrom": "Leeds Central"
+      },
+      "organisation": {
+        "name": "Department for Environment, Food and Rural Affairs",
+        "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 987,
+        "name": "Lord Davies of Oldham",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/987/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/987/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Environment, Food and Rural Affairs",
+        "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 534,
+  "shortTitle": "Flood Water Management Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-08-16T11:14:18",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3430,
+    "stageId": 11,
+    "sessionId": 23,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3209,
+        "stageId": 11,
+        "billStageId": 3430,
+        "billId": 534,
+        "date": "2010-04-08T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

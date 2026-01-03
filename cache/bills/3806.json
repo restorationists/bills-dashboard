@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make fire and rescue authorities statutory consultees for planning applications relating to Battery Energy Storage Systems; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5286,
+        "name": "Anna Sabine",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5286/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5286/contact",
+        "memberFrom": "Frome and East Somerset"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3806,
+  "shortTitle": "Battery Energy Storage Systems (Fire Safety) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-07-08T16:06:33.5483833",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19087,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16159,
+        "stageId": 7,
+        "billStageId": 19087,
+        "billId": 3806,
+        "date": "2026-05-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

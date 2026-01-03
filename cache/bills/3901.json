@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide that, where a public body collects data about ethnicity for the purpose of delivering public services, it must include specific 'Sikh' and 'Jewish' categories as options for a person’s ethnic group; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4603,
+        "name": "Preet Kaur Gill",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4603/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4603/contact",
+        "memberFrom": "Birmingham Edgbaston"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3901,
+  "shortTitle": "Public Body Ethnicity Data (Inclusion of Jewish and Sikh Categories) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-26T13:35:22.6268775",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19357,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16455,
+        "stageId": 7,
+        "billStageId": 19357,
+        "billId": 3901,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

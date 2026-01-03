@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide for the transfer from public museum and gallery collections of arts, artefacts and other objects stolen between 1933 and 1945 by or on behalf of the Nazi regime, its members and sympathisers; to provide for the return of such artefacts and objects to the lawful owners, their heirs and successors; and for connected purposes.",
+  "summary": "The Bill would give the trustees of various public museums in Britain the power of de-accession of any artefacts or cultural objects currently held in their collections which had been stolen by or on behalf of the Nazi regime between 1933 and 1945, so that these artefacts could be returned to the lawful owners or their heirs. The Bill provides that this power could only be exercised where the return is recommended by an advisory body established by the Secretary of State and where the Secretary of State accepts that body&rsquo;s recommendation.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 179,
+        "name": "Mr Andrew Dismore",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/179/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/179/contact",
+        "memberFrom": "Hendon"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 426,
+  "shortTitle": "Holocaust (Return of Cultural Objects)",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-11-20T14:43:18",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 2785,
+    "stageId": 11,
+    "sessionId": 22,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2646,
+        "stageId": 11,
+        "billStageId": 2785,
+        "billId": 426,
+        "date": "2009-11-12T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

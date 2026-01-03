@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill To Authorise the use of resources for the year ending with 31 March 2017; to authorise both the issue of sums out of the Consolidated Fund and the application of income for that year; and to appropriate the supply authorised for that year by this Act and by the Supply and Appropriation (Anticipation and Adjustments) Act 2016.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1529,
+        "name": "Mr David Gauke",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1529/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1529/contact",
+        "memberFrom": "South West Hertfordshire"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4536,
+        "name": "Lord O'Neill of Gatley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4536/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4536/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1858,
+  "shortTitle": "Supply and Appropriation (Main Estimates) Act 2016",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-07-21T09:50:13",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 8904,
+    "stageId": 11,
+    "sessionId": 29,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 8226,
+        "stageId": 11,
+        "billStageId": 8904,
+        "billId": 1858,
+        "date": "2016-07-20T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

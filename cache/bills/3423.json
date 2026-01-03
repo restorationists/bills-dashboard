@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to increase the minimum required height of guarding in multi-storey car parks; to make provision about increasing the height of guarding in existing multi-storey car parks; to require 24 hour staffing of multi-storey car parks; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 483,
+        "name": "Maria Eagle",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/483/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/483/contact",
+        "memberFrom": "Garston and Halewood"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3423,
+  "shortTitle": "Multi-storey car parks (safety) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T12:02:12.3683544",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17444,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14289,
+        "stageId": 6,
+        "billStageId": 17444,
+        "billId": 3423,
+        "date": "2023-02-28T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

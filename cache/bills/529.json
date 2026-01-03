@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require certain authorities to maintain a register of the destination of recycled materials; and for connect purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 252,
+        "name": "Mr David Drew",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/252/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/252/contact",
+        "memberFrom": "Stroud"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 529,
+  "shortTitle": "Waste Recycling (End Use Register) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-11-12T11:30:21",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13393,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

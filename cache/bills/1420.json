@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about the inclusion at local authority meetings of observances that are, and about powers of local authorities in relation to events that to any extent are, religious or related to a religious or philosophical belief.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4060,
+        "name": "Jake Berry",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4060/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4060/contact",
+        "memberFrom": "Rossendale and Darwen"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 282,
+        "name": "Lord Cormack",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/282/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/282/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1420,
+  "shortTitle": "Local Government (Religious etc. Observances) Act 2015",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-27T11:10:34",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7710,
+    "stageId": 11,
+    "sessionId": 27,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7179,
+        "stageId": 11,
+        "billStageId": 7710,
+        "billId": 1420,
+        "date": "2015-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit sexual orientation and gender identity conversion therapy; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1567,
+        "name": "Baroness Burt of Solihull",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1567/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1567/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3512,
+  "shortTitle": "Conversion Therapy Prohibition (Sexual Orientation and Gender Identity) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2024-05-29T11:40:45.4416465",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18044,
+    "stageId": 2,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15437,
+        "stageId": 2,
+        "billStageId": 18044,
+        "billId": 3512,
+        "date": "2024-02-09T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

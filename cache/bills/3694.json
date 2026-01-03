@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to provide for the quashing of convictions in England and Wales and Northern Ireland for certain offences alleged to have been committed while the Horizon system was in use by the Post Office; to make provision about the deletion of cautions given in England and Wales or Northern Ireland for such offences; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4597,
+        "name": "Kemi Badenoch",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4597/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4597/contact",
+        "memberFrom": "Saffron Walden"
+      },
+      "organisation": {
+        "name": "Department for Business and Trade ",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4931,
+        "name": "Lord Offord of Garvel",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4931/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4931/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business and Trade ",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3694,
+  "shortTitle": "Post Office (Horizon System) Offences Act 2024",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-10-02T10:09:50.8621501",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 18840,
+    "stageId": 11,
+    "sessionId": 38,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 15932,
+        "stageId": 11,
+        "billStageId": 18840,
+        "billId": 3694,
+        "date": "2024-05-24T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

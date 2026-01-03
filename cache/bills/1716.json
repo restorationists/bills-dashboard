@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend Part VI of the Road Traffic Regulation Act 1984, and the Local Authorities’ Traffic Orders (Procedure) (England and Wales) Regulations 1996, to make provision about the powers and duties of parish and town councils in relation to applying for speed limit orders; to provide for the conduct of local referendums to determine whether such applications should be made; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4496,
+        "name": "Scott Mann",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4496/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4496/contact",
+        "memberFrom": "North Cornwall"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1716,
+  "shortTitle": "Speed Limits on Roads (Devolved Powers) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-02-08T09:33:48",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 8155,
+    "stageId": 7,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 7647,
+        "stageId": 7,
+        "billStageId": 8155,
+        "billId": 1716,
+        "date": "2016-02-05T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

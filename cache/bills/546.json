@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision about offences relating to bribery; and for connected purposes.",
+  "summary": "<p>The purpose of the Bill is to provide a modern and comprehensive scheme of bribery offences to equip prosecutors and courts to deal effectively with bribery in the UK and abroad.</p><p><strong>Key areas</strong></p><ul><li>replaces old and fragmented legislation with a modern and consolidated bribery law, based on the recommendations of the Law Commission</li><li>creates offences of offering, promising or giving of a bribe and requesting, agreeing to receive or accepting of a bribe either in the UK or abroad, in the public or private sectors</li><li>creates a discrete offence of bribery of a foreign public official in order to obtain or retain business</li><li>creates a new offence in relation to commercial organisations which fail to prevent a bribe being paid by those who perform services for or on behalf of the organisation. It will, however, be a defence if an organisation has adequate procedures in place to prevent bribery</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3451,
+        "name": "Lord Bach",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3451/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3451/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 463,
+        "name": "Mr Jack Straw",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/463/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/463/contact",
+        "memberFrom": "Blackburn"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 546,
+  "shortTitle": "Bribery Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2010-08-17T12:13:51",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3429,
+    "stageId": 11,
+    "sessionId": 23,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3215,
+        "stageId": 11,
+        "billStageId": 3429,
+        "billId": 546,
+        "date": "2010-04-08T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+}

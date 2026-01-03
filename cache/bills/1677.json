@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about the Oil and Gas Authority and its functions; to make provision about rights to use upstream petroleum infrastructure; to make provision about the abandonment of offshore installations, submarine pipelines and upstream petroleum infrastructure; to extend Part 1A of the Petroleum Act 1998 to Northern Ireland; to make provision about the disclosure of information for the purposes of international agreements; to make provision about fees in respect of activities relating to oil, gas, carbon dioxide and pipelines; to make provision about wind power; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4282,
+        "name": "Lord Bourne of Aberystwyth",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4282/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4282/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department of Energy and Climate Change",
+        "url": "https://www.gov.uk/government/organisations/department-of-energy-climate-change"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3983,
+        "name": "Amber Rudd",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3983/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3983/contact",
+        "memberFrom": "Hastings and Rye"
+      },
+      "organisation": {
+        "name": "Department of Energy and Climate Change",
+        "url": "https://www.gov.uk/government/organisations/department-of-energy-climate-change"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1677,
+  "shortTitle": "Energy Act 2016",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-12-20T09:40:37.9227935",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 8619,
+    "stageId": 11,
+    "sessionId": 28,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7971,
+        "stageId": 11,
+        "billStageId": 8619,
+        "billId": 1677,
+        "date": "2016-05-12T00:00:00"
+      }
+    ],
+    "sortOrder": 23
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": null,
+  "summary": "A Bill to enable the succession of female heirs to hereditary peerages, and for connected purposes.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1879,
+        "name": "Lord Lucas",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1879/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1879/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1022,
+  "shortTitle": "Hereditary Peerages (Succession) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-04-30T11:07:33",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13825,
+    "stageId": 2,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

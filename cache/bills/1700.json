@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about housing, estate agents, rentcharges, planning and compulsory purchase.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1578,
+        "name": "Greg Clark",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1578/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1578/contact",
+        "memberFrom": "Tunbridge Wells"
+      },
+      "organisation": {
+        "name": "Department for Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4311,
+        "name": "Baroness Williams of Trafford",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4311/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4311/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1700,
+  "shortTitle": "Housing and Planning Act 2016",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-05-13T12:06:12",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 8612,
+    "stageId": 11,
+    "sessionId": 28,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7995,
+        "stageId": 11,
+        "billStageId": 8612,
+        "billId": 1700,
+        "date": "2016-05-12T00:00:00"
+      }
+    ],
+    "sortOrder": 24
+  }
+}

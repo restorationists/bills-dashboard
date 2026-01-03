@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make further provision about the functions, powers and constitution of local authority overview and scrutiny committees; and for connected purposes.",
+  "summary": "<p>The Bill aims to strengthen and broaden the powers of local government overview and scrutiny committees. It is based on proposals in the 2009 Communities and Local Government Green Paper 'Strengthening Local Democracy'.</p><p><strong>Key areas</strong></p><ul><li>gives scrutiny committees powers over a wider range of external bodies than at present (the external bodies will be designated by regulation)</li><li>provides for these powers to be used in scrutiny of activities carried out by these external bodies that relate to matters of local concern in the provision of public services</li><li>makes provision for executive council members to be able to sit on scrutiny committees when they are concerned with scrutiny of external bodies</li><li>makes provision to ensure that scrutiny officers are allocated such resources as they believe they require to carry out their role effectively</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 440,
+        "name": "Mr David Chaytor",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/440/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/440/contact",
+        "memberFrom": "Bury North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 569,
+  "shortTitle": "Local Authorities (Overview and Scrutiny) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-10-26T10:43:26",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 3243,
+    "stageId": 9,
+    "sessionId": 23,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 3052,
+        "stageId": 9,
+        "billStageId": 3243,
+        "billId": 569,
+        "date": "2010-03-12T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "To amend the Equal Pay Act 1970; and to make provision about flexible working.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3681,
+        "name": "Baroness Morris of Bolton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3681/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3681/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 366,
+  "shortTitle": "Equal Pay and Flexible Working Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-11-13T11:06:25",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 1975,
+    "stageId": 2,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 1887,
+        "stageId": 2,
+        "billStageId": 1975,
+        "billId": 366,
+        "date": "2009-01-23T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

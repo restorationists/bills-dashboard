@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Animal Welfare Act 2006 to require a person in charge of a dog to take all reasonable steps to ensure that that dog does not fatally injure another dog; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4936,
+        "name": "Anna Firth",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4936/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4936/contact",
+        "memberFrom": "Southend West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3466,
+  "shortTitle": "Animal Welfare (Responsibility for Dog Attacks) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-30T15:50:59.4844644",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17719,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14640,
+        "stageId": 6,
+        "billStageId": 17719,
+        "billId": 3466,
+        "date": "2023-05-23T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

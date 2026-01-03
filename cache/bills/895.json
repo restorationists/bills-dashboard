@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision that occupiers of dwellings owned by certain forms of co-operatives shall occupy those dwellings by virtue of their membership of the co-operative and not as tenants or under any other type of property interest; to make provision for co-operative tenure and for the respective rights and obligations of the co-operative and its members; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4119,
+        "name": "Jonathan Reynolds",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4119/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4119/contact",
+        "memberFrom": "Stalybridge and Hyde"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 895,
+  "shortTitle": "Co-Operative Housing Tenure Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-01T14:27:07",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 4503,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 4284,
+        "stageId": 7,
+        "billStageId": 4503,
+        "billId": 895,
+        "date": "2012-03-30T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

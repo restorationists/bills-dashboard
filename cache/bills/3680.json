@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for and in connection with the making available of information about support available for infants, parents and carers of infants, and prospective parents and carers, including reporting requirements relating to such support.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4842,
+        "name": "Sally-Ann Hart",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4842/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4842/contact",
+        "memberFrom": "Hastings and Rye"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3680,
+  "shortTitle": "Support for Infants and Parents etc (Information) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-06-04T16:24:22.5777577",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18496,
+    "stageId": 7,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15512,
+        "stageId": 7,
+        "billStageId": 18496,
+        "billId": 3680,
+        "date": "2024-03-15T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit the keeping of pump action firearms in homes, with exemptions for professional pest controllers and farmers; to make provision about medical requirements for holders of firearms certificates; to make provision about the disclosure of mental health concerns relating to holders of firearms certificates; to extend offences of stirring up hatred to cover hatred on the basis of sex or gender; to make motivation by misogyny an aggravating factor in sentencing for violent crimes; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4682,
+        "name": "Luke Pollard",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4682/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4682/contact",
+        "memberFrom": "Plymouth, Sutton and Devonport"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3123,
+  "shortTitle": "Firearms and Hate Crime Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-03T14:23:29.1708922",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16228,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12905,
+        "stageId": 7,
+        "billStageId": 16228,
+        "billId": 3123,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": null,
+  "summary": "The Bill would 'permit members of the public to initiate legislation'. A citizen would submit a written proposal for legislation to the Clerk in the Table Office in Parliament. Once a proposal had had been approved by the Table Office, citizens would have 12 months to collect signatures. After this period, the six proposals with the most signatures would be presented to Parliament during the State Opening. Every few months, the Commons would debate and vote on one of these Bills.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1527,
+        "name": "Mr Douglas Carswell",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1527/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1527/contact",
+        "memberFrom": "Harwich"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 309,
+  "shortTitle": "Citizens' Initiative (Legislation) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-10-16T17:29:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13202,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

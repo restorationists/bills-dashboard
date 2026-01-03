@@ -1,0 +1,54 @@
+{
+  "longTitle": "To confer further powers upon Transport for London; and for related purposes.",
+  "summary": "<p>Transport matters in London are devolved to Transport for London (TfL) under the Greater London Authority Act 1999. The Bill provides TfL with further powers related to its responsibilities for road user charging, London cabs and private hire vehicles, fare enforcement, street management and other miscellaneous matters. In particular, it: </p><ul><li>increases TfL's powers to fine and remove vehicles that fail to pay any road charges within London </li><li>implements a 'default' fare system for black cab journeys from London to a destination outside the boundary </li><li>permits fixed penalty notices to be issued for specified black cab and minicab offences.</li></ul><p>Further information can be found in the Explanatory Memorandum that accompanies the Bill.</p><p><a>Read the Explanatory Memorandum</a></p>",
+  "sponsors": [],
+  "promoters": [
+    {
+      "organisationName": "Transport for London",
+      "organisationUrl": "http://www.tfl.gov.uk"
+    }
+  ],
+  "petitioningPeriod": null,
+  "petitionInformation": "<p>There will be no further opportunities to petition against this Bill. </p><ul><li>Lords petitioning period ended 6.2.06</li><li>Commons petitioning period ended 14.05.07</li></ul>",
+  "agent": {
+    "name": "Eversheds Sutherland (International) LLP",
+    "address": "1 Wood St, London, EC2V 7WS",
+    "phoneNo": "020 7497 9797",
+    "email": "stephencollings@eversheds-sutherland.com.com",
+    "website": "www.eversheds-sutherland.com"
+  },
+  "billId": 210,
+  "shortTitle": "Transport for London Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2008-11-26T17:34:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 6,
+  "introducedSessionId": 19,
+  "includedSessionIds": [
+    19,
+    20,
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1644,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1544,
+        "stageId": 11,
+        "billStageId": 1644,
+        "billId": 210,
+        "date": "2008-05-22T00:00:00"
+      }
+    ],
+    "sortOrder": 19
+  }
+}

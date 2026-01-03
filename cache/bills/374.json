@@ -1,0 +1,48 @@
+{
+  "longTitle": "To make provision about remuneration reports in public quoted company accounts and reports.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2504,
+        "name": "Lord Gavron",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2504/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2504/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 374,
+  "shortTitle": "Companies’ Remuneration Reports Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-11-09T11:25:28",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13261,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 6
+  }
+}

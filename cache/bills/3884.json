@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision to amend the Mental Health Act 1983 in relation to mentally disordered persons; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 347,
+        "name": "Baroness Merron",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/347/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/347/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department of Health and Social Care",
+        "url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4504,
+        "name": "Wes Streeting",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4504/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4504/contact",
+        "memberFrom": "Ilford North"
+      },
+      "organisation": {
+        "name": "Department of Health and Social Care",
+        "url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3884,
+  "shortTitle": "Mental Health Act 2025",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2025-12-19T10:49:35.9495713",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 20357,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 17638,
+        "stageId": 11,
+        "billStageId": 20357,
+        "billId": 3884,
+        "date": "2025-12-18T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision in relation to the civil enforcement of speeding contraventions",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4341,
+        "name": "Baroness Pinnock",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4341/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4341/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2583,
+  "shortTitle": "Traffic Management (Amendment) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2021-05-05T12:53:34.069339",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11740,
+    "stageId": 2,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

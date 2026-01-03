@@ -1,0 +1,56 @@
+{
+  "longTitle": "Establish a Committee of Inquiry into the implications of a withdrawal by the United Kingdom from the European Union.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3153,
+        "name": "Lord Pearson of Rannoch",
+        "party": "Conservative Independent",
+        "partyColour": "909090",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3153/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3153/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 37,
+  "shortTitle": "European Union (Implications of Withdrawal) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2007-10-13T17:36:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 177,
+    "stageId": 2,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 32,
+        "stageId": 2,
+        "billStageId": 177,
+        "billId": 37,
+        "date": "2007-06-08T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

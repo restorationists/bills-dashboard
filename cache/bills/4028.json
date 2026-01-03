@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to give the Monarch powers to remove titles; to provide that such removals can be done by the Monarch on their own initiative, following a recommendation of a joint committee of Parliament, or at the request of the person who holds the title; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4471,
+        "name": "Rachael Maskell",
+        "party": "Independent",
+        "partyColour": "909090",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4471/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4471/contact",
+        "memberFrom": "York Central"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4028,
+  "shortTitle": "Removal of Titles Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-11T12:31:26.7947913",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20249,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17465,
+        "stageId": 7,
+        "billStageId": 20249,
+        "billId": 4028,
+        "date": "2026-03-27T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

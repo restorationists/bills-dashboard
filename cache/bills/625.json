@@ -1,0 +1,76 @@
+{
+  "longTitle": "Authorise the use of resources for the service of the years ending with 31 March 2009 and 31 March 2010 and to apply certain sums out of the Consolidated Fund to the service of the year ending with 31 March 2010; and to appropriate the supply authorised in this Session of Parliament for the service of the years ending with 31 March 2009 and 31 March 2010.",
+  "summary": "<p>The Bill provides parliamentary authority for funds requested by the Government. It is part of the 'supply procedure', which is how Parliament grants the Government&rsquo;s requests for resources.</p><p>Two Consolidated Fund (Appropriation) Bills are passed each year, in March and July. They are sometimes referred to simply as 'Appropriation Bills'. These, together with the Consolidated Fund Bill, provide authorisation from Parliament for the resources sought by the Government. Proceedings on the Bill are formal - there is no debate and the Bill goes through 'on the nod'.</p><p><strong>Key areas</strong></p><ul><li>authorises provision sought in the Spring Supplementary Estimates for 2009/10 and the Statement of Excesses for 2008/09</li><li>authorises the release of money from the Consolidated Fund, which is the Government&rsquo;s bank account</li><li>places limits on the purposes for which the money may be spent</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 596,
+        "name": "Mr Alistair Darling",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/596/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/596/contact",
+        "memberFrom": "Edinburgh South West"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3869,
+        "name": "Lord Myners",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3869/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3869/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 625,
+  "shortTitle": "Appropriation Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-03-28T10:06:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3330,
+    "stageId": 11,
+    "sessionId": 23,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3169,
+        "stageId": 11,
+        "billStageId": 3330,
+        "billId": 625,
+        "date": "2010-03-18T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

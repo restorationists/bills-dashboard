@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to consolidate and amend provisions about the House of Commons Members' Fund.",
+  "summary": "<p>The Bill has been introduced to amend and consolidate provisions relating to the House of Commons Members&rsquo; Fund, which assists former Members and their dependants who are in financial difficulty.  </p><p><strong>Key areas</strong></p><ul><li>would allow more flexibility to the Trustees in managing the Fund, including through extending the class of beneficiary </li><li>would remove the requirement for an annual appropriation resolution </li><li>would remove the requirement that all current Members make a monthly contribution of &pound;2 </li><li>would allow the Fund to return surplus funds to the Treasury.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 68,
+        "name": "Mr Peter Lilley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/68/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/68/contact",
+        "memberFrom": "Hitchin and Harpenden"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1323,
+  "shortTitle": "House of Commons Members' Fund Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-05-15T14:15:34",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14116,
+    "stageId": 7,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

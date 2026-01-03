@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide support for small retail premises; to establish the Office for Retail Planning; to make provision about retail planning and development; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3786,
+        "name": "Lord Cotter",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3786/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3786/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 265,
+  "shortTitle": "Retail Development Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-02-23T12:55:05",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 1501,
+    "stageId": 5,
+    "sessionId": 21,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 1365,
+        "stageId": 5,
+        "billStageId": 1501,
+        "billId": 265,
+        "date": "2008-07-08T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

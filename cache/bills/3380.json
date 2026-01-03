@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to confer powers upon Bishop's Stortford Town Council to extinguish rights of burial and disturb human remains in Bishop Stortford's New Cemetery and Old Cemetery for the purpose of increasing the space for interments; and for connected purposes.",
+  "summary": null,
+  "sponsors": [],
+  "promoters": [],
+  "petitioningPeriod": "The petitioning period is now closed.",
+  "petitionInformation": "<p>The House of Lords petitioning period ran until 5pm on Monday 6 February 2023.</p><p>The House of Commons petitioning period ran until 5pm on Monday 16 October 2023.</p>",
+  "agent": {
+    "name": "Broadfield Law UK LLP",
+    "address": "One Bartholomew Close, London, EC1A 7BL.",
+    "phoneNo": "020 7783 3437",
+    "email": "PamThompson@bdbpitmans.com",
+    "website": ""
+  },
+  "billId": 3380,
+  "shortTitle": "Bishop’s Stortford Cemetery Act 2024",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2024-03-22T15:42:29.3494919",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 6,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37,
+    38
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 18609,
+    "stageId": 11,
+    "sessionId": 38,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 15653,
+        "stageId": 11,
+        "billStageId": 18609,
+        "billId": 3380,
+        "date": "2024-03-20T00:00:00"
+      }
+    ],
+    "sortOrder": 17
+  }
+}

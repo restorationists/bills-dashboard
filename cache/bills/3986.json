@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend building regulations to require letter boxes in new buildings and new front doors to be positioned in accordance with Standard BS EN 13724:2013.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5038,
+        "name": "Anneliese Midgley",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5038/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5038/contact",
+        "memberFrom": "Knowsley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3986,
+  "shortTitle": "Letter Boxes (Positioning) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-28T12:08:13.2948873",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19999,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17137,
+        "stageId": 7,
+        "billStageId": 19999,
+        "billId": 3986,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

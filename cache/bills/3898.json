@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to commission and publish a review of the legislation and guidance relating to e-scooters; to place a duty on the Secretary of State to promote public awareness of legislation relating to the use of e-scooters; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1548,
+        "name": "Jessica Morden",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1548/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1548/contact",
+        "memberFrom": "Newport East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3898,
+  "shortTitle": "E-scooters (Review and Awareness) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-26T13:32:19.0822553",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19338,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16433,
+        "stageId": 7,
+        "billStageId": 19338,
+        "billId": 3898,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

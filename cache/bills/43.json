@@ -1,0 +1,56 @@
+{
+  "longTitle": "Amend the House of Lords Act 1999.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1665,
+        "name": "Lord Avebury",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1665/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1665/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 43,
+  "shortTitle": "House of Lords (Amendment) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2007-10-21T17:20:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 201,
+    "stageId": 2,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 54,
+        "stageId": 2,
+        "billStageId": 201,
+        "billId": 43,
+        "date": "2007-05-18T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

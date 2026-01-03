@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to undertake a review of the support available to markets and market traders and of the options for improving that support; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4800,
+        "name": "Simon Baynes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4800/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4800/contact",
+        "memberFrom": "Clwyd South"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3402,
+  "shortTitle": "Markets and market traders (review of support) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T11:11:46.6185016",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17300,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14126,
+        "stageId": 6,
+        "billStageId": 17300,
+        "billId": 3402,
+        "date": "2023-01-17T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

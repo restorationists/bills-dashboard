@@ -1,0 +1,60 @@
+{
+  "longTitle": "A Bill to give effect to Law Commission recommendations relating to commencement of enactments relating to sentencing law and to make provision for pre-consolidation amendments of sentencing law",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4538,
+        "name": "Lord Keen of Elie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4538/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4538/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2405,
+  "shortTitle": "Sentencing (Pre-consolidation Amendments) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-11-08T10:12:58",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30,
+    34
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11443,
+    "stageId": 4,
+    "sessionId": 34,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 10459,
+        "stageId": 4,
+        "billStageId": 11443,
+        "billId": 2405,
+        "date": "2019-10-16T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

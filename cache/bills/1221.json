@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit the wearing of certain face coverings; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1537,
+        "name": "Mr Philip Hollobone",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1537/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1537/contact",
+        "memberFrom": "Kettering"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1221,
+  "shortTitle": "Face Coverings (Prohibition) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-05-15T13:55:46",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 6833,
+    "stageId": 7,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 6376,
+        "stageId": 7,
+        "billStageId": 6833,
+        "billId": 1221,
+        "date": "2014-02-28T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

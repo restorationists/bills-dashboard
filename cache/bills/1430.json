@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about the handling of complaints by the Health Service Commissioner for England; to require the Commissioner to notify a complainant of the reason for the delay if the investigation of the complaint is not concluded within a twelve month period; to require the Commissioner to lay before Parliament an annual report giving details of how long investigations of complaints have taken to be concluded and progress towards meeting a target of concluding investigations within a twelve month period; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 373,
+        "name": "Mr David Davis",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/373/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/373/contact",
+        "memberFrom": "Haltemprice and Howden"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3609,
+        "name": "Baroness Finlay of Llandaff",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3609/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3609/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1430,
+  "shortTitle": "Health Service Commissioner for England (Complaint Handling) Act 2015",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-27T11:11:41",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7715,
+    "stageId": 11,
+    "sessionId": 27,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7185,
+        "stageId": 11,
+        "billStageId": 7715,
+        "billId": 1430,
+        "date": "2015-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

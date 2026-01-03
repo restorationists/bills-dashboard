@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to enter into negotiations with countries which are members of the European Union for the purpose of extending the Youth Mobility Scheme to applicants from those countries on a reciprocal basis; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5265,
+        "name": "James MacCleary",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5265/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5265/contact",
+        "memberFrom": "Lewes"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3920,
+  "shortTitle": "Youth Mobility Scheme (EU Countries) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-10-16T12:13:38.1147727",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19453,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16594,
+        "stageId": 7,
+        "billStageId": 19453,
+        "billId": 3920,
+        "date": "2026-05-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

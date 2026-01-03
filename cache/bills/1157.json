@@ -1,0 +1,48 @@
+{
+  "longTitle": null,
+  "summary": "A bill to amend the Sovereign Grant Act 2011; amend the succession to the title of the Duke of Cornwall; re-distribute the Duchy of Cornwall estate; and to remove the requirement for a Parliament to obtain Queen or Prince's consent to consideration of bills passing through Parliament.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3526,
+        "name": "Lord Berkeley",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3526/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3526/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1157,
+  "shortTitle": "Rights of the Sovereign and the Duchy of Cornwall Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-03-27T10:05:43",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13956,
+    "stageId": 2,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

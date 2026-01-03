@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about intellectual property.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4169,
+        "name": "Viscount Younger of Leckie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4169/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4169/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "Department for Business, Innovation and Skills",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 207,
+        "name": "Vince Cable",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/207/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/207/contact",
+        "memberFrom": "Twickenham"
+      },
+      "organisation": {
+        "name": "Department for Business, Innovation and Skills",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1171,
+  "shortTitle": "Intellectual Property Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2014-05-15T11:24:12",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 6828,
+    "stageId": 11,
+    "sessionId": 26,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 6371,
+        "stageId": 11,
+        "billStageId": 6828,
+        "billId": 1171,
+        "date": "2014-05-14T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend Schedule 9 to the Equality Act 2010 to prohibit age discrimination by employers in relation to the provision of insurance or a related financial service; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4795,
+        "name": "Mrs Natalie Elphicke",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4795/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4795/contact",
+        "memberFrom": "Dover"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3603,
+  "shortTitle": "Employment Equality (Insurance etc) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-06-03T10:33:21.7976661",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18270,
+    "stageId": 7,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15252,
+        "stageId": 7,
+        "billStageId": 18270,
+        "billId": 3603,
+        "date": "2024-02-02T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

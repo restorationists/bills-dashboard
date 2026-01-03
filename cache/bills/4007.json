@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to establish an independent regulator of managing agents; to make provision about the powers and duties of the independent regulator; to require managing agents to comply with a code of practice and to make provision about that code of practice; to make provision for a licensing scheme for managing agents; to make further provision about the regulation of managing agents; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5339,
+        "name": "Danny Beales",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5339/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5339/contact",
+        "memberFrom": "Uxbridge and South Ruislip"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4007,
+  "shortTitle": "Managing Agents (Regulation) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-16T17:57:13.6806351",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20141,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17297,
+        "stageId": 7,
+        "billStageId": 20141,
+        "billId": 4007,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

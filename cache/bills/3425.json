@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to report to Parliament on the merits of extending to 5 April 2025 the period for which voluntary Class 2 and 3 National Insurance contributions may be paid in respect of one or more of the tax years 2006-07 to 2016-17; to require the Secretary of State to publish certain information about the performance of the Future Pension Centre in providing advice about voluntary Class 2 and 3 contributions in relation to the state pension; to require the Secretary of State to publish a strategy for increasing public awareness of voluntary Class 2 and 3 contributions; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4765,
+        "name": "Wendy Chamberlain",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4765/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4765/contact",
+        "memberFrom": "North East Fife"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3425,
+  "shortTitle": "National Insurance (Voluntary Class 2 and 3 Contributions) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T12:07:19.4950871",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17453,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14306,
+        "stageId": 6,
+        "billStageId": 17453,
+        "billId": 3425,
+        "date": "2023-03-01T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

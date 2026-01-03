@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to consolidate and amend provisions about the House of Commons Members’ Fund; and to make provision about the House of Commons resources estimates.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 103,
+        "name": "Sir Paul Beresford",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/103/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/103/contact",
+        "memberFrom": "Mole Valley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1251,
+        "name": "Lord Naseby",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1251/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1251/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1711,
+  "shortTitle": "House of Commons Members’ Fund Act 2016",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2018-12-19T12:37:33",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 8617,
+    "stageId": 11,
+    "sessionId": 28,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 8003,
+        "stageId": 11,
+        "billStageId": 8617,
+        "billId": 1711,
+        "date": "2016-05-12T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

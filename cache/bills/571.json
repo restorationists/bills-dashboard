@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the appointment, functions and powers of a Grocery Market Ombudsman; and for connected purposes.",
+  "summary": "<p>The Bill would establish an independent ombudsman for the grocery market to oversee the operation of the Groceries Supply Code of Practice. The Bill would provide for the Office of Fair Trading (OFT), within three months of the Bill's enactment, to establish the Office of the Grocery Market Ombudsman and a person as the Grocery Market Ombudsman. </p><p>Although funded by the OFT, the ombudsman would be independent of it and would investigate complaints or disputes referred by the OFT, retailers or suppliers. The ombudsman&rsquo;s determination would be final and binding on all parties and he/she would have the power to impose monetary penalties and/or costs. The Secretary of State would establish by regulation an appropriate range for such penalties, and would provide for enforcement.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1474,
+        "name": "Albert Owen",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1474/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1474/contact",
+        "memberFrom": "Ynys Môn"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 571,
+  "shortTitle": "Grocery Market Ombudsman Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-04-19T16:03:54",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 3452,
+    "stageId": 8,
+    "sessionId": 23,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 3226,
+        "stageId": 8,
+        "billStageId": 3452,
+        "billId": 571,
+        "date": "2010-03-30T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

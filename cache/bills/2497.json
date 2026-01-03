@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision for a parliamentary general election to be held on 12 December 2019.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1423,
+        "name": "Boris Johnson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1423/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1423/contact",
+        "memberFrom": "Uxbridge and South Ruislip"
+      },
+      "organisation": {
+        "name": "Prime Minister",
+        "url": "https://www.gov.uk/government/organisations/prime-ministers-office-10-downing-street"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4329,
+        "name": "Baroness Evans of Bowes Park",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4329/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4329/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2497,
+  "shortTitle": "Early Parliamentary General Election Act 2019",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-11-01T09:18:51",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 34,
+  "includedSessionIds": [
+    34
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11564,
+    "stageId": 11,
+    "sessionId": 34,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10557,
+        "stageId": 11,
+        "billStageId": 11564,
+        "billId": 2497,
+        "date": "2019-10-31T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

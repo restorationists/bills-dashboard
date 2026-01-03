@@ -1,0 +1,76 @@
+{
+  "longTitle": "A bill to transfer the functions of the Institute for Apprenticeships and Technical Education, and its property, rights and liabilities, to the Secretary of State; to abolish the Institute; and to make amendments relating to the transferred functions.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 269,
+        "name": "Baroness Smith of Malvern",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/269/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/269/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4046,
+        "name": "Bridget Phillipson",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4046/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4046/contact",
+        "memberFrom": "Houghton and Sunderland South"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3772,
+  "shortTitle": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2025-05-16T08:49:46.2228524",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 19882,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 17044,
+        "stageId": 11,
+        "billStageId": 19882,
+        "billId": 3772,
+        "date": "2025-05-15T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

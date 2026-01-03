@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to fix the date of the next general election and all subsequent elections; to allow the House of Commons to change the day of the week on which a general election is held; and for connected purposes",
+  "summary": "<p><strong>Fixed Term Parliaments </strong></p><p>A Bill  which proposes:</p><ul><li>to fix the date of the next general election and all subsequent elections<br></li><li>to allow the House of Commons to change the day of the week on which a general election is held.</li></ul><strong><p><br><br><br> </p></strong>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1495,
+        "name": "David Howarth",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1495/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1495/contact",
+        "memberFrom": "Cambridge"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 234,
+  "shortTitle": "Fixed Term Parliaments Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-10-30T18:58:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 1176,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 1073,
+        "stageId": 7,
+        "billStageId": 1176,
+        "billId": 234,
+        "date": "2008-05-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

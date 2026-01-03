@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Government to publish an assessment of incidences of bowel conditions and diseases, including an assessment of geographical and socioeconomic disparities.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4124,
+        "name": "Chi Onwurah",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4124/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4124/contact",
+        "memberFrom": "Newcastle upon Tyne Central"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3343,
+  "shortTitle": "Bowel Conditions (Assessment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-30T16:20:00.8399612",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16969,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13741,
+        "stageId": 6,
+        "billStageId": 16969,
+        "billId": 3343,
+        "date": "2022-10-11T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

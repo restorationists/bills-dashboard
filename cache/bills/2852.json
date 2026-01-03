@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to lay before Parliament a report on any proposal to award NHS staff a pay rise for 2021/22 below 2.1%; to require the Secretary of State to move a motion in the House of Commons to approve any such report; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4480,
+        "name": "Carolyn Harris",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4480/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4480/contact",
+        "memberFrom": "Swansea East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2852,
+  "shortTitle": "NHS Pay Award (Report) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-05T14:56:47.2209929",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12876,
+    "stageId": 7,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

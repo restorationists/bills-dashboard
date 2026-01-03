@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the daily issuance of Fixed Penalty Notices against a utility company which has committed certain offences under the New Roads and Street Works Act 1991; to require the minimum amount of any such penalty to be equal to the costs associated with the issuance of the related Fixed Penalty Notice; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4769,
+        "name": "Daisy Cooper",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4769/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4769/contact",
+        "memberFrom": "St Albans"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3956,
+  "shortTitle": "Street Works (Penalties for Utility Companies) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-09-11T12:33:42.4239811",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19827,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16900,
+        "stageId": 7,
+        "billStageId": 19827,
+        "billId": 3956,
+        "date": "2026-05-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

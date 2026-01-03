@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision regarding the funding of the health service in England in respect of each financial year until the financial year that ends with 31 March 2024.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4070,
+        "name": "Matt Hancock",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4070/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4070/contact",
+        "memberFrom": "West Suffolk"
+      },
+      "organisation": {
+        "name": "Department of Health and Social Care",
+        "url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4019,
+        "name": "Baroness Blackwood of North Oxford",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4019/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4019/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department of Health and Social Care",
+        "url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2544,
+  "shortTitle": "NHS Funding Act 2020",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2020-03-17T09:35:30",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12094,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10905,
+        "stageId": 11,
+        "billStageId": 12094,
+        "billId": 2544,
+        "date": "2020-03-16T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

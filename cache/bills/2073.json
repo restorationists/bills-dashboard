@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about leave and pay for employees whose children have died.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4474,
+        "name": "Kevin Hollinrake",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4474/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4474/contact",
+        "memberFrom": "Thirsk and Malton"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4160,
+        "name": "Lord Knight of Weymouth",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4160/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4160/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2073,
+  "shortTitle": "Parental Bereavement (Leave and Pay) Act 2018",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2018-09-14T12:34:38",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 10689,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 9890,
+        "stageId": 11,
+        "billStageId": 10689,
+        "billId": 2073,
+        "date": "2018-09-13T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

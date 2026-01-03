@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to enable London Borough Councils and the Common Council of the City of London to achieve reductions in airborne emissions from specified plant in their areas and to make provision for the Secretary of State to set emission limits for such plant; to provide for fixed penalty notices in specified circumstances; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1703,
+        "name": "Lord Tope",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1703/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1703/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3089,
+  "shortTitle": "Emissions Reduction (Local Authorities in London) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-04-28T15:14:51.5651512",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15995,
+    "stageId": 1,
+    "sessionId": 36,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 12620,
+        "stageId": 1,
+        "billStageId": 15995,
+        "billId": 3089,
+        "date": "2021-12-16T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

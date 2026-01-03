@@ -1,0 +1,48 @@
+{
+  "longTitle": null,
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1593,
+        "name": "Sammy Wilson",
+        "party": "Democratic Unionist Party",
+        "partyColour": "d46a4c",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1593/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1593/contact",
+        "memberFrom": "East Antrim"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1727,
+  "shortTitle": "Armed Forces Covenant (Implementation) (United Kingdom) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-05-12T15:12:47",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14500,
+    "stageId": 7,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

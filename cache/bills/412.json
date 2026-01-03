@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Education and Inspections Act 2006 to establish standards in schools for the support of children with specified health conditions; to make provision about the inspection of such support; and for connected purposes.",
+  "summary": "<p>The Bill would amend the Education and Inspections Act 2006 to establish standards in schools for the support of children with specified health conditions. It would also make provision for the inspection of such support.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 308,
+        "name": "Mr Jim Cunningham",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/308/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/308/contact",
+        "memberFrom": "Coventry South"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 412,
+  "shortTitle": "Schools (Health Support) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-10-29T18:06:05",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2083,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 1988,
+        "stageId": 7,
+        "billStageId": 2083,
+        "billId": 412,
+        "date": "2009-05-08T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

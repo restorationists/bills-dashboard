@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision for and in connection with an expanded dormant assets scheme; to confer power to further expand the scope of that scheme; to amend the Dormant Bank and Building Society Accounts Act 2008; to enable an authorised reclaim fund to accept transfers of certain unwanted assets; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4703,
+        "name": "Baroness Barran",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4703/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4703/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Digital, Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4407,
+        "name": "Nigel Huddleston",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4407/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4407/contact",
+        "memberFrom": "Mid Worcestershire"
+      },
+      "organisation": {
+        "name": "Department for Digital, Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2866,
+  "shortTitle": "Dormant Assets Act 2022",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-03-01T14:42:18.6357091",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 16167,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 12867,
+        "stageId": 11,
+        "billStageId": 16167,
+        "billId": 2866,
+        "date": "2022-02-24T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

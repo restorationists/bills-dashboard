@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision for, and in connection with, using money from dormant bank and building society accounts for social or environmental purposes.",
+  "summary": "<p>This Bill provides the legal and administrative framework for distributing assets from dormant cash accounts.  Dormant is defined in the Bill as a period of 15 years during which the customer has not initiated any activity on an account. Assets will be distributed by the Big Lottery Fund on a national basis.  </p><p><strong>Key areas</strong></p><ul><li>In England, the assets will be spent with three aims in mind: providing opportunities for young people; improving financial capability and supporting institutions involved in social lending </li><li>The relevant Devolved Authority will set the priorities for other countries </li><li>Individuals will retain their rights to any accounts that have been distributed, if they make subsequent claims.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 987,
+        "name": "Lord Davies of Oldham",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/987/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/987/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 491,
+        "name": "Angela Eagle",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/491/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/491/contact",
+        "memberFrom": "Wallasey"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 187,
+  "shortTitle": "Dormant Bank and Building Society Accounts Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-02-25T12:01:56",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1934,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1801,
+        "stageId": 11,
+        "billStageId": 1934,
+        "billId": 187,
+        "date": "2008-11-26T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

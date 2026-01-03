@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the automatic registration of all children eligible for free school meals; to provide for an opt-out where the family wishes; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5345,
+        "name": "Peter Lamb",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5345/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5345/contact",
+        "memberFrom": "Crawley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3781,
+  "shortTitle": "Free School Meals (Automatic Registration of Eligible Children) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-07-11T16:29:47.4681479",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19028,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16104,
+        "stageId": 7,
+        "billStageId": 19028,
+        "billId": 3781,
+        "date": "2025-03-14T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

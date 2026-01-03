@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision for improving air quality.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1500,
+        "name": "Theresa Villiers",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1500/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1500/contact",
+        "memberFrom": "Chipping Barnet"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2828,
+  "shortTitle": "Air Quality Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-04T11:02:16.4636925",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12713,
+    "stageId": 7,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

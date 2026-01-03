@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require parliamentary approval for the deployment of UK armed forces outside the UK; to provide for exemptions from that requirement in cases of emergency or in respect of compliance with treaty obligations; to make provision for retrospective parliamentary approval in certain circumstances; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5346,
+        "name": "Calum Miller",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5346/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5346/contact",
+        "memberFrom": "Bicester and Woodstock"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3995,
+  "shortTitle": "Armed Forces (Deployment Outside the UK) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-07-11T16:25:01.3916586",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20064,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

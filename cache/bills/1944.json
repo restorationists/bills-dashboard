@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision for the creation of mutual guarantee societies, for their membership by small and medium size businesses for the purpose of lending to and by such business and for their operation; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4525,
+        "name": "Christina Rees",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4525/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4525/contact",
+        "memberFrom": "Neath"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1944,
+  "shortTitle": "Mutual Guarantee Societies Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-02-24T10:22:33",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14697,
+    "stageId": 7,
+    "sessionId": 29,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

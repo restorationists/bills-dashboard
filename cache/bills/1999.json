@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the regulation of funding and expenditure of political parties; to make provision for the phased introduction of a cap on donations to political parties; to make provision for affiliation fees from trades unions and membership organisations to political parties to be counted as individual donations in prescribed circumstances; to make provision for the public funding of political parties; to make provision for the modification of rights of candidates and parties to election addresses; to make provision for limits on political parties’ expenditure between regulated periods; to confer powers on the Electoral Commission, and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 225,
+        "name": "Lord Tyler",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/225/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/225/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1999,
+  "shortTitle": "Democratic Political Activity (Funding and Expenditure) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-10-09T12:02:52",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9564,
+    "stageId": 2,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 8878,
+        "stageId": 2,
+        "billStageId": 9564,
+        "billId": 1999,
+        "date": "2017-10-27T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

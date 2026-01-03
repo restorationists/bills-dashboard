@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to change the name of Council Tax Benefit to Council Tax Rebate; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 204,
+        "name": "Paul Burstow",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/204/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/204/contact",
+        "memberFrom": "Sutton and Cheam"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 628,
+  "shortTitle": "Council Tax Benefit (Change of Name) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-04-08T18:42:48",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13483,
+    "stageId": 7,
+    "sessionId": 23,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

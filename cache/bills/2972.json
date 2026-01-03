@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require Her Majesty's Government to formally recognise the Armenian genocide of 1915-16.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 318,
+        "name": "John Spellar",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/318/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/318/contact",
+        "memberFrom": "Warley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2972,
+  "shortTitle": "Armenian Genocide (Recognition) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-04-29T11:21:10.9688134",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15515,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12042,
+        "stageId": 7,
+        "billStageId": 15515,
+        "billId": 2972,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

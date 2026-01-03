@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision for payments to or in respect of Ministers and holders of Opposition offices on maternity leave.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4017,
+        "name": "Penny Mordaunt",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4017/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4017/contact",
+        "memberFrom": "Portsmouth North"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4200,
+        "name": "Lord True",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4200/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4200/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2826,
+  "shortTitle": "Ministerial and other Maternity Allowances Act 2021",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-03-04T17:05:54.2616418",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12756,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 11573,
+        "stageId": 11,
+        "billStageId": 12756,
+        "billId": 2826,
+        "date": "2021-03-01T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+}

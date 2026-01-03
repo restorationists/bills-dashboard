@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to provide the British Library Board with a power to borrow money.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4639,
+        "name": "Bim Afolami",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4639/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4639/contact",
+        "memberFrom": "Hitchin and Harpenden"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1580,
+        "name": "Mr Edward Vaizey",
+        "party": null,
+        "partyColour": null,
+        "house": "Unassigned",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1580/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1580/contact",
+        "memberFrom": null
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2629,
+  "shortTitle": "British Library Board (Power to Borrow) Act 2021",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-05T18:20:16.397754",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12911,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 11764,
+        "stageId": 11,
+        "billStageId": 12911,
+        "billId": 2629,
+        "date": "2021-04-29T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

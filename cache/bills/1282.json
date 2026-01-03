@@ -1,0 +1,76 @@
+{
+  "longTitle": "Make provision for establishing and maintaining a register of persons carrying\r\non the business of consultant lobbying and to require those persons to be\r\nentered in the register; to make provision about expenditure and donations for\r\npolitical purposes; to make provision about the Electoral Commission’s\r\nfunctions with respect to compliance with requirements imposed by or by\r\nvirtue of enactments; to make provision relating to a trade union’s duty to\r\nmaintain a register of members under section 24 of the Trade Union and\r\nLabour Relations (Consolidation) Act 1992; and for connected purposes.",
+  "summary": "<p>The Bill </p><ul><li>introduces a statutory register of consultant lobbyists and establishes a Registrar to enforce the registration requirements</li><li>regulates more closely election campaign spending by those not standing for election or registered as political parties </li><li>strengthens the legal requirements placed on trade unions in relation to their obligation to keep their list of members up to date.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 123,
+        "name": "Mr Andrew Lansley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/123/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/123/contact",
+        "memberFrom": "South Cambridgeshire"
+      },
+      "organisation": {
+        "name": "Office of the Leader of the House of Commons",
+        "url": "https://www.gov.uk/government/organisations/the-office-of-the-leader-of-the-house-of-commons"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 630,
+        "name": "Lord Wallace of Tankerness",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/630/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/630/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1282,
+  "shortTitle": "Transparency of Lobbying, Non-party Campaigning and Trade Union Administration Act ",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-01-31T09:08:19",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 6604,
+    "stageId": 11,
+    "sessionId": 26,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 6205,
+        "stageId": 11,
+        "billStageId": 6604,
+        "billId": 1282,
+        "date": "2014-01-30T00:00:00"
+      }
+    ],
+    "sortOrder": 18
+  }
+}

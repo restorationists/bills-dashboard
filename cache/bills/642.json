@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about Academies",
+  "summary": "<p>The Bill would enable more schools in England to become academies. The Government expects a significant number of academies to open in September 2010, and for the number to grow each year. Academies would be funded at a comparable level to maintained schools but would also get their share of central funding that local authorities used to spend on their behalf. Schools that apply to become academies would be allowed to keep any surplus balances that they hold. There would be no expansion of selection but grammar schools and other schools which select or partially select pupils would be able to continue to do so.</p><p><strong>Key areas</strong></p><ul><li>enables all maintained schools to apply to become academies, with schools rated 'outstanding' by Ofsted being pre-approved</li><li>allows maintained primary and special schools to apply to become academies in their own right</li><li>gives the Secretary of State the power to issue an academy order requiring the local authority to cease to maintain the school</li><li>removes the requirement to consult the local authority before opening an academy</li><li>requires the consent of any existing foundation (mainly churches) before a school applies to become an academy (and prohibits the religious character changing during the conversion to academy)</li><li>deems academy trusts to be exempt charities.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1571,
+        "name": "Michael Gove",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1571/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1571/contact",
+        "memberFrom": "Surrey Heath"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 2
+    },
+    {
+      "member": {
+        "memberId": 1816,
+        "name": "Lord Wallace of Saltaire",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1816/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1816/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 3
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 642,
+  "shortTitle": "Academies Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2021-03-18T09:27:41.123269",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3705,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3400,
+        "stageId": 11,
+        "billStageId": 3705,
+        "billId": 642,
+        "date": "2010-07-27T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+}

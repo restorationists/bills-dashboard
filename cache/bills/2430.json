@@ -1,0 +1,51 @@
+{
+  "longTitle": "To make provision about the mode of trial and maximum penalty for certain offences under the Animal Welfare Act 2006.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1571,
+        "name": "Michael Gove",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1571/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1571/contact",
+        "memberFrom": "Surrey Heath"
+      },
+      "organisation": {
+        "name": "Department for Environment, Food and Rural Affairs",
+        "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2430,
+  "shortTitle": "Animal Welfare (Sentencing) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-09-24T10:58:39",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11387,
+    "stageId": 9,
+    "sessionId": 30,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 5
+  }
+}

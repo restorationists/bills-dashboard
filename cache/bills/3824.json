@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision regarding pets with microchips; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3948,
+        "name": "Rebecca Harris",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3948/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3948/contact",
+        "memberFrom": "Castle Point"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3824,
+  "shortTitle": "Pets (Microchips) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-10-29T17:29:10.5525421",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19124,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16200,
+        "stageId": 7,
+        "billStageId": 19124,
+        "billId": 3824,
+        "date": "2025-11-28T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

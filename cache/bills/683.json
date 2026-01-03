@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to grant certain duties, to alter other duties, and to amend the law relating to the National Debt and the Public Revenue, and to make further provision in connection with finance.",
+  "summary": "The annual Finance Bill encompasses all the changes to be made to tax law for the year. Its formal description is &quot;a Bill to grant certain duties, to alter other duties, and to amend the law relating to the National Debt and the Public Revenue, and to make further provision in connection with finance.&quot;",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1529,
+        "name": "Mr David Gauke",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1529/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1529/contact",
+        "memberFrom": "South West Hertfordshire"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4146,
+        "name": "Lord Sassoon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4146/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4146/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 683,
+  "shortTitle": "Finance (No. 2) Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-03-27T10:56:30",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3707,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3420,
+        "stageId": 11,
+        "billStageId": 3707,
+        "billId": 683,
+        "date": "2010-07-27T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

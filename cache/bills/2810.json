@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the installation of automated external defibrillators in public buildings, sporting facilities, schools, higher education and other education and skills facilities, and facilities that provide care to vulnerable people; and to make associated provision about training and signage.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4131,
+        "name": "Jim Shannon",
+        "party": "Democratic Unionist Party",
+        "partyColour": "d46a4c",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4131/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4131/contact",
+        "memberFrom": "Strangford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2810,
+  "shortTitle": "Automated External Defibrillators (Public Access) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-04T13:40:58.5627923",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12595,
+    "stageId": 7,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

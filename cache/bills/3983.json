@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about sovereignty and constitutional arrangements in respect of the British Indian Ocean Territory, also known as the Chagos Archipelago; to prohibit the making of payments of public funds to the government of another country in connection with the sovereignty or constitutional arrangements of the British Indian Ocean Territory, unless authorised by Parliament; to require the Secretary of State to consult and engage with British Chagossians in relation to any proposed changes to the sovereignty and constitutional arrangements of the British Indian Ocean Territory; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4066,
+        "name": "Priti Patel",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4066/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4066/contact",
+        "memberFrom": "Witham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3983,
+  "shortTitle": "British Indian Ocean Territory (Sovereignty and Constitutional Arrangements) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-28T12:34:10.0401616",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19992,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17125,
+        "stageId": 7,
+        "billStageId": 19992,
+        "billId": 3983,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

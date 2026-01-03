@@ -1,0 +1,73 @@
+{
+  "longTitle": "Restate, with minor changes, certain enactments relating to income tax; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 591,
+        "name": "Mr Gordon Brown",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/591/contact",
+        "memberFrom": "Kirkcaldy and Cowdenbeath"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 987,
+        "name": "Lord Davies of Oldham",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/987/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/987/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 162,
+  "shortTitle": "Income Tax Act 2007",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-10-27T17:07:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 838,
+    "stageId": 11,
+    "sessionId": 20,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 658,
+        "stageId": 11,
+        "billStageId": 838,
+        "billId": 162,
+        "date": "2007-03-20T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

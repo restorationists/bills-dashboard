@@ -1,0 +1,76 @@
+{
+  "longTitle": "To amend the law of defamation.",
+  "summary": "<p>The aim of the Bill is to reform the law of defamation to ensure that a fair balance is struck between the right to freedom of expression and the protection of reputation. The Bill makes a number of substantive changes to the law of defamation, but is not designed to codify the law into a single statute.</p><p><strong>Key areas</strong></p><ul><li>includes a requirement for claimants to show that they have suffered serious harm before suing for defamation</li><li>removes the current presumption in favour of a jury trial</li><li>introduces a defence of \"responsible publication on matters of public interest\"</li><li>provides increased protection to operators of websites that host user-generated content, providing they comply with the procedure to enable the complainant to resolve disputes directly with the author of the material concerned</li><li>introduces new statutory defences of truth and honest opinion to replace the common law defences of justification. and fair comment.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 366,
+        "name": "Mr Kenneth Clarke",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/366/contact",
+        "memberFrom": "Rushcliffe"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 919,
+        "name": "Lord McNally",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/919/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/919/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 983,
+  "shortTitle": "Defamation Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-03-18T15:37:10.6318655",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5903,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5478,
+        "stageId": 11,
+        "billStageId": 5903,
+        "billId": 983,
+        "date": "2013-04-25T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

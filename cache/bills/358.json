@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to confer power on the Greater London Authority and certain local authorities to impose a levy on non-domestic ratepayers to raise money for expenditure on projects expected to promote economic development; and for connected purposes.",
+  "summary": "<p>The Bill will create a new power for upper tier local authorities in England and Wales to levy a local supplement on the business rate and to retain the proceeds for investment in that area. </p><p><strong>Key areas:</strong></p><ul><li>Only the highest tier of local authority will be entitled to levy rates; in London the power will rest with the Greater London Authority  </li><li>business rate supplement revenues must be spent on economic development </li><li>a national upper limit of 2p per &pound;1 of rateable value will apply </li><li>stipulations are made for consultation with business and matters concerning the prospectus for each scheme</li><li>circumstances are specified in which a ballot will be required and provisions made for regulating such ballots </li><li>all properties with a rateable value of &pound;50,000 or less will be exempt.   </li></ul><p> </p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 456,
+        "name": "Hazel Blears",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/456/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/456/contact",
+        "memberFrom": "Salford"
+      },
+      "organisation": {
+        "name": "Department for Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2534,
+        "name": "Baroness Andrews",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2534/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2534/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 358,
+  "shortTitle": "Business Rate Supplements Act 2009",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-10-16T12:37:59",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 2578,
+    "stageId": 11,
+    "sessionId": 22,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2399,
+        "stageId": 11,
+        "billStageId": 2578,
+        "billId": 358,
+        "date": "2009-07-02T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

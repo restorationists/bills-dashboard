@@ -1,0 +1,56 @@
+{
+  "longTitle": "Amend the law of defamation; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2037,
+        "name": "Lord Lester of Herne Hill",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2037/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2037/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 650,
+  "shortTitle": "Defamation Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2012-05-02T12:32:43",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 3469,
+    "stageId": 2,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 3256,
+        "stageId": 2,
+        "billStageId": 3469,
+        "billId": 650,
+        "date": "2010-07-09T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

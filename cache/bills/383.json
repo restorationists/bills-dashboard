@@ -1,0 +1,76 @@
+{
+  "longTitle": "To amend the Geneva Conventions Act 1957 so as to give effect to the Protocol additional to the Geneva Conventions of 12 August 1949 done on 8 December 2005; and to amend the United Nations Personnel Act 1997 so as to give effect to the Optional Protocol to the Convention on the Safety of United Nations and Associated Personnel adopted by the General Assembly of the United Nations on 8 December 2005",
+  "summary": "This short Bill enables the UK to ratify two international agreements to protect humanitarian workers and military medical personnel: the Third Additional Protocol to the Geneva Conventions; and the Optional Protocol to the Convention on the Safety of United Nations and Associated Personnel.<br><br><strong>Key areas: </strong><br><ul><li>Sanctions the Red Crystal as a new symbol to protect humanitarian personnel in armed conflict where the existing Red Cross or Red Crescent is not acceptable </li><li>Extends the Convention on the Safety of United Nations and Associated Personnel to protect UN workers in two new categories: those delivering humanitarian, political or development assistance in peace-building operations, and those delivering emergency humanitarian protection. </li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3774,
+        "name": "Lord Malloch-Brown",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3774/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3774/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Foreign and Commonwealth Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1452,
+        "name": "David Miliband",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1452/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1452/contact",
+        "memberFrom": "South Shields"
+      },
+      "organisation": {
+        "name": "Foreign and Commonwealth Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 383,
+  "shortTitle": "Geneva Conventions and United Nations Personnel (Protocols) Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-10-16T12:43:07",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 2577,
+    "stageId": 11,
+    "sessionId": 22,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2424,
+        "stageId": 11,
+        "billStageId": 2577,
+        "billId": 383,
+        "date": "2009-07-02T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision for imposing financial restrictions on, and in relation to, certain persons suspected of involvement in terrorist activities; to amend Schedule 7 to the Counter-Terrorism Act 2008; and for connected purposes.",
+  "summary": "<p>The United Kingdom is required by the UN to freeze the assets of persons who commit terrorist acts. The UK legislation that allowed the Treasury to freeze the assets of those suspected of involvement in terrorism was quashed by the UK Supreme Court in January 2010 but reinstated by temporary legislation immediately afterwards. </p><p>The Terrorist Asset-Freezing (Temporary Provisions) Act 2010 expires on 31 December 2010. This Bill seeks to replace that Act with a permanent legislative framework.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4146,
+        "name": "Lord Sassoon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4146/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4146/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1414,
+        "name": "Mr Mark Hoban",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1414/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1414/contact",
+        "memberFrom": "Fareham"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 741,
+  "shortTitle": "Terrorist Asset-Freezing etc. Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2011-10-20T17:31:29",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3979,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3611,
+        "stageId": 11,
+        "billStageId": 3979,
+        "billId": 741,
+        "date": "2010-12-16T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

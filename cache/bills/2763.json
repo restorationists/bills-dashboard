@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to make non-gender-specific passports available to non-gendered, non-binary and other people who do not identify as, or exclusively as, male or female.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4634,
+        "name": "Christine Jardine",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4634/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4634/contact",
+        "memberFrom": "Edinburgh West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2763,
+  "shortTitle": "Non-gender-specific Passports Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-05T14:57:17.4154235",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12318,
+    "stageId": 7,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

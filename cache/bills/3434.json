@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to introduce a presumption in planning decision-making against approving quarry development in close proximity to settlements; to require the risks of proposed quarrying sites to the environment and to public health to be assessed as part of the planning process; to provide that the decision on a planning application for quarry development may only be made by the Secretary of State; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4803,
+        "name": "Paul Holmes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4803/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4803/contact",
+        "memberFrom": "Eastleigh"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3434,
+  "shortTitle": "Planning (Quarries) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T14:52:51.1908971",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17511,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14367,
+        "stageId": 6,
+        "billStageId": 17511,
+        "billId": 3434,
+        "date": "2023-03-14T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

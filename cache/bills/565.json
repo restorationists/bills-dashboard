@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to Make provision for and in connection with the imposition of duties for securing sound public finances.",
+  "summary": "<p>The Bill imposes a statutory duty on the Treasury to meet specific targets for the reduction of government borrowing and debt. The Government believes that this legislation demonstrates its commitment to ensuring the sustainability of the public finances.  The Bill gives Parliament a greater role in fiscal policy.<br><br><strong>Key areas</strong></p><p>The Bill requires the Treasury to make sure that:</p><ul><li>Government borrowing in each financial year between 2010/11 and 2015/16 is lower than the previous year, measured as a percentage of GDP</li><li>Government borrowing in 2013/14 is no more than half its 2009/10 level. A draft statutory instrument made under the Bill requires borrowing to be no more than 5.5 per cent of GDP in 2013/14</li><li>Government debt is lower in 2015/16 than in 2014/15, measured as a percentage of GDP</li></ul>The Bill also requires the Treasury to report to Parliament in the Budget and in Pre-Budget Reports and to provide an explanation if the targets are missed.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 596,
+        "name": "Mr Alistair Darling",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/596/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/596/contact",
+        "memberFrom": "Edinburgh South West"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3869,
+        "name": "Lord Myners",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3869/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3869/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 565,
+  "shortTitle": "Fiscal Responsibility Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-08-17T15:19:26",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3189,
+    "stageId": 11,
+    "sessionId": 23,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3046,
+        "stageId": 11,
+        "billStageId": 3189,
+        "billId": 565,
+        "date": "2010-02-10T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

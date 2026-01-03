@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision to prevent the theft and re-sale of equipment and tools used by tradespeople and agricultural and other businesses; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4778,
+        "name": "Greg Smith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4778/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4778/contact",
+        "memberFrom": "Buckingham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 497,
+        "name": "Lord Blencathra",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/497/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/497/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3192,
+  "shortTitle": "Equipment Theft (Prevention) Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-07-26T13:47:54.362212",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17878,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14857,
+        "stageId": 11,
+        "billStageId": 17878,
+        "billId": 3192,
+        "date": "2023-07-20T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

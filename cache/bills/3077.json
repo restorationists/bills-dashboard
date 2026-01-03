@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require manufacturers to fit microplastic-catching filters to new domestic and commercial washing machines; to make provision about the promotion of the use of microplastic-catching filters in washing machines and raising awareness about the consequences of microplastics from washing machines for pollution in rivers and seas; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4439,
+        "name": "Alberto Costa",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4439/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4439/contact",
+        "memberFrom": "South Leicestershire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3077,
+  "shortTitle": "Microplastic Filters (Washing Machines) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-04T17:24:10.6112488",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15931,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12543,
+        "stageId": 7,
+        "billStageId": 15931,
+        "billId": 3077,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

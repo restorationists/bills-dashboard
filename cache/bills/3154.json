@@ -1,0 +1,76 @@
+{
+  "longTitle": "Make provision about threats to national security from espionage, sabotage and persons acting for foreign powers; about the extra-territorial application of Part 2 of the Serious Crime Act 2007; about the award of damages in proceedings relating to national security and the payment of damages at risk of being used for the purposes of terrorism; about the availability of legal aid to persons connected with terrorism; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4066,
+        "name": "Priti Patel",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4066/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4066/contact",
+        "memberFrom": "Witham"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3154,
+  "shortTitle": "National Security Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-08-19T10:26:33.6734095",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17840,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14830,
+        "stageId": 11,
+        "billStageId": 17840,
+        "billId": 3154,
+        "date": "2023-07-11T00:00:00"
+      }
+    ],
+    "sortOrder": 18
+  }
+}

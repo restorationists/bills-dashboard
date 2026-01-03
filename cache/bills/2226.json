@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to prevent the Holocaust (Return of Cultural Objects) Act 2009 from expiring on 11 November 2019.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1500,
+        "name": "Theresa Villiers",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1500/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1500/contact",
+        "memberFrom": "Chipping Barnet"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4287,
+        "name": "Lord Sherbourne of Didsbury",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4287/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4287/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2226,
+  "shortTitle": "Holocaust (Return of Cultural Objects) (Amendment) Act 2019",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-07-05T09:24:28",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11303,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10359,
+        "stageId": 11,
+        "billStageId": 11303,
+        "billId": 2226,
+        "date": "2019-07-04T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to amend the Regulation of Investigatory Powers Act 2000 to increase the penalty where a person fails to comply with a notice requiring disclosure of protected material where it is likely that the material contains an indecent photograph of a child or where the offender has been previously convicted of a sexual offence involving images of children; and for connected purposes.",
+  "summary": "<p>Law enforcement agencies have become increasingly concerned that encryption is being used to hide indecent photographs of children. This Bill aims to give greater protection to children by raising the penalty for failing to provide the 'key' to encrypted data to the police when requested. It would also make the offence of refusing to provide the key subject to notification requirements when the provisions of the Bill apply. The higher penalty would apply in one of three defined circumstances:</p><ul><li>where the offender has been previously convicted of a 'relevant sexual offence'</li><li>where the offender is currently in possession of an indecent photograph of a child although he has not yet been prosecuted for it</li><li>where the court is satisfied on the balance of probabilities that the protected data is likely to include an indecent photograph of a child. </li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 103,
+        "name": "Sir Paul Beresford",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/103/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/103/contact",
+        "memberFrom": "Mole Valley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 408,
+  "shortTitle": "Protection of Children (Encrypted Material) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-10-14T17:59:11",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13281,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

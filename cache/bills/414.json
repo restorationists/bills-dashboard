@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to impose requirements on lenders relating to the calculation of interest rates; to regulate the promotion of lending; and for connected purposes.",
+  "summary": "This Bill would prohibit credit card lenders from sending unsolicited offers of credit card cheques and require them to make clear customers' rights in potential cases of card payment default. It would also require the Secretary of State to specify 'a standard method of calculating interest rates' that card companies must use in their promotional literature.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 588,
+        "name": "Mr Russell Brown",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/588/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/588/contact",
+        "memberFrom": "Dumfries and Galloway"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 414,
+  "shortTitle": "Lending (Regulation) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-10-29T12:43:27",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2087,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 2143,
+        "stageId": 7,
+        "billStageId": 2087,
+        "billId": 414,
+        "date": "2009-02-27T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

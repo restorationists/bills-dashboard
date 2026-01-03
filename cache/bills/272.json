@@ -1,0 +1,48 @@
+{
+  "longTitle": null,
+  "summary": "<p>Many employees leave work due to illness or disability. Current Government policy emphasises moving people from claiming benefits into work. The intention of the Bill is to retain people in work and thereby to reduce the numbers who have to claim benefits in the first place. <br><br>The Bill would amend the Employment Rights Act 1996 to ensure that:</p><ul><li>employment retention assessments will be provided for newly disabled people and people whose existing impairments change</li><li>entitlement to rehabilitation leave will be established on the basis of these assessments in the hope that this will avoid loss of employment. </li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 605,
+        "name": "John Robertson",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/605/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/605/contact",
+        "memberFrom": "Glasgow North West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 272,
+  "shortTitle": "Employment Retention Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-10-30T19:48:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13168,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

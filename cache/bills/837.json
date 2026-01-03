@@ -1,0 +1,56 @@
+{
+  "longTitle": "To consolidate the Charities Act 1993 and other enactments which relate to charities.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3790,
+        "name": "Baroness Verma",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3790/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3790/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 837,
+  "shortTitle": "Charities Act 2011",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2011-12-16T11:51:29",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4656,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4429,
+        "stageId": 11,
+        "billStageId": 4656,
+        "billId": 837,
+        "date": "2011-12-14T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

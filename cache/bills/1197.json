@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to amend the law on marriage to permit the Registrar General to permit certain charitable organisations to solemnise marriages",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2488,
+        "name": "Lord Harrison",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2488/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2488/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1197,
+  "shortTitle": "Marriage (Approved Organisations) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-05-17T09:49:56",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13993,
+    "stageId": 2,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

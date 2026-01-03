@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to set, measure, enforce and report on air quality targets; to make provision about mitigating air pollution, including through the use of clean air zones; to make provision about vehicle emissions testing; to restrict the approval and sale of vehicles with certain engine types; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 155,
+        "name": "Geraint Davies",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/155/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/155/contact",
+        "memberFrom": "Swansea West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2183,
+  "shortTitle": "Clean Air Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-03-22T10:41:13",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14924,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

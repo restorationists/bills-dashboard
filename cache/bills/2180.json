@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to impose and regulate a duty of customs by reference to the importation of goods into the United Kingdom; to confer a power to impose and regulate a duty of customs by reference to the export of goods from the United Kingdom; to make other provision in relation to any duty of customs in connection with the withdrawal of the United Kingdom from the EU; to amend the law relating to value added tax, and the law relating to any excise duty on goods, in connection with that withdrawal; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 105,
+        "name": "Mr Philip Hammond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/105/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/105/contact",
+        "memberFrom": "Runnymede and Weybridge"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1091,
+        "name": "Lord Bates",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1091/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1091/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2180,
+  "shortTitle": "Taxation (Cross-border Trade) Act 2018",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2018-09-14T12:28:48",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 10687,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 9896,
+        "stageId": 11,
+        "billStageId": 10687,
+        "billId": 2180,
+        "date": "2018-09-13T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

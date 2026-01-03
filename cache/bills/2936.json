@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit the use of upward-only rent review clauses in commercial rent agreements; to nullify existing such clauses; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4591,
+        "name": "Sarah Olney",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4591/contact",
+        "memberFrom": "Richmond Park"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2936,
+  "shortTitle": "Commercial Rent (Prohibition of Upward-Only Reviews) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-04-29T14:18:31.9036097",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15438,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 11962,
+        "stageId": 7,
+        "billStageId": 15438,
+        "billId": 2936,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

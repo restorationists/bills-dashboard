@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to enable maximum limits to be established for compensation in tribunal awards for cases involving unlawful discrimination; and for connected purposes.",
+  "summary": "The Bill would impose a maximum limit of &pound;50,000 on all compensatory awards made by Employment Tribunals arising out of cases brought for unfair or wrongful dismissal or unlawful discrimination.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 242,
+        "name": "Mr Christopher Chope",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/242/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/242/contact",
+        "memberFrom": "Christchurch"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 713,
+  "shortTitle": "Tribunals (Maximum Compensation Awards) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-01T16:04:06",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 3585,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 3357,
+        "stageId": 7,
+        "billStageId": 3585,
+        "billId": 713,
+        "date": "2011-06-17T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

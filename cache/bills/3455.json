@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to Extend the period during which departmental functions may be exercised in the absence of Ministers to cover the whole of the current period in which there is no Executive; to give the Secretary of State power, during that period, to commission advice and information for the purpose of developing options for raising more public revenue in Northern Ireland or otherwise improving the sustainability of public finances in Northern Ireland; and to require certain accounts and related documents to be laid before the House of Commons in periods in which the Northern Ireland Assembly is not functioning.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3977,
+        "name": "Chris Heaton-Harris",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3977/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3977/contact",
+        "memberFrom": "Daventry"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4581,
+        "name": "Lord Caine",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4581/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4581/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3455,
+  "shortTitle": "Northern Ireland (Interim Arrangements) Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-06-23T15:56:01.0274742",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17715,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14636,
+        "stageId": 11,
+        "billStageId": 17715,
+        "billId": 3455,
+        "date": "2023-05-24T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

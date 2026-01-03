@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision approving for the purposes of section 8 of the European Union Act 2011 certain draft decisions under Article 352 of the Treaty on the Functioning of the European Union",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3893,
+        "name": "Lord Freud",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3893/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3893/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4066,
+        "name": "Priti Patel",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4066/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4066/contact",
+        "memberFrom": "Witham"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1651,
+  "shortTitle": "European Union (Approvals) Act 2015",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2015-12-18T09:23:57",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 8245,
+    "stageId": 11,
+    "sessionId": 28,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7705,
+        "stageId": 11,
+        "billStageId": 8245,
+        "billId": 1651,
+        "date": "2015-12-17T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

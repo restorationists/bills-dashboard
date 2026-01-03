@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision for the incorporation of the Direct Payments Regulation into domestic law; for enabling an increase in the total maximum amount of direct payments under that Regulation; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1500,
+        "name": "Theresa Villiers",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1500/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1500/contact",
+        "memberFrom": "Chipping Barnet"
+      },
+      "organisation": {
+        "name": "Department for Environment, Food and Rural Affairs",
+        "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4161,
+        "name": "Lord Gardiner of Kimble",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4161/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4161/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Environment, Food and Rural Affairs",
+        "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2527,
+  "shortTitle": "Direct Payments to Farmers (Legislative Continuity) Act 2020",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2020-01-31T09:30:43",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11781,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10703,
+        "stageId": 11,
+        "billStageId": 11781,
+        "billId": 2527,
+        "date": "2020-01-30T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

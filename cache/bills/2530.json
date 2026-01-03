@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to amend the House of Lords Act 1999 so as to abolish the system of by-elections for hereditary peers",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 276,
+        "name": "Lord Grocott",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/276/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/276/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2530,
+  "shortTitle": "House of Lords (Hereditary Peers) (Abolition of By-Elections) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2021-05-05T12:15:21.3261825",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12020,
+    "stageId": 3,
+    "sessionId": 35,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 3
+  }
+}

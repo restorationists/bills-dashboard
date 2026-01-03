@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about individual expression on matters of public interest; for participation in debates on matters of public interest; and for discouraging the use of litigation as a means of limiting expression on matters of public interest",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1804,
+        "name": "Lord Thomas of Gresford",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1804/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1804/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3335,
+  "shortTitle": "Strategic Litigation Against Public Participation (Freedom of Expression) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-10-31T12:58:10.3578169",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16944,
+    "stageId": 1,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 13677,
+        "stageId": 1,
+        "billStageId": 16944,
+        "billId": 3335,
+        "date": "2022-09-07T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about the disclosure of information relating to trade.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4097,
+        "name": "Elizabeth Truss",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4097/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4097/contact",
+        "memberFrom": "South West Norfolk"
+      },
+      "organisation": {
+        "name": "Department for International Trade",
+        "url": "https://www.gov.uk/government/organisations/department-for-international-trade"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4876,
+        "name": "Lord Grimstone of Boscobel",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4876/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4876/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for International Trade",
+        "url": "https://www.gov.uk/government/organisations/department-for-international-trade"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2814,
+  "shortTitle": "Trade (Disclosure of Information) Act 2020",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-03-04T17:26:02.4081526",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12638,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 11484,
+        "stageId": 11,
+        "billStageId": 12638,
+        "billId": 2814,
+        "date": "2020-12-17T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

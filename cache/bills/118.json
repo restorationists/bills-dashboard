@@ -1,0 +1,56 @@
+{
+  "longTitle": "To make further provision about the retention of vehicle registration marks pending transfer.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 157,
+        "name": "Richard Ottaway",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/157/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/157/contact",
+        "memberFrom": "Croydon South"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 118,
+  "shortTitle": "Vehicle Registration Marks Act 2007",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-01-14T15:51:40.3479262",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 573,
+    "stageId": 11,
+    "sessionId": 20,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 434,
+        "stageId": 11,
+        "billStageId": 573,
+        "billId": 118,
+        "date": "2007-07-19T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

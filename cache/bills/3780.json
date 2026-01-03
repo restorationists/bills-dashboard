@@ -1,0 +1,63 @@
+{
+  "longTitle": "A Bill to make provision to modify the effect on domestic law of arrangements relating to the withdrawal of the United Kingdom from the EU; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5356,
+        "name": "Jim Allister",
+        "party": "Traditional Unionist Voice",
+        "partyColour": "0c3a6a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5356/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5356/contact",
+        "memberFrom": "North Antrim"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3780,
+  "shortTitle": "European Union (Withdrawal Arrangements) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-25T14:01:02.3034797",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19026,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16102,
+        "stageId": 7,
+        "billStageId": 19026,
+        "billId": 3780,
+        "date": "2024-12-06T00:00:00"
+      },
+      {
+        "id": 16468,
+        "stageId": 7,
+        "billStageId": 19026,
+        "billId": 3780,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

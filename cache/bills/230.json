@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to revise the mode of trial and maximum penalties applicable to certain offences relating to health and safety",
+  "summary": "<p>This Bill would amend Section 33 of the Health and Safety at Work etc Act 1974, to raise the maximum penalties available to the courts in respect of certain health and safety offences. </p><p><strong>Key areas</strong></p><ul><li>Raises the maximum fine which may be imposed by the lower courts to &pound;20,000 for most offences </li><li>Makes a prison sentence an option for most health and safety offences in lower and higher courts </li><li>Makes certain offences that can currently only go to trial in lower courts, triable in either the lower or higher courts. </li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 203,
+        "name": "Keith Hill",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/203/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/203/contact",
+        "memberFrom": "Streatham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 276,
+        "name": "Lord Grocott",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/276/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/276/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 230,
+  "shortTitle": "Health and Safety (Offences) Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-02-25T13:32:18",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1804,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1744,
+        "stageId": 11,
+        "billStageId": 1804,
+        "billId": 230,
+        "date": "2008-10-16T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

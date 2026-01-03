@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for educational settings including early years, schools, colleges and universities to be classified as essential infrastructure and remain open to all students during public health and other national emergencies; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3985,
+        "name": "Robert Halfon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3985/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3985/contact",
+        "memberFrom": "Harlow"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3063,
+  "shortTitle": "Schools and Educational Settings (Essential Infrastructure and Opening During Emergencies) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-04T17:13:48.2302021",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15845,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12445,
+        "stageId": 7,
+        "billStageId": 15845,
+        "billId": 3063,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

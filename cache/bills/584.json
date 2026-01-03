@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision to oblige shipping companies, port operators and other bodies to comply with recommendations made in reports of the Chief Inspector of Marine Accidents and of the Marine Accident Investigation Branch; and for connected purposes.",
+  "summary": "The Bill would amend the Merchant Shipping (Accident Reporting and Investigation) Regulations 2005 to oblige shipping companies, port operators and other bodies to comply with recommendations made in reports of the Chief Inspector of Marine Accidents and of the Marine Accident Investigation Branch.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1421,
+        "name": "David Cairns",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1421/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1421/contact",
+        "memberFrom": "Inverclyde"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 584,
+  "shortTitle": "Marine Accident Investigation Branch (Reports) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-04-13T09:44:47",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2966,
+    "stageId": 7,
+    "sessionId": 23,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 2872,
+        "stageId": 7,
+        "billStageId": 2966,
+        "billId": 584,
+        "date": "2010-03-05T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

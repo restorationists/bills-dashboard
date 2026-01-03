@@ -1,0 +1,52 @@
+{
+  "longTitle": "A Bill to make provision for the relocation of Norwich Livestock Market; and for connected purposes.",
+  "summary": null,
+  "sponsors": [],
+  "promoters": [
+    {
+      "organisationName": "Norwich City Council",
+      "organisationUrl": "https://www.norwich.gov.uk/site/"
+    }
+  ],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": {
+    "name": "Sharpe Pritchard LLP",
+    "address": "Elm Yard, 13-16 Elm Street, London WC1X 0BJ",
+    "phoneNo": "020 7405 4600",
+    "email": "alewis@sharpepritchard.co.uk",
+    "website": ""
+  },
+  "billId": 3895,
+  "shortTitle": "Norwich Livestock Market Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2025-07-23T11:56:40.1798735",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 6,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 20100,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 17321,
+        "stageId": 11,
+        "billStageId": 20100,
+        "billId": 3895,
+        "date": "2025-07-21T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

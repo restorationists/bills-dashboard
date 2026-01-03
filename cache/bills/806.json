@@ -1,0 +1,76 @@
+{
+  "longTitle": "To authorise the use of resources for the service of the year ending with 31 March 2011 and to apply certain sums out of the Consolidated Fund to the service of the year ending with 31 March 2011; and to authorise the use of resources for the year ending with 31 March 2012 and the issue of sums out of the Consolidated Fund for the year ending with 31 March 2012.",
+  "summary": "<p>The Bill provides Parliamentary authority for funds requested by the Government.  It is part of what is called 'supply procedure'. This is how Parliament grants the Government&rsquo;s requests for resources. </p><p>A Consolidated Fund Bill is passed every year. The Bill is one of a number of pieces of legislation in each financial year which provide authorisation from Parliament for the resources sought by the Government. In addition to this Bill, there are usually two Consolidated Fund (Appropriation) Bills. Proceedings on the Bill are formal &ndash; there is no debate.</p><p><strong>Key areas</strong></p><ul><li>Authorises provision sought in the Winter Supplementary Estimates for 2010-11 and the Vote on Account for 2011-12</li><li>Authorises the release of money from the Consolidated Fund, which is the Government&rsquo;s bank account.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1414,
+        "name": "Mr Mark Hoban",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1414/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1414/contact",
+        "memberFrom": "Fareham"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4146,
+        "name": "Lord Sassoon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4146/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4146/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 806,
+  "shortTitle": "Consolidated Fund Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-03-28T09:52:38",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3988,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3750,
+        "stageId": 11,
+        "billStageId": 3988,
+        "billId": 806,
+        "date": "2010-12-21T18:00:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

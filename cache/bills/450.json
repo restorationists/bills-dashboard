@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide for the suspension in certain circumstances of registration and licences relating to the provision of driving instruction; to make provision about exemptions from prohibitions concerning registration (including provision about suspension); to make provision about compensation in connection with suspension; and for connected purposes",
+  "summary": "<p>The main purpose of this Bill is to address the concern that it can take a minimum of 45 days between the Registrar notifying an Approved Driving Instructor that that instructor may be removed from the Register of Approved Driving Instructors, and the removal taking effect. This has led to at least one case in which a driving instructor who had been convicted of a sexual offence involving a pupil was able to continue giving instruction while the deregistration process continued.</p><p>The Bill would enable the Registrar to suspend an instructor&rsquo;s registration at the same time as informing the instructor of the proposed removal from the register. The Registrar will be able to suspend an instructor&rsquo;s registration in this way only if the Registrar believes that the instructor would pose a significant threat to the safety of members of the public if the registration were not suspended.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1600,
+        "name": "Willie Rennie",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1600/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1600/contact",
+        "memberFrom": "Dunfermline and West Fife"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 450,
+  "shortTitle": "Driving Instruction (Suspension and Exemption Powers)",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-11-20T14:41:17",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 2786,
+    "stageId": 11,
+    "sessionId": 22,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2650,
+        "stageId": 11,
+        "billStageId": 2786,
+        "billId": 450,
+        "date": "2009-11-12T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

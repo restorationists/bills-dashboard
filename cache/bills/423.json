@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the British Museum Act 1963 to permit the transfer of artefacts in the British Museum; to confer powers on the Secretary of State to require the transfer of artefacts in specified circumstances; and for connected purposes",
+  "summary": "<p>At present the British Museum is prevented by statute from disposing of objects in its collections except in very limited circumstances. The Bill&rsquo;s purpose is to amend the British Museum Act 1963 to enable the British Museum to transfer to another institution, for public exhibition, any object from its collections, in certain circumstances, where public access is guaranteed. Those circumstances are:</p><ul><li>where the object would be more widely accessible to visitors than in the British Museum </li><li>where it would be more appropriately displayed in the recipient institution than in the British Museum by reason of its historic links</li><li>where the object came to form part of the collections of the British Museum in circumstances which make its retention in the collections undesirable or inappropriate. </li></ul><p>The Bill confers a general power but its sponsor envisages only one situation in which it might realistically apply: to repatriate the Parthenon Marbles to Greece. </p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 179,
+        "name": "Mr Andrew Dismore",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/179/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/179/contact",
+        "memberFrom": "Hendon"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 423,
+  "shortTitle": "British Museum Act 1963 (Amendment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-11-09T11:16:12",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2112,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 2060,
+        "stageId": 7,
+        "billStageId": 2112,
+        "billId": 423,
+        "date": "2009-05-15T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

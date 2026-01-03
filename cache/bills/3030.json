@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to give people who have made representations about development plans the right to participate in associated examination hearings; to require public consultation on development proposals; to grant local authorities power to apply local design standards for permitted development and to refuse permitted development proposals that would be detrimental to the health and wellbeing of an individual or community; to make planning permission for major housing schemes subject to associated works starting within two years; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4873,
+        "name": "Rachel Hopkins",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4873/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4873/contact",
+        "memberFrom": "Luton South"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3030,
+  "shortTitle": "Planning and Local Representation Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-03T16:54:53.2570316",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15659,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12192,
+        "stageId": 7,
+        "billStageId": 15659,
+        "billId": 3030,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

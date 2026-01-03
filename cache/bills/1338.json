@@ -1,0 +1,77 @@
+{
+  "longTitle": "A Bill to make provision for the reduction of burdens resulting from legislation for businesses or other organisations or for individuals; make provision for the repeal of legislation which no longer has practical use; make provision about the exercise of regulatory functions; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 247,
+        "name": "Mr Oliver Letwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/247/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/247/contact",
+        "memberFrom": "West Dorset"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1816,
+        "name": "Lord Wallace of Saltaire",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1816/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1816/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1338,
+  "shortTitle": "Deregulation Act 2015",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-27T11:00:54",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26,
+    27
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7712,
+    "stageId": 11,
+    "sessionId": 27,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7167,
+        "stageId": 11,
+        "billStageId": 7712,
+        "billId": 1338,
+        "date": "2015-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 22
+  }
+}

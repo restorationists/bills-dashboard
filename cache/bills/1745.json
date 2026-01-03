@@ -1,0 +1,74 @@
+{
+  "longTitle": "A Bill to make provision for collaboration between the emergency services; to make provision about the handling of police complaints and other matters relating to police conduct and to make further provision about the Independent Police Complaints Commission; to make provision for super-complaints about policing; to make provision for the investigation of concerns about policing raised by whistle-blowers; to make provision about police discipline; to make\r\nprovision about police inspection; to make provision about the powers of police civilian staff and police volunteers; to remove the powers of the police to appoint traffic wardens; to enable provision to be made to alter police ranks; to make provision about the Police Federation; to make provision in connection with the replacement of the Association of Chief Police Officers with the National Police Chiefs’ Council; to make provision about the system for bail after arrest but before charge; to make provision to enable greater use of modern technology at police stations; to make other amendments to the Police and Criminal Evidence Act 1984; to amend the powers of the police under the Mental Health Act 1983; to extend the powers of the police in relation to maritime\r\nenforcement; to make provision about deputy police and crime commissioners; to make provision to enable changes to the names of police areas; to make provision about the regulation of firearms; to make provision about the licensing of alcohol; to make provision about the implementation and enforcement of financial sanctions; to amend the Police Act 1996 to make further provision about police collaboration; to make provision about the powers of the National Crime Agency; to make provision for requiring arrested persons to provide details of nationality; to make provision for requiring defendants in criminal proceedings to provide details of nationality and other information; to make provision to combat the sexual exploitation of children; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3983,
+        "name": "Amber Rudd",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3983/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3983/contact",
+        "memberFrom": "Hastings and Rye"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4311,
+        "name": "Baroness Williams of Trafford",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4311/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4311/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1745,
+  "shortTitle": "Policing and Crime Act 2017",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-02-01T09:31:23",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28,
+    29
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 9298,
+    "stageId": 11,
+    "sessionId": 29,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 8566,
+        "stageId": 11,
+        "billStageId": 9298,
+        "billId": 1745,
+        "date": "2017-01-31T00:00:00"
+      }
+    ],
+    "sortOrder": 22
+  }
+}

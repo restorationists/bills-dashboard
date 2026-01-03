@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision to change the dates on which non-domestic rating lists must be compiled; and to change the dates by which proposed lists must be sent to billing authorities, the Secretary of State or the Welsh Ministers.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4320,
+        "name": "Robert Jenrick",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4320/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4320/contact",
+        "memberFrom": "Newark"
+      },
+      "organisation": {
+        "name": "Ministry of Housing, Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4877,
+        "name": "Lord Greenhalgh",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4877/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4877/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Housing, Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2774,
+  "shortTitle": "Non-Domestic Rating (Lists) Act 2021",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-03-16T14:05:26.1396384",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12771,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 11646,
+        "stageId": 11,
+        "billStageId": 12771,
+        "billId": 2774,
+        "date": "2021-03-15T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

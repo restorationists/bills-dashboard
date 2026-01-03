@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision regarding arrangements for children involved in court proceedings; to make provision about the transparency, administration and accountability of courts and case conferences; to require the Secretary of State to report to Parliament annually on the number of prisoners who have exceeded their tariff and have not been released because they do not admit guilt; to extend the Criminal Cases Review Commission’s powers to obtain information; to make provision about consumer complaints in markets for public services; to amend certain sections of the Freedom of Information Act 2000 relating to contracts; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1483,
+        "name": "John Hemming",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1483/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1483/contact",
+        "memberFrom": "Birmingham, Yardley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1424,
+  "shortTitle": "Transparency and Accountability Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-27T13:25:12",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 6970,
+    "stageId": 7,
+    "sessionId": 27,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 6534,
+        "stageId": 7,
+        "billStageId": 6970,
+        "billId": 1424,
+        "date": "2014-10-17T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

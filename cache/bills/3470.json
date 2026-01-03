@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide for a right for a user of health and care services to be accompanied by a care supporter; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4651,
+        "name": "Dan Carden",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4651/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4651/contact",
+        "memberFrom": "Liverpool, Walton"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3470,
+  "shortTitle": "Care Supporters Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-31T12:27:05.4497697",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17741,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14676,
+        "stageId": 6,
+        "billStageId": 17741,
+        "billId": 3470,
+        "date": "2023-06-06T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

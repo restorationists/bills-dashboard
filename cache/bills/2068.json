@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to reduce the voting age to 16 in parliamentary and other elections; to make provision for auto-enrolment onto the electoral register for people aged 16 to 24; to make provision about the use of educational establishments as polling stations; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4505,
+        "name": "Peter Kyle",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4505/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4505/contact",
+        "memberFrom": "Hove"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2068,
+  "shortTitle": "Representation of the People (Young People's Enfranchisement) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-09-19T14:18:18",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14811,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

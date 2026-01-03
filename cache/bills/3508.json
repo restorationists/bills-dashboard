@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to amend the Investigatory Powers Act 2016; to make provision about information supplied by, or relating to, the Judicial Commissioners; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4366,
+        "name": "James Cleverly",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4366/contact",
+        "memberFrom": "Braintree"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3508,
+  "shortTitle": "Investigatory Powers (Amendment) Act 2024",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2024-09-23T13:51:05.7416641",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 18704,
+    "stageId": 11,
+    "sessionId": 38,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 15756,
+        "stageId": 11,
+        "billStageId": 18704,
+        "billId": 3508,
+        "date": "2024-04-25T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

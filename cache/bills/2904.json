@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about licensing in relation to taxis and private hire vehicles for purposes relating to the safeguarding of passengers and road safety; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4754,
+        "name": "Peter Gibson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4754/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4754/contact",
+        "memberFrom": "Darlington"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4281,
+        "name": "Lord Borwick",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4281/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4281/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2904,
+  "shortTitle": "Taxis and Private Hire Vehicles (Safeguarding and Road Safety) Act 2022",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-04-19T17:47:31.6974914",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 16361,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 13077,
+        "stageId": 11,
+        "billStageId": 16361,
+        "billId": 2904,
+        "date": "2022-03-31T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision relating to entitlement to practise certain professions, occupations and trades; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4876,
+        "name": "Lord Grimstone of Boscobel",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4876/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4876/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business, Energy and Industrial Strategy",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4134,
+        "name": "Kwasi Kwarteng",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4134/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4134/contact",
+        "memberFrom": "Spelthorne"
+      },
+      "organisation": {
+        "name": "Department for Business, Energy and Industrial Strategy",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2865,
+  "shortTitle": "Professional Qualifications Act 2022",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-05-09T18:22:57.4900219",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 16392,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 13120,
+        "stageId": 11,
+        "billStageId": 16392,
+        "billId": 2865,
+        "date": "2022-04-28T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

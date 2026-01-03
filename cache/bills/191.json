@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to amend the Human Fertilisation and Embryology Act 1990 and the Surrogacy Arrangements Act 1985; to make provision about the persons who in certain circumstances are to be treated in law as the parents of a child; and for connected purposes.",
+  "summary": "<p>The Bill provides for revised and updated legislation on assisted reproduction and for changes to the regulation and licensing of embryo use in research and therapy. A draft Bill, the Human Tissue and Embryos Bill, was scrutinised by a joint committee of both Houses.  Proposed changes to the Human Tissue Act 2004, such as the establishment of a new body called RATE, have been dropped. The revised name of this Bill reflects that change.</p><p>The Bill includes provision for research into different types of embryos, and proposes changes to definitions of legal parenthood for cases involving assisted reproduction. </p><p>Amendments to abortion law were tabled during the passage of this Bill. These were discussed by a Committee of the whole House but not passed.</p><p> </p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3779,
+        "name": "Lord Darzi of Denham",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3779/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3779/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department of Health",
+        "url": "http://www.dh.gov.uk"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 376,
+        "name": "Alan Johnson",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/376/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/376/contact",
+        "memberFrom": "Kingston upon Hull West and Hessle"
+      },
+      "organisation": {
+        "name": "Department of Health",
+        "url": "http://www.dh.gov.uk"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 191,
+  "shortTitle": "Human Fertilisation and Embryology Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-02-25T13:36:48",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1901,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1802,
+        "stageId": 11,
+        "billStageId": 1901,
+        "billId": 191,
+        "date": "2008-11-13T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

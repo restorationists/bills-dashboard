@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide that ​Crown tenancies may be assured tenancies for the purposes of the Housing Act 1988, subject to certain exceptions; to modify the assured tenancies regime in relation to certain Crown tenancies; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4358,
+        "name": "Wendy Morton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4358/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4358/contact",
+        "memberFrom": "Aldridge-Brownhills"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1865,
+  "shortTitle": "Crown Tenancies Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-04-28T12:19:42",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9323,
+    "stageId": 8,
+    "sessionId": 29,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 8604,
+        "stageId": 8,
+        "billStageId": 9323,
+        "billId": 1865,
+        "date": "2017-03-01T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

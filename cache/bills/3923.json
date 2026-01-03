@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit the practice of bottom trawling in Marine Protected Areas in England; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5260,
+        "name": "Katie White",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5260/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5260/contact",
+        "memberFrom": "Leeds North West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3923,
+  "shortTitle": "Marine Protected Areas (Bottom Trawling) (England) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-09-10T12:31:57.2562105",
+  "billWithdrawn": "2025-09-09T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19476,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16624,
+        "stageId": 7,
+        "billStageId": 19476,
+        "billId": 3923,
+        "date": "2026-05-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

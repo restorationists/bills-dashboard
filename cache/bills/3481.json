@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to authorise the use for the public service of certain resources for the year ending 31 March 2024 (including income); to authorise the issue out of the Consolidated Fund of Northern Ireland of certain sums for the service of that year; to authorise the use of\r\nthose sums for specified purposes; to authorise the Department of Finance in Northern Ireland to borrow on the credit of those sums; and to repeal a spent provision.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3977,
+        "name": "Chris Heaton-Harris",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3977/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3977/contact",
+        "memberFrom": "Daventry"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4581,
+        "name": "Lord Caine",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4581/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4581/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3481,
+  "shortTitle": "Northern Ireland Budget (No. 2) Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-09-21T17:01:55.701512",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17948,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14942,
+        "stageId": 11,
+        "billStageId": 17948,
+        "billId": 3481,
+        "date": "2023-09-18T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

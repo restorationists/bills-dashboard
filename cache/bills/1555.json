@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill To authorise the use of resources for the years ending with 31 March 2014, 31 March 2015 and 31 March 2016; to authorise the issue of sums out of the Consolidated Fund for the years ending with 31 March 2015 and 31 March 2016; and to appropriate the supply authorised by this Act for the years ending with 31 March 2014 and 31 March 2015.",
+  "summary": "<p>The Bill provides Parliamentary authority for funds requested by the Government. It is part of 'supply procedure', which is how Parliament grants the Government&rsquo;s requests for resources. Proceedings on the Bill are formal: there is no debate and the Bill goes through 'on the nod'.</p><p>This type of Bill was previously known as the Consolidated Fund (Appropriation) Bill.</p><p><strong>Key areas</strong></p><ul><li>authorises the release of money from the Consolidated Fund, which is the Government&rsquo;s bank account</li><li>places limits on the purposes for which the money may be spent.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1458,
+        "name": "Mr George Osborne",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1458/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1458/contact",
+        "memberFrom": "Tatton"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1916,
+        "name": "Lord Newby",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1916/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1916/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1555,
+  "shortTitle": "Supply and Appropriation (Anticipation and Adjustments) Act 2015",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-27T11:08:59",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7716,
+    "stageId": 11,
+    "sessionId": 27,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7193,
+        "stageId": 11,
+        "billStageId": 7716,
+        "billId": 1555,
+        "date": "2015-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

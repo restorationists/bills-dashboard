@@ -1,0 +1,59 @@
+{
+  "longTitle": "A Bill to authorise the use of resources for the year ending with 31 March 2016; to authorise both the issue of sums out of the Consolidated Fund and the application of income for that year; and to appropriate the supply authorised for that year by this Act and by the Supply and Appropriation (Anticipation and Adjustments) Act 2015.",
+  "summary": "<p>This Bill provides Parliamentary authority for funds requested by the Government. It is part of what is called 'supply procedure'. This is how Parliament grants the Government&rsquo;s requests for resources.</p><p>There are usually two of this type of Bill each year, in March and July. Proceedings on the Bill are formal &ndash; there is no debate.</p><p><strong>Key areas</strong></p><ul><li>Authorises provision sought in the Supplementary Estimates and the Vote on Account </li><li>Authorises the release of money from the Consolidated Fund, which is the Government&rsquo;s bank account.<br></li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1529,
+        "name": "Mr David Gauke",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1529/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1529/contact",
+        "memberFrom": "South West Hertfordshire"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1681,
+  "shortTitle": "Supply and Appropriation (Main Estimates) Act 2015",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-11-06T14:46:26",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7977,
+    "stageId": 11,
+    "sessionId": 28,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7445,
+        "stageId": 11,
+        "billStageId": 7977,
+        "billId": 1681,
+        "date": "2015-07-21T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "longTitle": "To make provision to change the dates on which non-domestic rating lists must be\r\ncompiled; and for connected purposes.",
+  "summary": "<p>First reading took place on 23 July. This stage is a formality that signals the start of the Bill's journey through the Lords.<br><br>Second reading - the general debate on all aspects of the Bill - is scheduled for 30 September.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1530,
+        "name": "James Brokenshire",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1530/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1530/contact",
+        "memberFrom": "Old Bexley and Sidcup"
+      },
+      "organisation": {
+        "name": "Ministry of Housing, Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4282,
+        "name": "Lord Bourne of Aberystwyth",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4282/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4282/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Housing, Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2420,
+  "shortTitle": "Non-Domestic Rating (Lists) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-10-01T09:28:49",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11395,
+    "stageId": 3,
+    "sessionId": 30,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 11
+  }
+}

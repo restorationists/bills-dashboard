@@ -1,0 +1,59 @@
+{
+  "longTitle": "A Bill to Make provision about legal proceedings and consideration of derogation from the European Convention on Human Rights in connection with operations of the armed forces outside the British Islands.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1539,
+        "name": "Mr Ben Wallace",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1539/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1539/contact",
+        "memberFrom": "Wyre and Preston North"
+      },
+      "organisation": {
+        "name": "Ministry of Defence",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-defence"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2727,
+  "shortTitle": "Overseas Operations (Service Personnel and Veterans) Act 2021",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-05T15:21:49.447377",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12940,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 11765,
+        "stageId": 11,
+        "billStageId": 12940,
+        "billId": 2727,
+        "date": "2021-04-29T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

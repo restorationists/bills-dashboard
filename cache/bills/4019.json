@@ -1,0 +1,59 @@
+{
+  "longTitle": "A Bill to Impose a duty on public authorities and public officials to act with candour, transparency and frankness; to make provision for the enforcement of that duty in their dealings with inquiries and investigations; to require public authorities to promote and take steps to maintain ethical conduct within all parts of the authority; to create an offence in relation to public authorities and public officials who mislead the public; to create further offences in relation to the misconduct of persons who hold public office and to abolish the common law offence of misconduct in public office; to make provision enabling persons to participate at inquiries and investigations where the conduct of public authorities may be in issue; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 206,
+        "name": "Mr David Lammy",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/206/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/206/contact",
+        "memberFrom": "Tottenham"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4019,
+  "shortTitle": "Public Office (Accountability) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2026-01-02T17:45:51.5312757",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20349,
+    "stageId": 9,
+    "sessionId": 39,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17663,
+        "stageId": 9,
+        "billStageId": 20349,
+        "billId": 4019,
+        "date": "2026-01-14T00:00:00"
+      }
+    ],
+    "sortOrder": 6
+  }
+}

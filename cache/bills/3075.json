@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about supporting victims of modern slavery",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1892,
+        "name": "Lord McColl of Dulwich",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1892/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1892/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3075,
+  "shortTitle": "Modern Slavery (Victim Support) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-04-28T15:10:39.5410637",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15922,
+    "stageId": 1,
+    "sessionId": 36,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 12532,
+        "stageId": 1,
+        "billStageId": 15922,
+        "billId": 3075,
+        "date": "2021-11-29T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

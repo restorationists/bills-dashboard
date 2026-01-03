@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about leave and pay for employees with responsibility for children receiving neonatal care.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4393,
+        "name": "Stuart C McDonald",
+        "party": "Scottish National Party",
+        "partyColour": "fff685",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4393/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4393/contact",
+        "memberFrom": "Cumbernauld, Kilsyth and Kirkintilloch East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4685,
+        "name": "Baroness Wyld",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4685/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4685/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3190,
+  "shortTitle": "Neonatal Care (Leave and Pay) Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-05-25T21:53:52.9297967",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17714,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14635,
+        "stageId": 11,
+        "billStageId": 17714,
+        "billId": 3190,
+        "date": "2023-05-24T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

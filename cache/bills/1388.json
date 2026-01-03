@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill To make provision for the restriction of advertisements for high-cost credit agreements at certain times of day.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2570,
+        "name": "Lord Mitchell",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2570/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2570/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1388,
+  "shortTitle": "High-cost Credit Agreements (Advertising Restrictions) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2014-06-10T09:43:57",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14177,
+    "stageId": 2,
+    "sessionId": 27,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

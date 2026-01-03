@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about the safety of health and social care services in England; to make provision about the integration of information relating to users of health and social care services in England; to make provision about the sharing of information relating to an individual for the purposes of providing that individual with health or social care services in England; to make provision for removing individuals convicted of certain offences from the registers kept by the regulatory bodies for health and social care professions; to make provision about the objectives of the regulatory bodies for health and social care professions and the Professional Standards Authority for Health and Social Care; to make provision about the disposal of cases concerning a person’s fitness to practise a health or social care profession; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4109,
+        "name": "Jeremy Lefroy",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4109/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4109/contact",
+        "memberFrom": "Stafford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4195,
+        "name": "Lord Ribeiro",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4195/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4195/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1419,
+  "shortTitle": "Health and Social Care (Safety and Quality) Act 2015",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-27T11:11:14",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7714,
+    "stageId": 11,
+    "sessionId": 27,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7176,
+        "stageId": 11,
+        "billStageId": 7714,
+        "billId": 1419,
+        "date": "2015-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

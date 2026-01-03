@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to introduce a national day to learn about and remember the Armenian genocide.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 179,
+        "name": "Mr Andrew Dismore",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/179/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/179/contact",
+        "memberFrom": "Hendon"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 596,
+  "shortTitle": "Armenian Genocide Remembrance Day Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-04-12T15:45:21",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13453,
+    "stageId": 7,
+    "sessionId": 23,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

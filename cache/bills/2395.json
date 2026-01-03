@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require that the net UK carbon account by the year 2050 is zero.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4481,
+        "name": "Alex Chalk",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4481/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4481/contact",
+        "memberFrom": "Cheltenham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2395,
+  "shortTitle": "Climate Change (Net Zero UK Carbon Account) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-05-01T10:40:51",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15130,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to authorise the use of resources for the year ending with 31 March 2022; to authorise\r\nboth the issue of sums out of the Consolidated Fund and the application of income for\r\nthat year; and to appropriate the supply authorised for that year by this Act and by\r\nthe Supply and Appropriation (Anticipation and Adjustments) Act 2021.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3991,
+        "name": "Jesse Norman",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3991/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3991/contact",
+        "memberFrom": "Hereford and South Herefordshire"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4689,
+        "name": "Lord Agnew of Oulton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4689/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4689/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3014,
+  "shortTitle": "Supply and Appropriation (Main Estimates) Act 2021",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-11-09T12:44:48.5240224",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 15665,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 12203,
+        "stageId": 11,
+        "billStageId": 15665,
+        "billId": 3014,
+        "date": "2021-07-19T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

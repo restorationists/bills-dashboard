@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about the sentencing of offenders convicted of terrorism offences, of offences with a terrorist connection or of certain other offences; to make other provision in relation to terrorism; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4106,
+        "name": "Robert Buckland",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4106/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4106/contact",
+        "memberFrom": "South Swindon"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4311,
+        "name": "Baroness Williams of Trafford",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4311/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4311/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2740,
+  "shortTitle": "Counter-Terrorism and Sentencing Act 2021",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-05T11:48:19.9270865",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12845,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 11756,
+        "stageId": 11,
+        "billStageId": 12845,
+        "billId": 2740,
+        "date": "2021-04-29T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

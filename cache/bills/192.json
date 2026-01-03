@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision for the establishment of the Local Better Regulation Office; for the co-ordination of regulatory enforcement by local authorities; for the creation of civil sanctions in relation to regulatory offences; for the reduction and removal of regulatory burdens; and for connected purposes.",
+  "summary": "<p>The Bill is part of the Government's &lsquo;Better Regulation&rsquo; policy agenda which aims to improve and simplify the way legislation (on any subject) is made and enforced. </p><p>One aspect of this policy is a general principle that enforcement should focus on where the risks are greatest. This was the main proposal of the Hampton review in 2005. The creation of a Local Better Regulation Office was announced in the pre&ndash;Budget Report of December 2005 to implement some of the Hampton recommendations.</p><p><strong>Key areas</strong></p><ul><li>Converts the Local Better Regulation Office into a statutory non&ndash;departmental public body with various functions such as issuing guidance and supporting best practice by local authorities</li><li>Allows provision for a wider range of administrative sanctions to be applied for various criminal breaches, in order to give regulators more options and greater flexibility when imposing sanctions.</li><li>Provides a power to require regulators not to impose or maintain unnecessary regulatory burdens on businesses or individuals.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3451,
+        "name": "Lord Bach",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3451/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3451/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business, Enterprise and Regulatory Reform",
+        "url": "http://www.berr.gov.uk/"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1587,
+        "name": "Mr Pat McFadden",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1587/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1587/contact",
+        "memberFrom": "Wolverhampton South East"
+      },
+      "organisation": {
+        "name": "Department for Business, Enterprise and Regulatory Reform",
+        "url": "http://www.berr.gov.uk/"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 192,
+  "shortTitle": "Regulatory Enforcement and Sanctions Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-02-23T12:53:56",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1772,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1715,
+        "stageId": 11,
+        "billStageId": 1772,
+        "billId": 192,
+        "date": "2008-07-21T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+}

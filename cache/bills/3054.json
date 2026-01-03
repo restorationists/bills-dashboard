@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to extend entitlement to parental bereavement leave and pay to parents of babies miscarried or stillborn during early pregnancy; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4777,
+        "name": "Sarah Owen",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4777/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4777/contact",
+        "memberFrom": "Luton North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3054,
+  "shortTitle": "Bereavement Leave and Pay (Stillborn and Miscarried Babies) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-04-29T12:04:28.2961287",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15786,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12361,
+        "stageId": 7,
+        "billStageId": 15786,
+        "billId": 3054,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

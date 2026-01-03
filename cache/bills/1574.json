@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to amend the Charities Act 2011.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4535,
+        "name": "Lord Bridges of Headley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4535/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4535/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4070,
+        "name": "Matthew Hancock",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4070/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4070/contact",
+        "memberFrom": "West Suffolk"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1574,
+  "shortTitle": "Charities (Protection and Social Investment) Act 2016",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2016-03-24T10:24:04",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 8505,
+    "stageId": 11,
+    "sessionId": 28,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7886,
+        "stageId": 11,
+        "billStageId": 8505,
+        "billId": 1574,
+        "date": "2016-03-16T00:00:00"
+      }
+    ],
+    "sortOrder": 17
+  }
+}

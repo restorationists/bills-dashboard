@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision to promote volunteering; to enable potential volunteers to obtain a fit and proper person certificate for their activities; and for connected purposes.",
+  "summary": "<p>The Bill would provide for the introduction of a 'fit and proper person certificate', which would fulfil the requirement for background checks for potential volunteers. The certificate would be a signed declaration by a potential volunteer stating that they had not been convicted of an offence. For volunteers aged under 18, the certificate would be countersigned by a parent or guardian.   </p><p>The Bill would also amend the Police Act 1997 to take account of the introduction of the new certificate.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 242,
+        "name": "Mr Christopher Chope",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/242/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/242/contact",
+        "memberFrom": "Christchurch"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 780,
+  "shortTitle": "Volunteering Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-01T16:09:31",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 3807,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 3562,
+        "stageId": 7,
+        "billStageId": 3807,
+        "billId": 780,
+        "date": "2011-06-10T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

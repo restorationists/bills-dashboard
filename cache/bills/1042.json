@@ -1,0 +1,70 @@
+{
+  "longTitle": null,
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3929,
+        "name": "Simon Kirby",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3929/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3929/contact",
+        "memberFrom": "Brighton, Kemptown"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3785,
+        "name": "Baroness Thomas of Winchester",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3785/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3785/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1042,
+  "shortTitle": "Disabled Persons’ Parking Badges Act 2013",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-02-01T09:37:14",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5662,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5303,
+        "stageId": 11,
+        "billStageId": 5662,
+        "billId": 1042,
+        "date": "2013-01-31T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

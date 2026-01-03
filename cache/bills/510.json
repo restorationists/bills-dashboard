@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to prohibit from national media ownership persons not resident in the United Kingdom for tax purposes; and for connect purposes.",
+  "summary": "This Bill would prohibit the ownership of national media (newspapers, radio or television stations) by persons not resident in the United Kingdom for tax purposes.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 252,
+        "name": "Mr David Drew",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/252/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/252/contact",
+        "memberFrom": "Stroud"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 510,
+  "shortTitle": "Media Owners (Residency Requirement) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-11-03T14:15:55",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13376,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

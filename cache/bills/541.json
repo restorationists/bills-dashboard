@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision amending the Financial Services and Markets Act 2000, including provision about financial education, and other provision about financial services and markets; and to make provision for the administration of court funds by the Director of Savings.",
+  "summary": "<p>This is the third piece of financial services legislation since 2007 to respond to the banking and financial crisis. It also includes measures designed to improve the position of financial services&rsquo; customers. </p><p><strong>Key areas</strong></p><ul><li>creates a Council for Financial Stability to co-ordinate the responsibilities and action of the Bank of England, Financial Services Authority and Treasury with respect to financial stability matters</li><li>places a duty on the Financial Services Authority to make rules requiring financial institutions to create and maintain recovery and resolution plans in the event that they become financially vulnerable</li><li>requires the Financial Services Authority to make general rules about remuneration policies of regulated firms</li><li>expands the company law disclosure regime under which companies disclose details of the remuneration of directors, to include executive remuneration reports</li><li>gives the Financial Services Authority a wider authority to prohibit short selling, by removing the existing link that restricts the power of prohibition to cases of possible market abuse</li><li>requires the Financial Services Authority to work in international fora to develop international standards of regulation and supervision</li><li>enables the Financial Services Authority to increase its powers of information gathering and punishment as part of the supervisory enhancement programme</li><li>enables the Financial Services Authority to implement some recommendations of the Walker Review on corporate governance</li><li>establishes a new legal means - collective court actions - by which consumers might get redress in cases where there has been a mass failure of practice which has affected significant numbers of consumers. Practitioner-based consumer redress schemes will be given greater scope for operation</li><li>prohibits the issuance of unsolicited credit card cheques to individuals and limits the total number which can be issued in a year to three</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 596,
+        "name": "Mr Alistair Darling",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/596/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/596/contact",
+        "memberFrom": "Edinburgh South West"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3869,
+        "name": "Lord Myners",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3869/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3869/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 541,
+  "shortTitle": "Financial Services Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-08-16T11:53:50",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3425,
+    "stageId": 11,
+    "sessionId": 23,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3210,
+        "stageId": 11,
+        "billStageId": 3425,
+        "billId": 541,
+        "date": "2010-04-08T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

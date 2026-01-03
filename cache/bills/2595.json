@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to prohibit the registration of public service vehicles manufactured after 2025 which emit carbon; and to prohibit the registration of other public service vehicles which emit carbon after 2035",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4230,
+        "name": "Baroness Randerson",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4230/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4230/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2595,
+  "shortTitle": "Buses (Zero Emissions) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2021-05-05T11:13:26.9149986",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11771,
+    "stageId": 2,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

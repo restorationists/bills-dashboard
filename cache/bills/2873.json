@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make amendments to the Human Tissue Act 2004 concerning consent to activities for the purposes of transplantation outside the United Kingdom and consent for imported cadavers to be on display",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2024,
+        "name": "Lord Hunt of Kings Heath",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2024/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2024/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2873,
+  "shortTitle": "Organ Tourism and Cadavers on Display Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-10-11T09:58:20.4910028",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16124,
+    "stageId": 5,
+    "sessionId": 36,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 12778,
+        "stageId": 5,
+        "billStageId": 16124,
+        "billId": 2873,
+        "date": "2022-03-04T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

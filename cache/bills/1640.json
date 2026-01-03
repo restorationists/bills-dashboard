@@ -1,0 +1,56 @@
+{
+  "longTitle": null,
+  "summary": "<p>This Bill is expected to have its second reading debate on Friday 4 December 2015.</p><p> </p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4494,
+        "name": "Simon Hoare",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4494/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4494/contact",
+        "memberFrom": "North Dorset"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1640,
+  "shortTitle": "Pavement Parking (Protection of Vulnerable Pedestrians) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-12-11T12:19:15",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 7853,
+    "stageId": 7,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 7342,
+        "stageId": 7,
+        "billStageId": 7853,
+        "billId": 1640,
+        "date": "2015-12-04T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

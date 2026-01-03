@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to set a timeline for the phasing out of UK oil and gas production and the decommissioning of related infrastructure; to require the Secretary of State to publish a plan for ensuring that oil and gas workers have access to appropriate redeployment or retraining opportunities, and to involve unions and communities in the production of this plan, which should include plans for funding; to make provision for the establishment of a training fund for workers in the oil and gas industry, to which oil and gas companies would contribute by paying a levy; to make provision for a proportion of workers’ wages to be guaranteed by the state for a defined period after they leave the oil and gas industry; to introduce sectoral collective bargaining in the energy industry; to extend legislation relating to pay and conditions for UK onshore workers to cover all offshore workers in the UK Continental Shelf and UK Exclusive Economic Area; to require GB Energy’s investments to support UK jobs; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5102,
+        "name": "Carla Denyer",
+        "party": "Green Party",
+        "partyColour": "78b82a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5102/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5102/contact",
+        "memberFrom": "Bristol Central"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3975,
+  "shortTitle": "Energy and Employment Rights Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-11T14:40:59.0451161",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19936,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17050,
+        "stageId": 7,
+        "billStageId": 19936,
+        "billId": 3975,
+        "date": "2026-03-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

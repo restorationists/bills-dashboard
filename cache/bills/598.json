@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to extend the criteria under which music and sports video works and documentaries lose their exemption from classification.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 179,
+        "name": "Mr Andrew Dismore",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/179/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/179/contact",
+        "memberFrom": "Hendon"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 598,
+  "shortTitle": "Video Recordings (Exemption from Classification) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-04-13T11:38:34",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13455,
+    "stageId": 7,
+    "sessionId": 23,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

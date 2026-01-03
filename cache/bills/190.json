@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to enable the sale of rights to repayments of student loans; and for connected purposes.",
+  "summary": "<p>The Bill contains measures to enable a programme of sales of the Government's Student Loans Portfolio.</p><p>The sale of the student loan book is part of an ongoing Government strategy to transfer ownership of all public assets that are not essential to the Government's public service delivery objectives.</p><p>The student loan book is worth around &pound;18.1 billion and is expected to increase in value to &pound;55 billion over the next ten years. The Government expects the proposed sales programme to realise around &pound;6 billion in receipts by the end of financial year 2010/11. </p><p><strong>Key areas</strong></p><ul><li>Transactions will only proceed if they represent good value for money and include a genuine transfer of risk to the private sector</li><li>Terms and conditions for individual borrowers will stay the same, the Government intends</li><li>Government will retain control of all loan arrangements and regulations, including interest rates and repayment thresholds</li><li>Student Loans Company will continue to administer all accounts. Purchasers would only be allowed to use data about borrowers for the specific purpose of managing the loans.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 61,
+        "name": "Mr John Denham",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/61/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/61/contact",
+        "memberFrom": "Southampton, Itchen"
+      },
+      "organisation": {
+        "name": "Department for Innovation, Universities and Skills",
+        "url": "http://www.dius.gov.uk/"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3651,
+        "name": "Lord Triesman",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3651/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3651/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Innovation, Universities and Skills",
+        "url": "http://www.dius.gov.uk/"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 190,
+  "shortTitle": "Sale of Student Loans Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-02-25T13:51:31",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1769,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1710,
+        "stageId": 11,
+        "billStageId": 1769,
+        "billId": 190,
+        "date": "2008-07-21T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

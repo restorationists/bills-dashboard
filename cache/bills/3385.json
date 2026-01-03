@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Government of Wales Act 2006 and to devolve powers to set bank holidays.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4300,
+        "name": "Baroness Humphreys",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4300/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4300/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3385,
+  "shortTitle": "Bank Holidays (Wales) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-10-31T14:37:06.8202492",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17192,
+    "stageId": 1,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 14000,
+        "stageId": 1,
+        "billStageId": 17192,
+        "billId": 3385,
+        "date": "2022-11-30T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

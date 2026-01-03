@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to revoke certain retained EU law; to make provision relating to the interpretation of retained EU law and to its relationship with other law; to make provision relating to powers to modify retained EU law; to enable the restatement, replacement or updating of certain retained EU law; to enable the updating of restatements and replacement provision; to abolish the business impact target; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4099,
+        "name": "Mr Jacob Rees-Mogg",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4099/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4099/contact",
+        "memberFrom": "North East Somerset"
+      },
+      "organisation": {
+        "name": "Department for Business, Energy and Industrial Strategy",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4336,
+        "name": "Lord Callanan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4336/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business, Energy and Industrial Strategy",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3340,
+  "shortTitle": "Retained EU Law (Revocation and Reform) Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-08-02T10:33:34.3822352",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17810,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14781,
+        "stageId": 11,
+        "billStageId": 17810,
+        "billId": 3340,
+        "date": "2023-06-29T00:00:00"
+      }
+    ],
+    "sortOrder": 22
+  }
+}

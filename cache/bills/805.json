@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision for the arrangement and financing of energy efficiency improvements to be made to properties by owners and occupiers; about the energy efficiency of properties in the private rented sector; about the promotion by energy companies of reductions in carbon emissions and home-heating costs; about information relating to energy consumption, efficiency and tariffs; for increasing the security of energy supplies; about access to upstream petroleum infrastructure; about a special administration regime for energy supply companies; about designations under the Continental Shelf Act 1964; about licence modifications relating to offshore transmission and distribution of electricity; about the decommissioning of nuclear sites; about the powers of the Coal Authority; for the repeal of measures relating to home energy efficiency; and for connected purposes.",
+  "summary": "<p>The flagship policy in the Bill is the 'Green Deal', a scheme whereby householders, private landlords and businesses would be given finance upfront to make energy efficiency improvements, which would then be paid for by energy bill savings. It also introduces a range of other provisions.</p><p><strong>Key areas</strong></p><ul><li>establishes a new obligation on energy companies to help certain groups of consumers, who need extra support, with saving energy </li><li>facilitates the roll-out of smart meters</li><li>widens access to energy performance certificates</li><li>makes information on energy bills clearer</li><li>introduces measures designed to help improve energy security and to encourage low carbon generation</li><li>grants additional powers to the Coal Authority to charge for certain services. <br></li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3797,
+        "name": "Lord Marland",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3797/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3797/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department of Energy and Climate Change",
+        "url": "https://www.gov.uk/government/organisations/department-of-energy-climate-change"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1517,
+        "name": "Chris Huhne",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1517/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1517/contact",
+        "memberFrom": "Eastleigh"
+      },
+      "organisation": {
+        "name": "Department of Energy and Climate Change",
+        "url": "https://www.gov.uk/government/organisations/department-of-energy-climate-change"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 805,
+  "shortTitle": "Energy Act 2011",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2011-11-10T11:55:32",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4519,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4335,
+        "stageId": 11,
+        "billStageId": 4519,
+        "billId": 805,
+        "date": "2011-10-18T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

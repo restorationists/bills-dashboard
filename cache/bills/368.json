@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide certain protections for persons who live together as a couple or have lived together as a couple; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2037,
+        "name": "Lord Lester of Herne Hill",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2037/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2037/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 368,
+  "shortTitle": "Cohabitation Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-11-13T11:04:17",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2298,
+    "stageId": 3,
+    "sessionId": 22,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 2128,
+        "stageId": 3,
+        "billStageId": 2298,
+        "billId": 368,
+        "date": "2009-04-30T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

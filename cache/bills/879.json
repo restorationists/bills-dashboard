@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision about the calculation of certain periods of time for the purposes of Part 4 of the Police and Criminal Evidence Act 1984.",
+  "summary": "<p>The Police and Criminal Evidence Act 1984 (PACE) sets out the length of time that a suspect can be detained in police custody after arrest before being charged or released (with or without bail).</p><p>A suspect can be detained for an initial period of up to 24 hours starting from the 'relevant time' - usually the time of arrival at a police station following arrest. This period can be extended for up to a further 12 hours on the authority of a police officer of the rank of superintendent or above, and subsequent court applications may enable the detention period to be extended to a maximum of 96 hours. </p><p>It had previously been assumed that releasing a suspect on bail effectively paused the 'detention clock', so that when the suspect answered police bail and was re-detained, the clock could then be restarted, even if the re-detention was at a point later than 96 hours after the 'relevant time'.</p><p>However, a recent High Court decision - the Hookway case - ruled that this was not the case and that the maximum 96-hour period specified in the Act runs from the relevant time and cannot be suspended and re-started. </p><p>The Bill would reverse the effect of this High Court decision.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 8,
+        "name": "Mrs Theresa May",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/8/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/8/contact",
+        "memberFrom": "Maidenhead"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 236,
+        "name": "Baroness Browning",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/236/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/236/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 879,
+  "shortTitle": "Police (Detention and Bail) Act 2011",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2011-10-20T17:28:17",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4408,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4176,
+        "stageId": 11,
+        "billStageId": 4408,
+        "billId": 879,
+        "date": "2011-07-12T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision regarding local authority powers to require developers to deposit funds in the form of a bond to be used if the local area is not maintained properly; and for connected purposes;",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4105,
+        "name": "Justin Tomlinson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4105/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4105/contact",
+        "memberFrom": "North Swindon"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 785,
+  "shortTitle": "Planning (Developer Bonds) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-01T15:32:23",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13610,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

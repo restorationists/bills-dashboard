@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about expediting the transfer of patients who are medically fit for discharge from acute hospitals to homely settings in the community.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1466,
+        "name": "Dr Andrew Murrison",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1466/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1466/contact",
+        "memberFrom": "South West Wiltshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3138,
+  "shortTitle": "Healthcare (Delayed Discharges) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-04T17:22:22.030564",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16302,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12987,
+        "stageId": 7,
+        "billStageId": 16302,
+        "billId": 3138,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

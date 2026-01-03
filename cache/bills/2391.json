@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision enabling the Commissioners for Her Majesty’s Revenue and Customs to incur expenditure in connection with digital services to be provided by them for the purpose of facilitating the administration or payment of non-domestic rates in England",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1530,
+        "name": "James Brokenshire",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1530/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1530/contact",
+        "memberFrom": "Old Bexley and Sidcup"
+      },
+      "organisation": {
+        "name": "Ministry of Housing, Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4282,
+        "name": "Lord Bourne of Aberystwyth",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4282/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4282/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Housing, Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2391,
+  "shortTitle": "Non-Domestic Rating (Preparation for Digital Services) Act 2019",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2020-04-03T10:02:51",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11302,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10363,
+        "stageId": 11,
+        "billStageId": 11302,
+        "billId": 2391,
+        "date": "2019-07-04T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about prevention of and response to genocide and other atrocity crimes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1987,
+        "name": "Baroness Kennedy of The Shaws",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1987/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1987/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3521,
+  "shortTitle": "Genocide (Prevention and Response) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2024-05-29T12:35:42.3974025",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18710,
+    "stageId": 5,
+    "sessionId": 38,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15760,
+        "stageId": 5,
+        "billStageId": 18710,
+        "billId": 3521,
+        "date": "2024-05-17T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

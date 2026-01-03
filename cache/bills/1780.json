@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the establishment and publication of a Register of Arms Brokers.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4203,
+        "name": "Baroness Jolly",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4203/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4203/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1780,
+  "shortTitle": "Register of Arms Brokers Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2017-05-02T14:15:09",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 8752,
+    "stageId": 3,
+    "sessionId": 29,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 8094,
+        "stageId": 3,
+        "billStageId": 8752,
+        "billId": 1780,
+        "date": "2016-11-18T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "longTitle": "To make provision for societies to be registered as co-operative or community benefit societies and to re-name the Industrial and Provident Societies Acts; to apply to registered societies the provisions relating to directors’ disqualification and to make provision for the application of certain other enactments relating to companies; to confer power to make provision for credit unions corresponding to any provision applying to building societies; and for connected purposes.",
+  "summary": "<p>The Co-operative and Community Benefit Societies and Credit Unions Bill is a Private Members&rsquo; Bill which has government support.  It was introduced in the 2008-09 Session of Parliament by Malcolm Wicks, Labour MP for Croydon North.  <br><br>The Bill completed all its Commons stages but was not able to finish its passage through the House of Lords before the end of the session, having only had a Second Reading debate.  <br>The Bill has been re-introduced, with only minor changes.</p><p>The Bill is the latest in a series of measures which have reformed and modernised the regulatory position and commercial organisation of what is often described as the &lsquo;third sector&rsquo; in financial services: the loose grouping of organisations with mutual status and whose classifications reflect their industrial origins such as the industrial and provident societies and credit unions.  <br><br><strong>Key areas<br></strong></p><ul><li>requires new industrial and provident societies (other than credit unions) to be registered as co-operative or community benefit societies<br></li><li>re-names the Industrial and Provident Societies Acts<br></li><li>applies the Company Directors Disqualification Act 1986 to industrial and provident societies<br></li><li>gives the Treasury powers to apply to industrial and provident societies, with appropriate modifications, company law on the investigation of companies, company names and dissolution and restoration to the register<br></li><li>gives the Treasury powers to make provisions for credit unions corresponding to any provisions applying to building societies</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1702,
+        "name": "Lord Tomlinson",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1702/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1702/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 156,
+        "name": "Malcolm Wicks",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/156/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/156/contact",
+        "memberFrom": "Croydon North"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 554,
+  "shortTitle": "Co-operative and Community Benefit Societies and Credit Unions Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2010-04-13T15:01:16",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3332,
+    "stageId": 11,
+    "sessionId": 23,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3137,
+        "stageId": 11,
+        "billStageId": 3332,
+        "billId": 554,
+        "date": "2010-03-18T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

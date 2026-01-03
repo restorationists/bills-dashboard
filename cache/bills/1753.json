@@ -1,0 +1,48 @@
+{
+  "longTitle": null,
+  "summary": "<p>That leave be given to bring in a Bill to require applicants for full driving licences to have received first aid training before undertaking the practical driving test; and for connected purposes.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4423,
+        "name": "Will Quince",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4423/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4423/contact",
+        "memberFrom": "Colchester"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1753,
+  "shortTitle": "Driving Licence (Mandatory First Aid Training) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-05-12T16:26:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14525,
+    "stageId": 7,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

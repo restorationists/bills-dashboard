@@ -1,0 +1,62 @@
+{
+  "longTitle": "To amend the Licensing Act 2003 with respect to the performance of live music entertainment; and for connected purposes.",
+  "summary": "The purpose of the Live Music Bill is to amend the Licensing Act 2003 with respect to the performance of live music. The Bill would exempt certain types of venue, and of performance, from existing licensing requirements for the performance of live music. <br><br>As a result, it would increase the number of places and performances not subject to such licenses, in order to widen access and to encourage the performance of live music.<br><br><strong>Key areas</strong><br><br><ul><li>Venues authorised to supply alcohol with a capacity of less than 200 people, at which music would be performed between the hours of 8am and midnight, would no longer require a license for the performance of live music. </li></ul><ul><li>Up to two performers would be able to perform live unamplified, or minimally amplified, music without the need for a license. </li></ul><ul><li>Hospitals, hospital accommodation, schools and colleges would be able to host live music performances without the need for a licence.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3396,
+        "name": "Lord Clement-Jones",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3396/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3396/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 214,
+        "name": "Mr Don Foster",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/214/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/214/contact",
+        "memberFrom": "Bath"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 551,
+  "shortTitle": "Live Music Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2010-04-13T09:39:17",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13410,
+    "stageId": 7,
+    "sessionId": 23,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 6
+  }
+}

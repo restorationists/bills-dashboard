@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to place a duty on the Secretary of State to ensure the availability of hospice services for all people at the end of life; to require the Secretary of State to report annually to Parliament on the adequacy of funding for children’s and adult hospice services, including an assessment of whether any funding increases are necessary to maintain such services; to require the Secretary of State to publish a five year plan for hospice funding; to make provision about the availability of specialist palliative care in emergency care services in hospitals; to make provision about supporting patients receiving palliative care in the community in certain circumstances; to require the Secretary of State to prepare and publish a workforce plan for hospice services; to require palliative care advice to be available through non-emergency NHS advice services; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5283,
+        "name": "Alison Bennett",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5283/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5283/contact",
+        "memberFrom": "Mid Sussex"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4024,
+  "shortTitle": "Hospices and Palliative Care Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-28T12:38:31.8236891",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20227,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17422,
+        "stageId": 7,
+        "billStageId": 20227,
+        "billId": 4024,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

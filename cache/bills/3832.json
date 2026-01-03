@@ -1,0 +1,76 @@
+{
+  "longTitle": "A bill to establish the Independent Football Regulator; to make provision for the licensing of football clubs; to make provision about the distribution of revenue received by organisers of football competitions; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4966,
+        "name": "Baroness Twycross",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4966/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4966/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4082,
+        "name": "Lisa Nandy",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4082/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4082/contact",
+        "memberFrom": "Wigan"
+      },
+      "organisation": {
+        "name": "Department for Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3832,
+  "shortTitle": "Football Governance Act 2025",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2025-09-02T10:28:18.8410505",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 20133,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 17314,
+        "stageId": 11,
+        "billStageId": 20133,
+        "billId": 3832,
+        "date": "2025-07-21T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

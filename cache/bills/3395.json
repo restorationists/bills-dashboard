@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about shared parental leave and pay in certain cases where one or both of a child’s parents has died; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4794,
+        "name": "Darren Henry",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4794/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4794/contact",
+        "memberFrom": "Broxtowe"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3395,
+  "shortTitle": "Shared Parental Leave and Pay (Bereavement) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T16:43:49.0758854",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17263,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14079,
+        "stageId": 6,
+        "billStageId": 17263,
+        "billId": 3395,
+        "date": "2022-12-20T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

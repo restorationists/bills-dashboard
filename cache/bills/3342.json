@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit the sale of property by sealed bids; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1428,
+        "name": "Sir Bill Wiggin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1428/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1428/contact",
+        "memberFrom": "North Herefordshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3342,
+  "shortTitle": "Sale of Property (Sealed Bids) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-03-07T10:29:10.7527144",
+  "billWithdrawn": "2023-03-06T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16967,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13739,
+        "stageId": 6,
+        "billStageId": 16967,
+        "billId": 3342,
+        "date": "2022-10-11T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

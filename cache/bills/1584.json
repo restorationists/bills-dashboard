@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision for the election of mayors for the areas of, and for conferring additional functions on, combined authorities established under Part 6 of the Local Democracy, Economic Development and Construction Act 2009; to make other provision in relation to bodies established under that Part; to make provision about local authority governance and functions; to confer power to establish, and to make provision about, sub-national transport bodies; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4311,
+        "name": "Baroness Williams of Trafford",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4311/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4311/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1578,
+        "name": "Greg Clark",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1578/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1578/contact",
+        "memberFrom": "Tunbridge Wells"
+      },
+      "organisation": {
+        "name": "Department for Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1584,
+  "shortTitle": "Cities and Local Government Devolution Act 2016",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2016-01-29T09:42:56",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 8318,
+    "stageId": 11,
+    "sessionId": 28,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7682,
+        "stageId": 11,
+        "billStageId": 8318,
+        "billId": 1584,
+        "date": "2016-01-28T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

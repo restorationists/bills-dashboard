@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision approving for the purposes of section 8 of the European Union Act 2011 draft decisions under Article 352 of the Treaty on the Functioning of the European Union on the participation of the Republic of Albania and the Republic of\r\nSerbia in the work of the European Union Agency for Fundamental Rights and on the signing and conclusion of an agreement between the European Union and Canada\r\nregarding the application of their competition laws.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1578,
+        "name": "Greg Clark",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1578/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1578/contact",
+        "memberFrom": "Tunbridge Wells"
+      },
+      "organisation": {
+        "name": "Department for Business, Energy and Industrial Strategy",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2616,
+        "name": "Lord Henley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2616/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2616/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "Department for Business, Energy and Industrial Strategy",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1989,
+  "shortTitle": "European Union (Approvals) Act 2017",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-12-15T15:49:45",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 10100,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 9264,
+        "stageId": 11,
+        "billStageId": 10100,
+        "billId": 1989,
+        "date": "2017-12-07T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

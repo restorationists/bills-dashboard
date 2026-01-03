@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State, when preparing draft legislation for publication, to do so in such a way that the effect of that legislation on England, Wales, Scotland and Northern Ireland is separately and clearly identified; to require the Secretary of State to issue a statement to the effect that in his or her view the provisions of the draft legislation are in accordance with certain principles relating to territorial extent; and for connected purposes.",
+  "summary": "<p>The Bill applies to draft primary legislation and to secondary legislation published before the parent Act has gained Royal Assent. In these cases, it requires that the draft Bill should contain a statement setting out its legal effects on each nation of the United Kingdom, and that a memorandum accompany the draft showing its financial effects on each nation.</p><p>The Bill would also create new rights for citizens to see how proposed changes in the law would affect them, and for MPs to see how the changes would affect their constituents. The Bill requires that the provisions of draft legislation are compatible with these rights, referred to as &ldquo;the principles of legislative territorial clarity&rdquo;. The Secretary of State must make a statement to this effect, or a statement that he/she is unable to do so, but that the Government wishes to proceed nonetheless.</p><p>The Bill relates to the 'West Lothian Question', whereby Members representing constituencies in Scotland, Wales and Northern Ireland may vote on legislation that applies only to England. If this were addressed by having a special way of voting on &lsquo;England only&rsquo; legislation, then this Bill would provide a means of identifying some of those Bills.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4107,
+        "name": "Harriett Baldwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4107/contact",
+        "memberFrom": "West Worcestershire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 693,
+  "shortTitle": "Legislation (Territorial Extent) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2011-09-16T10:39:57",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 4466,
+    "stageId": 10,
+    "sessionId": 24,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 4202,
+        "stageId": 10,
+        "billStageId": 4466,
+        "billId": 693,
+        "date": "2011-09-09T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  }
+}

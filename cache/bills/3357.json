@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide for maximum waiting times for customers who are contacting providers of utilities and certain other services by telephone; to require such companies to ensure that customers can speak to a person within that maximum waiting time; to restrict the use of automated menus on telephone services offered by such companies; to provide for financial penalties for companies that fail to meet these standards; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3985,
+        "name": "Robert Halfon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3985/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3985/contact",
+        "memberFrom": "Harlow"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3357,
+  "shortTitle": "Consumer Telephone Service Standards Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-31T12:59:16.1831599",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17070,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13849,
+        "stageId": 6,
+        "billStageId": 17070,
+        "billId": 3357,
+        "date": "2022-10-26T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Landlord and Tenant Act 1985 and the Commonhold and Leasehold Reform Act 2002 to limit the right of landlords to recover legal costs in excess of a prescribed scale; to make Tribunal judgments binding on all leaseholders and to require landlords to account to all leaseholders; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4395,
+        "name": "Baroness Hayman of Ullock",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4395/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4395/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3337,
+  "shortTitle": "Leasehold Reform (Tribunal Judgments and Legal Costs) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-10-31T14:29:42.0508005",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16950,
+    "stageId": 1,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 13686,
+        "stageId": 1,
+        "billStageId": 16950,
+        "billId": 3337,
+        "date": "2022-09-08T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

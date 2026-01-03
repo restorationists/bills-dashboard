@@ -1,0 +1,76 @@
+{
+  "longTitle": "To authorise the use of resources for the years ending with 31 March 2018, 31 March 2019 and 31 March 2020; to authorise the issue of sums out of the Consolidated Fund for those years; and to appropriate the supply authorised by this Act for the years ending with 31 March 2018 and 31 March 2019.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3935,
+        "name": "Mel Stride",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3935/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3935/contact",
+        "memberFrom": "Central Devon"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1091,
+        "name": "Lord Bates",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1091/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1091/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2356,
+  "shortTitle": "Supply and Appropriation (Anticipation and Adjustments) Act 2019",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-03-18T09:23:16",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11076,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10192,
+        "stageId": 11,
+        "billStageId": 11076,
+        "billId": 2356,
+        "date": "2019-03-15T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

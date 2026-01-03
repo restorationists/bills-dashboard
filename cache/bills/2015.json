@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to authorise the use of resources for the year ending with 31 March 2018; to authorise both the issue of sums out of the Consolidated Fund and the application of income for that year; and to appropriate the supply authorised for that year by this Act and by the Supply and Appropriation (Anticipation and Adjustments) Act 2017.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3935,
+        "name": "Mel Stride",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3935/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3935/contact",
+        "memberFrom": "Central Devon"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1091,
+        "name": "Lord Bates",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1091/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1091/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2015,
+  "shortTitle": "Supply and Appropriation (Main Estimates) Act 2017",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-09-10T14:59:14",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 9705,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 8987,
+        "stageId": 11,
+        "billStageId": 9705,
+        "billId": 2015,
+        "date": "2017-07-19T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to undertake a public consultation on innovative technologies and energy consumption in households and commercial properties and to report on responses to that consultation and steps to be taken to encourage the development of innovative technologies to reduce energy consumption; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4522,
+        "name": "Rebecca Pow",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4522/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4522/contact",
+        "memberFrom": "Taunton Deane"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2294,
+  "shortTitle": "Energy Consumption (Innovative Technologies) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-03-18T10:04:12",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15031,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

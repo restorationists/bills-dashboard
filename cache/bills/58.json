@@ -1,0 +1,56 @@
+{
+  "longTitle": "Enable local planning authorities to make certain requirements regarding the generation, conservation and use of energy; to require local planning authorities to consider specifying requirements for the generation of renewable and low carbon energy and the imposition of energy efficiency standards when determining planning applications; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 566,
+        "name": "Mr Martin Caton",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/566/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/566/contact",
+        "memberFrom": "Gower"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 58,
+  "shortTitle": "Local Planning Authorities (Energy and Energy Efficiency) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-10-26T09:13:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 261,
+    "stageId": 7,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 144,
+        "stageId": 7,
+        "billStageId": 261,
+        "billId": 58,
+        "date": "2007-01-19T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

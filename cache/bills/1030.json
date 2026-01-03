@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision consequential on Annex VI to the Protocol on Environmental Protection to the Antarctic Treaty; to amend the Antarctic Act 1994; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4104,
+        "name": "Neil Carmichael",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4104/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4104/contact",
+        "memberFrom": "Stroud"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1950,
+        "name": "Viscount Montgomery of Alamein",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1950/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1950/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1030,
+  "shortTitle": "Antarctic Act 2013",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-03-27T10:12:13",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5819,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5394,
+        "stageId": 11,
+        "billStageId": 5819,
+        "billId": 1030,
+        "date": "2013-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

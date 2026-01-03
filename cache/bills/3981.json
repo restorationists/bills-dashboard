@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for a report on the potential merits of appointing a commissioner to consider, investigate and make recommendations to address welfare issues faced by personnel serving in the Royal Fleet Auxiliary and their families.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5279,
+        "name": "Jayne Kirkham",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5279/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5279/contact",
+        "memberFrom": "Truro and Falmouth"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3981,
+  "shortTitle": "Royal Fleet Auxiliary (Report on Commissioner) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-26T13:11:08.3891688",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19975,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17101,
+        "stageId": 7,
+        "billStageId": 19975,
+        "billId": 3981,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

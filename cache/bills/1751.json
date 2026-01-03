@@ -1,0 +1,59 @@
+{
+  "longTitle": "A Bill To authorise the use of resources for the years ending with 31 March 2015, 31 March2016 and 31 March 2017; to authorise the issue of sums out of the Consolidated Fundfor those years; and to appropriate the supply authorised by this Act for the yearsending with 31 March 2015 and 31 March 2016.",
+  "summary": "<p>The Bill passed all its Commons stages formally on Wednesday 2 March 2016. </p><p>Supply and Appropriation Bills are presented as Money Bills.</p><p>Money Bills (Bills designed to raise money through taxes or spend public money) start in the Commons and must receive Royal Assent no later than a month after being introduced in the Lords, even if the Lords has not passed them. The Lords cannot amend Money Bills.</p><ul><li><a>Read Glossary: Money Bills</a></li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1529,
+        "name": "Mr David Gauke",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1529/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1529/contact",
+        "memberFrom": "South West Hertfordshire"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1751,
+  "shortTitle": "Supply and Appropriation (Anticipation and Adjustments) Act 2016",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-03-24T10:50:52",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 8503,
+    "stageId": 11,
+    "sessionId": 28,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7951,
+        "stageId": 11,
+        "billStageId": 8503,
+        "billId": 1751,
+        "date": "2016-03-16T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

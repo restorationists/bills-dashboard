@@ -1,0 +1,76 @@
+{
+  "longTitle": "Amend the law relating to social security; to make provision enabling disabled people to be given greater control over the way in which certain public services are provided for them; to amend the law relating to child support; to make provision about the registration of births; and for connected purposes.",
+  "summary": "The Bill proposes to reform the welfare and benefit system to improve support and incentives for people to move from benefits into work. <br><br>It contains measures to increase personal responsibility within the welfare system. It also proposes to encourage parental responsibility by introducing a requirement for joint birth registration and by amending the law relating to child support.<br><br><strong>Key areas:</strong><br><ul><li>Reforms the benefits system by abolishing Income Support and moving all claimants on to either Jobseekers&rsquo; Allowance if they are well or Employment and Support Allowance if they are sick </li><li>aligns the contribution conditions between Employment and Support Allowance and Jobseeker&rsquo;s Allowance</li><li>introduces a regime of benefit sanctions for non-attendance at Jobcentres </li><li>requires job search by partners of benefit claimants</li><li>abolishes Adult Dependency Increases in the Carer&rsquo;s Allowance and Maternity Allowance </li><li>introduces work-focused interviews for over-60s </li><li>requires work-related activity in return for receipt of Employment and Support Allowance </li><li>introduces a requirement for births to be registered jointly by both parents</li><li>provides additional powers for the enforcement of child maintenance arrears.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1455,
+        "name": "James Purnell",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1455/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1455/contact",
+        "memberFrom": "Stalybridge and Hyde"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3694,
+        "name": "Lord McKenzie of Luton",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3694/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3694/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 386,
+  "shortTitle": "Welfare Reform",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-11-20T14:56:34",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 2782,
+    "stageId": 11,
+    "sessionId": 22,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2636,
+        "stageId": 11,
+        "billStageId": 2782,
+        "billId": 386,
+        "date": "2009-11-12T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

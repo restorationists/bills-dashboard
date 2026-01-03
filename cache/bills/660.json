@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision for and in connection with the repeal of the Identity Cards Act 2006.",
+  "summary": "<p>The main purpose of this Bill is to abolish identity cards and the National Identity Register; it repeals the Identity Cards Act 2006. There are no provisions for refunding existing cardholders. </p><p>A small number of provisions in the 2006 Act &ndash; unrelated to ID cards &ndash; reappear in the Bill. These cover offences relating to the possession and manufacture of false identity documents such as passports and driving licences. The Bill also re-enacts data-sharing provisions in the 2006 Act designed to verify information provided in connection with passport applications. Identification cards for non-EEA nationals are not affected by the provisions.  </p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 8,
+        "name": "Mrs Theresa May",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/8/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/8/contact",
+        "memberFrom": "Maidenhead"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3840,
+        "name": "Baroness Neville-Jones",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3840/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3840/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 660,
+  "shortTitle": "Identity Documents Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2011-10-20T17:26:32",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3987,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3689,
+        "stageId": 11,
+        "billStageId": 3987,
+        "billId": 660,
+        "date": "2010-12-21T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

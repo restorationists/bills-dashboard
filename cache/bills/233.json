@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to reduce the voting age for parliamentary and other elections to 16 years",
+  "summary": "<p>The Bill would amend the Representation of the People Act 1983 to reduce the voting age for parliamentary and other elections, including local government elections, to 16.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 561,
+        "name": "Julie Morgan",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/561/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/561/contact",
+        "memberFrom": "Cardiff North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 233,
+  "shortTitle": "Voting Age (Reduction) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-10-28T17:51:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 1174,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 1071,
+        "stageId": 7,
+        "billStageId": 1174,
+        "billId": 233,
+        "date": "2008-06-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

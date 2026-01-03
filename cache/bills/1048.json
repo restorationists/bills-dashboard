@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to repeal the Human Rights Act 1998 and related legislation; to make provision for a bill of rights and responsibilities to apply to the United Kingdom; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3971,
+        "name": "Charlie Elphicke",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3971/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3971/contact",
+        "memberFrom": "Dover"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1048,
+  "shortTitle": "Human Rights Act 1998 (Repeal and Substitution) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-03-04T09:40:35",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 5093,
+    "stageId": 7,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 4846,
+        "stageId": 7,
+        "billStageId": 5093,
+        "billId": 1048,
+        "date": "2013-03-01T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to establish an Office of the Whistleblower to protect whistleblowers and whistleblowing and to uphold the public interest in relation to whistleblowing; to create offences relating to the treatment of whistleblowers and the handling of whistleblowing cases; to repeal the Public Interest Disclosure Act 1998; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1557,
+        "name": "Baroness Kramer",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1557/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1557/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3184,
+  "shortTitle": "Protection for Whistleblowing Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-10-31T12:12:51.8995848",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16542,
+    "stageId": 2,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 13919,
+        "stageId": 2,
+        "billStageId": 16542,
+        "billId": 3184,
+        "date": "2022-12-02T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

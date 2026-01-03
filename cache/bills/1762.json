@@ -1,0 +1,48 @@
+{
+  "longTitle": null,
+  "summary": "A Bill to make it an offence to be found in possession of, or to use, certain articles or substances capable of causing injury or behaviour likely to lead to injury at, or in transit towards, certain events, concerts or festivals or other public gatherings; and for connected purposes.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4057,
+        "name": "Nigel Adams",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4057/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4057/contact",
+        "memberFrom": "Selby and Ainsty"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1762,
+  "shortTitle": "Events and Festivals (Control of Flares, Fireworks and Smoke Bombs Etc) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-05-12T16:37:45",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14533,
+    "stageId": 7,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

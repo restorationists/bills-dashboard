@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Leader of the House of Commons to move a Motion prohibiting Members of Parliament from receiving any financial or other benefit from oil and gas companies; to require the Leader of the House to publish proposals for divestment of the Parliamentary Contributory Pension Fund from oil and gas companies; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4493,
+        "name": "Richard Burgon",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4493/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4493/contact",
+        "memberFrom": "Leeds East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3490,
+  "shortTitle": "Members of Parliament (Oil and Gas Companies) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T11:12:29.8868945",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17888,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14852,
+        "stageId": 6,
+        "billStageId": 17888,
+        "billId": 3490,
+        "date": "2023-07-18T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend section 5 of the Education Act 2005 to provide that Ofsted may inspect the governing bodies of Multi-Academy Trusts.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4814,
+        "name": "Jonathan Gullis",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4814/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4814/contact",
+        "memberFrom": "Stoke-on-Trent North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3046,
+  "shortTitle": "Multi-Academy Trusts (Ofsted Inspection) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-05T15:20:30.6929",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15721,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12266,
+        "stageId": 7,
+        "billStageId": 15721,
+        "billId": 3046,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

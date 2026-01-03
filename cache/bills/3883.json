@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Chief Inspector of Drinking Water to issue guidance to water companies on poly and perfluorinated alkyl substances in drinking water; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4776,
+        "name": "Munira Wilson",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4776/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4776/contact",
+        "memberFrom": "Twickenham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3883,
+  "shortTitle": "Poly and Perfluorinated Alkyl Substances (Guidance) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-07-11T15:16:54.6191326",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19260,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16344,
+        "stageId": 7,
+        "billStageId": 19260,
+        "billId": 3883,
+        "date": "2025-07-11T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

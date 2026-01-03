@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to introduce a presumption in planning decision-making against approving quarry development in close proximity to settlements; to require the risks of proposed quarrying sites to health and the environment, including through silica dust, to be assessed as part of the planning process; to make provision about the use of quarries for waste disposal; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4617,
+        "name": "Matt Western",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4617/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4617/contact",
+        "memberFrom": "Warwick and Leamington"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3080,
+  "shortTitle": "Quarries (Planning) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-04T17:13:02.8666541",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15939,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12551,
+        "stageId": 7,
+        "billStageId": 15939,
+        "billId": 3080,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

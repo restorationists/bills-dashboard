@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to authorise the use of resources for the service of the year ending with 31st March 2009 and to apply a sum out of the Consolidated Fund to the service of that year; and to appropriate the supply authorised by this Act for the service of that year.",
+  "summary": "The Bill provides Parliamentary authority for funds requested by the Government. It is part of the &lsquo;Supply Procedure&rsquo;, which is how Parliament grants the Government&rsquo;s requests for resources.  <br><br>There are usually two Consolidated Fund (Appropriation) Bills per year. Normally, Parliamentary approval for Government spending would next be given in December, but a third Consolidated Fund (Appropriation) Bill is needed for Parliament to approve expenditure which may be needed before December.<br><br>Key areas:<br><ul><li>The Bill authorises resources required in 2008-09 for the Government&rsquo;s actions to help the banking industry </li><li>The Bill authorises the release of money from the Consolidated Fund which is the Government&rsquo;s bank account. </li></ul> ",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 163,
+        "name": "Stephen Timms",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/163/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/163/contact",
+        "memberFrom": "East Ham"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 987,
+        "name": "Lord Davies of Oldham",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/987/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/987/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 341,
+  "shortTitle": "Appropriation (No. 3) Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-02-25T10:20:43",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 2196,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2106,
+        "stageId": 11,
+        "billStageId": 2196,
+        "billId": 341,
+        "date": "2008-10-16T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

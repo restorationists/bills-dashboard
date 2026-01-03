@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to give workers and agency workers the right to request more predictable terms and conditions of work.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4793,
+        "name": "Scott Benton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4793/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4793/contact",
+        "memberFrom": "Blackpool South"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4508,
+        "name": "Ruth Smeeth",
+        "party": null,
+        "partyColour": null,
+        "house": "Unassigned",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4508/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4508/contact",
+        "memberFrom": null
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3237,
+  "shortTitle": "Workers (Predictable Terms and Conditions) Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-13T15:20:02.5003254",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17951,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14946,
+        "stageId": 11,
+        "billStageId": 17951,
+        "billId": 3237,
+        "date": "2023-09-18T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

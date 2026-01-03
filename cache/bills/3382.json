@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision for the relocation of Billingsgate Market and the London Central Markets; and for connected purposes.",
+  "summary": null,
+  "sponsors": [],
+  "promoters": [],
+  "petitioningPeriod": "House of Commons petitioning period: 31 January to 9 February.",
+  "petitionInformation": "<p>If you are directly and specially affected by this legislation, you can petition against it in the House of Commons. For information about how to petition, please click <a href=\"https://bills.parliament.uk/publications/49548/documents/2844\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p><p><br></p><p>The petitioning period will open at 9am on 31 January and close on 9 February. To submit your petition against the Bill, please do so via the online portal, which you can access <a href=\"https://committees.parliament.uk/submit-petition/3035\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p><p><br></p><p>For further information, you can contact the Private Bill Office by emailing <a href=\"mailto:PRBOHOC@Parliament.uk\" rel=\"noopener noreferrer\" target=\"_blank\">PRBOHOC@Parliament.uk</a>.</p>",
+  "agent": {
+    "name": "The City Remembrancer",
+    "address": "Guildhall, P.O. Box 270, London EC2P 2EJ",
+    "phoneNo": "020 7332 3422",
+    "email": null,
+    "website": null
+  },
+  "billId": 3382,
+  "shortTitle": "City of London (Markets) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-05-31T15:07:45.640344",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 6,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37,
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18037,
+    "stageId": 7,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15043,
+        "stageId": 7,
+        "billStageId": 18037,
+        "billId": 3382,
+        "date": "2023-11-14T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

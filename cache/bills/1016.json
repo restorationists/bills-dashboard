@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to provide for oversight of the Security Service, the Secret Intelligence Service, the Government Communications Headquarters and other activities relating to intelligence or security matters; to provide for closed material procedure in relation to certain civil proceedings; to prevent the making of certain court orders for the disclosure of sensitive information; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 630,
+        "name": "Lord Wallace of Tankerness",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/630/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/630/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 366,
+        "name": "Mr Kenneth Clarke",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/366/contact",
+        "memberFrom": "Rushcliffe"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1016,
+  "shortTitle": "Justice and Security Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-04-29T11:39:18",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5895,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5493,
+        "stageId": 11,
+        "billStageId": 5895,
+        "billId": 1016,
+        "date": "2013-04-25T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

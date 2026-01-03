@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to impose duties on the Prime Minister relating to accountability to the House of Commons; to require the Prime Minister to be available to answer questions in that House on at least two occasions during a sitting week except in specified circumstances; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1581,
+        "name": "Mr Peter Bone",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1581/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1581/contact",
+        "memberFrom": "Wellingborough"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2688,
+  "shortTitle": "Prime Minister (Accountability to the House of Commons) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-05T15:51:03.9391175",
+  "billWithdrawn": "2020-12-30T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11975,
+    "stageId": 6,
+    "sessionId": 35,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 10860,
+        "stageId": 6,
+        "billStageId": 11975,
+        "billId": 2688,
+        "date": "2020-02-10T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

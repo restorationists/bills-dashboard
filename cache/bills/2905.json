@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to create offences relating to repeat breaches of planning controls; to make provision about penalties for planning offences; to establish a national register of persons who have committed planning offences or breached planning controls and make associated provision about planning applications; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4785,
+        "name": "Dr Ben Spencer",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4785/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4785/contact",
+        "memberFrom": "Runnymede and Weybridge"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2905,
+  "shortTitle": "Planning (Enforcement) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-11-19T16:49:43.4192989",
+  "billWithdrawn": "2021-11-19T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15375,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 11901,
+        "stageId": 7,
+        "billStageId": 15375,
+        "billId": 2905,
+        "date": "2021-11-19T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

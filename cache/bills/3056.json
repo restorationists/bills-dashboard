@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the abolition within construction contracts of the practice of allowing the paying party to withhold, as security against the risk of contractual non-performance by the other party, sums which would otherwise be due; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3898,
+        "name": "Lord Aberdare",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3898/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3898/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3056,
+  "shortTitle": "Construction (Retentions Abolition) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-04-28T15:09:42.4082727",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15795,
+    "stageId": 1,
+    "sessionId": 36,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 12375,
+        "stageId": 1,
+        "billStageId": 15795,
+        "billId": 3056,
+        "date": "2021-10-25T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

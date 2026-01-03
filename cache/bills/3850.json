@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to place a duty on the Secretary of State to review, and publish a report on, the merits of increasing the relevant statutory sum under the Vaccine Damage Payments Act 1979 for all claims since 1 January 2020 by an amount representing the amount of inflation since 2007.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 242,
+        "name": "Sir Christopher Chope",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/242/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/242/contact",
+        "memberFrom": "Christchurch"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3850,
+  "shortTitle": "Vaccine Damage Payments Act (Review) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-07-07T16:50:58.2598403",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19185,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16267,
+        "stageId": 7,
+        "billStageId": 19185,
+        "billId": 3850,
+        "date": "2026-02-20T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

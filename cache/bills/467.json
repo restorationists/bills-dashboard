@@ -1,0 +1,59 @@
+{
+  "longTitle": "To amend the law relating to the avoidance of future interests on grounds of remoteness and the law relating to accumulations of income.",
+  "summary": "<p>The Bill aims to simplify and modernise two distinct but related legal rules, the rule against perpetuities and the rule against excessive accumulations, which arise most commonly in the context of trusts.  It is the first Bill to be introduced into the House of Lords under the procedure for Law Commission Bills set out in the House of Lords Procedure Committee Report of 25 February 2008. </p><p>Key areas</p><ul><li>The rule against perpetuities restricts the time period within which future interests in property must vest. In specified circumstances, the Bill would replace the existing common law and statutory perpetuity periods with a single statutory perpetuity period of 125 years.  </li><li>The rule against excessive accumulations restricts the period during which trust income may be accumulated and not paid to an income beneficiary as it arises.  The Bill would repeal the present rule. A 21-year maximum statutory accumulation period would apply to charitable trusts.<br></li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3451,
+        "name": "Lord Bach",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3451/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3451/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 467,
+  "shortTitle": "Perpetuities and Accumulations ",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-11-20T14:51:54",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 2787,
+    "stageId": 11,
+    "sessionId": 22,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2651,
+        "stageId": 11,
+        "billStageId": 2787,
+        "billId": 467,
+        "date": "2009-11-12T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

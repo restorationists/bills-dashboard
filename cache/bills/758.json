@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision about eligibility for a child trust fund; to repeal the Saving Gateway Accounts Act 2009; to make provision about entitlement to health in pregnancy grant; and for connected purposes.",
+  "summary": "<p>This Bill gives effect to decisions made as part of the initial review of public expenditure undertaken soon after the 2010 General Election. </p><p>Three schemes introduced by the previous Labour Government &ndash; the Child Trust Fund; the Saving Gateway; and the Health in Pregnancy Grant &ndash; are deemed to be unaffordable by the Coalition Government and will be brought to a close by the provisions of the Bill.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1458,
+        "name": "Mr George Osborne",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1458/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1458/contact",
+        "memberFrom": "Tatton"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4146,
+        "name": "Lord Sassoon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4146/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4146/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 758,
+  "shortTitle": "Savings Accounts and Health in Pregnancy Grant Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-01-13T10:22:44",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3977,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3632,
+        "stageId": 11,
+        "billStageId": 3977,
+        "billId": 758,
+        "date": "2010-12-16T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to require proposals to be drawn up for the use of alternative dispute resolution processes to determine the compensation payable to landowners in certain cases where land is acquired for the purposes of electricity transmission.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 223,
+        "name": "Dr Liam Fox",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/223/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/223/contact",
+        "memberFrom": "North Somerset"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 333,
+        "name": "Lord McLoughlin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/333/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/333/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3194,
+  "shortTitle": "Electricity Transmission (Compensation) Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-05-25T21:47:35.563903",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17706,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14634,
+        "stageId": 11,
+        "billStageId": 17706,
+        "billId": 3194,
+        "date": "2023-05-24T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

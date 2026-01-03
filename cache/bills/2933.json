@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide that teachers and other education staff may choose to be accompanied to disciplinary or grievance hearings by a person other than a trade union representative or colleague; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4756,
+        "name": "Brendan Clarke-Smith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4756/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4756/contact",
+        "memberFrom": "Bassetlaw"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2933,
+  "shortTitle": "Education Employment (Accompaniment to Hearings) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-03-07T15:36:17.7421442",
+  "billWithdrawn": "2022-03-02T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15431,
+    "stageId": 6,
+    "sessionId": 36,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 11955,
+        "stageId": 6,
+        "billStageId": 15431,
+        "billId": 2933,
+        "date": "2021-06-21T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

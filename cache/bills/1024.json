@@ -1,0 +1,48 @@
+{
+  "longTitle": null,
+  "summary": "A Bill to amend the European Parliamentary Elections Act 2002 so as to alter the method used in Great Britain and Gibraltar for electing Members of the European Parliament.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3789,
+        "name": "Lord Teverson",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3789/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3789/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1024,
+  "shortTitle": "European Parliamentary Elections Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-04-30T11:06:13",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13827,
+    "stageId": 2,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

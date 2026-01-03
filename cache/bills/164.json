@@ -1,0 +1,74 @@
+{
+  "longTitle": "To create a new offence that, in England and Wales or Northern Ireland, is to be called corporate manslaughter and, in Scotland, is to be called corporate homicide; and to make provision in connection with that offence.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 617,
+        "name": "John Reid",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/617/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/617/contact",
+        "memberFrom": "Airdrie and Shotts"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2099,
+        "name": "Baroness Scotland of Asthal",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2099/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2099/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 164,
+  "shortTitle": "Corporate Manslaughter and Corporate Homicide Act 2007",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-11-26T17:35:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 19,
+  "includedSessionIds": [
+    19,
+    20
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 880,
+    "stageId": 11,
+    "sessionId": 20,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 797,
+        "stageId": 11,
+        "billStageId": 880,
+        "billId": 164,
+        "date": "2007-07-26T00:00:00"
+      }
+    ],
+    "sortOrder": 25
+  }
+}

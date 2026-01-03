@@ -1,0 +1,63 @@
+{
+  "longTitle": "A Bill to make provision for the regulation of physician associates; to make physician associate a protected title; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4249,
+        "name": "Anne Marie Morris",
+        "party": "Independent",
+        "partyColour": "909090",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4249/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4249/contact",
+        "memberFrom": "Newton Abbot"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2069,
+  "shortTitle": "Physician Associates (Regulation) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2018-12-07T13:06:18",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9729,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 9024,
+        "stageId": 7,
+        "billStageId": 9729,
+        "billId": 2069,
+        "date": "2018-10-26T00:00:00"
+      },
+      {
+        "id": 9884,
+        "stageId": 7,
+        "billStageId": 9729,
+        "billId": 2069,
+        "date": "2018-11-23T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

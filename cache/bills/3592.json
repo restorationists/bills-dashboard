@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to amend the Crown Estate Act 1961 to increase the maximum term of the lease that may be granted to the Zoological Society of London in respect of land in Regent’s Park.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4005,
+        "name": "Bob Blackman",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4005/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4005/contact",
+        "memberFrom": "Harrow East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 209,
+        "name": "Lord Randall of Uxbridge",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/209/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/209/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3592,
+  "shortTitle": "Zoological Society of London (Leases) Act 2024",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-05-31T14:10:40.7848685",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 18849,
+    "stageId": 11,
+    "sessionId": 38,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 15939,
+        "stageId": 11,
+        "billStageId": 18849,
+        "billId": 3592,
+        "date": "2024-05-24T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

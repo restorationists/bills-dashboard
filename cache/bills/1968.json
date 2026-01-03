@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision for a national public holiday marking the Queen’s Sapphire Jubilee in 2017 and to establish a framework to ensure that the United Kingdom, its overseas territories and Crown dependencies appropriately commemorate this occasion; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1447,
+        "name": "Andrew Rosindell",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1447/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1447/contact",
+        "memberFrom": "Romford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1968,
+  "shortTitle": "Queen's Sapphire Jubilee Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-04-28T13:10:40",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14718,
+    "stageId": 7,
+    "sessionId": 29,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

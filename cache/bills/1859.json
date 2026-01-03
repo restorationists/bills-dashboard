@@ -1,0 +1,73 @@
+{
+  "longTitle": "A Bill To make provision about electronic communications infrastructure and services; to provide for restricting access to online pornography; to make provision about protection of intellectual property in connection with electronic communications; to make provision about data-sharing; to make provision about functions of OFCOM in relation to the BBC; to provide for determination by the BBC of age-related TV licence\r\nfee concessions; to make provision about the regulation of direct marketing; to make other provision about OFCOM and its functions; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4110,
+        "name": "Karen Bradley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4110/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4110/contact",
+        "memberFrom": "Staffordshire Moorlands"
+      },
+      "organisation": {
+        "name": "Department for Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4247,
+        "name": "Lord Ashton of Hyde",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4247/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4247/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1859,
+  "shortTitle": "Digital Economy Act 2017 ",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-05-11T12:02:34",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 9522,
+    "stageId": 11,
+    "sessionId": 29,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 8789,
+        "stageId": 11,
+        "billStageId": 9522,
+        "billId": 1859,
+        "date": "2017-04-27T00:00:00"
+      }
+    ],
+    "sortOrder": 20
+  }
+}

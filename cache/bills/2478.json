@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to repeal the Bills of Sale Acts 1878 and 1882 and to make provision for a new form of non-possessory security that may be created over goods owned by individuals; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4175,
+        "name": "Lord Stevenson of Balmacara",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4175/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4175/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2478,
+  "shortTitle": "Goods Mortgages Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-11-08T10:21:04",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 34,
+  "includedSessionIds": [
+    34
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15203,
+    "stageId": 2,
+    "sessionId": 34,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

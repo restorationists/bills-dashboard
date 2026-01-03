@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for information and statistics to be available in various public places about the European Union; and to provide information to further the establishment of twinning arrangements between towns in the United Kingdom and elsewhere in the European Union in accordance with the European Union’s town twinning support scheme",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 810,
+        "name": "Lord Dykes",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/810/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/810/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2021,
+  "shortTitle": "European Union (Information, etc.) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-10-09T12:07:40",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9608,
+    "stageId": 2,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 8929,
+        "stageId": 2,
+        "billStageId": 9608,
+        "billId": 2021,
+        "date": "2018-07-20T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

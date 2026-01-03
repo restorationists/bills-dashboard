@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision prohibiting the import of hunting trophies into Great Britain.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 318,
+        "name": "John Spellar",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/318/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/318/contact",
+        "memberFrom": "Warley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3547,
+  "shortTitle": "Hunting Trophies (Import Prohibition) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-04-29T12:19:55.5637984",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19874,
+    "stageId": 8,
+    "sessionId": 38,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 3
+  }
+}

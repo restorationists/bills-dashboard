@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to provide that the appointment and dismissal of the Governor of the Bank of England be subject to the consent of a Committee of the House of Commons; and for connected purposes.",
+  "summary": "<p>The purpose of the Bill is to give the Treasury Select Committee, or its successor bodies, the power to consent to the appointment of the Governor of the Bank of England. The immediate stimulus for this is the substantial increase in powers that would be given to the Bank of England under the Financial Services Bill 2012-13.</p><p>The Bill would represent an enhancement of the powers of the Select Committees in the Commons, in that the Treasury Committee is given a statutory veto over appointment. The Governor of the Bank of England is a post of major importance in the UK economy. Other Select Committees hold pre-appointment hearings for other major bodies, but this does not give them a veto, nor is this right set out in statute.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 178,
+        "name": "John McDonnell",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/178/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/178/contact",
+        "memberFrom": "Hayes and Harlington"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1025,
+  "shortTitle": "Bank of England (Appointment of Governor) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-04-26T09:50:05",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13828,
+    "stageId": 7,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

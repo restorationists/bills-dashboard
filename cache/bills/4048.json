@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide for a cap of eight per cent on any profit made by providers of Special Educational Needs and Disabilities education from providing that education; to make provision about the role and powers of the Competition and Markets Authority in the operation of that cap; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4776,
+        "name": "Munira Wilson",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4776/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4776/contact",
+        "memberFrom": "Twickenham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4048,
+  "shortTitle": "Special Educational Needs and Disabilities Education (Profit Cap) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-10T10:52:30.7843617",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20359,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17604,
+        "stageId": 7,
+        "billStageId": 20359,
+        "billId": 4048,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

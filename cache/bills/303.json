@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to Grant certain duties, to alter other duties, and to amend the law relating to the National Debt and the Public Revenue, and to make further provision in connection with finance.",
+  "summary": "<p><span><span><span><span><span><span>The annual Finance Bill encompasses all the changes to be made to tax law for the year. Its formal description is 'a Bill to grant certain duties, to alter other duties, and to amend the law relating to the National Debt and the Public Revenue, and to make further provision in connection with finance.' </span><span> </span> </span></span></span></span></span></p><p><span><span><span><span><span><span>The Bill will enact many of the measures announced in the Budget which was presented by the Chancellor of the Exchequer, Alistair Darling, on 12 March 2008.</span></span></span></span></span></span></p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 486,
+        "name": "Jane Kennedy",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/486/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/486/contact",
+        "memberFrom": "Liverpool, Wavertree"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 987,
+        "name": "Lord Davies of Oldham",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/987/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/987/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 303,
+  "shortTitle": "Finance Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-04-30T14:25:38",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1776,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1759,
+        "stageId": 11,
+        "billStageId": 1776,
+        "billId": 303,
+        "date": "2008-07-21T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

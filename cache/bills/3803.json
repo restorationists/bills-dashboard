@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the continued appointment of a special envoy for freedom of religion or belief and make provision about the special envoy’s functions.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4131,
+        "name": "Jim Shannon",
+        "party": "Democratic Unionist Party",
+        "partyColour": "d46a4c",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4131/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4131/contact",
+        "memberFrom": "Strangford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3803,
+  "shortTitle": "Special Envoy for Freedom of Religion or Belief Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-10-31T15:47:02.0708215",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19081,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

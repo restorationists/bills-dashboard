@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Dissolution and Calling of Parliament Act 2022 to provide for a general election to be held no later than 1 December 2022; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 188,
+        "name": "Ed Davey",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/188/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/188/contact",
+        "memberFrom": "Kingston and Surbiton"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3355,
+  "shortTitle": "General Election (Date) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-01T14:54:46.6403568",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17058,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13839,
+        "stageId": 6,
+        "billStageId": 17058,
+        "billId": 3355,
+        "date": "2022-10-26T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

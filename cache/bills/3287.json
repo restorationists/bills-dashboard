@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to place duties on the Secretary of State to decarbonise the United Kingdom economy and to reverse inequality; to establish a ten-year economic and public investment strategy in accordance with those duties which promotes a community- and employee-led transition from high-carbon to low- and zero-carbon industry; to require the Government to report on its adherence to the strategy; to establish higher environmental standards for air, water and green spaces; to make provision to protect and restore natural habitats; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3930,
+        "name": "Caroline Lucas",
+        "party": "Green Party",
+        "partyColour": "78b82a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3930/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3930/contact",
+        "memberFrom": "Brighton, Pavilion"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3287,
+  "shortTitle": "Decarbonisation and Economic Strategy Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-31T16:14:56.4564734",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16776,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13495,
+        "stageId": 6,
+        "billStageId": 16776,
+        "billId": 3287,
+        "date": "2022-06-20T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

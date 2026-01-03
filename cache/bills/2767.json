@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Road Traffic Offenders Act 1988 to increase the maximum sentence for causing death by dangerous driving to life imprisonment; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 8,
+        "name": "Mrs Theresa May",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/8/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/8/contact",
+        "memberFrom": "Maidenhead"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2767,
+  "shortTitle": "Death by Dangerous Driving (Sentencing) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-03-12T16:45:40.4485769",
+  "billWithdrawn": "2021-03-12T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12335,
+    "stageId": 6,
+    "sessionId": 35,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 11214,
+        "stageId": 6,
+        "billStageId": 12335,
+        "billId": 2767,
+        "date": "2020-07-21T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

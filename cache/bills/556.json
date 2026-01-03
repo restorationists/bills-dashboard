@@ -1,0 +1,56 @@
+{
+  "longTitle": "To make provision, with regard to greenhouse gases, for the setting of a United Kingdom consumer emissions target and for the reporting of United Kingdom consumer emissions.",
+  "summary": "Lord Teverson introduced the Consumer Emissions (Climate Change) Bill on 19 November 2009.  The Bill would amend the Climate Change Act 2008 and set a consumer emissions target for greenhouse gasses.  The Bill would also amend the Climate Change Act 2008 to require the reporting of UK consumer emissions.<br><br>Consumer emissions are the emissions related to the UK consumption of goods and services.  In recent years, UK territorial emissions have reduced but carbon emissions have increased.  The Climate Change Act 2008 commits the UK to cut greenhouse gases by 80 per cent and to cut CO2 emissions by 26 per cent by 2050. <br><br><strong>Key areas</strong><br><br><ul><li>A net UK consumer emissions target would be set for 2050.  The target would be considered when setting a carbon budget.</li></ul><ul><li>A consultation on the consumer emissions target would take place before legislation is introduced.  Advice would also be sought from the Committee on Climate Change.</li></ul><ul><li>Reporting of UK consumer emissions would be required by the Bill.  This is defined as emissions of a greenhouse gas from the production, supply and use of all goods and services consumed by UK residents.  This would include imported goods and services.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3789,
+        "name": "Lord Teverson",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3789/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3789/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 556,
+  "shortTitle": "Consumer Emissions (Climate Change) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2010-04-09T09:36:14",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2870,
+    "stageId": 2,
+    "sessionId": 23,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 2756,
+        "stageId": 2,
+        "billStageId": 2870,
+        "billId": 556,
+        "date": "2010-01-15T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

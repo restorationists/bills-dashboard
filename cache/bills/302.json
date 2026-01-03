@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to amend the definition of \"microgeneration\" in certain Acts",
+  "summary": "The Bill would amend Section 26 of the Climate Change and Sustainable Energy Act 2006 and Section 82 of the Energy Act 2004 by adding &lsquo;air&rsquo; to the list of energy and technology sources.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 252,
+        "name": "Mr David Drew",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/252/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/252/contact",
+        "memberFrom": "Stroud"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 302,
+  "shortTitle": "Microgeneration (Definition) (Amendment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-10-30T19:06:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13195,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to repeal the Fixed-term Parliaments Act 2011.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2699,
+        "name": "Lord Desai",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2699/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2699/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1890,
+  "shortTitle": "Fixed-term Parliaments (Repeal) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2017-05-02T11:50:01",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14650,
+    "stageId": 2,
+    "sessionId": 29,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

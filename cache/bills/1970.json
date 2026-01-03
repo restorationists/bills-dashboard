@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to grant certain duties, to alter other duties, and to amend the law relating to the\r\nnational debt and the public revenue, and to make further provision in connection\r\nwith finance.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3918,
+        "name": "Jane Ellison",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3918/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3918/contact",
+        "memberFrom": "Battersea"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4284,
+        "name": "Baroness Neville-Rolfe",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4284/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4284/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1970,
+  "shortTitle": "Finance Act 2017",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-04-28T12:10:45",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 9524,
+    "stageId": 11,
+    "sessionId": 29,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 8829,
+        "stageId": 11,
+        "billStageId": 9524,
+        "billId": 1970,
+        "date": "2017-04-27T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

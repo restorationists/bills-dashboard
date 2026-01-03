@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to extend the duty to provide careers guidance in schools.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4752,
+        "name": "Mark Jenkinson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4752/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4752/contact",
+        "memberFrom": "Workington"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1879,
+        "name": "Lord Lucas",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1879/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1879/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2895,
+  "shortTitle": "Education (Careers Guidance in Schools) Act 2022",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-04-05T17:00:33.9181559",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 16360,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 13076,
+        "stageId": 11,
+        "billStageId": 16360,
+        "billId": 2895,
+        "date": "2022-03-31T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

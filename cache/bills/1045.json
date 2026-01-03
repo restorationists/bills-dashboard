@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision in relation to marine navigation and harbours.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4100,
+        "name": "Sheryll Murray",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4100/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4100/contact",
+        "memberFrom": "South East Cornwall"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1727,
+        "name": "Baroness Wilcox",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1727/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1727/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1045,
+  "shortTitle": "Marine Navigation Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-04-29T11:49:12",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5900,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5494,
+        "stageId": 11,
+        "billStageId": 5900,
+        "billId": 1045,
+        "date": "2013-04-25T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

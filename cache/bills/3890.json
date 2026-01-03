@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the accessibility of air travel for disabled passengers; to make provision about the powers of the Civil Aviation Authority to enforce accessibility requirements; to remove the limit on compensation for damage to wheelchairs or other mobility equipment on domestic flights; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5184,
+        "name": "Daniel Francis",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5184/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5184/contact",
+        "memberFrom": "Bexleyheath and Crayford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3890,
+  "shortTitle": "Aviation (Accessibility) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-10-28T11:04:46.2420061",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19311,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16391,
+        "stageId": 7,
+        "billStageId": 19311,
+        "billId": 3890,
+        "date": "2026-01-23T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

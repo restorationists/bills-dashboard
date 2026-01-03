@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision to provide posthumous pardons to armed forces personnel convicted of, or cautioned for, certain abolished offences",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4340,
+        "name": "Lord Cashman",
+        "party": "Non-affiliated",
+        "partyColour": null,
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4340/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4340/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2571,
+  "shortTitle": "Armed Forces (Posthumous Pardons) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2021-05-05T11:09:11.5532526",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11704,
+    "stageId": 2,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

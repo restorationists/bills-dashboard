@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision for, and in connection with, the abolition of the Audit Commission for local authorities and the National Health Service in England; to make provision about the accounts of local and certain other public authorities and the auditing of those accounts; to make provision about the appointment, functions and regulation of local auditors; to make provision about data matching; to make provision about examinations by the Comptroller and Auditor-General relating to English local and other public authorities; to make provision about the publication of information by smaller authorities; to make provision for directions to comply with codes of practice on local authority publicity; to make provision about council tax referendums; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2477,
+        "name": "Baroness Hanham",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2477/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2477/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 33,
+        "name": "Mr Eric Pickles",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/33/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/33/contact",
+        "memberFrom": "Brentwood and Ongar"
+      },
+      "organisation": {
+        "name": "Department for Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1170,
+  "shortTitle": "Local Audit and Accountability Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2014-01-31T09:05:57",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 6600,
+    "stageId": 11,
+    "sessionId": 26,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 6178,
+        "stageId": 11,
+        "billStageId": 6600,
+        "billId": 1170,
+        "date": "2014-01-30T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

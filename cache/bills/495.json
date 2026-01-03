@@ -1,0 +1,59 @@
+{
+  "longTitle": "Make provision establishing a body corporate known as the Independent Parliamentary Standards Authority and an officer known as the Commissioner for Parliamentary Investigations; to make provision relating to salaries and allowances for members of the House of Commons and to their financial interests and conduct; and for connected purposes.",
+  "summary": "<p>The Bill provides for a statutory Independent Parliamentary Standards Authority and Commissioner for Parliamentary Investigations. The Authority will be responsible for devising a scheme for Members' allowances and for determining claims. It will also be required to devise rules on Members' financial interests, superseding the current register which is established by Resolution of the House. The Commissioner will investigate allegations of misuse of allowances and breaches of the financial interest rules.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 150,
+        "name": "Ms Harriet Harman",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/150/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/150/contact",
+        "memberFrom": "Camberwell and Peckham"
+      },
+      "organisation": {
+        "name": "Office of the Leader of the House of Commons",
+        "url": "https://www.gov.uk/government/organisations/the-office-of-the-leader-of-the-house-of-commons"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 495,
+  "shortTitle": "Parliamentary Standards",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-10-16T12:48:04",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 2662,
+    "stageId": 11,
+    "sessionId": 22,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2553,
+        "stageId": 11,
+        "billStageId": 2662,
+        "billId": 495,
+        "date": "2009-07-21T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

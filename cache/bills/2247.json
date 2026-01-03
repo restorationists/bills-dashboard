@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide that any Withdrawal Agreement between the United Kingdom and the European Union shall not have effect without a vote by the electorate of the United Kingdom and Gibraltar to that effect; to make arrangements for the holding of such a public vote; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 177,
+        "name": "Gareth Thomas",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/177/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/177/contact",
+        "memberFrom": "Harrow West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2247,
+  "shortTitle": "European Union Withdrawal Agreement (Public Vote) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-02-15T12:38:29",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 10402,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 9647,
+        "stageId": 7,
+        "billStageId": 10402,
+        "billId": 2247,
+        "date": "2019-02-08T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

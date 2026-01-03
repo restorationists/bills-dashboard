@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to enable electors in the precincts of a polling station before the time designated for the closing of the poll to vote; and for connected purposes.",
+  "summary": "<p>The Bill would amend Schedule 1 of the Representation of the People Act 1983 to provide that at the close of the poll in a general election, by-election or local government election, electors who were entitled to vote and within the precincts of the polling station would have to be issued with a ballot paper and allowed to vote. </p><p>It would be the responsibility of the Presiding Officer or Returning Officer to determine the limits of the precincts of a particular polling station.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1581,
+        "name": "Mr Peter Bone",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1581/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1581/contact",
+        "memberFrom": "Wellingborough"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 730,
+  "shortTitle": "Electoral Law (Amendment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-02T10:44:20",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13556,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

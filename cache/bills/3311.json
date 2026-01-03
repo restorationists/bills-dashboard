@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about energy production and security and the regulation of the energy market, including provision about the licensing of carbon dioxide transport and storage; about commercial arrangements for carbon capture and storage and for hydrogen production and transportation; about new technology, including low-carbon heat schemes and hydrogen grid trials; about the Independent System Operator and Planner; about gas and electricity industry codes; about financial support for persons carrying on energy-intensive activities; about heat networks; about energy smart appliances and load control; about the energy performance of premises; about energy savings opportunity schemes; about the resilience of the core fuel sector; about offshore energy production, including environmental protection, licensing and decommissioning; about the civil nuclear sector, including the Civil Nuclear Constabulary and pensions; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4336,
+        "name": "Lord Callanan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4336/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business, Energy and Industrial Strategy",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1582,
+        "name": "Grant Shapps",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1582/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1582/contact",
+        "memberFrom": "Welwyn Hatfield"
+      },
+      "organisation": {
+        "name": "Department for Energy Security and Net Zero",
+        "url": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3311,
+  "shortTitle": "Energy Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-11-28T09:27:53.4576355",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17983,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14989,
+        "stageId": 11,
+        "billStageId": 17983,
+        "billId": 3311,
+        "date": "2023-10-26T00:00:00"
+      }
+    ],
+    "sortOrder": 19
+  }
+}

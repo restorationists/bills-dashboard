@@ -1,0 +1,73 @@
+{
+  "longTitle": "Make provision about justice and security in Northern Ireland.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 567,
+        "name": "Mr Peter Hain",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/567/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/567/contact",
+        "memberFrom": "Neath"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 302,
+        "name": "Lord Rooker",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/302/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/302/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 161,
+  "shortTitle": "Justice and Security (Northern Ireland) Act 2007",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-10-27T17:09:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 803,
+    "stageId": 11,
+    "sessionId": 20,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 647,
+        "stageId": 11,
+        "billStageId": 803,
+        "billId": 161,
+        "date": "2007-05-24T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

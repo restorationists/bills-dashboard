@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision for the destruction of certain property found in prisons and similar institutions.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4032,
+        "name": "Stuart Andrew",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4032/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4032/contact",
+        "memberFrom": "Pudsey"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3744,
+        "name": "Lord Ramsbotham",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3744/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3744/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1038,
+  "shortTitle": "Prison (Property) Act 2013",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-03-01T16:12:27",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5737,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5398,
+        "stageId": 11,
+        "billStageId": 5737,
+        "billId": 1038,
+        "date": "2013-02-28T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about meeting the needs of adults with autistic spectrum conditions; and for connected purposes.",
+  "summary": "Following amendments in a Public Bill Committee, which debates and examines the Bill clause by clause, the Bill would require the Secretary of State for Health to publish an adult autism strategy and to issue associated statutory guidance. It would also place a duty on local authorities and NHS bodies to act under this guidance.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 18,
+        "name": "Mrs Cheryl Gillan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/18/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/18/contact",
+        "memberFrom": "Chesham and Amersham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3179,
+        "name": "Baroness Pitkeathley",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3179/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3179/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 400,
+  "shortTitle": "Autism",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-11-20T14:33:50",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 2784,
+    "stageId": 11,
+    "sessionId": 22,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2643,
+        "stageId": 11,
+        "billStageId": 2784,
+        "billId": 400,
+        "date": "2009-11-12T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

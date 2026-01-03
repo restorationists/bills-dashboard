@@ -1,0 +1,76 @@
+{
+  "longTitle": "Make provision for preparations for the restoration of devolved government in Northern Ireland in accordance with the St Andrews Agreement; to make provision as to the consequences of compliance, or non-compliance, with the St Andrews Agreement timetable; to amend the Northern Ireland Act 1998; to make provision about district policing partnerships; to amend the Education (Northern Ireland) Orders 1997 and 2006; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 567,
+        "name": "Mr Peter Hain",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/567/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/567/contact",
+        "memberFrom": "Neath"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 302,
+        "name": "Lord Rooker",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/302/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/302/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 67,
+  "shortTitle": "Northern Ireland (St Andrews Agreement) Act 2006",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-02-22T12:46:39",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 313,
+    "stageId": 11,
+    "sessionId": 20,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 162,
+        "stageId": 11,
+        "billStageId": 313,
+        "billId": 67,
+        "date": "2006-11-22T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

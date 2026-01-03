@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to amend the School Standards and Framework Act 1998 to make provision regarding assemblies at state schools without a designated religious character in England; to repeal the requirement for those schools to hold collective worship; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1567,
+        "name": "Baroness Burt of Solihull",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1567/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1567/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 104,
+        "name": "Crispin Blunt",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/104/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/104/contact",
+        "memberFrom": "Reigate"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2878,
+  "shortTitle": "Education (Assemblies) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-04-29T16:20:20.5160957",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15973,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12593,
+        "stageId": 7,
+        "billStageId": 15973,
+        "billId": 2878,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 6
+  }
+}

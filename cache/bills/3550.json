@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Accessories and Abettors Act 1861 to provide that only a person who directly commits, or who makes a significant contribution to the commission of, an offence may be held criminally liable.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4824,
+        "name": "Kim Johnson",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4824/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4824/contact",
+        "memberFrom": "Liverpool, Riverside"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3550,
+  "shortTitle": "Joint Enterprise (Significant Contribution) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-06-03T14:43:30.9273986",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18154,
+    "stageId": 7,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15142,
+        "stageId": 7,
+        "billStageId": 18154,
+        "billId": 3550,
+        "date": "2024-02-02T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

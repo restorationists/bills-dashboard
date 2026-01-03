@@ -1,0 +1,77 @@
+{
+  "longTitle": "A Bill to grant certain duties, to alter other duties, and to amend the law relating to the national debt and the public revenue, and to make further provision in connection with finance.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4483,
+        "name": "Rishi Sunak",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4483/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4483/contact",
+        "memberFrom": "Richmond (Yorks)"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4689,
+        "name": "Lord Agnew of Oulton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4689/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4689/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2835,
+  "shortTitle": "Finance Act 2021",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-06-15T00:09:41.254035",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35,
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 15321,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 11866,
+        "stageId": 11,
+        "billStageId": 15321,
+        "billId": 2835,
+        "date": "2021-06-10T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

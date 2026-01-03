@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to create a right to die at home.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1732,
+        "name": "Lord Warner",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1732/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1732/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2602,
+  "shortTitle": "Right to Die at Home Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2021-05-05T12:45:36.5907801",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11787,
+    "stageId": 2,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 10735,
+        "stageId": 2,
+        "billStageId": 11787,
+        "billId": 2602,
+        "date": "2020-01-30T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

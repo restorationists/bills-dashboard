@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require providers of electronic communications networks to grant access to their apparatus to other such providers in certain circumstances; to prohibit the installation of new electronic communications apparatus where services can be provided by sharing apparatus; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4645,
+        "name": "Emma Hardy",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4645/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4645/contact",
+        "memberFrom": "Kingston upon Hull West and Hessle"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3708,
+  "shortTitle": "Telecommunications Infrastructure (Requirement to Share Apparatus) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-02-12T16:57:52.7369315",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19668,
+    "stageId": 7,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

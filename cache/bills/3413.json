@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Scotland Act 1998 to transfer the power to legislate for a Scottish independence referendum to the Scottish Parliament; to provide that that power may only be exercised where the Scottish public has demonstrated its support for the holding of such a referendum; to provide that no such referendum may be held sooner than seven years after the previous such referendum; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4782,
+        "name": "Neale Hanvey",
+        "party": "Alba Party",
+        "partyColour": "005eb8",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4782/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4782/contact",
+        "memberFrom": "Kirkcaldy and Cowdenbeath"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3413,
+  "shortTitle": "Scotland (Self-Determination) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T16:32:38.7880777",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17368,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14209,
+        "stageId": 6,
+        "billStageId": 17368,
+        "billId": 3413,
+        "date": "2023-02-01T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

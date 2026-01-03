@@ -1,0 +1,59 @@
+{
+  "longTitle": "To authorise the use of resources for the service of the year ending with 31st March 2008 and to apply certain sums out of the Consolidated Fund to the service of the year ending with 31st March 2008; to appropriate the supply authorised in this Session of Parliament for the service of the year ending with 31st March 2008; and to repeal certain Consolidated Fund and Appropriation Acts.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 486,
+        "name": "Jane Kennedy",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/486/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/486/contact",
+        "memberFrom": "Liverpool, Wavertree"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 128,
+  "shortTitle": "Appropriation (No.2) Act 2007",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-10-22T19:12:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 909,
+    "stageId": 11,
+    "sessionId": 20,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 716,
+        "stageId": 11,
+        "billStageId": 909,
+        "billId": 128,
+        "date": "2007-07-19T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "longTitle": "A Bill to make provision about electronic trade documents; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4414,
+        "name": "Paul Scully",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4414/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4414/contact",
+        "memberFrom": "Sutton and Cheam"
+      },
+      "organisation": {
+        "name": "Department for Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3344,
+  "shortTitle": "Electronic Trade Documents Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2024-09-25T14:00:37.6795334",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17897,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14874,
+        "stageId": 11,
+        "billStageId": 17897,
+        "billId": 3344,
+        "date": "2023-07-20T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+}

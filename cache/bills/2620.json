@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about the administration to persons under the age of 18 of botulinum toxin and of other substances for cosmetic purposes; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4780,
+        "name": "Laura Trott",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4780/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4780/contact",
+        "memberFrom": "Sevenoaks"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4685,
+        "name": "Baroness Wyld",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4685/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4685/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2620,
+  "shortTitle": "Botulinum Toxin and Cosmetic Fillers (Children) Act 2021",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-05T17:37:59.3197923",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12928,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 11757,
+        "stageId": 11,
+        "billStageId": 12928,
+        "billId": 2620,
+        "date": "2021-04-29T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

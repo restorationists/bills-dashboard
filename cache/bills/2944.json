@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to restrict the use of non-disclosure agreements; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1480,
+        "name": "Mrs Maria Miller",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1480/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1480/contact",
+        "memberFrom": "Basingstoke"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2944,
+  "shortTitle": "Non-Disclosure Agreements Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-11-17T11:36:04.6509074",
+  "billWithdrawn": "2021-11-16T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15453,
+    "stageId": 6,
+    "sessionId": 36,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 11977,
+        "stageId": 6,
+        "billStageId": 15453,
+        "billId": 2944,
+        "date": "2021-06-21T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

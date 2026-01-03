@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to define the term “green jobs”; to require the Secretary of State to publish a strategy for their creation, including setting targets relating to green jobs, skills, and training; to require the Secretary of State to report to Parliament on performance in implementing that strategy; to require the Secretary of State to publish a plan to increase take-up of National Vocational Qualification courses related to low-carbon services; to establish a Commission to advise the Government and local authorities on increasing the availability of jobs in the low-carbon economy, including in areas with high levels of deprivation, and on ensuring access to good quality green jobs across the United Kingdom; to require the Commission to consult workers, communities, non-governmental organisations, businesses, and industry representatives; to require local authorities to report to the Commission on the availability in green jobs in their areas; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1591,
+        "name": "Tim Farron",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1591/contact",
+        "memberFrom": "Westmorland and Lonsdale"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3394,
+  "shortTitle": "Green Jobs (Definition and Promotion) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-01T15:44:45.1494019",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17254,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14067,
+        "stageId": 6,
+        "billStageId": 17254,
+        "billId": 3394,
+        "date": "2022-12-14T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

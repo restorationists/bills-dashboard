@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide for a right to camp in National Parks; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4942,
+        "name": "Richard Foord",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4942/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4942/contact",
+        "memberFrom": "Tiverton and Honiton"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3408,
+  "shortTitle": "National Parks (Camping) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T12:09:50.3511502",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17346,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14181,
+        "stageId": 6,
+        "billStageId": 17346,
+        "billId": 3408,
+        "date": "2023-01-25T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

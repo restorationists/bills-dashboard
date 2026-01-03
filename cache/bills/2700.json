@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to confer power to amend or supplement the law relating to human medicines, veterinary medicines and medical devices; make provision about the enforcement of regulations, and the protection of health and safety, in relation to medical devices; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4070,
+        "name": "Matt Hancock",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4070/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4070/contact",
+        "memberFrom": "West Suffolk"
+      },
+      "organisation": {
+        "name": "Department of Health and Social Care",
+        "url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4708,
+        "name": "Lord Bethell",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4708/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4708/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "Department of Health and Social Care",
+        "url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2700,
+  "shortTitle": "Medicines and Medical Devices Act 2021",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-03-04T17:24:00.5529967",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12731,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 11517,
+        "stageId": 11,
+        "billStageId": 12731,
+        "billId": 2700,
+        "date": "2021-02-11T00:00:00"
+      }
+    ],
+    "sortOrder": 17
+  }
+}

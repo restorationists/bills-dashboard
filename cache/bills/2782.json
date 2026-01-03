@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision for increased fines for failures to comply with a notice under section 215 of the Town and Country Planning Act 1990.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4814,
+        "name": "Jonathan Gullis",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4814/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4814/contact",
+        "memberFrom": "Stoke-on-Trent North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2782,
+  "shortTitle": "Planning (Proper Maintenance of Land) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-05T15:01:53.6593507",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12413,
+    "stageId": 7,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

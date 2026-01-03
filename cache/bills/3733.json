@@ -1,0 +1,73 @@
+{
+  "longTitle": "A Bill to amend the Arbitration Act 1996; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3154,
+        "name": "Lord Ponsonby of Shulbrede",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3154/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3154/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3914,
+        "name": "Shabana Mahmood",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3914/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3914/contact",
+        "memberFrom": "Birmingham Ladywood"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3733,
+  "shortTitle": "Arbitration Act 2025",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2025-02-25T09:50:55.3877394",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 19674,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 16727,
+        "stageId": 11,
+        "billStageId": 19674,
+        "billId": 3733,
+        "date": "2025-02-24T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

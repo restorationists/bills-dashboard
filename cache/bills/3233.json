@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Government to have regard to the desirability of boards of public bodies including at least one person with relevant experience in at least one of Scotland, Wales and Northern Ireland.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4765,
+        "name": "Wendy Chamberlain",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4765/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4765/contact",
+        "memberFrom": "North East Fife"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3233,
+  "shortTitle": "Public Bodies (Representation from Devolved Nations) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T15:18:50.9034506",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16660,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13370,
+        "stageId": 6,
+        "billStageId": 16660,
+        "billId": 3233,
+        "date": "2022-06-20T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

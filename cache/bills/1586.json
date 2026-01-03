@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for a convention to consider the constitution of the United Kingdom; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4293,
+        "name": "Lord Purvis of Tweed",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4293/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4293/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1586,
+  "shortTitle": "Constitutional Convention Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2015-12-14T15:43:28",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 8187,
+    "stageId": 3,
+    "sessionId": 28,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 7583,
+        "stageId": 3,
+        "billStageId": 8187,
+        "billId": 1586,
+        "date": "2015-12-11T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

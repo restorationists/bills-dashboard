@@ -1,0 +1,76 @@
+{
+  "longTitle": "Make provision for the establishment of the Legal Services Board and in respect of its functions; to make provision for, and in connection with, the regulation of persons who carry on certain legal activities; to make provision for the establishment of the Office for Legal Complaints and for a scheme to consider and determine legal complaints; to make provision about claims management services and about immigration advice and immigration services; to make provision in respect of legal representation provided free of charge; to make provision about the application of the Legal Profession and Legal Aid (Scotland) Act 2006; to make provision about the Scottish legal services ombudsman; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2758,
+        "name": "Lord Falconer of Thoroton",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2758/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2758/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 191,
+        "name": "Bridget Prentice",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/191/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/191/contact",
+        "memberFrom": "Lewisham East"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 47,
+  "shortTitle": "Legal Services Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2007-11-02T00:00:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 982,
+    "stageId": 11,
+    "sessionId": 20,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 806,
+        "stageId": 11,
+        "billStageId": 982,
+        "billId": 47,
+        "date": "2007-10-30T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

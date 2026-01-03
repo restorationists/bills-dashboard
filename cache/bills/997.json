@@ -1,0 +1,48 @@
+{
+  "longTitle": null,
+  "summary": "A Bill to make provision for the declaration of presumed death of missing persons for the administration of the affairs of missing persons, and for connected purposes.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1557,
+        "name": "Baroness Kramer",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1557/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1557/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 997,
+  "shortTitle": "Presumption of Death and Provisions Relating to Missing Persons Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-04-30T11:15:13",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13810,
+    "stageId": 2,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

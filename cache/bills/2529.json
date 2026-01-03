@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision for members of the House of Lords to vote in elections to the House of Commons",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1251,
+        "name": "Lord Naseby",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1251/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1251/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2529,
+  "shortTitle": "Extension of Franchise (House of Lords) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2021-05-05T12:01:00.9126079",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11695,
+    "stageId": 3,
+    "sessionId": 35,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 3
+  }
+}

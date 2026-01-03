@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the purposes of increasing uptake of NHS Breast Screening Programme appointments, including in groups currently less likely to take up such appointments; to extend eligibility to that programme to persons at an increased risk of breast cancer because of their family history; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4067,
+        "name": "Steve Brine",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4067/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4067/contact",
+        "memberFrom": "Winchester"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3146,
+  "shortTitle": "Breast Screening Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-04-29T12:04:50.8766155",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16383,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13071,
+        "stageId": 7,
+        "billStageId": 16383,
+        "billId": 3146,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

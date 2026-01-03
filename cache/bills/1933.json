@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require Her Majesty’s Government to notify the European Council by 31 March 2017 of the United Kingdom’s intention to withdraw from the European Union.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1581,
+        "name": "Mr Peter Bone",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1581/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1581/contact",
+        "memberFrom": "Wellingborough"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1933,
+  "shortTitle": "Withdrawal from the European Union (Article 50) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-02-21T10:24:15",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14687,
+    "stageId": 7,
+    "sessionId": 29,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

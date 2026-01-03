@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Landlord and Tenant Act 1985 to require that residential rented accommodation is provided and maintained in a state of fitness for human habitation; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 199,
+        "name": "Ms Karen Buck",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/199/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/199/contact",
+        "memberFrom": "Westminster North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1639,
+  "shortTitle": "Homes (Fitness for Human Habitation) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-05-13T11:07:16",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 7851,
+    "stageId": 7,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 7340,
+        "stageId": 7,
+        "billStageId": 7851,
+        "billId": 1639,
+        "date": "2015-10-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

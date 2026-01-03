@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to provide that the Secretary of State’s powers in relation to the management of the Royal Botanic Gardens, Kew, include the power to grant a lease in respect of land for a period of up to 150 years",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4200,
+        "name": "Lord True",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4200/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4200/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2055,
+  "shortTitle": "Kew Gardens (Leases) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-09-10T15:43:26",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14798,
+    "stageId": 2,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

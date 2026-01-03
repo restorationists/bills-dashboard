@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit the import of wild animal specimens from trophy hunting; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 318,
+        "name": "John Spellar",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/318/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/318/contact",
+        "memberFrom": "Warley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3300,
+  "shortTitle": "Hunting Trophies (Import Prohibition) (No. 2) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-03-20T14:36:53.4882958",
+  "billWithdrawn": "2023-03-17T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16813,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13534,
+        "stageId": 6,
+        "billStageId": 16813,
+        "billId": 3300,
+        "date": "2022-06-29T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

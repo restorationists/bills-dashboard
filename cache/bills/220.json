@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision relating to pensions; and for connected purposes.",
+  "summary": "<p>The Bill is the second part of the package of reforms to the UK pensions system set out in the May 2006 Pensions White Paper, Security in retirement: towards a new pension system. The first part of the reforms, taken forward by Pensions Act 2007, included reform of the state pension.<br><br><strong>Key areas</strong></p><ul><li>Proposes a duty on employers to automatically enrol jobholders into, and to contribute to, a qualifying workplace pension scheme</li><li>Introduces the concept of personal accounts which are described as a 'simple, low-cost pension saving scheme' aimed at moderate to low earners who currently do not have access to a workplace pension scheme. This would be overseen by a Personal Accounts Delivery Authority</li><li>Sets out a compliance regime for the new duties on employers.</li></ul><p><br>Other measures relate to: the revaluation of deferred pensions, the additional state pension, pension credit, pension sharing on divorce or dissolution of civil partnership, the Pension Protection Fund and the Pensions Regulator.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 567,
+        "name": "Mr Peter Hain",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/567/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/567/contact",
+        "memberFrom": "Neath"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3694,
+        "name": "Lord McKenzie of Luton",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3694/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3694/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 220,
+  "shortTitle": "Pensions Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-02-25T13:44:52",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1933,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1835,
+        "stageId": 11,
+        "billStageId": 1933,
+        "billId": 220,
+        "date": "2008-11-26T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

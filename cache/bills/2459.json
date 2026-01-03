@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision about National Health Service bodies establishing nurse staffing levels.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4492,
+        "name": "Maria Caulfield",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4492/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4492/contact",
+        "memberFrom": "Lewes"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2459,
+  "shortTitle": "Nurse Staffing Levels Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-10-09T10:22:47",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15185,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

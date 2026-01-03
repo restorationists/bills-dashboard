@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to promote the protection and stewardship of heritage trees in England; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1755,
+        "name": "Baroness Young of Old Scone",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1755/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1755/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3536,
+  "shortTitle": "Heritage Trees Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2024-05-29T12:40:29.3689455",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18114,
+    "stageId": 1,
+    "sessionId": 38,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15101,
+        "stageId": 1,
+        "billStageId": 18114,
+        "billId": 3536,
+        "date": "2023-12-05T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

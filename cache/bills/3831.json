@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision in connection with the recognition of the State of Palestine.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4656,
+        "name": "Layla Moran",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4656/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4656/contact",
+        "memberFrom": "Oxford West and Abingdon"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3831,
+  "shortTitle": "Palestine Statehood (Recognition) (No. 3) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-02T12:42:53.8936479",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19146,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16229,
+        "stageId": 7,
+        "billStageId": 19146,
+        "billId": 3831,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

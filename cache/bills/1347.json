@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to establish the right of persons in receipt of housing benefit and universal credit in the social housing sector to receive said benefits at regular intervals; to provide that such persons should not be financially penalised in relation to the number of bedrooms in a residence; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4139,
+        "name": "Ian Lavery",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4139/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4139/contact",
+        "memberFrom": "Wansbeck"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1347,
+  "shortTitle": "Housing Benefit and Universal Credit in the Social Housing Sector (Regular Payments) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-05-15T14:28:15",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14138,
+    "stageId": 7,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

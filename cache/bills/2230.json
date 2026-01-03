@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about the regional rate in Northern Ireland for the year ending 31 March 2019; and amend the Renewable Heat Incentive Scheme Regulations (Northern Ireland) 2012.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4110,
+        "name": "Karen Bradley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4110/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4110/contact",
+        "memberFrom": "Staffordshire Moorlands"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4686,
+        "name": "Lord Duncan of Springbank",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4686/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4686/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2230,
+  "shortTitle": "Northern Ireland (Regional Rates and Energy) Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2018-03-29T09:45:18",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 10339,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 9546,
+        "stageId": 11,
+        "billStageId": 10339,
+        "billId": 2230,
+        "date": "2018-03-28T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

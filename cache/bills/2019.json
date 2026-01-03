@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the succession to the title of the Duke of Cornwall, to remove various powers, exemptions and immunities from the Duchy of Cornwall, to make provisions relating to the Treasury Solicitor and any solicitor or attorney appointed in the affairs of the Duchy, and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3526,
+        "name": "Lord Berkeley",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3526/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3526/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2019,
+  "shortTitle": "Duchy of Cornwall Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-09-12T12:53:07",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9602,
+    "stageId": 2,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 8925,
+        "stageId": 2,
+        "billStageId": 9602,
+        "billId": 2019,
+        "date": "2018-10-26T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

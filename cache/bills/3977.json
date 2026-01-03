@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Child Abduction and Custody Act 1985 to make provision about the interpretation of that Act in relation to domestic abuse.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5070,
+        "name": "Lisa Smart",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5070/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5070/contact",
+        "memberFrom": "Hazel Grove"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3977,
+  "shortTitle": "Child Abduction and Custody Act 1985 (Amendment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-26T13:00:36.5154639",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19951,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17065,
+        "stageId": 7,
+        "billStageId": 19951,
+        "billId": 3977,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

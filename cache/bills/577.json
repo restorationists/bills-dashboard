@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the holding of a referendum on the Treaty of Lisbon and to require the repeal of the European Union (Amendment) Act 2008 if the decision to ratify is not approved in the referendum; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1388,
+        "name": "Mr Nigel Dodds",
+        "party": "Democratic Unionist Party",
+        "partyColour": "d46a4c",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1388/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1388/contact",
+        "memberFrom": "Belfast North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 577,
+  "shortTitle": "Lisbon Treaty (Referendum) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-04-13T09:38:37",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2952,
+    "stageId": 7,
+    "sessionId": 23,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 2783,
+        "stageId": 7,
+        "billStageId": 2952,
+        "billId": 577,
+        "date": "2010-02-26T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

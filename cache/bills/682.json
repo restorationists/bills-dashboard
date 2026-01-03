@@ -1,0 +1,76 @@
+{
+  "longTitle": "To continue the Armed Forces Act 2006; to amend that Act and other enactments relating to the armed forces and the Ministry of Defence Police; to amend the Visiting Forces Act 1952; to enable judge advocates to sit in civilian courts; to repeal the Naval Medical Compassionate Fund Act 1915; and for connected purposes.",
+  "summary": "<p>An Armed Forces Bill is required every five years. The last Bill received Royal Assent in November 2006 and therefore a new Bill is required in the 2010-2011 Session.</p><p>The Bill provides the legal basis for the system of military law which exists in the UK, and an opportunity to make any suggested or necessary amendments. It also presents an opportunity to introduce new measures relating to the Armed Forces outside the traditional sphere of Service discipline.</p><p><strong>Key areas</strong></p><ul><li>Renews the 2006 Armed Forces Act for a further five years</li><li>Makes provision for the Secretary of State to make an annual report to Parliament on the military covenant </li><li>Extends statutory inspections by her Majesty&rsquo;s Inspectorate of Constabulary to the Service police and makes further provision for the independence of Service police investigations from the chain of command. The Bill will also improve procedures for maintaining standards within the MOD Police</li><li>Confers new powers on judge advocates to authorise entry and search of certain premises; and on the Secretary of State to make provision for Service police to access special categories of material such as bank records</li><li>Develops the procedures for the redress of complaints by Service personnel </li><li>Introduces a bespoke military scheme for the testing of Service personnel for alcohol and drugs, in line with the provisions of the Railways and Transport Safety Act 2003, from which the military is exempt </li><li>Extends the jurisdiction of the new courts and procedures, which were established in the Armed Forces Act 2006, to prisoners of war.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 223,
+        "name": "Dr Liam Fox",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/223/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/223/contact",
+        "memberFrom": "North Somerset"
+      },
+      "organisation": {
+        "name": "Ministry of Defence",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-defence"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3428,
+        "name": "Lord Astor of Hever",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3428/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3428/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "Ministry of Defence",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-defence"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 682,
+  "shortTitle": "Armed Forces Act 2011",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2011-12-15T15:53:29",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4569,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4311,
+        "stageId": 11,
+        "billStageId": 4569,
+        "billId": 682,
+        "date": "2011-11-03T00:00:00"
+      }
+    ],
+    "sortOrder": 17
+  }
+}

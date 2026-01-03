@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require schools to maintain an allergy management policy; to require schools to hold a supply of adrenaline auto-injectors for treating allergic reactions and anaphylaxis; to require allergy training for staff in schools; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5109,
+        "name": "Chris Bloore",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5109/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5109/contact",
+        "memberFrom": "Redditch"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4003,
+  "shortTitle": "Schools (Allergy Safety) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-09-12T15:37:04.245257",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20110,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17270,
+        "stageId": 7,
+        "billStageId": 20110,
+        "billId": 4003,
+        "date": "2025-09-12T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

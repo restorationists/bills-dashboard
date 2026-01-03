@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to introduce a requirement that a functioning carbon monoxide detector must be installed in all newly built and all rented residential properties; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3994,
+        "name": "Andrew Bingham",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3994/contact",
+        "memberFrom": "High Peak"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1421,
+  "shortTitle": "Household Safety (Carbon Monoxide Detectors) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-30T14:11:20",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 6964,
+    "stageId": 7,
+    "sessionId": 27,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 6529,
+        "stageId": 7,
+        "billStageId": 6964,
+        "billId": 1421,
+        "date": "2014-09-12T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

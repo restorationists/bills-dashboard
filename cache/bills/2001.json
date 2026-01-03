@@ -1,0 +1,62 @@
+{
+  "longTitle": "A Bill to make provision for leave to enter or remain in the United Kingdom to be granted to the family members of refugees and to refugees who are family members of British citizens and settled persons, to provide for legal aid to be made available for refugee family reunion cases, and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2652,
+        "name": "Baroness Hamwee",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2652/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2652/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1591,
+        "name": "Tim Farron",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1591/contact",
+        "memberFrom": "Westmorland and Lonsdale"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2001,
+  "shortTitle": "Refugees (Family Reunion) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-03-28T17:50:04",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14746,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 7
+  }
+}

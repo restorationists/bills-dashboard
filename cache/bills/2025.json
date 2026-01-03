@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for clinical commissioning groups to ensure that persons in their area have access to specialist and generalist palliative care and appropriate support services; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3609,
+        "name": "Baroness Finlay of Llandaff",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3609/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3609/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2025,
+  "shortTitle": "Access to Palliative Care Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-10-09T12:41:15",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11410,
+    "stageId": 2,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 10450,
+        "stageId": 2,
+        "billStageId": 11410,
+        "billId": 2025,
+        "date": "2018-06-14T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

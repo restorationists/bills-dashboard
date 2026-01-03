@@ -1,0 +1,77 @@
+{
+  "longTitle": "A Bill to make provision for and in connection with the regulation by OFCOM of certain internet services; for and in connection with communications offences; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4530,
+        "name": "Michelle Donelan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4530/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4530/contact",
+        "memberFrom": "Chippenham"
+      },
+      "organisation": {
+        "name": "Department for Digital, Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4728,
+        "name": "Lord Parkinson of Whitley Bay",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4728/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4728/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Digital, Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3137,
+  "shortTitle": "Online Safety Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-08-19T11:38:17.6964111",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36,
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17955,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14986,
+        "stageId": 11,
+        "billStageId": 17955,
+        "billId": 3137,
+        "date": "2023-10-26T00:00:00"
+      }
+    ],
+    "sortOrder": 25
+  }
+}

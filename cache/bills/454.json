@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to amend section 8(5) of the Industrial Development Act 1982 and to amend section 1(1) of the Export and Investment Guarantees Act 1991",
+  "summary": "<p>The Bill has two purposes. One is to raise the financial ceiling on support to industry outside assisted areas allowed under the Industrial Development Act 1982 (these limits were last changed by legislation in 2003). The second is to widen the support allowed by the <span>Export</span> Credits Guarantee Department under the <span>Export</span> and Investment Guarantees Act 1991. It is a short Bill with three clauses, amending the 1982 and 1991 Acts mentioned above.<br><br>Key areas</p><ul><li>Amends section 8(5) of the Industrial Development Act 1982, which sets the ceiling on financial assistance allowed under &lsquo;section 8&rsquo; powers. It increases the limit allowed under section 8 to &pound;12 billion, along with the capacity for a further four orders of &pound;1 billion each taking the overall limit to &pound;16 billion.</li><li>Amends section 1(1) of the <span>Export</span> and Investment Guarantees Act 1991 to widen support provided by the <span>Export</span> Credits Guarantee Department to include <span>export</span>s that have already taken place.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1587,
+        "name": "Pat McFadden",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1587/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1587/contact",
+        "memberFrom": "Wolverhampton South East"
+      },
+      "organisation": {
+        "name": "Department for Business, Enterprise and Regulatory Reform",
+        "url": "http://www.berr.gov.uk/"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 500,
+        "name": "Lord Mandelson",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/500/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/500/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business, Enterprise and Regulatory Reform",
+        "url": "http://www.berr.gov.uk/"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 454,
+  "shortTitle": "Industry and Exports (Financial Support) Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-11-18T16:46:55",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 2505,
+    "stageId": 11,
+    "sessionId": 22,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2370,
+        "stageId": 11,
+        "billStageId": 2505,
+        "billId": 454,
+        "date": "2009-05-21T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+}

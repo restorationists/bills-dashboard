@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the content and use of non-disclosure agreements; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4656,
+        "name": "Layla Moran",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4656/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4656/contact",
+        "memberFrom": "Oxford West and Abingdon"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3303,
+  "shortTitle": "Non-Disclosure Agreements Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T12:36:25.7965814",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16819,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13540,
+        "stageId": 6,
+        "billStageId": 16819,
+        "billId": 3303,
+        "date": "2022-06-29T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

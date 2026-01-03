@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to extend the franchise for parliamentary and other elections, and for referendums, to all citizens over the age of 16 years.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 225,
+        "name": "Lord Tyler",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/225/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/225/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1176,
+  "shortTitle": "Voting Age (Comprehensive Reduction) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-10-28T09:25:33",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 6271,
+    "stageId": 2,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 5900,
+        "stageId": 2,
+        "billStageId": 6271,
+        "billId": 1176,
+        "date": "2013-10-25T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to issue guidance about the application of the criminal law in respect of the administration of pain relief by healthcare professionals to people who are terminally ill; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 345,
+        "name": "Sir Edward Leigh",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/345/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/345/contact",
+        "memberFrom": "Gainsborough"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3891,
+  "shortTitle": "Terminal Illness (Relief of Pain) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-09-12T15:45:04.073317",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19315,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16406,
+        "stageId": 7,
+        "billStageId": 19315,
+        "billId": 3891,
+        "date": "2025-09-12T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

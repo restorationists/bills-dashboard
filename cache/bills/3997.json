@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the general public to petition the Criminal Cases Review Commission to review sentences that the petitioners believe to be either too harsh or too lenient; to make provision about the review of such sentences; to make provision about the referral of such cases to the Court of Appeal or the Supreme Court; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5161,
+        "name": "Richard Tice",
+        "party": "Reform UK",
+        "partyColour": "12b6cf",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5161/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5161/contact",
+        "memberFrom": "Boston and Skegness"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3997,
+  "shortTitle": "Criminal Cases Review (Public Petition) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-09-12T15:35:49.2176768",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20068,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17224,
+        "stageId": 7,
+        "billStageId": 20068,
+        "billId": 3997,
+        "date": "2025-09-12T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

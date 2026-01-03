@@ -1,0 +1,56 @@
+{
+  "longTitle": "To repeal sections 132 to 138 of the Serious Organised Crime and Police Act 2005; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 225,
+        "name": "Lord Tyler",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/225/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/225/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 763,
+  "shortTitle": "Demonstrations in the Vicinity of Parliament (Removal of Authorisation Requirements) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2012-05-02T12:33:31",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 3745,
+    "stageId": 2,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 3481,
+        "stageId": 2,
+        "billStageId": 3745,
+        "billId": 763,
+        "date": "2011-06-10T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

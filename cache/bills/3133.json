@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to establish an independent review of rape conviction rates and of the effects on the victims of rape; and to require the Secretary of State to act on the recommendations of the review.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4602,
+        "name": "Wera Hobhouse",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4602/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4602/contact",
+        "memberFrom": "Bath"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3133,
+  "shortTitle": "Rape (Conviction Rates) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-04T17:14:11.713087",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16256,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12936,
+        "stageId": 7,
+        "billStageId": 16256,
+        "billId": 3133,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

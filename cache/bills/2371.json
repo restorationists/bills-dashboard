@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to establish a single custodial tenancy deposit scheme; to provide for that scheme to invest deposits; to require interest on such investments to be used for the provision of tenant advocacy, tenant support and arbitration services; to establish a mandatory arbitration service for the resolution of disputes between landlords and tenants; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4615,
+        "name": "Lloyd Russell-Moyle",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4615/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4615/contact",
+        "memberFrom": "Brighton, Kemptown"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2371,
+  "shortTitle": "Tenancy (Deposits and Arbitration) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-03-22T11:56:25",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15107,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

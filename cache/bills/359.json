@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about Saving Gateway accounts; and for connected purposes.",
+  "summary": "This short Bill establishes a Government-subsidised savings scheme for people of working age on low incomes and in receipt of specified benefits. The scheme is voluntary and eligibility is on an individual basis.  The Saving Gateway has been trialled in several regions of the UK; the Bill establishes a scheme for the whole country.<span><br></span>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 596,
+        "name": "Mr Alistair Darling",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/596/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/596/contact",
+        "memberFrom": "Edinburgh South West"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3869,
+        "name": "Lord Myners",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3869/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3869/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 359,
+  "shortTitle": "Saving Gateway Accounts Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-10-16T12:55:33",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 2579,
+    "stageId": 11,
+    "sessionId": 22,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2401,
+        "stageId": 11,
+        "billStageId": 2579,
+        "billId": 359,
+        "date": "2009-07-02T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

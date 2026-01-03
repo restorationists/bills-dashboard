@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to extend public access to certain local audit documents under section 26 of the Local Audit and Accountability Act 2014.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4358,
+        "name": "Wendy Morton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4358/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4358/contact",
+        "memberFrom": "Aldridge-Brownhills"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4184,
+        "name": "Baroness Eaton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4184/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4184/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1864,
+  "shortTitle": "Local Audit (Public Access to Documents) Act 2017 ",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-04-28T10:59:20",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 9517,
+    "stageId": 11,
+    "sessionId": 29,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 8792,
+        "stageId": 11,
+        "billStageId": 9517,
+        "billId": 1864,
+        "date": "2017-04-27T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

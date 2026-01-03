@@ -1,0 +1,56 @@
+{
+  "longTitle": "Advance time by one hour throughout the year to create lighter evenings, for an experimental period; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 136,
+        "name": "Mr Tim Yeo",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/136/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/136/contact",
+        "memberFrom": "South Suffolk"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 89,
+  "shortTitle": "Energy Saving (Daylight) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-10-26T09:09:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 415,
+    "stageId": 7,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 279,
+        "stageId": 7,
+        "billStageId": 415,
+        "billId": 89,
+        "date": "2007-01-26T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

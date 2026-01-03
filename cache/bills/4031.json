@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision to require the Secretary of State, in any negotiation relating to an international trade agreement, to seek to ensure that the agreement does not result in any detriment to UK dairy farmers; to make provision about the labelling of dairy products imported from outside the UK; to make provision about fair dealing between dairy farmers, processors and retailers, including in relation to pricing; to provide for certain additional contractual protections for dairy farmers; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4995,
+        "name": "Sarah Dyke",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4995/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4995/contact",
+        "memberFrom": "Glastonbury and Somerton"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4031,
+  "shortTitle": "Dairy Farming and Dairy Products Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-05T10:38:17.3381055",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20276,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17499,
+        "stageId": 7,
+        "billStageId": 20276,
+        "billId": 4031,
+        "date": "2025-11-28T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about prohibiting the trustees and managers of pension schemes from being indemnified in respect of penalties imposed under pensions dashboards regulations.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4406,
+        "name": "Mary Robinson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4406/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4406/contact",
+        "memberFrom": "Cheadle"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 57,
+        "name": "Lord Young of Cookham",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/57/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/57/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3215,
+  "shortTitle": "Pensions Dashboards (Prohibition of Indemnification) Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-05-11T21:46:38.7779026",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17624,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14543,
+        "stageId": 11,
+        "billStageId": 17624,
+        "billId": 3215,
+        "date": "2023-05-02T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

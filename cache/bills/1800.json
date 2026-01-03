@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to amend the Government of Wales Act 2006 and the Wales Act 2014 and to make provision about the functions of the Welsh Ministers and about Welsh tribunals; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4086,
+        "name": "Alun Cairns",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4086/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4086/contact",
+        "memberFrom": "Vale of Glamorgan"
+      },
+      "organisation": {
+        "name": "Wales Office",
+        "url": "https://www.gov.uk/government/organisations/wales-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4282,
+        "name": "Lord Bourne of Aberystwyth",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4282/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4282/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Wales Office",
+        "url": "https://www.gov.uk/government/organisations/wales-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1800,
+  "shortTitle": "Wales Act 2017",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-02-03T14:01:15",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 9299,
+    "stageId": 11,
+    "sessionId": 29,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 8575,
+        "stageId": 11,
+        "billStageId": 9299,
+        "billId": 1800,
+        "date": "2017-01-31T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision for the introduction of a mandatory requirement for banks and building societies to offer safety deposit current accounts to allow money to be stored for safe-keeping; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3310,
+        "name": "The Earl of Caithness",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3310/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3310/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 274,
+  "shortTitle": "Safety Deposit Current Accounts Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-02-23T12:56:29",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2189,
+    "stageId": 3,
+    "sessionId": 21,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 3
+  }
+}

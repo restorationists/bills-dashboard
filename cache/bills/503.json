@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision for residents of care homes to keep domestic pet in certain circumstances; and for connect purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 359,
+        "name": "Dr Nick Palmer",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/359/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/359/contact",
+        "memberFrom": "Broxtowe"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 503,
+  "shortTitle": "Care Homes (Domestic Pets) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-11-13T10:51:12",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13369,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to disestablish the Church of England; to make provision for the protection of freedom of religion or belief; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4333,
+        "name": "Lord Scriven",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4333/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4333/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3539,
+  "shortTitle": "Disestablishment of the Church of England Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2024-05-29T12:13:59.7449763",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18124,
+    "stageId": 1,
+    "sessionId": 38,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15109,
+        "stageId": 1,
+        "billStageId": 18124,
+        "billId": 3539,
+        "date": "2023-12-06T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

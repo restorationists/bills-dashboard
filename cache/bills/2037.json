@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make amendments to the Marriage Act 1949 to make provision for all religious marriages to be solemnized on the authority of a superintendent registrar",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3364,
+        "name": "Baroness Cox",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3364/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3364/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2037,
+  "shortTitle": "Marriage Act 1949 (Amendment) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-09-12T11:12:35",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14781,
+    "stageId": 2,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

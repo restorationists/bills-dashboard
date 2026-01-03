@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to authorise the use of resources for the service of the years ending with 31st March 2007 and 31st March 2008 and to apply certain sums out of the Consolidated Fund to the service of the year ending with 31st Marcy 2008; and to appropriate the supply authorised in this Session of Parliament for the service of the years ending with 31st March 2007 and 31st March 2008.",
+  "summary": "<p>The Bill provides parliamentary authority for funds requested by the Government.  It is part of what is known as supply procedure.  This is how Parliament grants the Government&rsquo;s requests for resources.</p><p>Two Consolidated Fund (Appropriation) Bills are passed each year, in March and July.  They are sometimes referred to simply as &lsquo;Appropriation Bills&rsquo;.  These, together with the Consolidated Fund Bill, provide authorisation from Parliament for the resources sought by the Government.  Proceedings on the Bill are formal (ie there is no debate and the Bill goes through &lsquo;on the nod&rsquo;).</p><p><strong>Key areas:</strong></p><ul><li>The Bill authorises provision sought in the Spring Supplementary Estimates for 2007/08 and the Statement of Excesses for 2006/07</li><li>The Bill authorises the release of money from the Consolidated Fund which is the Government&rsquo;s bank account</li><li>The Bill places limits on the purposes for which the money may be spent.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 486,
+        "name": "Jane Kennedy",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/486/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/486/contact",
+        "memberFrom": "Liverpool, Wavertree"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 987,
+        "name": "Lord Davies of Oldham",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/987/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/987/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 291,
+  "shortTitle": "Appropriation Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-02-25T10:21:40",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1515,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1480,
+        "stageId": 11,
+        "billStageId": 1515,
+        "billId": 291,
+        "date": "2008-03-20T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

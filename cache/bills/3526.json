@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to provide for the payment out of money provided by Parliament of expenditure incurred by the Secretary of State under, or in connection with, schemes or other arrangements to compensate persons affected by the Horizon system and in respect of other matters identified in legal proceedings relating to the Horizon system.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4597,
+        "name": "Kemi Badenoch",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4597/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4597/contact",
+        "memberFrom": "Saffron Walden"
+      },
+      "organisation": {
+        "name": "Department for Business and Trade ",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4931,
+        "name": "Lord Offord of Garvel",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4931/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4931/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business and Trade ",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3526,
+  "shortTitle": "Post Office (Horizon System) Compensation Act 2024",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-08-19T15:26:14.5700544",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 18427,
+    "stageId": 11,
+    "sessionId": 38,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 15471,
+        "stageId": 11,
+        "billStageId": 18427,
+        "billId": 3526,
+        "date": "2024-01-25T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

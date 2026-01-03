@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to regulate and limit the practice of bottom trawling in marine protected areas, and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4297,
+        "name": "Baroness Jones of Moulsecoomb",
+        "party": "Green Party",
+        "partyColour": "78b82a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4297/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4297/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3204,
+  "shortTitle": "Marine Protected Areas (Bottom Trawling) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-10-31T14:30:56.952499",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16592,
+    "stageId": 1,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 13299,
+        "stageId": 1,
+        "billStageId": 16592,
+        "billId": 3204,
+        "date": "2022-06-16T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

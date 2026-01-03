@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to amend the Health Act 2006 to make provision for a ban on smoking in private vehicles where there are children present.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4195,
+        "name": "Lord Ribeiro",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4195/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4195/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 931,
+  "shortTitle": "Smoke-free Private Vehicles Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2012-05-02T14:20:12",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13749,
+    "stageId": 2,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

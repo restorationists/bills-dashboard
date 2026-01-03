@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision to include medical practitioners specialising in cosmetic surgery in the Specialist Register for medical practitioners",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 123,
+        "name": "Lord Lansley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/123/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/123/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2049,
+  "shortTitle": "Cosmetic Surgery (Standards) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-09-12T12:48:41",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14792,
+    "stageId": 2,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

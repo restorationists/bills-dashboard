@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to amend the electronic communications code set out in Schedule 3A to the Communications Act 2003; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4361,
+        "name": "Matt Warman",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4361/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4361/contact",
+        "memberFrom": "Boston and Skegness"
+      },
+      "organisation": {
+        "name": "Department for Digital, Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4703,
+        "name": "Baroness Barran",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4703/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4703/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Digital, Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2520,
+  "shortTitle": "Telecommunications Infrastructure (Leasehold Property) Act 2021",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-03-16T14:02:53.6652517",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12761,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 11644,
+        "stageId": 11,
+        "billStageId": 12761,
+        "billId": 2520,
+        "date": "2021-03-15T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

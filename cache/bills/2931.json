@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to regulate charges for, and the advertising of, goods delivery services; to make provision about transport infrastructure in remote areas to promote the use of goods delivery services; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4612,
+        "name": "Jamie Stone",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4612/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4612/contact",
+        "memberFrom": "Caithness, Sutherland and Easter Ross"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2931,
+  "shortTitle": "Goods Delivery Services Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-04T16:55:26.0774626",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15428,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 11952,
+        "stageId": 7,
+        "billStageId": 15428,
+        "billId": 2931,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

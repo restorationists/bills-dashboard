@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to extend the powers of prosecuting authorities to appeal against unduly lenient sentences imposed in the criminal courts.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3970,
+        "name": "Gareth Johnson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3970/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3970/contact",
+        "memberFrom": "Dartford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1132,
+  "shortTitle": "Unduly Lenient Sentences (Right of Appeal) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-02-05T09:54:56",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 5614,
+    "stageId": 7,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

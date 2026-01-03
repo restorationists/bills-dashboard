@@ -1,0 +1,56 @@
+{
+  "longTitle": "Make provision for the protection of gardens and urban green space; to confer on local authorities powers to set housing density targets; to make provision about the transfer of land formerly used for economic purposes to residential use; to transfer to local authorities certain powers relating to housing and planning; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 312,
+        "name": "Mrs Caroline Spelman",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/312/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/312/contact",
+        "memberFrom": "Meriden"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 51,
+  "shortTitle": "Land Use (Gardens Protection Etc) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-11-01T09:45:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 223,
+    "stageId": 7,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 95,
+        "stageId": 7,
+        "billStageId": 223,
+        "billId": 51,
+        "date": "2007-02-02T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "longTitle": "A Bill to re-establish the Secretary of State’s legal duty to provide national health services in England; to amend the provisions of the Health and Social Care Act 2012 relating to Monitor; to repeal the regulations made under section 75 of that Act; to make other amendments to the provisions in that Act relating to competition and provision of private health services; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 165,
+        "name": "Clive Efford",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/165/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/165/contact",
+        "memberFrom": "Eltham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1422,
+  "shortTitle": "National Health Service (Amended Duties and Powers) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-30T15:51:10",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 7308,
+    "stageId": 8,
+    "sessionId": 27,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 6826,
+        "stageId": 8,
+        "billStageId": 7308,
+        "billId": 1422,
+        "date": "2015-02-04T00:00:00"
+      },
+      {
+        "id": 7180,
+        "stageId": 8,
+        "billStageId": 7308,
+        "billId": 1422,
+        "date": "2015-02-10T00:00:00"
+      },
+      {
+        "id": 7181,
+        "stageId": 8,
+        "billStageId": 7308,
+        "billId": 1422,
+        "date": "2015-02-24T00:00:00"
+      },
+      {
+        "id": 7182,
+        "stageId": 8,
+        "billStageId": 7308,
+        "billId": 1422,
+        "date": "2015-03-03T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

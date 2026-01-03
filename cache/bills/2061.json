@@ -1,0 +1,280 @@
+{
+  "longTitle": "To amend the Parliamentary Constituencies Act 1986 to make provision about the number and size of parliamentary constituencies in the United Kingdom; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4671,
+        "name": "Afzal Khan",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4671/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4671/contact",
+        "memberFrom": "Manchester, Gorton"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2061,
+  "shortTitle": "Parliamentary Constituencies (Amendment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-10-04T15:29:32",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 10083,
+    "stageId": 8,
+    "sessionId": 30,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 9293,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-05-09T00:00:00"
+      },
+      {
+        "id": 9581,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-05-14T00:00:00"
+      },
+      {
+        "id": 9582,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-05-16T00:00:00"
+      },
+      {
+        "id": 9583,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-05-23T00:00:00"
+      },
+      {
+        "id": 9584,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-06-06T00:00:00"
+      },
+      {
+        "id": 9675,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-06-13T00:00:00"
+      },
+      {
+        "id": 9676,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-06-20T00:00:00"
+      },
+      {
+        "id": 9677,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-06-27T00:00:00"
+      },
+      {
+        "id": 9678,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-07-04T00:00:00"
+      },
+      {
+        "id": 9679,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-07-11T00:00:00"
+      },
+      {
+        "id": 9680,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-07-18T00:00:00"
+      },
+      {
+        "id": 9777,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-09-05T00:00:00"
+      },
+      {
+        "id": 9776,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-09-12T00:00:00"
+      },
+      {
+        "id": 9877,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-10-10T00:00:00"
+      },
+      {
+        "id": 9876,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-10-17T00:00:00"
+      },
+      {
+        "id": 9878,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-10-24T00:00:00"
+      },
+      {
+        "id": 9875,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-10-31T00:00:00"
+      },
+      {
+        "id": 9873,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-11-14T00:00:00"
+      },
+      {
+        "id": 9874,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-11-21T00:00:00"
+      },
+      {
+        "id": 9967,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-11-28T00:00:00"
+      },
+      {
+        "id": 9968,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-12-05T00:00:00"
+      },
+      {
+        "id": 9969,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-12-12T00:00:00"
+      },
+      {
+        "id": 9970,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2018-12-19T00:00:00"
+      },
+      {
+        "id": 9971,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2019-01-09T00:00:00"
+      },
+      {
+        "id": 10064,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2019-01-16T00:00:00"
+      },
+      {
+        "id": 10061,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2019-01-23T00:00:00"
+      },
+      {
+        "id": 10062,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2019-01-30T00:00:00"
+      },
+      {
+        "id": 10063,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2019-02-27T00:00:00"
+      },
+      {
+        "id": 10166,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2019-03-27T00:00:00"
+      },
+      {
+        "id": 10165,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2019-04-24T00:00:00"
+      },
+      {
+        "id": 10260,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2019-06-05T00:00:00"
+      },
+      {
+        "id": 10259,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2019-07-10T00:00:00"
+      },
+      {
+        "id": 10451,
+        "stageId": 8,
+        "billStageId": 10083,
+        "billId": 2061,
+        "date": "2019-10-16T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

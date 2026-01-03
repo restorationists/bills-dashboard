@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision for an offence in respect of specialist printing equipment and related materials; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 44,
+        "name": "Mr David Amess",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/44/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/44/contact",
+        "memberFrom": "Southend West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4218,
+        "name": "Baroness Berridge",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4218/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4218/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1498,
+  "shortTitle": "Specialist Printing Equipment and Materials (Offences) Act 2015",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-27T11:22:11",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7725,
+    "stageId": 11,
+    "sessionId": 27,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7187,
+        "stageId": 11,
+        "billStageId": 7725,
+        "billId": 1498,
+        "date": "2015-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

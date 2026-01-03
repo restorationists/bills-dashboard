@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the inclusion of a parent’s details on a child’s birth certificate where that parent has died before the birth of the child; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5056,
+        "name": "Jen Craft",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5056/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5056/contact",
+        "memberFrom": "Thurrock"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3990,
+  "shortTitle": "Registration of Births (Inclusion of Deceased Parents) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-09-11T16:39:29.9050069",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20018,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17166,
+        "stageId": 7,
+        "billStageId": 20018,
+        "billId": 3990,
+        "date": "2026-05-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

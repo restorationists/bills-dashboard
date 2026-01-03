@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about matters attributable to coronavirus that may not be taken\r\naccount of in making certain determinations for the purposes of non-domestic rating;\r\nand to make provision in connection with the disqualification of directors of\r\ncompanies that are dissolved without becoming insolvent.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4877,
+        "name": "Lord Greenhalgh",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4877/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4877/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Housing, Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
+      },
+      "sortOrder": 2
+    },
+    {
+      "member": {
+        "memberId": 1571,
+        "name": "Michael Gove",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1571/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1571/contact",
+        "memberFrom": "Surrey Heath"
+      },
+      "organisation": {
+        "name": "Department for Levelling Up, Housing and Communities",
+        "url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
+      },
+      "sortOrder": 3
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2861,
+  "shortTitle": "Rating (Coronavirus) and Directors Disqualification (Dissolved Companies) Act 2021",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-12-17T16:50:16.1968515",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 15958,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 12612,
+        "stageId": 11,
+        "billStageId": 15958,
+        "billId": 2861,
+        "date": "2021-12-15T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+}

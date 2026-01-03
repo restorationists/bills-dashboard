@@ -1,0 +1,56 @@
+{
+  "longTitle": "To repeal the European Communities Act 1972 and the Human Rights Act 1998; to introduce binding referendum powers at national and local level; to require the approval of Parliament to enter into international treaties and to declare war; to make provision about the work of Parliament; to devolve legislative responsibility for certain policy areas to local authorities; and for connected purposes.",
+  "summary": "<p>The Constitutional Reform Bill was introduced on 19 November 2009 by Lord Willoughby de Broke. Lord Willoughby de Broke also introduced the Bill in the 2008-09 session of Parliament on 2 July 2009.</p><p> </p><p><strong>Key areas</strong></p><ul><li><span>The Bill would repeal the European Communities Act 1972 and the Human Rights Act 1998.</span></li><li><span>The House of Commons would be reduced in size to 250 Members and left in charge only of &ldquo;national reserved matters&rdquo;, defined as: the national treasury; defence; foreign affairs; border control; criminal law; agriculture; fisheries and food; national energy and transport policy; the national education curriculum and teaching qualifications; and medical and nursing qualifications.</span></li><li><span>Legislative responsibility for areas which are not defined as &ldquo;national reserved matters&rdquo; would be devolved to local authorities.</span></li><li><span>MPs would be limited to a salary of &pound;30,000, with an expense allowance of up to &pound;170,000. </span></li><li><span>The Commons would not sit for more than 100 days in a year unless in an emergency.</span></li><li><span>The Bill would introduce binding referendum powers at national and local level.</span></li><li><span>Within seven years of the passing of the Act, a national referendum would be held on reform of the House of Lords.<br>The approval of Parliament would be required to enter into international treaties or declare war.</span></li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1775,
+        "name": "Lord Willoughby de Broke",
+        "party": "UK Independence Party",
+        "partyColour": "722889",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1775/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1775/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 557,
+  "shortTitle": "Constitutional Reform Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2010-04-14T17:49:16",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2872,
+    "stageId": 2,
+    "sessionId": 23,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 2758,
+        "stageId": 2,
+        "billStageId": 2872,
+        "billId": 557,
+        "date": "2010-02-05T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

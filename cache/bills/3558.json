@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision for Irish citizens who have been resident in the United Kingdom for five years to be entitled to British citizenship; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4360,
+        "name": "Gavin Robinson",
+        "party": "Democratic Unionist Party",
+        "partyColour": "d46a4c",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4360/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4360/contact",
+        "memberFrom": "Belfast East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4352,
+        "name": "Lord Hay of Ballyore",
+        "party": "Democratic Unionist Party",
+        "partyColour": "d46a4c",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4352/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4352/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3558,
+  "shortTitle": "British Nationality (Irish Citizens) Act 2024",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-06-04T10:32:51.4216107",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 18848,
+    "stageId": 11,
+    "sessionId": 38,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 15938,
+        "stageId": 11,
+        "billStageId": 18848,
+        "billId": 3558,
+        "date": "2024-05-24T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

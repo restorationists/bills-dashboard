@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to amend section 5 of the Domestic Violence, Crime and Victims Act 2004 to include serious harm to a child or vulnerable adult; to make consequential amendments to the Act; and for connected purposes.",
+  "summary": "<p>Section 5 of the Domestic Violence, Crime and Victims Act 2004 created an offence of causing or allowing the death of a child or vulnerable adult. The offence is limited to incidents where the victim died of an unlawful act and only applies to members of the household who had frequent contact with the victim. The household member must have either caused the victim&rsquo;s death or failed to take reasonable steps to protect the victim, and the victim must have been at significant risk of serious physical harm. Only those who are 16 or over may be guilty of the offence, unless they are the mother or father of the victim. </p><p>The Bill would amend Section 5 of the Act to widen its scope to include situations where children and vulnerable adults have been seriously harmed. 'Serious harm' is defined in the 2004 Act as &quot;harm that amounts to grievous bodily harm for the purposes of the Offences against the Person Act 1861&quot;.</p><p>The Bill would also make consequential amendments to Sections 6 and 7 of the Act.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 103,
+        "name": "Sir Paul Beresford",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/103/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/103/contact",
+        "memberFrom": "Mole Valley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2079,
+        "name": "Lord Laming",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2079/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2079/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 704,
+  "shortTitle": "Domestic Violence, Crime and Victims (Amendment) Act 2012",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-03-09T10:20:28",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4831,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4600,
+        "stageId": 11,
+        "billStageId": 4831,
+        "billId": 704,
+        "date": "2012-03-08T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

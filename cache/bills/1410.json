@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision about improved access to finance for businesses and individuals; to make provision about regulatory provisions relating to business and certain voluntary and community bodies; to make provision about the exercise of procurement functions by certain public authorities; to make provision for the creation of a Pubs Code and Adjudicator for the regulation of dealings by pub-owning businesses with their tied pub tenants; to make provision about the regulation of the provision of childcare; to make provision about information relating to the evaluation of education; to make provision about the regulation of companies; to make provision about company filing requirements; to make provision about the disqualification from appointments relating to companies; to make provision about insolvency; to make provision about the law relating to employment; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 207,
+        "name": "Vince Cable",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/207/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/207/contact",
+        "memberFrom": "Twickenham"
+      },
+      "organisation": {
+        "name": "Department for Business, Innovation and Skills",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4284,
+        "name": "Baroness Neville-Rolfe",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4284/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4284/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business, Innovation and Skills",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1410,
+  "shortTitle": "Small Business, Enterprise and Employment Act 2015",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-06-05T11:30:50",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7708,
+    "stageId": 11,
+    "sessionId": 27,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7173,
+        "stageId": 11,
+        "billStageId": 7708,
+        "billId": 1410,
+        "date": "2015-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

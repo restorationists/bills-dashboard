@@ -1,0 +1,77 @@
+{
+  "longTitle": "To make provision about children, families, and people with special educational needs; to make provision about the right to request flexible working; and for connected purposes",
+  "summary": "<p>The Bill seeks to reform legislation relating to the following areas:</p><ul><li>adoption and children in care</li><li>aspects of the family justice system</li><li>children and young people with special educational needs</li><li>the Office of the Children&rsquo;s Commissioner for England</li><li>statutory rights to leave and pay for parents and adopters</li><li>time off work for ante-natal care</li><li>the right to request flexible working</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1571,
+        "name": "Michael Gove",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1571/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1571/contact",
+        "memberFrom": "Surrey Heath"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4270,
+        "name": "Lord Nash",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4270/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4270/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1140,
+  "shortTitle": "Children and Families Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-03-14T09:22:29",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25,
+    26
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 6716,
+    "stageId": 11,
+    "sessionId": 26,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 6267,
+        "stageId": 11,
+        "billStageId": 6716,
+        "billId": 1140,
+        "date": "2014-03-13T00:00:00"
+      }
+    ],
+    "sortOrder": 20
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision for the honour and dignity of the Crown and the Royal Family; make provision about allowances and pensions under the Civil List Acts of 1837 and 1952; and for connected purposes.",
+  "summary": "<p>The Bill makes changes to the way in which the monarchy is funded. It replaces the Civil List and other grants that support the Queen&rsquo;s official duties with a new Sovereign Grant, based on a percentage of the profits of the Crown Estate. </p><p>The new grant is designed to deliver at first a broadly similar level of finance in cash terms to what is available at present. There are mechanisms for adjusting the level in future, and for using any significant surplus as a means to reduce the grant. The Sovereign Grant is intended to be a typical government grant that will lead to the royal finances being audited by the National Audit Office, and subjected to full parliamentary scrutiny.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1555,
+        "name": "Justine Greening",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1555/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1555/contact",
+        "memberFrom": "Putney"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4146,
+        "name": "Lord Sassoon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4146/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4146/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 877,
+  "shortTitle": "Sovereign Grant Act 2011",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-02-01T17:03:52",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4520,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4374,
+        "stageId": 11,
+        "billStageId": 4520,
+        "billId": 877,
+        "date": "2011-10-18T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

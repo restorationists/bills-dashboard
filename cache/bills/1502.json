@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision in connection with the taxation of pensions.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1458,
+        "name": "Mr George Osborne",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1458/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1458/contact",
+        "memberFrom": "Tatton"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1916,
+        "name": "Lord Newby",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1916/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1916/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1502,
+  "shortTitle": "Taxation of Pensions Act 2014",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-12-18T11:34:20",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7409,
+    "stageId": 11,
+    "sessionId": 27,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 6934,
+        "stageId": 11,
+        "billStageId": 7409,
+        "billId": 1502,
+        "date": "2014-12-17T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

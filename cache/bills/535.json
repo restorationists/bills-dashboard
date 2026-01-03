@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to restate, with minor changes, certain enactments relating to corporation tax and certain enactments relating to corporation tax and certain enactments relating to company distributions; and for connected purposes.",
+  "summary": "<p>This Bill follows the Corporation Tax Act 2009, which rewrote the charge to corporation tax and the primary corporation tax legislation used by companies in computing their income. The Bill substantially completes the rewrite of the corporation tax code. It includes provisions on losses and gifts to charities, various reliefs such as group relief, distributions, particular types of companies and activities, avoidance, and definitions. </p><p>This is the sixth Bill produced by the Tax Law Rewrite Project; the Bill rewrites the law without changing its general effect. </p><p>Rewrite Bills are subject to a streamlined procedure for Parliamentary scrutiny: they are introduced in the House of Commons, referred to a Second Reading Committee, and then to a joint Committee of both Houses.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 596,
+        "name": "Mr Alistair Darling",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/596/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/596/contact",
+        "memberFrom": "Edinburgh South West"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 987,
+        "name": "Lord Davies of Oldham",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/987/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/987/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 535,
+  "shortTitle": "Corporation Tax Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-04-21T12:00:14",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3240,
+    "stageId": 11,
+    "sessionId": 23,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3006,
+        "stageId": 11,
+        "billStageId": 3240,
+        "billId": 535,
+        "date": "2010-03-03T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

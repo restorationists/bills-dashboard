@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to establish a Commission to carry out regular audits of the economic costs and benfits of the UK's membership of the European Union; and for connected purposes",
+  "summary": "The Bill would establish a Commission to carry out regular audits of the costs and benefits of the UK&rsquo;s membership of the European Union. <br><br>Key areas<br><br>The Commission would be established within six months of the Bill being passed, and then every five years afterwards.<br><br>The Commission would examine issues relating to :  <br><ul><li>the economy (including financial contributions to the EU Budget) </li><li>national security and defence </li><li>constitutional arrangements .  </li></ul>The Commission would report to the Chancellor of the Exchequer, who would present the report to both Houses, along with the views of the National Audit Office on it.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 242,
+        "name": "Mr Christopher Chope",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/242/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/242/contact",
+        "memberFrom": "Christchurch"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 248,
+  "shortTitle": "European Union (Audit of Benefits and Costs of UK Membership) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-07-23T19:37:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 1211,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 1093,
+        "stageId": 7,
+        "billStageId": 1211,
+        "billId": 248,
+        "date": "2008-06-20T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

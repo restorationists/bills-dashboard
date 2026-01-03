@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to prevent the marketing and advertising of food that does not meet certain nutritional requirements from being targeted at children.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4675,
+        "name": "Kirstene Hair",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4675/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4675/contact",
+        "memberFrom": "Angus"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2271,
+  "shortTitle": "Food Advertising (Protection of Children from Targeting) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2018-11-13T12:19:29",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15009,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

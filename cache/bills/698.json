@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to regulate the selling of tickets for certain sporting and cultural events; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1521,
+        "name": "Mrs Sharon Hodgson",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1521/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1521/contact",
+        "memberFrom": "Washington and Sunderland West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 698,
+  "shortTitle": "Sale of Tickets (Sporting and Cultural Events) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-01T16:42:43",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 3529,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 3910,
+        "stageId": 7,
+        "billStageId": 3529,
+        "billId": 698,
+        "date": "2011-01-21T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

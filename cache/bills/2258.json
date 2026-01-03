@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to promote and secure youth services and provision of a requisite standard; to impose a duty on local authorities to provide youth services and establish local youth service partnerships with youth participation; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4615,
+        "name": "Lloyd Russell-Moyle",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4615/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4615/contact",
+        "memberFrom": "Brighton, Kemptown"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2258,
+  "shortTitle": "Youth (Services and Provisions) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-10-04T15:31:23",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14996,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

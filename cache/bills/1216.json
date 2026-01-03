@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision about the disclosure and use of information relating to persons who are or have been in education or training.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1453,
+        "name": "Andrew Selous",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1453/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1453/contact",
+        "memberFrom": "South West Bedfordshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1216,
+  "shortTitle": "Education (Information Sharing) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-05-15T13:36:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14010,
+    "stageId": 7,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

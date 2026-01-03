@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to regulate powers of entry and powers in relation to documents; and for connected purposes.",
+  "summary": "<p>The Bill aims to regulate and standardise powers to enter land or property. It also proposes to allow officials to seize or to compel production of documents. These are already available to officials under more than 150 specified Acts of Parliament.  </p><p>Lord Selsdon introduced a similar Bill in the parliamentary session 2005-06 but it was dropped. </p><p><strong>Key areas</strong></p><ul><li>Limits are placed on the numbers of officials permitted to enter a premises and the times when entry may take place</li><li>Power of entry may only be exercised in compliance with a code of practice. This specifies the term of notice that must be given, form of identification to be carried and the conduct of inspection or search</li><li>Restrictions are placed on powers to seize or compel production of documents or electronic records</li><li>The Bill does not apply to police officers, members of the Security or Intelligence Services or officers of HM Revenue &amp; Customs.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2127,
+        "name": "Lord Selsdon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2127/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2127/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 184,
+  "shortTitle": "Powers of Entry etc. Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-02-25T13:48:18",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 1751,
+    "stageId": 5,
+    "sessionId": 21,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 1601,
+        "stageId": 5,
+        "billStageId": 1751,
+        "billId": 184,
+        "date": "2008-07-17T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  }
+}

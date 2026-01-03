@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision about the property of deceased persons who are survived by a cohabitant.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2037,
+        "name": "Lord Lester of Herne Hill",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2037/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2037/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 925,
+  "shortTitle": "Inheritance (Cohabitants) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2012-05-02T12:48:26",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13744,
+    "stageId": 2,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

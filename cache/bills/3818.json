@@ -1,0 +1,63 @@
+{
+  "longTitle": "A Bill to allow for certain civil and family court hearings to be conducted remotely.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5135,
+        "name": "Oliver Ryan",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5135/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5135/contact",
+        "memberFrom": "Burnley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3818,
+  "shortTitle": "Courts (Remote Hearings) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-20T10:34:19.397635",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20077,
+    "stageId": 9,
+    "sessionId": 39,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17236,
+        "stageId": 9,
+        "billStageId": 20077,
+        "billId": 3818,
+        "date": "2025-07-11T00:00:00"
+      },
+      {
+        "id": 17280,
+        "stageId": 9,
+        "billStageId": 20077,
+        "billId": 3818,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

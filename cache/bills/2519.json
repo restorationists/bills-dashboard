@@ -1,0 +1,53 @@
+{
+  "longTitle": "A Bill to transfer the ownership and management of Monken Hadley Common to Monken Hadley Common Trust and for related purposes.",
+  "summary": null,
+  "sponsors": [],
+  "promoters": [
+    {
+      "organisationName": "Monken Hadley Common Trust",
+      "organisationUrl": null
+    }
+  ],
+  "petitioningPeriod": "17 June 2021 to 28 June 2021.\r\n\r\nNo petitions were submitted during the petitioning period.",
+  "petitionInformation": "<p>The petitioning period in the House of Commons ran from 22 January 2020 to 30 January 2020. No petitions against the Bill were received in the Commons.</p><p>The Lords petitioning period runs up until 5pm on Monday 28 June 2021.</p><p>Guidance on petitioning in the Lords can be found here:</p><p><a href=\"https://www.parliament.uk/about/how/laws/bills/private/privatebillpetition/\" rel=\"noopener noreferrer\" target=\"_blank\">How to petition against a private bill - UK Parliament</a></p><p><br></p>",
+  "agent": {
+    "name": "Sharpe Pritchard LLP",
+    "address": "Elm Yard, 13-16 Elm Street, London WC1X 0BJ",
+    "phoneNo": "020 7405 4600",
+    "email": "alewis@sharpepritchard.co.uk",
+    "website": ""
+  },
+  "billId": 2519,
+  "shortTitle": "Monken Hadley Common Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-04T15:21:44.088245",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 6,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35,
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 16445,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 13140,
+        "stageId": 11,
+        "billStageId": 16445,
+        "billId": 2519,
+        "date": "2022-04-28T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

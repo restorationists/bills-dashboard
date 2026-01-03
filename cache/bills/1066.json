@@ -1,0 +1,48 @@
+{
+  "longTitle": null,
+  "summary": "A bill to provide for the portability of care packages to promote independent living for disabled persons by local authorities in England and Wales; and for connected purposes.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3831,
+        "name": "Baroness Campbell of Surbiton",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3831/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3831/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1066,
+  "shortTitle": "Social Care Portability Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-04-30T11:17:13",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13869,
+    "stageId": 2,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

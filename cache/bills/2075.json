@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision extending the basis on which British citizens outside the UK qualify to participate in parliamentary elections; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4041,
+        "name": "Glyn Davies",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4041/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4041/contact",
+        "memberFrom": "Montgomeryshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2075,
+  "shortTitle": "Overseas Electors Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-09-25T10:21:32",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 10781,
+    "stageId": 9,
+    "sessionId": 30,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 9979,
+        "stageId": 9,
+        "billStageId": 10781,
+        "billId": 2075,
+        "date": "2019-03-22T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  }
+}

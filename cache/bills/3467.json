@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require Ministers of the Crown to undertake annual training in matters relating to propriety, ethics and standards; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4765,
+        "name": "Wendy Chamberlain",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4765/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4765/contact",
+        "memberFrom": "North East Fife"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3467,
+  "shortTitle": "Ministerial Conduct (Training) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T11:45:21.7926126",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17728,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14651,
+        "stageId": 6,
+        "billStageId": 17728,
+        "billId": 3467,
+        "date": "2023-05-24T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

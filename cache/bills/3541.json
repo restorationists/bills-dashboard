@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about the funding of building societies and the assimilation of the law relating to companies and the law relating to building societies.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4127,
+        "name": "Julie Elliott",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4127/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4127/contact",
+        "memberFrom": "Sunderland Central"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4153,
+        "name": "Lord Kennedy of Southwark",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4153/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4153/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3541,
+  "shortTitle": "Building Societies Act 1986 (Amendment) Act 2024",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-06-04T10:31:11.3880606",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 18847,
+    "stageId": 11,
+    "sessionId": 38,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 15937,
+        "stageId": 11,
+        "billStageId": 18847,
+        "billId": 3541,
+        "date": "2024-05-24T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

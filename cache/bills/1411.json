@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about pension schemes, including provision designed to encourage arrangements that offer people different levels of certainty in retirement or that involve different ways of sharing or pooling risk and provision designed to give people greater flexibility in accessing benefits and to help them make informed decisions about what to do with benefits.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 152,
+        "name": "Mr Iain Duncan Smith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/152/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/152/contact",
+        "memberFrom": "Chingford and Woodford Green"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4282,
+        "name": "Lord Bourne of Aberystwyth",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4282/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4282/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1411,
+  "shortTitle": "Pension Schemes Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-04T11:03:30",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7611,
+    "stageId": 11,
+    "sessionId": 27,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7102,
+        "stageId": 11,
+        "billStageId": 7611,
+        "billId": 1411,
+        "date": "2015-03-03T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

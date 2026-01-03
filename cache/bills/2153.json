@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to grant certain duties, to alter other duties, and to amend the law relating to the national debt and the public revenue, and to make further provision in connection with finance.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3935,
+        "name": "Mel Stride",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3935/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3935/contact",
+        "memberFrom": "Central Devon"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1091,
+        "name": "Lord Bates",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1091/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1091/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2153,
+  "shortTitle": "Finance (No. 2) Act 2017",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-12-01T10:52:03",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 10056,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 9295,
+        "stageId": 11,
+        "billStageId": 10056,
+        "billId": 2153,
+        "date": "2017-11-16T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the creation of a single status for workers by amending the meaning of “employee”, “worker”, “employer” and related expressions in the Trade Union and Labour Relations (Consolidation) Act 1992, the Employment Rights Act 1996 and cognate legislation; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4723,
+        "name": "Lord Hendy",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4723/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4723/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3538,
+  "shortTitle": "Status of Workers Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2024-05-29T11:32:23.0517819",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18122,
+    "stageId": 1,
+    "sessionId": 38,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15108,
+        "stageId": 1,
+        "billStageId": 18122,
+        "billId": 3538,
+        "date": "2023-12-06T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

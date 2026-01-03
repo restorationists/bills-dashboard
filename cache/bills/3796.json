@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision in connection with the recognition of the State of Palestine.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5120,
+        "name": "Shockat Adam",
+        "party": "Independent",
+        "partyColour": "909090",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5120/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5120/contact",
+        "memberFrom": "Leicester South"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3796,
+  "shortTitle": "Palestine Statehood (Recognition) (No. 2) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-06-23T14:44:18.8630401",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19067,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to prohibit the use of automated facial recognition technology in public places and to provide for a review of its use",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3396,
+        "name": "Lord Clement-Jones",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3396/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3396/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2513,
+  "shortTitle": "Automated Facial Recognition Technology (Moratorium and Review) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-11-08T10:07:54",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 34,
+  "includedSessionIds": [
+    34
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15235,
+    "stageId": 2,
+    "sessionId": 34,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to grant local authorities increased powers of compulsory purchase; to amend the law relating to land valuation and compensation; to make provision requiring landowners to fulfil conditions relating to planning permission; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4645,
+        "name": "Emma Hardy",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4645/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4645/contact",
+        "memberFrom": "Kingston upon Hull West and Hessle"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2456,
+  "shortTitle": "Compulsory Purchase and Planning Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-09-17T16:53:46",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15182,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

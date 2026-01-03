@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill To make provision for the holding of a referendum in the United Kingdom and Gibraltar on whether the United Kingdom should remain a member of the European Union.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 105,
+        "name": "Mr Philip Hammond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/105/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/105/contact",
+        "memberFrom": "Runnymede and Weybridge"
+      },
+      "organisation": {
+        "name": "Foreign and Commonwealth Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3474,
+        "name": "Baroness Anelay of St Johns",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3474/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3474/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Foreign and Commonwealth Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1570,
+  "shortTitle": "European Union Referendum Act 2015",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-12-18T09:21:53",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 8244,
+    "stageId": 11,
+    "sessionId": 28,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7666,
+        "stageId": 11,
+        "billStageId": 8244,
+        "billId": 1570,
+        "date": "2015-12-17T00:00:00"
+      }
+    ],
+    "sortOrder": 17
+  }
+}

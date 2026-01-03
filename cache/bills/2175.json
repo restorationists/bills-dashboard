@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision about the registration of marriages.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 312,
+        "name": "Dame Caroline Spelman",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/312/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/312/contact",
+        "memberFrom": "Meriden"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2175,
+  "shortTitle": "Registration of Marriage (No. 2) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2018-11-21T11:12:13",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14918,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

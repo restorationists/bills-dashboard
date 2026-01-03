@@ -1,0 +1,76 @@
+{
+  "longTitle": "Restate, with minor changes, certain enactments relating to corporation tax; and for connected purposes.",
+  "summary": "<p>The main purpose of the Bill is to rewrite the charge to corporation tax and the primary corporation tax legislation used by companies in computing their income.</p><p>This is the fifth Bill produced by the Tax Law Rewrite Project; the Bill rewrites the law without changing its general effect. </p><p>Rewrite Bills are subject to a streamlined procedure for Parliamentary scrutiny: they are introduced in the House of Commons, referred to a Second Reading Committee, and then to a Joint Committee of both Houses.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 596,
+        "name": "Mr Alistair Darling",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/596/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/596/contact",
+        "memberFrom": "Edinburgh South West"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3869,
+        "name": "Lord Myners",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3869/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3869/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 365,
+  "shortTitle": "Corporation Tax Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-10-16T12:41:31",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 2335,
+    "stageId": 11,
+    "sessionId": 22,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2211,
+        "stageId": 11,
+        "billStageId": 2335,
+        "billId": 365,
+        "date": "2009-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

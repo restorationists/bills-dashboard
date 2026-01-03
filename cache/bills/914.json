@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision to secure the establishment of caravan sites by local authorities in England for the use of Gypsies and Travellers.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1665,
+        "name": "Lord Avebury",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1665/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1665/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 914,
+  "shortTitle": "Caravan Sites Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2012-05-02T12:29:42",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13733,
+    "stageId": 2,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

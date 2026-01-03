@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to extend the Criminal Cases Review Commission’s powers to obtain information.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4429,
+        "name": "William Wragg",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4429/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4429/contact",
+        "memberFrom": "Hazel Grove"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3744,
+        "name": "Lord Ramsbotham",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3744/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3744/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1644,
+  "shortTitle": "Criminal Cases Review Commission (Information) Act 2016",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-05-13T10:10:43",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 8616,
+    "stageId": 11,
+    "sessionId": 28,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7969,
+        "stageId": 11,
+        "billStageId": 8616,
+        "billId": 1644,
+        "date": "2016-05-12T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

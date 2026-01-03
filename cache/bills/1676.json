@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about reports on progress towards full employment and the apprenticeships target; to make provision about reports on the effect of certain support for troubled families; to make provision about life chances; to make provision about the benefit cap; to make provision about social security and tax credits; to make provision for loans for mortgage interest and other liabilities; and to make provision about social housing rents.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 152,
+        "name": "Mr Iain Duncan Smith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/152/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/152/contact",
+        "memberFrom": "Chingford and Woodford Green"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3893,
+        "name": "Lord Freud",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3893/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3893/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1676,
+  "shortTitle": "Welfare Reform and Work Act 2016",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-02-02T12:17:06.9185953",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 8509,
+    "stageId": 11,
+    "sessionId": 28,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7902,
+        "stageId": 11,
+        "billStageId": 8509,
+        "billId": 1676,
+        "date": "2016-03-16T00:00:00"
+      }
+    ],
+    "sortOrder": 20
+  }
+}

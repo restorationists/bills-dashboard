@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require public consultation to be carried out in local areas where the sale of park or playing field land owned by a public body is proposed; to require referendums on such proposals in certain circumstances; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4369,
+        "name": "Tom Pursglove",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4369/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4369/contact",
+        "memberFrom": "Corby"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1679,
+  "shortTitle": "Parks and Playing Fields in Public Ownership (Protection from Sale) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-02-12T14:53:14",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 7941,
+    "stageId": 7,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 7432,
+        "stageId": 7,
+        "billStageId": 7941,
+        "billId": 1679,
+        "date": "2016-02-05T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

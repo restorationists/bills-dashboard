@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the union of the University of Wales with the University of Wales:Trinity Saint David including the transfer to the University of Wales:Trinity Saint David of all rights, properties, assets and obligations of the University of Wales; and for related purposes.",
+  "summary": "The Bill, had it been introduced, would have made provision for the union of the Universities of Wales and Wales: Trinity Saint David.",
+  "sponsors": [],
+  "promoters": [
+    {
+      "organisationName": "The University of Wales:Trinity Saint David",
+      "organisationUrl": null
+    },
+    {
+      "organisationName": "The University of Wales",
+      "organisationUrl": null
+    }
+  ],
+  "petitioningPeriod": "House of Commons: TBA\r\nHouse of Lords: TBA",
+  "petitionInformation": "<p>If you are &quot;specially and directly affected&quot; by this Bill you may oppose the Bill or seek its amendment before a Select Committee in either or both Houses.  If you present a &quot;petition&quot; against the bill at the appropriate times (during a &quot;petitioning period&quot;) you may be able to have your views on the bill heard by the Committee (in whichever House you petition). </p><p>There are specific times when petitions can be presented.  If the Bill is introduced in January 2012, petitions may be presented to one of the Houses for a short period during the latter part of January 2012.  When it is decided in which House this Bill will begin its passage through Parliament further details will be given here.  <a>Further information about petitioning</a> can be found by following the link or you can <a>contact</a> one of the Private Bill Offices.  Staff in either office will be happy to answer any questions you may have about the process of opposing a private bill.  </p>",
+  "agent": {
+    "name": "Eversheds Sutherland (International) LLP",
+    "address": "1 Wood St, London, EC2V 7WS",
+    "phoneNo": "020 7497 9797",
+    "email": "stephencollings@eversheds-sutherland.com.com",
+    "website": "www.eversheds-sutherland.com"
+  },
+  "billId": 912,
+  "shortTitle": "University of Wales:Trinity Saint David Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Unassigned",
+  "lastUpdate": "2011-11-28T18:23:36",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 6,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 4619,
+    "stageId": 17,
+    "sessionId": 24,
+    "description": "Commons Examiners",
+    "abbreviation": "CE",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4455,
+        "stageId": 17,
+        "billStageId": 4619,
+        "billId": 912,
+        "date": "2011-12-19T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

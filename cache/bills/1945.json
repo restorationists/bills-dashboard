@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about the property and affairs of missing persons; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4474,
+        "name": "Kevin Hollinrake",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4474/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4474/contact",
+        "memberFrom": "Thirsk and Malton"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2652,
+        "name": "Baroness Hamwee",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2652/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2652/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1945,
+  "shortTitle": "Guardianship (Missing Persons) Act 2017 ",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-04-28T11:36:14",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 9519,
+    "stageId": 11,
+    "sessionId": 29,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 8811,
+        "stageId": 11,
+        "billStageId": 9519,
+        "billId": 1945,
+        "date": "2017-04-27T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

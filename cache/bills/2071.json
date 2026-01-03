@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make amendments of the Human Tissue Act 2004 concerning consent to activities done for the purpose of transplantation; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 307,
+        "name": "Mr Geoffrey Robinson",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/307/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/307/contact",
+        "memberFrom": "Coventry North West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2024,
+        "name": "Lord Hunt of Kings Heath",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2024/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2024/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2071,
+  "shortTitle": "Organ Donation (Deemed Consent) Act 2019",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-03-18T09:30:29",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11077,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10170,
+        "stageId": 11,
+        "billStageId": 11077,
+        "billId": 2071,
+        "date": "2019-03-15T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

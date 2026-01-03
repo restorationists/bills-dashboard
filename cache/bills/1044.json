@@ -1,0 +1,76 @@
+{
+  "longTitle": "To provide for the making of payments to certain charities and clubs in respect of certain gifts made to them by individuals; and for connected purposes.",
+  "summary": "<p>The Bill introduces the Gift Aid Small Donations Scheme (GASDS) which was announced in the 2011 Budget. The purpose of the scheme is to enable charities and Community Amateur Sports Clubs (CASCs) to claim a Gift Aid-style payment on small cash donations up to &pound;20 where it is often difficult to obtain a Gift Aid declaration. </p><p>In general, eligible charities and CASCs will be able to claim top-up payments on up to &pound;5,000 small donations each year.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1458,
+        "name": "Mr George Osborne",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1458/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1458/contact",
+        "memberFrom": "Tatton"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1916,
+        "name": "Lord Newby",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1916/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1916/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1044,
+  "shortTitle": "Small Charitable Donations Act 2012",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-01-18T14:39:29",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5543,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5213,
+        "stageId": 11,
+        "billStageId": 5543,
+        "billId": 1044,
+        "date": "2012-12-19T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+}

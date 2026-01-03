@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require a company that meets specified criteria to report any cyber extortion or ransomware attack on the company to the Government within a specified time after the attack; to make provision about the content of such reports, including a requirement to provide information about any payments made; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5186,
+        "name": "Bradley Thomas",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5186/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5186/contact",
+        "memberFrom": "Bromsgrove"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4027,
+  "shortTitle": "Cyber Extortion and Ransomware (Reporting) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-10-22T10:27:26.0412853",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20245,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17445,
+        "stageId": 7,
+        "billStageId": 20245,
+        "billId": 4027,
+        "date": "2026-05-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

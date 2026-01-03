@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill To Make provision for the introduction of a new set of council tax valuation bands to apply to all dwellings bought or sold after 1 April 2000",
+  "summary": "<p>First reading took place on 24 June. This stage is a formality that signals the start of the Bill's journey through the Lords.<br><br>Second reading - the general debate on all aspects of the Bill - is yet to be scheduled.</p><p>The 2014-15 session of Parliament has prorogued and this Bill will make no further progress.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1854,
+        "name": "Lord Marlesford",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1854/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1854/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1409,
+  "shortTitle": "Council Tax Valuation Bands Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2014-06-25T11:05:52",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14197,
+    "stageId": 2,
+    "sessionId": 27,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

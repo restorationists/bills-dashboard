@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to Make provision for and in connection with the removal from the United Kingdom of persons who have entered or arrived in breach of immigration control; to make provision about detention for immigration purposes; to make provision about unaccompanied children; to make provision about victims of slavery or human trafficking; to make provision about leave to enter or remain in the United Kingdom; to make provision about citizenship; to make provision about the inadmissibility of certain protection and certain human rights claims relating to immigration; to make provision about the maximum number of persons entering the United Kingdom annually using safe and legal routes; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4475,
+        "name": "Suella Braverman",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4475/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4475/contact",
+        "memberFrom": "Fareham"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4950,
+        "name": "Lord Murray of Blidworth",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4950/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4950/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3429,
+  "shortTitle": "Illegal Migration Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-09-12T14:53:40.2967404",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17886,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14860,
+        "stageId": 11,
+        "billStageId": 17886,
+        "billId": 3429,
+        "date": "2023-07-20T00:00:00"
+      }
+    ],
+    "sortOrder": 18
+  }
+}

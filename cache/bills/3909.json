@@ -1,0 +1,104 @@
+{
+  "longTitle": "A Bill to make provision about the safeguarding and welfare of children; about support for children in care or leaving care; about regulation of care workers; about regulation of establishments and agencies under Part 2 of the Care Standards Act 2000; about employment of children; about breakfast club provision and school uniform; about attendance of children at school; about regulation of independent educational institutions; about inspections of schools and colleges; about teacher misconduct; about Academies and teachers at Academies; repealing section 128 of the Education Act 2002; about school places and admissions; about establishing new schools; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4046,
+        "name": "Bridget Phillipson",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4046/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4046/contact",
+        "memberFrom": "Houghton and Sunderland South"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 269,
+        "name": "Baroness Smith of Malvern",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/269/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/269/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3909,
+  "shortTitle": "Children’s Wellbeing and Schools Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-22T17:22:38.1421011",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20215,
+    "stageId": 4,
+    "sessionId": 39,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 17615,
+        "stageId": 4,
+        "billStageId": 20215,
+        "billId": 3909,
+        "date": "2026-01-14T00:00:00"
+      },
+      {
+        "id": 17616,
+        "stageId": 4,
+        "billStageId": 20215,
+        "billId": 3909,
+        "date": "2026-01-19T00:00:00"
+      },
+      {
+        "id": 17617,
+        "stageId": 4,
+        "billStageId": 20215,
+        "billId": 3909,
+        "date": "2026-01-21T00:00:00"
+      },
+      {
+        "id": 17618,
+        "stageId": 4,
+        "billStageId": 20215,
+        "billId": 3909,
+        "date": "2026-01-28T00:00:00"
+      },
+      {
+        "id": 17619,
+        "stageId": 4,
+        "billStageId": 20215,
+        "billId": 3909,
+        "date": "2026-02-03T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

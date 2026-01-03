@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Government to report annually to Parliament on mental health provision for children and young people.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4776,
+        "name": "Munira Wilson",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4776/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4776/contact",
+        "memberFrom": "Twickenham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2917,
+  "shortTitle": "Mental Health Provision (Children and Young People) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-04T16:55:46.942843",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15400,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 11925,
+        "stageId": 7,
+        "billStageId": 15400,
+        "billId": 2917,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

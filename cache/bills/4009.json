@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to place a duty on the Secretary of State to ensure that unpaid carers are offered respite breaks; to make provision for and about such respite breaks; to require the Secretary of State to publish guidance relating to respite breaks, including guidance about funding; to make provision about support for unpaid carers, including support following the discharge of a cared-for person from a hospital or other medical setting; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5283,
+        "name": "Alison Bennett",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5283/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5283/contact",
+        "memberFrom": "Mid Sussex"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4009,
+  "shortTitle": "Unpaid Carers (Respite and Support) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-28T12:36:36.0611399",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20157,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17328,
+        "stageId": 7,
+        "billStageId": 20157,
+        "billId": 4009,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

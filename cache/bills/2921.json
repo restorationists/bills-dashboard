@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to create the offences of sending unsolicited explicit digital images and of producing digitally-altered images or videos in which an individual is depicted pornographically without their consent; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4840,
+        "name": "Angela Richardson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4840/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4840/contact",
+        "memberFrom": "Guildford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2921,
+  "shortTitle": "Unsolicited Explicit Images and Deepfake Pornography Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-03-18T10:18:18.6287588",
+  "billWithdrawn": "2022-03-17T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15408,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

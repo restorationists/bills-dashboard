@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to report on the merits of a scheme for the United Kingdom to pay to train two doctors or nurses in developing countries for each doctor or nurse recruited to the National Health Service from those countries.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1211,
+        "name": "Mr Andrew Mitchell",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1211/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1211/contact",
+        "memberFrom": "Sutton Coldfield"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2804,
+  "shortTitle": "Doctors and Nurses (Developing Countries) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-04T15:51:13.1916201",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12563,
+    "stageId": 7,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

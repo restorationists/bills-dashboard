@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision for and in connection with a code of practice containing guidance about the operation and management of private parking facilities; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1200,
+        "name": "Sir Greg Knight",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1200/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1200/contact",
+        "memberFrom": "East Yorkshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2076,
+  "shortTitle": "Parking (Code of Practice) Act 2019",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-03-18T09:32:14",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11078,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10171,
+        "stageId": 11,
+        "billStageId": 11078,
+        "billId": 2076,
+        "date": "2019-03-15T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

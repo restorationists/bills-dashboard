@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the monitoring of water quality; to set a target for the reduction of sewage discharges; to provide for financial penalties in relation to sewage discharges and breaches of monitoring requirements; to require the Secretary of State to publish a strategy for the reduction of sewage discharges from storm overflows, including an economic impact assessment; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4569,
+        "name": "Jim McMahon",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4569/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4569/contact",
+        "memberFrom": "Oldham West and Royton"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3439,
+  "shortTitle": "Water Quality (Sewage Discharge) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-03T09:48:58.5998635",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17552,
+    "stageId": 7,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14431,
+        "stageId": 7,
+        "billStageId": 17552,
+        "billId": 3439,
+        "date": "2023-04-21T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

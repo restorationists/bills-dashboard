@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision for the addition of a public health objective to the Licensing Act 2003.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3335,
+        "name": "Lord Brooke of Alverthorpe",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3335/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3335/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1403,
+  "shortTitle": "Licensing Act 2003 (Amendment) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2014-06-13T09:15:15",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14191,
+    "stageId": 2,
+    "sessionId": 27,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

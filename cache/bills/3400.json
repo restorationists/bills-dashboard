@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the appointment by Parliament of the Independent Anti-slavery Commissioner if the post is vacant for three months or more; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1442,
+        "name": "Mr Alistair Carmichael",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1442/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1442/contact",
+        "memberFrom": "Orkney and Shetland"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3400,
+  "shortTitle": "Independent Anti-slavery Commissioner (Appointment by Parliament) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T10:39:22.1910182",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17289,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14116,
+        "stageId": 6,
+        "billStageId": 17289,
+        "billId": 3400,
+        "date": "2023-01-12T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

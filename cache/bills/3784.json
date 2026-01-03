@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require local authorities to publish information about looked after children in distance placements; to require local authorities to develop and publish sufficiency plans in respect of their duty under section 22G of the Children Act 1989; to require the Secretary of State to publish a national sufficiency plan in respect of looked after children in distance placements; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5082,
+        "name": "Jake Richards",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5082/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5082/contact",
+        "memberFrom": "Rother Valley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3784,
+  "shortTitle": "Looked After Children (Distance Placements) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-07-14T14:26:03.4180024",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19034,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16110,
+        "stageId": 7,
+        "billStageId": 19034,
+        "billId": 3784,
+        "date": "2025-03-28T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

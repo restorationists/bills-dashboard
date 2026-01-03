@@ -1,0 +1,77 @@
+{
+  "longTitle": "A Bill to amend the law relating to the rights of consumers and protection of their interests, to make provision about investigatory powers for enforcing the regulation of traders, to make provision about private actions in competition law, and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 207,
+        "name": "Vince Cable",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/207/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/207/contact",
+        "memberFrom": "Twickenham"
+      },
+      "organisation": {
+        "name": "Department for Business, Innovation and Skills",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4284,
+        "name": "Baroness Neville-Rolfe",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4284/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4284/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business, Innovation and Skills",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1337,
+  "shortTitle": "Consumer Rights Act 2015",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-07-27T10:01:29",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26,
+    27
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7724,
+    "stageId": 11,
+    "sessionId": 27,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7166,
+        "stageId": 11,
+        "billStageId": 7724,
+        "billId": 1337,
+        "date": "2015-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 23
+  }
+}

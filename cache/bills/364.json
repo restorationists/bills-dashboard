@@ -1,0 +1,56 @@
+{
+  "longTitle": "To make provision about the taxation status of Members of the House of Lords.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2536,
+        "name": "Lord Oakeshott of Seagrove Bay",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2536/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2536/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 364,
+  "shortTitle": "House of Lords (Members' Taxation Status) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-11-13T11:06:43",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2104,
+    "stageId": 3,
+    "sessionId": 22,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 2025,
+        "stageId": 3,
+        "billStageId": 2104,
+        "billId": 364,
+        "date": "2009-03-12T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

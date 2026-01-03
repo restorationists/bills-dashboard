@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to amend the Representation of the People Act 1983 to provide that election expenses relating to property, goods, services or facilities provided free of charge or at a discount are incurred only if authorised by the candidate or the candidate’s election agent; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4529,
+        "name": "Craig Mackinlay",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4529/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4529/contact",
+        "memberFrom": "South Thanet"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2370,
+  "shortTitle": "Election Expenses (Authorisation of Free or Discounted Support) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-03-20T17:14:04",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15106,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

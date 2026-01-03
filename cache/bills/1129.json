@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require supermarkets to publish pricing data on all the goods they sell in a standardised, accessible, online format suitable to enable comprehensive comparison of the price of supermarket goods by retailer, store and product, and to enable independent analysis of pricing; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 61,
+        "name": "Mr John Denham",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/61/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/61/contact",
+        "memberFrom": "Southampton, Itchen"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1129,
+  "shortTitle": "Supermarket Pricing Information Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-04-26T11:41:02",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13929,
+    "stageId": 7,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

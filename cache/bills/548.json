@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about police powers of stop and search; about the taking, retention, destruction and use of evidential material; for the protection of victims of domestic violence; about injunctions in respect of gang-related violence; about anti-social behaviour orders; about the private security industry; about possession of mobile telephones in prison; about air weapons; and for connected purposes.",
+  "summary": "<p>This Bill contains a range of policing, crime and security measures.</p><p><strong>Key areas</strong></p><ul><li>reduces information requirements for police stops and searches</li><li>establishes new time limits for the retention of DNA samples, DNA profiles and fingerprints (following a European Court of Human Rights judgement) together with extensions to the circumstances in which such samples can be collected</li><li>introduces a new Domestic Violence Protection Notice, by which a senior police officer could require a suspected perpetrator to stop molesting a victim and to leave the premises, pending application to court for the Bill&rsquo;s new Domestic Violence Protection Order</li><li>extends the new injunctions to prevent gang-related violence to under 18s</li><li>strengthens the legal assumption that a court will make a parenting order when 10-15 year olds are convicted for a breach of an anti-social behaviour order</li><li>establishes a new licensing requirement for businesses carrying out vehicle immobilisation, in addition to the existing one for individuals</li><li>introduces a new criminal offence of possessing a mobile telephone in prison</li><li>introduces a new offence of allowing minors access to air weapons</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 376,
+        "name": "Alan Johnson",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/376/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/376/contact",
+        "memberFrom": "Kingston upon Hull West and Hessle"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3834,
+        "name": "Lord West of Spithead",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3834/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3834/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 548,
+  "shortTitle": "Crime and Security Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-08-17T12:40:24",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3446,
+    "stageId": 11,
+    "sessionId": 23,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3217,
+        "stageId": 11,
+        "billStageId": 3446,
+        "billId": 548,
+        "date": "2010-04-08T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+}

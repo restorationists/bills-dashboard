@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the holding of a referendum to endorse the United Kingdom and Gibraltar exit package proposed by HM Government for withdrawal from the EU, or to decide to remain a member, following the completion of formal exit negotiations; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 155,
+        "name": "Geraint Davies",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/155/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/155/contact",
+        "memberFrom": "Swansea West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2154,
+  "shortTitle": "Terms of Withdrawal from EU (Referendum) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-03-15T17:01:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14897,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

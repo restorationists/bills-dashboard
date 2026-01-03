@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for an annual appraisal of the performance and competence of individual Ministers, conducted outside the Cabinet Office, to inform the Prime Minister in recommending ministerial appointments; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3926,
+        "name": "Paul Maynard",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3926/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3926/contact",
+        "memberFrom": "Blackpool North and Cleveleys"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3110,
+  "shortTitle": "Ministerial Competence (External Review) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-04T17:07:54.0758878",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16155,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12815,
+        "stageId": 7,
+        "billStageId": 16155,
+        "billId": 3110,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to safeguard rights of European Union citizens in the United Kingdom after exit day; to make provision for arrangements to be made with other European Economic Area countries and Switzerland to maintain the rights of British citizens in those countries after exit day; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 478,
+        "name": "Frank Field",
+        "party": "Independent",
+        "partyColour": "909090",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/478/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/478/contact",
+        "memberFrom": "Birkenhead"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2393,
+  "shortTitle": "European Union (Citizens' Rights) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-04-30T10:58:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15128,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to require local authorities to designate high streets in their area; to require local authorities to undertake and publish periodic reviews of the condition of those high streets; to require local authorities to develop action plans for the improvement of the condition of those high streets; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4643,
+        "name": "Jack Brereton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4643/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4643/contact",
+        "memberFrom": "Stoke-on-Trent South"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4292,
+        "name": "Lord Whitby",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4292/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4292/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3548,
+  "shortTitle": "High Streets (Designation, Review and Improvement Plan) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-05-29T12:41:43.4162489",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18724,
+    "stageId": 2,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15802,
+        "stageId": 2,
+        "billStageId": 18724,
+        "billId": 3548,
+        "date": "2024-05-17T00:00:00"
+      }
+    ],
+    "sortOrder": 7
+  }
+}

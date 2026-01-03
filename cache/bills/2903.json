@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to place a duty on the Government to declare a climate emergency; to amend the Climate Change Act 2008 to bring forward the date by which the United Kingdom is required to achieve net zero greenhouse gas emissions; to place a duty on the Government to create and implement a strategy to achieve objectives related to climate change, including for the creation of environmentally-friendly jobs; to require the Secretary of State to report to Parliament on proposals for increased taxation of large companies to generate revenue to be spent to further those objectives; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4846,
+        "name": "Colum Eastwood",
+        "party": "Social Democratic & Labour Party",
+        "partyColour": "4ea268",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4846/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4846/contact",
+        "memberFrom": "Foyle"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2903,
+  "shortTitle": "Climate Change Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-04-29T14:21:11.8449263",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15371,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 11897,
+        "stageId": 7,
+        "billStageId": 15371,
+        "billId": 2903,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

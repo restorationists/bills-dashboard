@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the Chancellor of the Exchequer to issue annually to each payer of Income Tax and National Insurance a statement detailing the payments made in the most recent tax year, the estimated payments to be made in the following tax year and a breakdown of the areas of government spending on which the payments are to be spent; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3988,
+        "name": "Ben Gummer",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3988/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3988/contact",
+        "memberFrom": "Ipswich"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 930,
+  "shortTitle": "Statements of Taxation Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-01T15:43:33",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13748,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

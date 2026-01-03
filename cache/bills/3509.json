@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill To Enable the implementation of, and the making of other provision in connection with, the Comprehensive and Progressive Agreement for Trans-Pacific Partnership.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4949,
+        "name": "Lord Johnson of Lainston",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4949/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4949/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business and Trade ",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4597,
+        "name": "Kemi Badenoch",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4597/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4597/contact",
+        "memberFrom": "Saffron Walden"
+      },
+      "organisation": {
+        "name": "Department for Business and Trade ",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3509,
+  "shortTitle": "Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Act 2024",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2024-09-23T14:32:53.3425489",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 18631,
+    "stageId": 11,
+    "sessionId": 38,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 15657,
+        "stageId": 11,
+        "billStageId": 18631,
+        "billId": 3509,
+        "date": "2024-03-20T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

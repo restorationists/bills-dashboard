@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to restrict the height, number, location and operation of wind turbines situated off shore within twenty miles of the coast; to restrict subsidies available for such turbines; and to make provision regulating the length, location and environmental impact of cables connecting such turbines to the national grid; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 242,
+        "name": "Mr Christopher Chope",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/242/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/242/contact",
+        "memberFrom": "Christchurch"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1426,
+  "shortTitle": "Control of Offshore Wind Turbines Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-30T11:49:31",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 6974,
+    "stageId": 7,
+    "sessionId": 27,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 6538,
+        "stageId": 7,
+        "billStageId": 6974,
+        "billId": 1426,
+        "date": "2015-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

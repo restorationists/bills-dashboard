@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about provision about transfers of cargo at sea; to provide for environmental safeguards in relation to such transfers; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1411,
+        "name": "Mark Lazarowicz",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1411/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1411/contact",
+        "memberFrom": "Edinburgh North and Leith"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 229,
+  "shortTitle": "Environmental Protection (Transfers at Sea) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-06-20T14:54:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 1168,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 1065,
+        "stageId": 7,
+        "billStageId": 1168,
+        "billId": 229,
+        "date": "2008-01-25T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

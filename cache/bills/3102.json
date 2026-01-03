@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about protecting consumers from being charged twice for the same good or service; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4442,
+        "name": "Huw Merriman",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4442/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4442/contact",
+        "memberFrom": "Bexhill and Battle"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3102,
+  "shortTitle": "Consumer Protection (Double Charging) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-04-29T12:47:59.3175087",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16090,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12730,
+        "stageId": 7,
+        "billStageId": 16090,
+        "billId": 3102,
+        "date": "2022-03-18T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

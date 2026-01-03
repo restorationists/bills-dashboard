@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to publish a national eye health strategy for England; and to require that strategy to include measures for improving eye health outcomes, for reducing waiting times for eye health care, for improving patient experiences of eye health care, for ensuring that providers of eye health care work together in an efficient way, for increasing the capacity and skills of the eye health care workforce, and for making more effective use of research and innovation in eye health care.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4676,
+        "name": "Marsha De Cordova",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4676/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4676/contact",
+        "memberFrom": "Battersea"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3384,
+  "shortTitle": "National Eye Health Strategy Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T12:05:53.5729821",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17184,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13992,
+        "stageId": 6,
+        "billStageId": 17184,
+        "billId": 3384,
+        "date": "2022-11-29T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

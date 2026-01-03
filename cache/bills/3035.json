@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to Make provision about the provision that may be made by, and the effects of, quashing orders; to make provision restricting judicial review of certain decisions of the Upper Tribunal; to make provision about the use of written and electronic procedures in courts and tribunals; to make other provision about procedure in, and the organisation of, courts and tribunals; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4007,
+        "name": "Dominic Raab",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4007/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4007/contact",
+        "memberFrom": "Esher and Walton"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4901,
+        "name": "Lord Wolfson of Tredegar",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4901/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4901/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3035,
+  "shortTitle": "Judicial Review and Courts Act 2022",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-04T16:04:35.0864091",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 16434,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 13112,
+        "stageId": 11,
+        "billStageId": 16434,
+        "billId": 3035,
+        "date": "2022-04-28T00:00:00"
+      }
+    ],
+    "sortOrder": 17
+  }
+}

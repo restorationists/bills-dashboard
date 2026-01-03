@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about support for women who have suffered ill health as a result of the use of surgical mesh; to require the Secretary of State to report to Parliament on the merits of establishing a redress scheme for such women; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4918,
+        "name": "Sarah Green",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4918/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4918/contact",
+        "memberFrom": "Chesham and Amersham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3129,
+  "shortTitle": "Surgical Mesh (Support) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-04T17:16:26.1983445",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16248,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12927,
+        "stageId": 7,
+        "billStageId": 16248,
+        "billId": 3129,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

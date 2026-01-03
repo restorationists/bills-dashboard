@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision for unaccompanied asylum seeking children to receive legal advice and for extending the deadline for an unaccompanied asylum seeking child to appeal an asylum decision",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3691,
+        "name": "Lord Roberts of Llandudno",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3691/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3691/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2470,
+  "shortTitle": "Unaccompanied Asylum Seeking Children (Legal Advice and Appeals) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-11-08T10:08:19",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 34,
+  "includedSessionIds": [
+    34
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15195,
+    "stageId": 2,
+    "sessionId": 34,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

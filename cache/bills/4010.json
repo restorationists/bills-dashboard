@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to abolish the T8 exemption from environmental permit requirements regarding disposal of end-of-life tyres; to make provision about including end-of-life tyres as a category of notifiable waste; to make provision about the processing, recovery, and export of end-of-life tyres; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4089,
+        "name": "Tessa Munt",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4089/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4089/contact",
+        "memberFrom": "Wells and Mendip Hills"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4010,
+  "shortTitle": "Waste Tyres Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-27T13:29:52.9820732",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20159,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17330,
+        "stageId": 7,
+        "billStageId": 20159,
+        "billId": 4010,
+        "date": "2026-01-23T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

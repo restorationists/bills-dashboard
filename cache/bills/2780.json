@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the Leader of the House of Commons to move a Motion asserting the equal right of all Members of the House of Commons to participate in proceedings and establishing mechanisms for MPs unable to attend Westminster to vote remotely and to participate remotely in proceedings, including debates and general committees.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1489,
+        "name": "Dawn Butler",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1489/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1489/contact",
+        "memberFrom": "Brent Central"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2780,
+  "shortTitle": "Remote Participation in House of Commons Proceedings (Motion) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-06T10:29:27.5106077",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12406,
+    "stageId": 7,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

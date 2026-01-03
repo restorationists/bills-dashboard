@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision in relation to the presumed death of missing persons; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4051,
+        "name": "John Glen",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4051/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4051/contact",
+        "memberFrom": "Salisbury"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1557,
+        "name": "Baroness Kramer",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1557/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1557/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1033,
+  "shortTitle": "Presumption of Death Act 2013",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-03-27T10:09:25",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5817,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5397,
+        "stageId": 11,
+        "billStageId": 5817,
+        "billId": 1033,
+        "date": "2013-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

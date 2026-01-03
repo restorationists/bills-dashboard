@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide for a statutory code of conduct for Ministers of the Crown; for a statutory code of conduct for members of the House of Commons and members of the House of Lords; for a statutory code of conduct for councillors in England; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4212,
+        "name": "Debbie Abrahams",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4212/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4212/contact",
+        "memberFrom": "Oldham East and Saddleworth"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3397,
+  "shortTitle": "Elected Representatives (Codes of Conduct) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-31T16:59:18.9857808",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17274,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14087,
+        "stageId": 6,
+        "billStageId": 17274,
+        "billId": 3397,
+        "date": "2023-01-10T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

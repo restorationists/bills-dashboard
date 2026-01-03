@@ -1,0 +1,48 @@
+{
+  "longTitle": null,
+  "summary": "<p><!-- Old BKB long title -->The aim of this Bill is to increase the number of elected representatives from different ethnic groups by making provision for political parties to have the option of drawing up shortlists for candidates on the grounds of ethnicity. It would do this by exempting the selection of candidates from the provisions of the Race Relations Act 1976 and the Race Relations (Northern Ireland) Order 1997.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 338,
+        "name": "Keith Vaz",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/338/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/338/contact",
+        "memberFrom": "Leicester East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 279,
+  "shortTitle": "Race Relations (Election Candidates) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-10-30T19:10:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13174,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

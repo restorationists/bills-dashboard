@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about extended collective licensing in relation to copyright and performers' rights; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4677,
+        "name": "Giles Watling",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4677/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4677/contact",
+        "memberFrom": "Clacton"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3240,
+  "shortTitle": "Copyright and Performers' Rights (Extended Collective Licensing) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-11-03T12:14:13.5309342",
+  "billWithdrawn": "2022-11-02T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16678,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13397,
+        "stageId": 6,
+        "billStageId": 16678,
+        "billId": 3240,
+        "date": "2022-06-20T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

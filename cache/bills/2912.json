@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision relating to the carrying of disabled persons by taxis and private hire vehicles.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1560,
+        "name": "Jeremy Wright",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1560/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1560/contact",
+        "memberFrom": "Kenilworth and Southam"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 333,
+        "name": "Lord McLoughlin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/333/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/333/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2912,
+  "shortTitle": "Taxis and Private Hire Vehicles (Disabled Persons) Act 2022",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-04-29T10:27:14.8969457",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 16426,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 13129,
+        "stageId": 11,
+        "billStageId": 16426,
+        "billId": 2912,
+        "date": "2022-04-28T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

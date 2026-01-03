@@ -1,0 +1,56 @@
+{
+  "longTitle": "To remove existing funding limits in respect of building societies, subject to regulation by the Financial Services Authority; to provide consequential rights to building society members; and to enable specified categories of mutual organisations to transfer engagements to one another or to a company.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 241,
+        "name": "Sir John Butterfill",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/241/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/241/contact",
+        "memberFrom": "Bournemouth West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 69,
+  "shortTitle": "Building Societies (Funding) and Mutual Societies (Transfers) Act 2007",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-06-11T11:15:43",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 970,
+    "stageId": 11,
+    "sessionId": 20,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 839,
+        "stageId": 11,
+        "billStageId": 970,
+        "billId": 69,
+        "date": "2007-10-23T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

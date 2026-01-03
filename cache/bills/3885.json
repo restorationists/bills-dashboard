@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to create an offence of child criminal exploitation; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4399,
+        "name": "Victoria Atkins",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4399/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4399/contact",
+        "memberFrom": "Louth and Horncastle"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3885,
+  "shortTitle": "Child Criminal Exploitation (No. 2) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-06-23T15:29:36.0635776",
+  "billWithdrawn": "2025-06-20T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19268,
+    "stageId": 6,
+    "sessionId": 39,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16355,
+        "stageId": 6,
+        "billStageId": 19268,
+        "billId": 3885,
+        "date": "2024-11-06T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

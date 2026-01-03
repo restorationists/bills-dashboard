@@ -1,0 +1,76 @@
+{
+  "longTitle": "Enable the implementation of, and the making of other provision in connection with, the government procurement Chapters of the United Kingdom’s free trade agreements with Australia and New Zealand.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4531,
+        "name": "Anne-Marie Trevelyan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4531/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4531/contact",
+        "memberFrom": "Berwick-upon-Tweed"
+      },
+      "organisation": {
+        "name": "Department for International Trade",
+        "url": "https://www.gov.uk/government/organisations/department-for-international-trade"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4949,
+        "name": "Lord Johnson of Lainston",
+        "party": null,
+        "partyColour": null,
+        "house": "Unassigned",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4949/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4949/contact",
+        "memberFrom": null
+      },
+      "organisation": {
+        "name": "Department for International Trade",
+        "url": "https://www.gov.uk/government/organisations/department-for-international-trade"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3152,
+  "shortTitle": "Trade (Australia and New Zealand) Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-06-21T15:27:49.6120112",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17559,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14435,
+        "stageId": 11,
+        "billStageId": 17559,
+        "billId": 3152,
+        "date": "2023-03-23T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

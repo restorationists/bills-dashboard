@@ -1,0 +1,161 @@
+{
+  "longTitle": "A Bill to allow adults who are terminally ill, subject to safeguards and protections, to request and be provided with assistance to end their own life; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4923,
+        "name": "Kim Leadbeater",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4923/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4923/contact",
+        "memberFrom": "Spen Valley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2758,
+        "name": "Lord Falconer of Thoroton",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2758/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2758/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3774,
+  "shortTitle": "Terminally Ill Adults (End of Life) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-17T16:50:14.897488",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20186,
+    "stageId": 3,
+    "sessionId": 39,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 17401,
+        "stageId": 3,
+        "billStageId": 20186,
+        "billId": 3774,
+        "date": "2025-11-14T00:00:00"
+      },
+      {
+        "id": 17402,
+        "stageId": 3,
+        "billStageId": 20186,
+        "billId": 3774,
+        "date": "2025-11-21T00:00:00"
+      },
+      {
+        "id": 17403,
+        "stageId": 3,
+        "billStageId": 20186,
+        "billId": 3774,
+        "date": "2025-12-05T00:00:00"
+      },
+      {
+        "id": 17404,
+        "stageId": 3,
+        "billStageId": 20186,
+        "billId": 3774,
+        "date": "2025-12-12T00:00:00"
+      },
+      {
+        "id": 17560,
+        "stageId": 3,
+        "billStageId": 20186,
+        "billId": 3774,
+        "date": "2026-01-09T00:00:00"
+      },
+      {
+        "id": 17561,
+        "stageId": 3,
+        "billStageId": 20186,
+        "billId": 3774,
+        "date": "2026-01-16T00:00:00"
+      },
+      {
+        "id": 17562,
+        "stageId": 3,
+        "billStageId": 20186,
+        "billId": 3774,
+        "date": "2026-01-23T00:00:00"
+      },
+      {
+        "id": 17563,
+        "stageId": 3,
+        "billStageId": 20186,
+        "billId": 3774,
+        "date": "2026-01-30T00:00:00"
+      },
+      {
+        "id": 17564,
+        "stageId": 3,
+        "billStageId": 20186,
+        "billId": 3774,
+        "date": "2026-02-06T00:00:00"
+      },
+      {
+        "id": 17565,
+        "stageId": 3,
+        "billStageId": 20186,
+        "billId": 3774,
+        "date": "2026-02-27T00:00:00"
+      },
+      {
+        "id": 17566,
+        "stageId": 3,
+        "billStageId": 20186,
+        "billId": 3774,
+        "date": "2026-03-13T00:00:00"
+      },
+      {
+        "id": 17568,
+        "stageId": 3,
+        "billStageId": 20186,
+        "billId": 3774,
+        "date": "2026-03-20T00:00:00"
+      },
+      {
+        "id": 17569,
+        "stageId": 3,
+        "billStageId": 20186,
+        "billId": 3774,
+        "date": "2026-03-27T00:00:00"
+      },
+      {
+        "id": 17570,
+        "stageId": 3,
+        "billStageId": 20186,
+        "billId": 3774,
+        "date": "2026-04-24T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

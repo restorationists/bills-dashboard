@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision for universal credit and personal independence payment; to make other provision about social security and tax credits; to make provision about the functions of the registration service, child support maintenance and the use of jobcentres; and for connected purposes.",
+  "summary": "<p>The Bill provides for the introduction of a 'Universal Credit' to replace a range of existing means-tested benefits and tax credits for people of working age, starting from 2013. The Bill follows the November 2010 White Paper, 'Universal Credit: welfare that works', which set out the Coalition Government&rsquo;s proposals for reforming welfare to improve work incentives, simplify the benefits system and tackle administrative complexity.</p><p>Besides introducing Universal Credit and related measures, the Bill makes other significant changes to the benefits system. </p><p><strong>Key areas</strong></p><ul><li>introduces Personal Independence Payments to replace the current Disability Living Allowance</li><li>restricts Housing Benefit entitlement for social housing tenants whose accommodation is larger than they need</li><li>up-rates Local Housing Allowance rates by the Consumer Price Index</li><li>amends the forthcoming statutory child maintenance scheme</li><li>limits the payment of contributory Employment and Support Allowance to a 12-month period</li><li>caps the total amount of benefit that can be claimed.</li></ul><p>During the Committee Stage, the Government amended the Bill to provide for the establishment of a Social Mobility and Child Poverty Commission.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 152,
+        "name": "Mr Iain Duncan Smith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/152/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/152/contact",
+        "memberFrom": "Chingford and Woodford Green"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3893,
+        "name": "Lord Freud",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3893/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3893/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 671,
+  "shortTitle": "Welfare Reform Act 2012",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-03-09T09:46:34",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4832,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4594,
+        "stageId": 11,
+        "billStageId": 4832,
+        "billId": 671,
+        "date": "2012-03-08T00:00:00"
+      }
+    ],
+    "sortOrder": 19
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to prepare and publish a strategy for tackling interpersonal abuse and violence against men and boys; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5089,
+        "name": "Ben Obese-Jecty",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5089/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5089/contact",
+        "memberFrom": "Huntingdon"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3964,
+  "shortTitle": "Interpersonal Abuse and Violence Against Men and Boys (Strategy) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-26T13:37:12.2120826",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19865,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16956,
+        "stageId": 7,
+        "billStageId": 19865,
+        "billId": 3964,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

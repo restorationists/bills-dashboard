@@ -1,0 +1,70 @@
+{
+  "longTitle": "To make provision about the oversight and management of the appropriate use of force in relation to people in mental health units and similar institutions; to make provision about the use of body cameras by police officers in the course of duties in relation to people in mental health units; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4268,
+        "name": "Mr Steve Reed",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4268/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4268/contact",
+        "memberFrom": "Croydon North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2489,
+        "name": "Baroness Massey of Darwen",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2489/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2489/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2059,
+  "shortTitle": "Mental Health Units (Use of Force) Act 2018",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-01-21T09:29:26",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 10756,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 9871,
+        "stageId": 11,
+        "billStageId": 10756,
+        "billId": 2059,
+        "date": "2018-11-01T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

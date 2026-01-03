@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision in connection with the period for negotiations for withdrawing from the European Union.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 420,
+        "name": "Yvette Cooper",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/420/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/420/contact",
+        "memberFrom": "Normanton, Pontefract and Castleford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 302,
+        "name": "Lord Rooker",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/302/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/302/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2381,
+  "shortTitle": "European Union (Withdrawal) Act 2019",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-06-04T15:36:15.8710884",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11134,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10242,
+        "stageId": 11,
+        "billStageId": 11134,
+        "billId": 2381,
+        "date": "2019-04-08T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

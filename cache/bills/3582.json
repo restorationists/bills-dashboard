@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to amend the Titles Deprivation Act 1917 to deprive in certain circumstances Princes of their British Dignities and Titles.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4681,
+        "name": "Bob Seely",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4681/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4681/contact",
+        "memberFrom": "Isle of Wight"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3582,
+  "shortTitle": "Titles Deprivation Act 1917 Amendment Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-02-12T17:02:29.1671189",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19670,
+    "stageId": 7,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to restate, with minor changes, certain enactments relating to tax; to make provision for purposes connected with the restatement of enactments by other tax law rewrite Acts; and for connected purposes.",
+  "summary": "<p>The Bill rewrites a series of provisions in existing tax law, including provisions on double taxation relief, transfer pricing, advance pricing agreements and tax arbitrage. It also relocates and where appropriate rewrites some provisions which would otherwise have been left in the Income and Corporation Taxes Act 1988 or one of the Finance Acts. </p><p>This is the seventh, and final, Bill produced by the Tax Law Rewrite Project; the Bill rewrites the law without changing its general effect. </p><p>Rewrite Bills are subject to a streamlined procedure for Parliamentary scrutiny: they are introduced in the House of Commons, referred to a Second Reading Committee, and then to a joint Committee of both Houses.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 596,
+        "name": "Mr Alistair Darling",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/596/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/596/contact",
+        "memberFrom": "Edinburgh South West"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3869,
+        "name": "Lord Myners",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3869/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3869/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 537,
+  "shortTitle": "Taxation (International and Other Provisions) Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-04-13T14:57:04",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3333,
+    "stageId": 11,
+    "sessionId": 23,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3111,
+        "stageId": 11,
+        "billStageId": 3333,
+        "billId": 537,
+        "date": "2010-03-18T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

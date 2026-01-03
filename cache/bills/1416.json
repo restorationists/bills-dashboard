@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to take steps to secure licences for off-patent drugs in new indications; to require the National Institute for Health and Care Excellence to conduct technology appraisals for off-patent drugs in new indications; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1166,
+        "name": "Jonathan Evans",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1166/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1166/contact",
+        "memberFrom": "Cardiff North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1416,
+  "shortTitle": "Off-patent Drugs Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-30T14:51:55",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 6952,
+    "stageId": 7,
+    "sessionId": 27,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 6520,
+        "stageId": 7,
+        "billStageId": 6952,
+        "billId": 1416,
+        "date": "2014-11-07T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

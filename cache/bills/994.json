@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to amend the Health Act 2006 to make provision for a ban on smoking in private vehicles where there are children present.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4195,
+        "name": "Lord Ribeiro",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4195/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4195/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4122,
+        "name": "Alex Cunningham",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4122/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4122/contact",
+        "memberFrom": "Stockton North"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 994,
+  "shortTitle": "Smoke-free Private Vehicles Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-03-04T10:32:34",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 5217,
+    "stageId": 7,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 4920,
+        "stageId": 7,
+        "billStageId": 5217,
+        "billId": 994,
+        "date": "2012-11-02T00:00:00"
+      }
+    ],
+    "sortOrder": 6
+  }
+}

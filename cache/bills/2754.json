@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to repeal sections 60, 60AA and 60A of the Criminal Justice and Public Order Act 1994 in so far as they apply to England and Wales.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 188,
+        "name": "Sir Edward Davey",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/188/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/188/contact",
+        "memberFrom": "Kingston and Surbiton"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2754,
+  "shortTitle": "Police Stop and Search (Repeal) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-05T15:02:48.7815121",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12252,
+    "stageId": 7,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

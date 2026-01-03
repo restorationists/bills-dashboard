@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit employers retaining tips and gratuities intended for staff; to make provision about the division of tips and gratuities between staff; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4812,
+        "name": "Dean Russell",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4812/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4812/contact",
+        "memberFrom": "Watford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2945,
+  "shortTitle": "Tips Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-01-06T16:22:09.1158574",
+  "billWithdrawn": "2022-01-05T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15459,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 11981,
+        "stageId": 7,
+        "billStageId": 15459,
+        "billId": 2945,
+        "date": "2022-01-14T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

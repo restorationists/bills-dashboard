@@ -1,0 +1,63 @@
+{
+  "longTitle": "A Bill to make provision about offences relating to the misuse of fireworks and penalties for such offences; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4777,
+        "name": "Sarah Owen",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4777/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4777/contact",
+        "memberFrom": "Luton North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3043,
+  "shortTitle": "Misuse of Fireworks Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-04T15:13:22.7052274",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15709,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12250,
+        "stageId": 7,
+        "billStageId": 15709,
+        "billId": 3043,
+        "date": "2022-01-21T00:00:00"
+      },
+      {
+        "id": 12717,
+        "stageId": 7,
+        "billStageId": 15709,
+        "billId": 3043,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

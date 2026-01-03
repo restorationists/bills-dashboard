@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision for the introduction  of a reward scheme for users of bus and rail services; and to extend the Bus Concessionary Fares Scheme.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1434,
+        "name": "Colin Challen",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1434/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1434/contact",
+        "memberFrom": "Morley and Rothwell"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 516,
+  "shortTitle": "Public Transport (Reward Scheme and Concessionary Fares) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-10-23T10:41:56",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13380,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

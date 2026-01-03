@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for local authorities to conduct annual audits of air pollution in their area and associated emissions by public and private entities; to require those local authorities to prepare reports on those audits; to require the Secretary of State to report annually to Parliament on those audit reports; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 411,
+        "name": "Mr Barry Sheerman",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/411/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/411/contact",
+        "memberFrom": "Huddersfield"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3105,
+  "shortTitle": "Air Pollution (Local Authority Audits) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-04-29T11:15:00.7327517",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16128,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12788,
+        "stageId": 7,
+        "billStageId": 16128,
+        "billId": 3105,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

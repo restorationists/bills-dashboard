@@ -1,0 +1,56 @@
+{
+  "longTitle": "Make provision about standards of streetscape and highways design; to require the Secretary of State to provide guidance and advice to local authorities and the Highways Agency on streetscape and highways design; to require local authorities to publish policies on the quality of design of traffic signs and highway developments; to require local authorities to have regard to such policies when causing or permitting traffic signs to be placed on or near a road or when carrying out highways work; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 343,
+        "name": "Mr Alan Duncan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/343/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/343/contact",
+        "memberFrom": "Rutland and Melton"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 95,
+  "shortTitle": "Streetscape and Highways Design Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-11-02T00:00:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 456,
+    "stageId": 7,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 319,
+        "stageId": 7,
+        "billStageId": 456,
+        "billId": 95,
+        "date": "2007-04-27T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

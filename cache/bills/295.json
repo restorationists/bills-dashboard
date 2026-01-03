@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Immigration Rules in connection with the requirements for indefinite leave to enter and remain in the United Kingdom as a Gurkha discharged from the British Army.",
+  "summary": "<p>The purpose of the Bill is to amend the immigration rules in connection with the requirements for indefinite leave to enter and remain in the UK as a Gurkha discharged from the British Army.</p><p>In 2004, the Government changed the immigration rules to allow Gurkhas with at least four years of service to remain in the UK after their discharge from the British Army.  Prior to this change in the rules, Gurkhas could not be granted indefinite leave to enter and remain after their discharge.  However, the new rules only apply to Gurkhas discharged from the British Army on or after 1 July 1997.</p><p>The Bill would enable Gurkhas who left service prior to 1997 to be granted indefinite leave to enter and remain in the UK.</p><p>A similar Bill has been introduced in the House of Commons by Bob Russell, Liberal Democrat MP for Colchester, as the <a>Immigration (Discharged Gurkhas) (No. 2) Bill</a>.</p><p><br><strong>Key areas</strong></p><ul><li>Amends the immigration rules for Gurkhas</li><li>Allows Gurkhas discharged prior to 1997 to be granted indefinite leave to enter and remain in the UK.<br></li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1132,
+        "name": "Lord Lee of Trafford",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1132/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1132/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 295,
+  "shortTitle": "Immigration (Discharged Gurkhas) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-02-23T12:31:32",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 1779,
+    "stageId": 5,
+    "sessionId": 21,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 1758,
+        "stageId": 5,
+        "billStageId": 1779,
+        "billId": 295,
+        "date": "2008-10-13T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

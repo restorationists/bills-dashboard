@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make local fire services statutory consultees for industrial lithium-ion battery storage planning permission applications; to make provision about the granting of environmental permits for industrial lithium-ion battery storage; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1480,
+        "name": "Dame Maria Miller",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1480/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1480/contact",
+        "memberFrom": "Basingstoke"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3336,
+  "shortTitle": "Lithium-ion Battery Storage (Fire Safety and Environmental Permits) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T10:57:35.6958887",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16947,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13679,
+        "stageId": 6,
+        "billStageId": 16947,
+        "billId": 3336,
+        "date": "2022-09-07T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

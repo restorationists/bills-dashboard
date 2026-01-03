@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit the sale in the United Kingdom of timber and wood products that were obtained or produced illegally in their country of origin; and for connected purposes",
+  "summary": "<p>The Bill would make it illegal to sell, knowingly or not, timber that had been:</p><ul><li>obtained illegally in any way in the country of origin </li><li>exported illegally from its country of origin</li><li>imported illegally into any country.</li></ul><p>It also would make it an offence to falsify records with regard to the harvesting, importing or exporting of timber. The maximum penalties included in the Bill are up to five years&rsquo; imprisonment and a fine of up to &pound;100,000.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 179,
+        "name": "Mr Andrew Dismore",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/179/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/179/contact",
+        "memberFrom": "Hendon"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 429,
+  "shortTitle": "Illegally Logged Timber (Prohibition Of Sale) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-11-09T11:35:09",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2124,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 2071,
+        "stageId": 7,
+        "billStageId": 2124,
+        "billId": 429,
+        "date": "2009-06-26T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

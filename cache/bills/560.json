@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision about the rights of third parties against insurers of liabilities to third parties in the case where the insured is insolvent, and in certain other cases.",
+  "summary": "The purpose of the Third Parties (Rights Against Insurers) Bill is to amend existing legislation governing the relationship between insurers and claimants, with specific regard to &ldquo;third parties&rdquo;, to make it easier and less expensive to claim compensation from insolvent defendants.  Current legislation dictates that claimants must establish an insolvent defendant&rsquo;s liability before bringing a separate claim against their insurer.  However, the Bill would enable claimants to sue the insolvent defendant&rsquo;s insurer directly, without having to sue the wrongdoer first.<br><br><strong>Key areas</strong><br><br><ul><li>The Bill would remove the need for separate proceedings to establish the insured parties&rsquo; liability before suing the insurer, thereby reducing time and costs.</li></ul><ul><li>Claimants would be provided with the right to obtain insurance policy information quicker to establish the likelihood of success.</li></ul><ul><li>The existing legislation in relation to the involvement of foreign companies would be clarified.</li></ul><ul><li>Existing legal requirements for a dissolved company to be restored to the register of companies would be removed. </li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3451,
+        "name": "Lord Bach",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3451/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3451/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 463,
+        "name": "Mr Jack Straw",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/463/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/463/contact",
+        "memberFrom": "Blackburn"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 560,
+  "shortTitle": "Third Parties (Rights against Insurers) Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2020-04-15T12:32:46",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3353,
+    "stageId": 11,
+    "sessionId": 23,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3140,
+        "stageId": 11,
+        "billStageId": 3353,
+        "billId": 560,
+        "date": "2010-03-25T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

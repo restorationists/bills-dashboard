@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision for the creation of a single status for workers by amending the meaning of “employee”, “worker”, “employer” and related expressions in the Trade Union and Labour Relations (Consolidation) Act 1992, the Employment Rights Act 1996 and cognate legislation; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4723,
+        "name": "Lord Hendy",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4723/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4723/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4269,
+        "name": "Andy McDonald",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4269/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4269/contact",
+        "memberFrom": "Middlesbrough"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2876,
+  "shortTitle": "Status of Workers Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-05-04T15:11:34.9545697",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16110,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12749,
+        "stageId": 7,
+        "billStageId": 16110,
+        "billId": 2876,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 6
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to appoint an independent reviewer to prepare a quarterly report containing an assessment of primary care services; to require the Secretary of State to lay before Parliament each report prepared by the independent reviewer; to require such reports to include the independent reviewer’s assessment of any measures taken to improve general practice services, dental services, community pharmacy services, optometry services, and mental health services; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4769,
+        "name": "Daisy Cooper",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4769/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4769/contact",
+        "memberFrom": "St Albans"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3489,
+  "shortTitle": "Primary care services (report) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T15:02:09.4529727",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17871,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14841,
+        "stageId": 6,
+        "billStageId": 17871,
+        "billId": 3489,
+        "date": "2023-07-12T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

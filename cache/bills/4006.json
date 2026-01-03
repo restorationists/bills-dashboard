@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to take steps to give effect in the United Kingdom to the Advisory Opinion of the International Court of Justice issued on 19 July 2024 entitled “Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem”, including provision for sanctions and for other measures to give effect to that advisory opinion; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4493,
+        "name": "Richard Burgon",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4493/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4493/contact",
+        "memberFrom": "Leeds East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4006,
+  "shortTitle": "International Court of Justice Advisory Opinion on Policies and Practices of Israel (Sanctions and Other Measures) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-27T13:26:08.4802295",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20139,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17295,
+        "stageId": 7,
+        "billStageId": 20139,
+        "billId": 4006,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

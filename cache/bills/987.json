@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to establish, and make provision about, the National Crime Agency; to abolish the Serious Organised Crime Agency and the National Policing Improvement Agency; to make provision about the judiciary and the structure, administration, proceedings and powers of courts and tribunals; to make provision about border control; to make provision about drugs and driving; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3787,
+        "name": "Lord Taylor of Holbeach",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3787/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3787/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 8,
+        "name": "Mrs Theresa May",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/8/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/8/contact",
+        "memberFrom": "Maidenhead"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 987,
+  "shortTitle": "Crime and Courts Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-04-29T11:47:55",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5899,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5486,
+        "stageId": 11,
+        "billStageId": 5899,
+        "billId": 987,
+        "date": "2013-04-25T00:00:00"
+      }
+    ],
+    "sortOrder": 21
+  }
+}

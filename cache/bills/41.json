@@ -1,0 +1,56 @@
+{
+  "longTitle": "Make provision for a website in order to enable public access to information about government expenditure; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2554,
+        "name": "Baroness Noakes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2554/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2554/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 41,
+  "shortTitle": "Government Spending (Website) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2007-10-25T20:02:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 780,
+    "stageId": 7,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 521,
+        "stageId": 7,
+        "billStageId": 780,
+        "billId": 41,
+        "date": "2007-06-29T00:00:00"
+      }
+    ],
+    "sortOrder": 6
+  }
+}

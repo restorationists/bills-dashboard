@@ -1,0 +1,76 @@
+{
+  "longTitle": "To confer powers on Ministers of the Crown in relation to certain public bodies and offices; to confer powers on Welsh Ministers in relation to environmental public bodies; to make provision about amendment of Schedule 1 to the Superannuation Act 1972; and for connected purposes.",
+  "summary": "<p>The Bill is largely enabling legislation. It is the main legislative vehicle for taking forward the Government&rsquo;s review of public bodies, the results of which were published in October 2010. </p><p>The Bill would allow Ministers, by order, to abolish, merge or transfer the functions of the public bodies listed in the appropriate schedules to the Act. The Bill has completed its passage through the House of Lords where it underwent significant amendment.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3787,
+        "name": "Lord Taylor of Holbeach",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3787/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3787/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 115,
+        "name": "Mr Francis Maude",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/115/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/115/contact",
+        "memberFrom": "Horsham"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 786,
+  "shortTitle": "Public Bodies Act 2011",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2012-01-10T14:16:49",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4655,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4409,
+        "stageId": 11,
+        "billStageId": 4655,
+        "billId": 786,
+        "date": "2011-12-14T00:00:00"
+      }
+    ],
+    "sortOrder": 18
+  }
+}

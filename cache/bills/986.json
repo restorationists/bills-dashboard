@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision for the purposes of section 3 of the European Union Act 2011 in relation to the European Council decision of 25 March 2011 amending Article 136 of the Treaty on the Functioning of the European Union with regard to a stability mechanism for Member States whose currency is the euro.",
+  "summary": "<p>The Bill enables the UK to ratify an amendment to Article 136 of the Treaty on the Functioning of the European Union. </p><p>The amendment will give legal basis to the creation of a permanent European Stability Mechanism (ESM), which will provide financial assistance to eurozone States, up to a limit of &euro;500bn, in order to safeguard the economic stability of the eurozone. </p><p>The ESM is established in a separate treaty between the 17 Member States in the eurozone.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 993,
+        "name": "Lord Howell of Guildford",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/993/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/993/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Foreign and Commonwealth Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 379,
+        "name": "Mr William Hague",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/379/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/379/contact",
+        "memberFrom": "Richmond (Yorks)"
+      },
+      "organisation": {
+        "name": "Foreign and Commonwealth Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 986,
+  "shortTitle": "European Union (Approval of Treaty Amendment Decision) Act 2012     ",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2012-11-02T09:09:24",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5326,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4988,
+        "stageId": 11,
+        "billStageId": 5326,
+        "billId": 986,
+        "date": "2012-10-31T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

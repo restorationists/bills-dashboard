@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision about the water industry; about compensation for modification of licences to abstract water; about main river maps; about records of waterworks; for the regulation of the water environment; about the provision of flood insurance for household premises; about internal drainage boards; about Regional Flood and Coastal Committees; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 274,
+        "name": "Mr Owen Paterson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/274/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/274/contact",
+        "memberFrom": "North Shropshire"
+      },
+      "organisation": {
+        "name": "Department for Environment, Food and Rural Affairs",
+        "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2202,
+        "name": "Lord De Mauley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2202/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2202/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "Department for Environment, Food and Rural Affairs",
+        "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1272,
+  "shortTitle": "Water Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-05-20T09:48:51",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 6831,
+    "stageId": 11,
+    "sessionId": 26,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 6378,
+        "stageId": 11,
+        "billStageId": 6831,
+        "billId": 1272,
+        "date": "2014-05-14T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

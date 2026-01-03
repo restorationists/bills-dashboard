@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the maximum noise levels of fireworks which may be sold to the public; to require that specified information about noise levels is included on labelling and in sales information for fireworks; to require the Secretary of State to review the impact of firework noise on the welfare of veterans, neurodivergent people, people with certain medical conditions, and animals; to provide local authorities with power to regulate the use of fireworks in certain circumstances, and to enforce such regulation; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3924,
+        "name": "Yasmin Qureshi",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3924/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3924/contact",
+        "memberFrom": "Bolton South and Walkden"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4047,
+  "shortTitle": "Fireworks (Noise Control etc) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-05T10:36:57.3840282",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20346,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17592,
+        "stageId": 7,
+        "billStageId": 20346,
+        "billId": 4047,
+        "date": "2026-01-30T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

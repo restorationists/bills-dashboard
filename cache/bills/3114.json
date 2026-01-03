@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Wildlife and Countryside Act 1981 to make the intentional or reckless disturbance or harassment of seals an offence; to make further provision about the protection of seals; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3950,
+        "name": "Tracey Crouch",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3950/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3950/contact",
+        "memberFrom": "Chatham and Aylesford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3114,
+  "shortTitle": "Seals (Protection) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-04T15:10:45.0833768",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16170,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12834,
+        "stageId": 7,
+        "billStageId": 16170,
+        "billId": 3114,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

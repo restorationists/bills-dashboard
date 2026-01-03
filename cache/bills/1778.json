@@ -1,0 +1,62 @@
+{
+  "longTitle": "A Bill to make provision for the imposing of restrictions on assets owned by persons involved in supplying terrorist organisations in the United Kingdom with arms, for the purpose of securing compensation for citizens of the United Kingdom affected by the supply of such arms.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4216,
+        "name": "Lord Empey",
+        "party": "Ulster Unionist Party",
+        "partyColour": "a1cdf0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4216/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4216/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4519,
+        "name": "James Cartlidge",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4519/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4519/contact",
+        "memberFrom": "South Suffolk"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1778,
+  "shortTitle": "Asset Freezing (Compensation) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2017-04-28T15:03:22",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14548,
+    "stageId": 7,
+    "sessionId": 29,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 6
+  }
+}

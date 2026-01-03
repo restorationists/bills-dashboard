@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision about the functions and procedures of local and certain other authorities; to make provision about the functions of the Local Commission for Administration in England; to enable the recovery of financial sanctions imposed by the Court of Justice of the European Union on the United Kingdom from local and public authorities; to make provision about local government finance; to make provision about town and country planning, the Community Infrastructure Levy and the authorisation of nationally significant infrastructure projects; to make provision about social and other housing; to make provision about regeneration in London; and for\r\nconnected purposes.",
+  "summary": "<p>The Bill will devolve greater powers to councils and neighbourhoods and give local communities more control over housing and planning decisions.</p><p><strong>Key areas</strong></p><p>The provisions relating to councils include:</p><ul><li>giving councils a general power of competence</li><li>allowing councils to choose to return to the committee system of governance and allowing for referendums for elected mayors in certain authorities</li><li>abolishing the Standards Board regime and the model code of conduct, and introducing local accountability and a criminal offence of deliberate failure to declare a personal interest in a matter</li><li>giving residents the power to instigate local referendums on any local issue and the power to veto excessive council tax increases</li><li>allowing councils more discretion over business rate relief</li><li>providing new powers to help save local facilities and services threatened with closure, and giving voluntary and community groups the right to challenge local authorities over their services.</li></ul><p>The housing provisions will</p><ul><li>abolish the requirement to have a Home Information Pack</li><li>reform the Housing Revenue Account system</li><li>provide for a new form of flexible tenure for social housing tenants</li><li>allow local authorities to discharge their duties to homeless people by using private rented accommodation</li><li>give local authorities the power to limit who can apply for social housing within their areas</li><li>abolish the Tenant Services Authority and provides for a transfer of functions to the Homes and Communities Agency</li><li>amend the way in which a social tenant can make a complaint about their landlord</li><li>improve the ability of social tenants to move to different areas.</li></ul><p>The planning and regeneration provisions will</p><ul><li>abolish Regional Spatial Strategies</li><li>abolish the Infrastructure Planning Commission and return to a position where the Secretary of State takes the final decision on major infrastructure proposals of national importance</li><li>amend the Community Infrastructure Levy, which allows councils to charge developers to pay for infrastructure. Some of the revenue will be available for the local community</li><li>provide for neighbourhood plans, which would be approved if they received 50% of the votes cast in a referendum</li><li>provide for neighbourhood development orders to allow communities to approve development without requiring normal planning consent</li><li>give new housing and regeneration powers to the Greater London Authority, while abolishing the London Development Agency.<br></li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 33,
+        "name": "Mr Eric Pickles",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/33/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/33/contact",
+        "memberFrom": "Brentwood and Ongar"
+      },
+      "organisation": {
+        "name": "Department for Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2477,
+        "name": "Baroness Hanham",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2477/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2477/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 808,
+  "shortTitle": "Localism Act 2011",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2011-11-17T10:47:36",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4593,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4340,
+        "stageId": 11,
+        "billStageId": 4593,
+        "billId": 808,
+        "date": "2011-11-15T00:00:00"
+      }
+    ],
+    "sortOrder": 18
+  }
+}

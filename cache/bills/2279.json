@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision in connection with the protection of children and vulnerable adults in receipt of official development assistance and disaster relief.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 167,
+        "name": "Stephen Twigg",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/167/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/167/contact",
+        "memberFrom": "Liverpool, West Derby"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2279,
+  "shortTitle": "International Development (Safeguarding Vulnerable Groups) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-03-18T10:24:14",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15016,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

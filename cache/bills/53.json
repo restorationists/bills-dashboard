@@ -1,0 +1,59 @@
+{
+  "longTitle": "Make provision for and in connection with the liability of owners of unoccupied hereditaments to a non-domestic rate.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 453,
+        "name": "Mr Phil Woolas",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/453/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/453/contact",
+        "memberFrom": "Oldham East and Saddleworth"
+      },
+      "organisation": {
+        "name": "Department for Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 53,
+  "shortTitle": "Rating (Empty Properties) Act 2007",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-10-30T20:27:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 920,
+    "stageId": 11,
+    "sessionId": 20,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 706,
+        "stageId": 11,
+        "billStageId": 920,
+        "billId": 53,
+        "date": "2007-07-19T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

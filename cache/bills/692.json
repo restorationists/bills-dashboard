@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about the arrangements for measuring the standard weight of coins.",
+  "summary": "The Bill would amend the Coinage Act 1971 to enable the Royal Mint to strike commemorative coins of one kilogram or more for the 2012 London Olympics.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1544,
+        "name": "Mark Lancaster",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1544/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1544/contact",
+        "memberFrom": "Milton Keynes North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 139,
+        "name": "Mr Richard Spring",
+        "party": null,
+        "partyColour": null,
+        "house": "Unassigned",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/139/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/139/contact",
+        "memberFrom": null
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 692,
+  "shortTitle": "Coinage (Measurement) Act 2011",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2011-11-04T08:57:20",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4568,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4315,
+        "stageId": 11,
+        "billStageId": 4568,
+        "billId": 692,
+        "date": "2011-11-03T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

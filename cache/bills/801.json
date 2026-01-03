@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision relating to the licensing of charging, publicly-available, privately-owned car parks; to require local authorities to introduce a licensing system for such car parks; to enable local authorities to recover the costs of such a licensing scheme from car park operators; and for connected purposes.",
+  "summary": "<p>The Bill would require local authorities in England to introduce a licensing scheme for charging, publicly-available, privately-owned car parks. </p><p>The requirements on local authorities would be set out in regulations made by the Secretary of State by statutory instrument, and would include:</p><ul><li>the criteria which private parking operators must satisfy to acquire a licence</li><li>the maximum level of fixed penalty charges which could be imposed under the licensing scheme</li><li>provision for the costs incurred by each local authority in setting up and administering the licensing process to be recovered by a levy on private parking operators operating within that local authority area</li><li>provision for local authorities to permit exemptions from the licensing scheme</li><li>details of the penalties which should apply to any non-licensed private parking operator.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3960,
+        "name": "Henry Smith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3960/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3960/contact",
+        "memberFrom": "Crawley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 801,
+  "shortTitle": "Consumer Protection (Private Car Parks) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-02T09:42:19",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 3910,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 3659,
+        "stageId": 7,
+        "billStageId": 3910,
+        "billId": 801,
+        "date": "2011-05-13T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "longTitle": "A Bill to Make provision about sustainable aviation fuel.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4038,
+        "name": "Heidi Alexander",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4038/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4038/contact",
+        "memberFrom": "Swindon South"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4972,
+        "name": "Lord Hendy of Richmond Hill",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4972/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4972/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3972,
+  "shortTitle": "Sustainable Aviation Fuel Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-15T18:12:31.2167845",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20369,
+    "stageId": 4,
+    "sessionId": 39,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 12
+  }
+}

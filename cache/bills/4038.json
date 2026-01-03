@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to prepare and publish a report on access to finance for women in business; to make provision about the publication of data relating to access to finance for women in business; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5274,
+        "name": "Sonia Kumar",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5274/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5274/contact",
+        "memberFrom": "Dudley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4038,
+  "shortTitle": "Access to Finance for Women in Business Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-25T14:04:22.831269",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20308,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17538,
+        "stageId": 7,
+        "billStageId": 20308,
+        "billId": 4038,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

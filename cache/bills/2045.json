@@ -1,0 +1,93 @@
+{
+  "longTitle": "A Bill to repeal the European Communities Act 1972 and make other provision in connection with the withdrawal of the United Kingdom from the EU.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 373,
+        "name": "Mr David Davis",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/373/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/373/contact",
+        "memberFrom": "Haltemprice and Howden"
+      },
+      "organisation": {
+        "name": "Department for Exiting the European Union ",
+        "url": "https://www.gov.uk/government/organisations/department-for-exiting-the-european-union"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4329,
+        "name": "Baroness Evans of Bowes Park",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4329/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4329/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Exiting the European Union ",
+        "url": "https://www.gov.uk/government/organisations/department-for-exiting-the-european-union"
+      },
+      "sortOrder": 2
+    },
+    {
+      "member": {
+        "memberId": 4336,
+        "name": "Lord Callanan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4336/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Exiting the European Union ",
+        "url": "https://www.gov.uk/government/organisations/department-for-exiting-the-european-union"
+      },
+      "sortOrder": 3
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2045,
+  "shortTitle": "European Union (Withdrawal) Act 2018",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-08-28T10:49:51",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 10522,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 9670,
+        "stageId": 11,
+        "billStageId": 10522,
+        "billId": 2045,
+        "date": "2018-06-26T00:00:00"
+      }
+    ],
+    "sortOrder": 19
+  }
+}

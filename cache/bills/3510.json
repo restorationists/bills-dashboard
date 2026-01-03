@@ -1,0 +1,59 @@
+{
+  "longTitle": "A Bill to make provision about the sentencing of offenders convicted of murder or sexual offences; to make provision about the suspension of custodial sentences; to make provision about the release of offenders, including provision about release on licence; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4481,
+        "name": "Alex Chalk",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4481/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4481/contact",
+        "memberFrom": "Cheltenham"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3510,
+  "shortTitle": "Sentencing Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-06-04T15:29:29.4112776",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18118,
+    "stageId": 14,
+    "sessionId": 38,
+    "description": "Programme motion",
+    "abbreviation": "PM",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15103,
+        "stageId": 14,
+        "billStageId": 18118,
+        "billId": 3510,
+        "date": "2023-12-06T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

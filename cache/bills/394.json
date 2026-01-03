@@ -1,0 +1,56 @@
+{
+  "longTitle": "To make provision in respect of Community Amateur Sports Clubs; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3453,
+        "name": "Lord Addington",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3453/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3453/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 394,
+  "shortTitle": "Community Amateur Sports Clubs (Support) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-11-13T11:04:38",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2034,
+    "stageId": 2,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 1956,
+        "stageId": 2,
+        "billStageId": 2034,
+        "billId": 394,
+        "date": "2009-05-08T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

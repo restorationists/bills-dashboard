@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to Make provision approving for the purposes of section 8 of the European Union Act 2011 certain draft decisions under Article 352 of the Treaty on the Functioning of the European Union",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4161,
+        "name": "Lord Gardiner of Kimble",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4161/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4161/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1480,
+        "name": "Maria Miller",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1480/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1480/contact",
+        "memberFrom": "Basingstoke"
+      },
+      "organisation": {
+        "name": "Department for Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1280,
+  "shortTitle": "European Union (Approvals) Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2014-01-31T09:07:13",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 6603,
+    "stageId": 11,
+    "sessionId": 26,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 6204,
+        "stageId": 11,
+        "billStageId": 6603,
+        "billId": 1280,
+        "date": "2014-01-30T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

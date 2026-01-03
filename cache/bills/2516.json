@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to amend the Gender Recognition Act 2004 in relation to a change of gender of someone who is married",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2501,
+        "name": "Baroness Barker",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2501/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2501/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2516,
+  "shortTitle": "Gender Recognition Act 2004 (Amendment) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-11-08T10:19:51",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 34,
+  "includedSessionIds": [
+    34
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15238,
+    "stageId": 2,
+    "sessionId": 34,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

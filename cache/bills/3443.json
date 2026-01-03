@@ -1,0 +1,94 @@
+{
+  "longTitle": "A Bill to make provision about victims of criminal conduct and others affected by criminal conduct; about the appointment and functions of advocates for victims of major incidents; about the release of prisoners; about the membership and functions of the Parole Board; to prohibit certain prisoners from forming a marriage or civil partnership; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4007,
+        "name": "Dominic Raab",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4007/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4007/contact",
+        "memberFrom": "Esher and Walton"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4481,
+        "name": "Alex Chalk",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4481/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4481/contact",
+        "memberFrom": "Cheltenham"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 2
+    },
+    {
+      "member": {
+        "memberId": 4941,
+        "name": "Lord Bellamy",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4941/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4941/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 3
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3443,
+  "shortTitle": "Victims and Prisoners Act 2024",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-11-12T12:43:51.6952602",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37,
+    38
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 18844,
+    "stageId": 11,
+    "sessionId": 38,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 15944,
+        "stageId": 11,
+        "billStageId": 18844,
+        "billId": 3443,
+        "date": "2024-05-24T00:00:00"
+      }
+    ],
+    "sortOrder": 21
+  }
+}

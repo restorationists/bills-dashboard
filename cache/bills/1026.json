@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to amend the law relating to scrap metal dealers; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 157,
+        "name": "Richard Ottaway",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/157/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/157/contact",
+        "memberFrom": "Croydon South"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 236,
+        "name": "Baroness Browning",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/236/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/236/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1026,
+  "shortTitle": "Scrap Metal Dealers Act 2013",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-03-01T16:11:32",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5736,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5390,
+        "stageId": 11,
+        "billStageId": 5736,
+        "billId": 1026,
+        "date": "2013-02-28T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

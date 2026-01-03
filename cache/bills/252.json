@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision in connection with the Treaty of Lisbon Amending the Treaty on European Union and the Treaty Establishing the European Community, signed at Lisbon on 13th December 2007.",
+  "summary": "<p>The Bill paves the way for UK ratification of the Treaty of Lisbon, which was signed on 13 December 2007.  The Lisbon Treaty is an amending Treaty. </p><p>The Lisbon Treaty aims to reform the European Union&rsquo;s institutions to enable it to function more efficiently with 27 Members. It also introduces new elements, many of which were in the abandoned 2004 constitutional treaty.</p><p><strong>Key areas</strong></p><ul><li>The Bill will amend the European Communities Act 1972 to include the Lisbon Treaty in the list of &lsquo;Community Treaties.&rsquo; This gives it legal force in the UK, with the exception of provisions on or linked to the Common Foreign and Security Policy, which will remain subject to intergovernmental procedures.   </li><li>Other amendments to the 1972 Act concern a mechanism for parliamentary control over provisions in the Treaty which allow for its amendment without the full Treaty amendment system, and changes to terminology under existing UK legislation to take account of the new Treaty.<br></li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1452,
+        "name": "David Miliband",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1452/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1452/contact",
+        "memberFrom": "South Shields"
+      },
+      "organisation": {
+        "name": "Foreign and Commonwealth Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2500,
+        "name": "Baroness Ashton of Upholland",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2500/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2500/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Office of the Leader of the House of Lords",
+        "url": "http://www.cabinetoffice.gov.uk/content/office-leader-house-lords"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 252,
+  "shortTitle": "European Union (Amendment) Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-02-23T12:26:14",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1683,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1659,
+        "stageId": 11,
+        "billStageId": 1683,
+        "billId": 252,
+        "date": "2008-06-19T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

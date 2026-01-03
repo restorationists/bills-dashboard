@@ -1,0 +1,56 @@
+{
+  "longTitle": "Exempt persons with cystic fibrosis from charges for drugs, medicines, appliances and pharmaceutical services; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 350,
+        "name": "Mr John Hayes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/350/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/350/contact",
+        "memberFrom": "South Holland and The Deepings"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 145,
+  "shortTitle": "Cystic Fibrosis (Exemption from Prescription Charges) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-11-01T09:44:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 677,
+    "stageId": 7,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 546,
+        "stageId": 7,
+        "billStageId": 677,
+        "billId": 145,
+        "date": "2007-03-23T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

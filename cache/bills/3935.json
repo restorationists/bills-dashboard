@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the use of the title of nurse; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1489,
+        "name": "Dawn Butler",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1489/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1489/contact",
+        "memberFrom": "Brent East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3935,
+  "shortTitle": "Nurse (Use of Title) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-05-16T11:52:40.9100056",
+  "billWithdrawn": "2025-05-16T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19548,
+    "stageId": 6,
+    "sessionId": 39,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16708,
+        "stageId": 6,
+        "billStageId": 19548,
+        "billId": 3935,
+        "date": "2025-02-11T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

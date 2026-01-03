@@ -1,0 +1,63 @@
+{
+  "longTitle": "A Bill to change the procedure for amending Schedule 2 to the Misuse of Drugs Act 1971.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5349,
+        "name": "Alex McIntyre",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5349/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5349/contact",
+        "memberFrom": "Gloucester"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3782,
+  "shortTitle": "Controlled Drugs (Procedure for Specification) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-26T12:52:57.4305468",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20047,
+    "stageId": 9,
+    "sessionId": 39,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17242,
+        "stageId": 9,
+        "billStageId": 20047,
+        "billId": 3782,
+        "date": "2025-07-11T00:00:00"
+      },
+      {
+        "id": 17281,
+        "stageId": 9,
+        "billStageId": 20047,
+        "billId": 3782,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

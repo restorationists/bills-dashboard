@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to introduce a system of proportional representation for Parliamentary elections, for elections for directly-elected mayors in England, for local authority elections in England and for police and crime commissioner elections in England and Wales.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4436,
+        "name": "Cat Smith",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4436/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4436/contact",
+        "memberFrom": "Lancaster and Fleetwood"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3383,
+  "shortTitle": "Elections (Proportional Representation) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-03-23T15:53:23.4917885",
+  "billWithdrawn": "2023-03-23T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17183,
+    "stageId": 7,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13991,
+        "stageId": 7,
+        "billStageId": 17183,
+        "billId": 3383,
+        "date": "2023-03-24T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about meeting the needs of persons with Down syndrome; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 223,
+        "name": "Dr Liam Fox",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/223/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/223/contact",
+        "memberFrom": "North Somerset"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4190,
+        "name": "Baroness Hollins",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4190/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4190/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2899,
+  "shortTitle": "Down Syndrome Act 2022",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-05T16:59:31.0939632",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 16389,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 13118,
+        "stageId": 11,
+        "billStageId": 16389,
+        "billId": 2899,
+        "date": "2022-04-28T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

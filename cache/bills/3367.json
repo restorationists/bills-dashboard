@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to set standards as to the emissions particulate sensing technology to be used in roadworthiness tests for diesel vehicles; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 411,
+        "name": "Mr Barry Sheerman",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/411/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/411/contact",
+        "memberFrom": "Huddersfield"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3367,
+  "shortTitle": "Motor Vehicle Tests (Diesel Particulate Filters) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T11:57:42.9434589",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17111,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13911,
+        "stageId": 6,
+        "billStageId": 17111,
+        "billId": 3367,
+        "date": "2022-11-15T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

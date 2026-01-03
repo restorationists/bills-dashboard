@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about absent voting in connection with local government elections in Scotland and Wales, elections to the Scottish Parliament and elections to Senedd Cymru; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5188,
+        "name": "Tracy Gilbert",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5188/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5188/contact",
+        "memberFrom": "Edinburgh North and Leith"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 546,
+        "name": "Lord Murphy of Torfaen",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/546/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/546/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3785,
+  "shortTitle": "Absent Voting (Elections in Scotland and Wales) Act 2025",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-10-31T16:45:37.3019749",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 20255,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 17473,
+        "stageId": 11,
+        "billStageId": 20255,
+        "billId": 3785,
+        "date": "2025-10-27T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

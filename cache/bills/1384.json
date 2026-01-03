@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to repeal section 13 of the Defamation Act 1996.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2037,
+        "name": "Lord Lester of Herne Hill",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2037/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2037/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1384,
+  "shortTitle": "Parliamentary Privilege (Defamation) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2014-06-30T09:13:26",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 6907,
+    "stageId": 2,
+    "sessionId": 27,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 6496,
+        "stageId": 2,
+        "billStageId": 6907,
+        "billId": 1384,
+        "date": "2014-06-27T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

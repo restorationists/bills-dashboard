@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to create offences and make other provision relating to sub-letting and parting with possession of social housing; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4068,
+        "name": "Richard Harrington",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4068/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4068/contact",
+        "memberFrom": "Watford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4184,
+        "name": "Baroness Eaton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4184/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4184/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1037,
+  "shortTitle": "Prevention of Social Housing Fraud Act 2013",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-02-01T09:35:58",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5661,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5300,
+        "stageId": 11,
+        "billStageId": 5661,
+        "billId": 1037,
+        "date": "2013-01-31T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

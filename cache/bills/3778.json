@@ -1,0 +1,63 @@
+{
+  "longTitle": "A Bill to make provision for the protection of children accessing digital services and content.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5033,
+        "name": "Josh MacAlister",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5033/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5033/contact",
+        "memberFrom": "Whitehaven and Workington"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3778,
+  "shortTitle": "Protection of Children (Digital Safety and Data Protection) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-09-11T14:25:18.6254398",
+  "billWithdrawn": "2025-09-10T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19022,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16098,
+        "stageId": 7,
+        "billStageId": 19022,
+        "billId": 3778,
+        "date": "2025-03-07T00:00:00"
+      },
+      {
+        "id": 16806,
+        "stageId": 7,
+        "billStageId": 19022,
+        "billId": 3778,
+        "date": "2025-07-11T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

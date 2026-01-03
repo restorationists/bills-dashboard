@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to regulate works on certain highways in England by making provision about weekend and bank holiday working and provision about removal of traffic lights and other traffic management measures after the completion of works.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4358,
+        "name": "Wendy Morton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4358/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4358/contact",
+        "memberFrom": "Aldridge-Brownhills"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1866,
+  "shortTitle": "Highway Works (Weekend Working and Traffic Management Measures) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-01-18T10:31:02",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14626,
+    "stageId": 7,
+    "sessionId": 29,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

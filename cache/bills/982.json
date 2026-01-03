@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision about the registration of electors and the administration and conduct of elections.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1563,
+        "name": "Mr Nick Clegg",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1563/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1563/contact",
+        "memberFrom": "Sheffield, Hallam"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1816,
+        "name": "Lord Wallace of Saltaire",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1816/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1816/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 982,
+  "shortTitle": "Electoral Registration and Administration Act 2013",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-02-01T09:39:42",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5664,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5276,
+        "stageId": 11,
+        "billStageId": 5664,
+        "billId": 982,
+        "date": "2013-01-31T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

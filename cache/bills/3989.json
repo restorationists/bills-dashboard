@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to increase the minimum required height of guarding in multi-storey car parks; to make provision about the height of guarding in existing multi-storey car parks; to require 24 hour staffing of multi-storey car parks; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4397,
+        "name": "Peter Dowd",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4397/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4397/contact",
+        "memberFrom": "Bootle"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3989,
+  "shortTitle": "Multi-Storey Car Parks (Safety) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-25T13:58:03.6878727",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20016,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17164,
+        "stageId": 7,
+        "billStageId": 20016,
+        "billId": 3989,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

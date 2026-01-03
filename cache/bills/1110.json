@@ -1,0 +1,77 @@
+{
+  "longTitle": "To make provision for or in connection with reforming the electricity market for purposes of encouraging low carbon electricity generation or ensuring security of supply; for the establishment and functions of the Office for Nuclear Regulation; about the government pipe-line and storage system and\r\nrights exercisable in relation to it; about the designation of a strategy and policy statement; for the making of orders requiring regulated persons to provide redress to consumers of gas or electricity; about offshore transmission of electricity during a commissioning period; for imposing further fees in\r\nrespect of nuclear decommissioning costs; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 188,
+        "name": "Mr Edward Davey",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/188/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/188/contact",
+        "memberFrom": "Kingston and Surbiton"
+      },
+      "organisation": {
+        "name": "Department of Energy and Climate Change",
+        "url": "https://www.gov.uk/government/organisations/department-of-energy-climate-change"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3790,
+        "name": "Baroness Verma",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3790/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3790/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department of Energy and Climate Change",
+        "url": "https://www.gov.uk/government/organisations/department-of-energy-climate-change"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1110,
+  "shortTitle": "Energy Act 2013",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-03-23T15:03:46.5225676",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25,
+    26
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 6516,
+    "stageId": 11,
+    "sessionId": 26,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 6071,
+        "stageId": 11,
+        "billStageId": 6516,
+        "billId": 1110,
+        "date": "2013-12-18T00:00:00"
+      }
+    ],
+    "sortOrder": 22
+  }
+}

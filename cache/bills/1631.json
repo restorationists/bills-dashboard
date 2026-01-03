@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to enable competent adults who are terminally ill to choose to be provided with medically supervised assistance to end their own life; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1468,
+        "name": "Rob Marris",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1468/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1468/contact",
+        "memberFrom": "Wolverhampton South West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1631,
+  "shortTitle": "Assisted Dying (No. 2) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-05-12T15:22:32",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 7835,
+    "stageId": 7,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 7324,
+        "stageId": 7,
+        "billStageId": 7835,
+        "billId": 1631,
+        "date": "2015-09-11T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

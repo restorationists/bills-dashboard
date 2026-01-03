@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision about donations, loans and related transactions for\r\npolitical purposes in connection with Northern Ireland; to amend the\r\nNorthern Ireland Assembly Disqualification Act 1975 and the Northern Ireland Act 1998; to make provision about the registration of electors and the administration of elections in Northern Ireland; and to make miscellaneous amendments in the law relating to Northern Ireland.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1500,
+        "name": "Mrs Theresa Villiers",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1500/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1500/contact",
+        "memberFrom": "Chipping Barnet"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4230,
+        "name": "Baroness Randerson",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4230/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4230/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1178,
+  "shortTitle": "Northern Ireland (Miscellaneous Provisions) Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-03-14T09:33:18",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 6722,
+    "stageId": 11,
+    "sessionId": 26,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 6281,
+        "stageId": 11,
+        "billStageId": 6722,
+        "billId": 1178,
+        "date": "2014-03-13T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

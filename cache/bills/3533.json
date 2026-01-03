@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to Prohibit the export of certain livestock from Great Britain for slaughter.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4095,
+        "name": "Steve Barclay",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4095/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4095/contact",
+        "memberFrom": "North East Cambridgeshire"
+      },
+      "organisation": {
+        "name": "Department for Environment, Food and Rural Affairs",
+        "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 5006,
+        "name": "Lord Douglas-Miller",
+        "party": null,
+        "partyColour": null,
+        "house": "Unassigned",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5006/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5006/contact",
+        "memberFrom": null
+      },
+      "organisation": {
+        "name": "Department for Environment, Food and Rural Affairs",
+        "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3533,
+  "shortTitle": "Animal Welfare (Livestock Exports) Act 2024",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-01-08T11:03:53.8293098",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 18773,
+    "stageId": 11,
+    "sessionId": 38,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 15877,
+        "stageId": 11,
+        "billStageId": 18773,
+        "billId": 3533,
+        "date": "2024-05-20T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to allow for certain civil and family court hearings to be conducted remotely.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4791,
+        "name": "Andy Carter",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4791/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4791/contact",
+        "memberFrom": "Warrington South"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3581,
+  "shortTitle": "Courts (Remote Hearings) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-09-23T14:55:29.0740151",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18558,
+    "stageId": 8,
+    "sessionId": 38,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15834,
+        "stageId": 8,
+        "billStageId": 18558,
+        "billId": 3581,
+        "date": "2024-05-15T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

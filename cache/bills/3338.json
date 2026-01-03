@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision for and in connection with the repeal of the Health and Social Care Levy Act 2021.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4134,
+        "name": "Kwasi Kwarteng",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4134/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4134/contact",
+        "memberFrom": "Spelthorne"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4169,
+        "name": "Viscount Younger of Leckie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4169/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4169/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3338,
+  "shortTitle": "Health and Social Care Levy (Repeal) Act 2022",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-10-26T15:15:08.5001983",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 16991,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 13827,
+        "stageId": 11,
+        "billStageId": 16991,
+        "billId": 3338,
+        "date": "2022-10-25T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

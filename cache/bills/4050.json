@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide that, for the purposes of the Zoo Licensing Act 1981, domesticated reindeer are not wild animals; to make further provision about licensing in respect of the keeping or training of reindeer for exhibition; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4995,
+        "name": "Sarah Dyke",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4995/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4995/contact",
+        "memberFrom": "Glastonbury and Somerton"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4050,
+  "shortTitle": "Reindeer (Licensing for Exhibition) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-11T12:18:02.9814683",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20371,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17622,
+        "stageId": 7,
+        "billStageId": 20371,
+        "billId": 4050,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

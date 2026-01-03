@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for screening for dyslexia in primary schools; to make provision about teacher training relating to neurodivergent conditions; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4070,
+        "name": "Matt Hancock",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4070/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4070/contact",
+        "memberFrom": "West Suffolk"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3208,
+  "shortTitle": "Dyslexia Screening and Teacher Training Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-31T16:55:36.8573299",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16607,
+    "stageId": 7,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13314,
+        "stageId": 7,
+        "billStageId": 16607,
+        "billId": 3208,
+        "date": "2022-12-02T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "To amend the objectives of the Bank of England in relation to monetary policy.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2154,
+        "name": "Lord Saatchi",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2154/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2154/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 373,
+  "shortTitle": "Bank of England (Amendment) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-11-06T10:35:24",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2481,
+    "stageId": 5,
+    "sessionId": 22,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 2312,
+        "stageId": 5,
+        "billStageId": 2481,
+        "billId": 373,
+        "date": "2009-06-17T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision changing the law about the offence of livestock worrying, including changes to what constitutes an offence and increased powers for investigation of suspected offences; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5081,
+        "name": "Joe Morris",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5081/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5081/contact",
+        "memberFrom": "Hexham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3828,
+  "shortTitle": "Dogs (Protection of Livestock) (Amendment) (No. 2) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-04-22T16:46:34.5773275",
+  "billWithdrawn": "2025-04-22T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19137,
+    "stageId": 6,
+    "sessionId": 39,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16219,
+        "stageId": 6,
+        "billStageId": 19137,
+        "billId": 3828,
+        "date": "2024-10-22T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

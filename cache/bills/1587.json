@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the introduction of a new set of council tax valuation bands to apply to all dwellings bought or sold after 1 April 2000",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1854,
+        "name": "Lord Marlesford",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1854/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1854/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1587,
+  "shortTitle": "Council Tax Valuation Bands Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2016-05-12T15:10:03",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 8517,
+    "stageId": 3,
+    "sessionId": 28,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 7887,
+        "stageId": 3,
+        "billStageId": 8517,
+        "billId": 1587,
+        "date": "2016-04-22T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

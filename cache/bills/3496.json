@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require Ofgem to amend the conditions of an electricity supply licence in relation to vulnerable customers; to require Ofgem to establish a fund for the purpose of rectifying dangerous electrical faults for vulnerable customers; to require energy supply companies to inform vulnerable customers about the services available to customers on the Priority Services Register; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4829,
+        "name": "Sam Tarry",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4829/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4829/contact",
+        "memberFrom": "Ilford South"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3496,
+  "shortTitle": "Electricity Supply (Vulnerable Customers) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-01T11:39:51.0919473",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17936,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14926,
+        "stageId": 6,
+        "billStageId": 17936,
+        "billId": 3496,
+        "date": "2023-09-12T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

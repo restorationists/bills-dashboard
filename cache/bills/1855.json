@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to repeal sections 146(4) and 147(3) of the Criminal Justice and Public Order Act 1994.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4051,
+        "name": "John Glen",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4051/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4051/contact",
+        "memberFrom": "Salisbury"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4553,
+        "name": "Baroness Scott of Bybrook",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4553/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4553/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1855,
+  "shortTitle": "Merchant Shipping (Homosexual Conduct) Act 2017",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-04-28T10:57:43",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 9518,
+    "stageId": 11,
+    "sessionId": 29,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 8782,
+        "stageId": 11,
+        "billStageId": 9518,
+        "billId": 1855,
+        "date": "2017-04-27T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

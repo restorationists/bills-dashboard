@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision relating to the promotion of economic recovery and growth.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4014,
+        "name": "Alok Sharma",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4014/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4014/contact",
+        "memberFrom": "Reading West"
+      },
+      "organisation": {
+        "name": "Department for Business, Energy and Industrial Strategy",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2000,
+        "name": "Earl Howe",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2000/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2000/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "Department for Business, Energy and Industrial Strategy",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2753,
+  "shortTitle": "Business and Planning Act 2020",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2020-07-24T10:25:48",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12351,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 11209,
+        "stageId": 11,
+        "billStageId": 12351,
+        "billId": 2753,
+        "date": "2020-07-22T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

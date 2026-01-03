@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about the procedure for conducting investigations under Part 3 of the Local Government Act 1974; and to make provision for cases where an authority to which that Part applies takes a decision that affects the holding of an event for a reason relating to health or safety.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4055,
+        "name": "Mr Mark Spencer",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4055/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4055/contact",
+        "memberFrom": "Sherwood"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4184,
+        "name": "Baroness Eaton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4184/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4184/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1429,
+  "shortTitle": "Local Government (Review of Decisions) Act 2015",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-27T11:14:16",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7717,
+    "stageId": 11,
+    "sessionId": 27,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7184,
+        "stageId": 11,
+        "billStageId": 7717,
+        "billId": 1429,
+        "date": "2015-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

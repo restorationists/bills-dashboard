@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the Prime Minister to revoke the notification, under Article 50(2) of the Treaty on European Union, of the United Kingdom’s intention to withdraw from the European Union unless two conditions are met; to establish as the first condition for non-revocation that a withdrawal agreement has been approved by Parliament by 21 January 2019 or during an extension period agreed by that date under Article 50(3) of the Treaty on European Union; to establish as the second condition for non-revocation that a majority of participating voters have voted in favour of that agreement in a referendum in which the United Kingdom remaining as a member of the European Union was the other option; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 155,
+        "name": "Geraint Davies",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/155/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/155/contact",
+        "memberFrom": "Swansea West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2327,
+  "shortTitle": "European Union (Revocation of Notification of Withdrawal) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-03-22T10:40:02",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15064,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide for the Secretary of State to make regulations about the safety of goods sold online; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4783,
+        "name": "Kate Osborne",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4783/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4783/contact",
+        "memberFrom": "Jarrow"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3206,
+  "shortTitle": "Online Sale of Goods (Safety) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T12:38:32.7110199",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16603,
+    "stageId": 7,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13310,
+        "stageId": 7,
+        "billStageId": 16603,
+        "billId": 3206,
+        "date": "2023-03-24T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

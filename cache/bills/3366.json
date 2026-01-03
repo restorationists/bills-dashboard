@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to add His Royal Highness The Earl of Wessex and Her Royal Highness The Princess Royal to the persons to whom royal functions may be delegated as Counsellors of State.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4200,
+        "name": "Lord True",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4200/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4200/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4441,
+        "name": "Oliver Dowden",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4441/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4441/contact",
+        "memberFrom": "Hertsmere"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3366,
+  "shortTitle": "Counsellors of State Act 2022",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-12-08T15:37:35.8267822",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17214,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14026,
+        "stageId": 11,
+        "billStageId": 17214,
+        "billId": 3366,
+        "date": "2022-12-06T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

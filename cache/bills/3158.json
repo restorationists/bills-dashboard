@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about the UK Infrastructure Bank",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4726,
+        "name": "Baroness Penn",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4726/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4726/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4655,
+        "name": "Mr Simon Clarke",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4655/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4655/contact",
+        "memberFrom": "Middlesbrough South and East Cleveland"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3158,
+  "shortTitle": "UK Infrastructure Bank Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-03-28T11:01:15.2817311",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17560,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14436,
+        "stageId": 11,
+        "billStageId": 17560,
+        "billId": 3158,
+        "date": "2023-03-23T00:00:00"
+      }
+    ],
+    "sortOrder": 17
+  }
+}

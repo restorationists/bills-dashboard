@@ -1,0 +1,59 @@
+{
+  "longTitle": "A Bill to authorise the use of resources for the service of the year ending 31 March 2010; to appropriate the supply authorised in this Session of Parliament for the service of the year ending 31 March 2010; and to repeal certain Consolidated Fund and Appropriation Acts.",
+  "summary": "<p>The Bill provides Parliamentary authority for funds requested by the Government. It is part of &lsquo;supply procedure&rsquo;, which is how Parliament grants the Government&rsquo;s requests for resources. Two Consolidated Fund (Appropriation) Bills are passed each year, in March and July. They are sometimes referred to simply as &lsquo;Appropriation Bills&rsquo;. These, together with the Consolidated Fund Bill, provide authorisation from Parliament for the resources sought by the Government. Proceedings on the Bill are formal - there is no debate and the Bill goes through &lsquo;on the nod&rsquo;. Once passed, the Bill becomes the Appropriation (No. 2) Act.</p><p>Key areas</p><ul><li>Authorises provision sought in the Main Estimates (and any Summer Supplementary Estimates) for 2009-10, less that already allocated in the Vote on Account</li><li>Authorises the release of money from the Consolidated Fund, which is the Government&rsquo;s bank account</li><li>Places limits on the purposes for which the money may be spent.</li></ul><p> </p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 163,
+        "name": "Stephen Timms",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/163/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/163/contact",
+        "memberFrom": "East Ham"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 501,
+  "shortTitle": "Appropriation (No. 2) Act 2009",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-10-27T09:33:01",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 2706,
+    "stageId": 11,
+    "sessionId": 22,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2558,
+        "stageId": 11,
+        "billStageId": 2706,
+        "billId": 501,
+        "date": "2009-10-21T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

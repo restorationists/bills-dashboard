@@ -1,0 +1,48 @@
+{
+  "longTitle": null,
+  "summary": "A Bill to provide the framework for the appointment and functions of a Press Council to act independently and in the public interest to promote and protect freedom of expression, including freedom of the press, in communicating information and opinions to the public, to encourage and maintain professional standards and practices, and to provide redress for victims of professional misconduct; and for connected purposes.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2037,
+        "name": "Lord Lester of Herne Hill",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2037/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2037/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1115,
+  "shortTitle": "Independent Press Council Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-04-30T11:09:21",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13916,
+    "stageId": 2,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

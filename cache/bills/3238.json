@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Sentencing Code to provide for a minimum sentence for cases of manslaughter which are sexually-motivated.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4826,
+        "name": "Laura Farris",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4826/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4826/contact",
+        "memberFrom": "Newbury"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3238,
+  "shortTitle": "Sexually-motivated Manslaughter (Sentencing) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-03-10T10:13:23.7667228",
+  "billWithdrawn": "2023-03-09T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16675,
+    "stageId": 7,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13394,
+        "stageId": 7,
+        "billStageId": 16675,
+        "billId": 3238,
+        "date": "2023-03-24T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

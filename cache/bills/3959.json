@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision that occupiers of dwellings owned by certain forms of co-operatives shall occupy those dwellings by virtue of their membership of the co-operative and not as tenants or under any other type of property interest; to make provision for co-operative tenure and for the rights and obligations of the co-operative and its members; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5243,
+        "name": "Andrew Pakes",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5243/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5243/contact",
+        "memberFrom": "Peterborough"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3959,
+  "shortTitle": "Co-operative Housing Tenure Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-07-11T16:23:54.0176418",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19838,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

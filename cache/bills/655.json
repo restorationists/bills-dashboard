@@ -1,0 +1,62 @@
+{
+  "longTitle": "A Bill to make provision for the regulation of the re-export of military equipment and goods further to their original exportation from the United Kingdom.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 738,
+        "name": "Lord Alton of Liverpool",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/738/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/738/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 93,
+        "name": "Tony Baldry",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/93/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/93/contact",
+        "memberFrom": "Banbury"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 655,
+  "shortTitle": "Re-Export Controls Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2012-05-01T16:09:37",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13500,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 6
+  }
+}

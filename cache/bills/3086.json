@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to establish a closed season during which the killing or taking of hares is prohibited; to repeal the seasonal prohibition of the sale of hares in the Hares Preservation Act 1892; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3912,
+        "name": "Richard Fuller",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3912/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3912/contact",
+        "memberFrom": "North East Bedfordshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3086,
+  "shortTitle": "Hares (Closed Season) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-02-24T20:48:07.763739",
+  "billWithdrawn": "2022-02-25T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15978,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12596,
+        "stageId": 7,
+        "billStageId": 15978,
+        "billId": 3086,
+        "date": "2022-03-18T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

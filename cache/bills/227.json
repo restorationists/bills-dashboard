@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Animals Act 1971 to limit strict liability for damage done by animals",
+  "summary": "The Bill aims to reduce the number of instances under the Animals Act 1971 when, following an accident involving certain types of animal, an owner of the animal is strictly liable (that is, liable to pay compensation regardless of whether there is any fault on the owner&rsquo;s part). <br><br>The Bill was drafted in conjunction with the Department for Environment, Food and Rural Affairs.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1554,
+        "name": "Mr Stephen Crabb",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1554/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1554/contact",
+        "memberFrom": "Preseli Pembrokeshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 227,
+  "shortTitle": "Animals Act 1971 (Amendment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2011-02-07T14:34:53",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 1164,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 1061,
+        "stageId": 7,
+        "billStageId": 1164,
+        "billId": 227,
+        "date": "2008-03-14T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

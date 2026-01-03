@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the BBC to enable licence fee payers to vote on its strategic direction and aspects of senior salaries and programming, including referenda on particular issues; to provide for election of the BBC Trust and the non-executive members of the BBC Executive Board by licence fee payers; to make other provision relating to the governance of the BBC; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3985,
+        "name": "Robert Halfon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3985/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3985/contact",
+        "memberFrom": "Harlow"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 826,
+  "shortTitle": "BBC Licence Fee Payers (Voting Rights) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-01T15:04:39",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13651,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

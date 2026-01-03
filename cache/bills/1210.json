@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide for the assessment of drug dependency or propensity for drug misuse of persons who, in the course of investigations for certain driving offences, have provided blood or urine samples that reveal the presence of certain drugs; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4081,
+        "name": "Graham Evans",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4081/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4081/contact",
+        "memberFrom": "Weaver Vale"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1210,
+  "shortTitle": "Drug Driving (Assessment of Drug Misuse) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-05-15T13:34:31",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 6042,
+    "stageId": 7,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 5697,
+        "stageId": 7,
+        "billStageId": 6042,
+        "billId": 1210,
+        "date": "2013-10-18T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

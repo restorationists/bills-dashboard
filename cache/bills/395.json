@@ -1,0 +1,76 @@
+{
+  "longTitle": "To provide for customs functions to be exercisable by the Secretary of State, the Director of Border Revenue and officials designated by them; to make provision about the use and disclosure of customs information; to make provision for and in connection with the exercise of customs functions and functions relating to immigration, asylum or nationality; to make provision about citizenship and other nationality matters; to make further provision about immigration and asylum; and for connected purposes.",
+  "summary": "<p>The Bill is the latest to seek to amend the law on immigration, asylum and nationality.  It includes the citizenship and child protection aspects of the Draft (Partial) Immigration and Citizenship Bill which was published for consultation in July 2008. It incorporates aspects of other consultation exercises on the Common Travel Area (the UK, the Channel Islands, the Isle of Man and the Republic of Ireland), and on immigration appeals.  </p><p>Key areas   </p><ul><li>Allows for certain functions to be transferred from HM Revenue &amp; Customs to officials of the recently created UK Border Agency. The customs role of the UK Border Agency will focus on border-related matters, while HM Revenue &amp; Customs will retain responsibility for revenue and customs functions inland</li><li>Implements the Government's proposals for a new 'path to citizenship' by amending provisions of the British Nationality Act 1981 relating to naturalisation as a British citizen. Other amendments relate to the children of foreign and Commonwealth members of the armed forces and to the registration as British citizens of children born abroad to British mothers before 7 February 1961</li><li>Introduces powers to control all those arriving in the UK from another part of the Common Travel Area. Other changes relate to restrictions on studying in the UK, powers to take fingerprints, and detention at ports in Scotland</li><li>Allows judicial review applications in immigration and nationality cases to be heard by the new Upper Tribunal instead of the High Court </li><li>Introduces a new duty on the UK Border Agency to safeguard the welfare of children. </li></ul>A further draft Immigration Bill, implementing the rest of the Government's proposals, is expected in the autumn.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3834,
+        "name": "Lord West of Spithead",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3834/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3834/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 269,
+        "name": "Jacqui Smith",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/269/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/269/contact",
+        "memberFrom": "Redditch"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 395,
+  "shortTitle": "Borders, Citizenship and Immigration Act 2009",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-11-12T10:02:51",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 2654,
+    "stageId": 11,
+    "sessionId": 22,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2525,
+        "stageId": 11,
+        "billStageId": 2654,
+        "billId": 395,
+        "date": "2009-07-20T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

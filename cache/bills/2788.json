@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to establish minimum standards regarding searches and assessments of risk for solicitors and licensed conveyancers acting on behalf of purchasers of residential properties; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4789,
+        "name": "Marco Longhi",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4789/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4789/contact",
+        "memberFrom": "Dudley North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2788,
+  "shortTitle": "Conveyancing Standards Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-04T14:25:41.5133212",
+  "billWithdrawn": "2021-03-04T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12455,
+    "stageId": 6,
+    "sessionId": 35,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 11316,
+        "stageId": 6,
+        "billStageId": 12455,
+        "billId": 2788,
+        "date": "2020-10-07T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

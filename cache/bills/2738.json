@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about reports of the Boundary Commissions under the Parliamentary Constituencies Act 1986; to make provision about the number of parliamentary constituencies and other rules for the distribution of seats; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1609,
+        "name": "Chloe Smith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1609/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1609/contact",
+        "memberFrom": "Norwich North"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4200,
+        "name": "Lord True",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4200/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4200/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2738,
+  "shortTitle": "Parliamentary Constituencies Act 2020",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2020-12-15T08:57:24",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12614,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 11434,
+        "stageId": 11,
+        "billStageId": 12614,
+        "billId": 2738,
+        "date": "2020-12-14T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "longTitle": "Make provision to alter the rates of the standard allowance, limited capability for work element and limited capability for work and work-related activity element of universal credit and the rates of income-related employment and support allowance.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4026,
+        "name": "Liz Kendall",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4026/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4026/contact",
+        "memberFrom": "Leicester West"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4147,
+        "name": "Baroness Sherlock",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4147/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4147/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3988,
+  "shortTitle": "Universal Credit Act 2025",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-09-04T10:11:05.5495842",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 20152,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 17337,
+        "stageId": 11,
+        "billStageId": 20152,
+        "billId": 3988,
+        "date": "2025-09-03T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

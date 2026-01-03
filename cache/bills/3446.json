@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to remove the requirement for voters to show an identity document in order to vote; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4934,
+        "name": "Helen Morgan",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4934/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4934/contact",
+        "memberFrom": "North Shropshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3446,
+  "shortTitle": "Elections (Voter Identification Requirements) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-01T11:34:29.0039411",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17598,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14465,
+        "stageId": 6,
+        "billStageId": 17598,
+        "billId": 3446,
+        "date": "2023-03-29T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

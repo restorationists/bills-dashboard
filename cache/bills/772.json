@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to extend the powers of the Local Government Ombudsman to provide redress against local authorities which unreasonably ban events on the grounds of health and safety.",
+  "summary": "<p>The Bill would provide that, if a local authority banned or imposed restrictions on an event on the grounds of health and safety, it would be obliged to notify the event organiser on the day the decision was taken, including the details of the ban and the reasons for it.</p><p>The event organiser would then be entitled to ask for a review of the decision; the local authority would be required to conduct the review within two weeks of the request. </p><p>The Bill would also amend the Local Government Act 1974 to give event organisers the right to seek an investigation by a Local Commissioner into whether a ban or restriction on the grounds of health and safety was reasonable. If the ban or restriction was found by the Local Commissioner to be unreasonable, a further amendment to the Act would require the local authority to implement any recommendations made in the Commissioner's report within three months, and would give the Local Commissioner the right of redress against the local authority in such cases.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 242,
+        "name": "Mr Christopher Chope",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/242/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/242/contact",
+        "memberFrom": "Christchurch"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 772,
+  "shortTitle": "Local Government (Review of Decisions) Bill formerly known as the Local Government Ombudsman (Amendment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-01T15:41:51",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 4685,
+    "stageId": 9,
+    "sessionId": 24,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 4406,
+        "stageId": 9,
+        "billStageId": 4685,
+        "billId": 772,
+        "date": "2012-01-20T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  }
+}

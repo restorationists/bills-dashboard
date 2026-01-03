@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide that certain offences committed towards members of the armed forces shall be treated as aggravated; to prohibit discrimination against individuals in terms of provision of goods and services on the grounds that they are members of the armed forces; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3962,
+        "name": "Thomas Docherty",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3962/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3962/contact",
+        "memberFrom": "Dunfermline and West Fife"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1261,
+  "shortTitle": "Armed Forces (Prevention of Discrimination) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-05-15T11:38:07",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 6147,
+    "stageId": 7,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 5755,
+        "stageId": 7,
+        "billStageId": 6147,
+        "billId": 1261,
+        "date": "2014-01-24T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

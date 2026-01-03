@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to establish the right to breathe clean air; to make provision for the purpose of reducing indoor and outdoor air pollution, including greenhouse gases; to set minimum standards for air quality in workplaces, homes and public spaces; to require the monitoring of air quality; to require the Secretary of State to publish a strategy for reducing air pollution, including setting targets and measures for air quality, and to report to Parliament annually on the implementation of that strategy; to give powers to the Office for Environmental Protection to enforce legislation relating to air quality and the reduction of greenhouse gas emissions; to make provision for the purpose of reducing pollution from vehicles; to place a duty on the Secretary of State to encourage and facilitate forms of active travel and to publish a strategy for reducing emissions from transport; to require the Secretary of State to promote public awareness of the impact of air pollution on public health; to place restrictions on the use of wood-burning stoves in urban areas; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 155,
+        "name": "Geraint Davies",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/155/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/155/contact",
+        "memberFrom": "Swansea West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3412,
+  "shortTitle": "Clean Air Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-31T12:55:21.6602234",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17365,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14206,
+        "stageId": 6,
+        "billStageId": 17365,
+        "billId": 3412,
+        "date": "2023-01-31T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

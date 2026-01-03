@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to place a duty on highway authorities and police forces to minimise congestion and delays caused by collisions and other incidents on the highway; and for connected purposes",
+  "summary": "This Bill would extend the Network Management Duty of local highways authorities under the Traffic Management Act 2004.   It would require local highway authorities to: <br><ul><li>Minimise any congestion caused by collisions and other incidents on the highway </li><li>Ensure that such incidents were managed and cleared expeditiously </li><li>Make an annual report of such incidents, including the measures the authority took to mitigate them. </li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 242,
+        "name": "Mr Christopher Chope",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/242/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/242/contact",
+        "memberFrom": "Christchurch"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 249,
+  "shortTitle": "Road Traffic (Congestion Reduction) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-10-30T19:12:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 1213,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 1095,
+        "stageId": 7,
+        "billStageId": 1213,
+        "billId": 249,
+        "date": "2008-06-13T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

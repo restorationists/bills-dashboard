@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about airspace change proposals and about the licensing regime for air traffic services under Part 1 of the Transport Act 2000, to confer police powers relating to unmanned aircraft and requirements in Air Navigation Orders and to provide for fixed penalties for certain offences relating to unmanned aircraft",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4580,
+        "name": "Baroness Vere of Norbiton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4580/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4580/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1582,
+        "name": "Grant Shapps",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1582/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1582/contact",
+        "memberFrom": "Welwyn Hatfield"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2533,
+  "shortTitle": "Air Traffic Management and Unmanned Aircraft Act 2021",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-11-14T14:30:40.0539344",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12888,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 11758,
+        "stageId": 11,
+        "billStageId": 12888,
+        "billId": 2533,
+        "date": "2021-04-29T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

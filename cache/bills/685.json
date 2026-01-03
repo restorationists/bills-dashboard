@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to improve the sustainability of the production, processing, marketing, manufacturing, distribution and consumption of products derived to any substantial extent from livestock; and for connected purposes.",
+  "summary": "<p>The Bill aims to reduce the environmental impacts of livestock production in the UK. It would also amend the way agricultural subsidies are used to make them more environmentally friendly. It includes a duty to give consideration to supporting sustainable practices and consumption through public procurement of livestock produce.</p><p>The Bill also aims to reduce rainforest deforestation by reducing the use of soya meal in animal feed in the UK. It would do this by placing a duty on the Secretary of State to ensure the sustainability of livestock, and to give consideration to issues such as public procurement and agricultural subsidy reform.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1569,
+        "name": "Robert Flello",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1569/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1569/contact",
+        "memberFrom": "Stoke-on-Trent South"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 685,
+  "shortTitle": "Sustainable Livestock Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-01T15:52:20",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 3512,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 3280,
+        "stageId": 7,
+        "billStageId": 3512,
+        "billId": 685,
+        "date": "2010-11-12T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

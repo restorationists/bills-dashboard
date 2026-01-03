@@ -1,0 +1,65 @@
+{
+  "longTitle": "To make provision for the restructuring of the Royal Mail group and about the Royal Mail Pension Plan; to make new provision about the regulation of postal services; and for connected purposes.",
+  "summary": "<p><br>The Bill provides for the restructuring of Royal Mail Group Ltd, changes in the Royal Mail Pension Plan, and a change in the regulation of postal services.</p><p>Key areas</p><ul><li>Makes provision to ensure Royal Mail Group Ltd and Post Office Limited remain in public ownership, while allowing for a sale of a minority stake in Royal Mail</li><li>Introduces changes to the Royal Mail Pension Plan, including the transfer of Royal Mail&rsquo;s historic pension deficit to the Government </li><li>Establishes a new regulatory regime for the postal services sector, including transferring regulatory responsibility from Postcomm to the Office of Communications (OFCOM), with the primary duty of OFCOM in relation to postal services being to maintain the universal service. </li></ul><p> </p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 500,
+        "name": "Lord Mandelson",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/500/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/500/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business, Enterprise and Regulatory Reform",
+        "url": "http://www.berr.gov.uk/"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 177,
+        "name": "Mr Gareth Thomas",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/177/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/177/contact",
+        "memberFrom": "Harrow West"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 449,
+  "shortTitle": "Postal Services Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-11-13T14:13:30",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13321,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 7
+  }
+}

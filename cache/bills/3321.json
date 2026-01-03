@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Landlord and Tenant Act 1985 to prevent landlords recovering service charges where they have failed to comply with their disclosure obligations under that Act; to commence section 21A of the Landlord and Tenant Act 1985 insofar as is it not already in force; to require landlords to disclose commissions earned on insurance policies; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4153,
+        "name": "Lord Kennedy of Southwark",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4153/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4153/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3321,
+  "shortTitle": "Leasehold Reform (Disclosure and Insurance Commissions) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-10-31T14:27:39.3487773",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16889,
+    "stageId": 1,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 13623,
+        "stageId": 1,
+        "billStageId": 16889,
+        "billId": 3321,
+        "date": "2022-07-14T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

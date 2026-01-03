@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision to prevent, reduce and regulate agricultural pollution of water.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5249,
+        "name": "Ellie Chowns",
+        "party": "Green Party",
+        "partyColour": "78b82a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5249/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5249/contact",
+        "memberFrom": "North Herefordshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3872,
+  "shortTitle": "Water (Agricultural Pollution) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-02T12:42:37.7744058",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19229,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16311,
+        "stageId": 7,
+        "billStageId": 19229,
+        "billId": 3872,
+        "date": "2026-03-27T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

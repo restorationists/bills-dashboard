@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to devolve management of the Crown Estate and its assets in Wales to the Welsh Government; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4521,
+        "name": "Liz Saville Roberts",
+        "party": "Plaid Cymru",
+        "partyColour": "348837",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4521/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4521/contact",
+        "memberFrom": "Dwyfor Meirionnydd"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2949,
+  "shortTitle": "Crown Estate (Devolution to Wales) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-04-29T15:40:04.8396591",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15467,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 11989,
+        "stageId": 7,
+        "billStageId": 15467,
+        "billId": 2949,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

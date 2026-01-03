@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision to incentivise research and investment into the treatment of rare types of cancer; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5212,
+        "name": "Dr Scott Arthur",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5212/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5212/contact",
+        "memberFrom": "Edinburgh South West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4127,
+        "name": "Julie Elliott",
+        "party": null,
+        "partyColour": null,
+        "house": "Unassigned",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4127/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4127/contact",
+        "memberFrom": null
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3779,
+  "shortTitle": "Rare Cancers Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-15T12:17:30.860439",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20122,
+    "stageId": 2,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 17620,
+        "stageId": 2,
+        "billStageId": 20122,
+        "billId": 3779,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

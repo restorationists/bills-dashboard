@@ -1,0 +1,70 @@
+{
+  "longTitle": "Bill to require the Secretary of State and local authorities to publish strategies in connection with promoting social enterprise; to enable communities to participate in the formulation and implementation of those strategies; to require that public sector contracts include provisions relating to social outcomes and social value; and for connected purposes.",
+  "summary": "<p>The Bill aims to strengthen the social enterprise business sector and make the concept of 'social value' more relevant and important in the placement and provision of public services.</p><p><strong>Key areas</strong></p><ul><li>places a duty on the Secretary of State to publish a 'national social enterprise strategy' to encourage engagement in social enterprise</li><li>amends Section 4 of the Local Government Act 2000 so that local authorities are required to include in their sustainable community strategy proposals for promoting engagement with social enterprise in their area. They must also include a statement of the measures suggested to enable social enterprise to participate in implementing these proposals</li><li>requires local authorities, when entering into public procurement contracts, to give greater consideration to economic, social or environmental wellbeing during the pre-procurement stage.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4114,
+        "name": "Chris White",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4114/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4114/contact",
+        "memberFrom": "Warwick and Leamington"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1916,
+        "name": "Lord Newby",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1916/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1916/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 686,
+  "shortTitle": "Public Services (Social Value) Act 2012",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-03-09T09:44:49",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4830,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4599,
+        "stageId": 11,
+        "billStageId": 4830,
+        "billId": 686,
+        "date": "2012-03-08T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

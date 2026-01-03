@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about employment conditions and workers' rights; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4607,
+        "name": "Stephanie Peacock",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4607/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4607/contact",
+        "memberFrom": "Barnsley East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2065,
+  "shortTitle": "Employment and Workers' Rights Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-01-23T12:51:09",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9721,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 9019,
+        "stageId": 7,
+        "billStageId": 9721,
+        "billId": 2065,
+        "date": "2018-04-27T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

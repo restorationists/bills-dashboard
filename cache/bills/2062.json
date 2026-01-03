@@ -1,0 +1,70 @@
+{
+  "longTitle": "To amend the Landlord and Tenant Act 1985 to require that residential rented accommodation is provided and maintained in a state of fitness for human habitation; to amend the Building Act 1984 to make provision about the liability for works on residential accommodation that do not comply with Building Regulations; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 199,
+        "name": "Ms Karen Buck",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/199/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/199/contact",
+        "memberFrom": "Westminster North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3605,
+        "name": "Lord Best",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3605/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3605/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2062,
+  "shortTitle": "Homes (Fitness for Human Habitation) Act 2018",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2018-12-21T10:53:16",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 10882,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 9973,
+        "stageId": 11,
+        "billStageId": 10882,
+        "billId": 2062,
+        "date": "2018-12-20T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

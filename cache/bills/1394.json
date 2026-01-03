@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision about the approval required for the deployment of Her Majesty's Armed Forces by the Prime Minister in the event of conflict overseas.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3670,
+        "name": "Baroness Falkner of Margravine",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3670/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3670/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1394,
+  "shortTitle": "Armed Forces Deployment (Royal Prerogative) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2014-06-11T09:26:22",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14182,
+    "stageId": 2,
+    "sessionId": 27,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

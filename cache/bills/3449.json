@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide for corporate status of and for certain privileges and immunities to be accorded to the international inter-parliamentary organisation of national and sub-national legislatures of Commonwealth countries known as the Commonwealth Parliamentary Association and to its Secretary-General; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1480,
+        "name": "Dame Maria Miller",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1480/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1480/contact",
+        "memberFrom": "Basingstoke"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3449,
+  "shortTitle": "Commonwealth Parliamentary Association (Status) (No. 2) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-09-05T10:02:58.069551",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17611,
+    "stageId": 7,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14492,
+        "stageId": 7,
+        "billStageId": 17611,
+        "billId": 3449,
+        "date": "2023-11-24T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for and in connection with the removal of general restrictions as to nationality which apply to persons employed or holding office in any civil capacity under the Crown; and for connected purposes",
+  "summary": "The Bill would remove nationality restrictions from employment in the civil service. These restrictions date back to section 3 of the Act of Settlement 1701. The provisions would open up all employment under the Crown to all nationalities, subject to certain positions selected by Ministers which would require restrictions. The Bill does not deal with work permits and does not affect requirements for non-UK nationals to obtain leave to work in the UK.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 179,
+        "name": "Mr Andrew Dismore",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/179/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/179/contact",
+        "memberFrom": "Hendon"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 427,
+  "shortTitle": "Crown Employment (Nationality) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-11-09T11:27:10",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2630,
+    "stageId": 9,
+    "sessionId": 22,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 2535,
+        "stageId": 9,
+        "billStageId": 2630,
+        "billId": 427,
+        "date": "2009-10-16T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

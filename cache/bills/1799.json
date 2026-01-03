@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require Her Majesty’s Government to introduce a Bill to regulate health and social care professions.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2024,
+        "name": "Lord Hunt of Kings Heath",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2024/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2024/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1799,
+  "shortTitle": "Regulation of Health and Social Care Professions Etc. Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2017-05-02T14:17:39",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 8696,
+    "stageId": 2,
+    "sessionId": 29,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 8124,
+        "stageId": 2,
+        "billStageId": 8696,
+        "billId": 1799,
+        "date": "2017-02-03T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

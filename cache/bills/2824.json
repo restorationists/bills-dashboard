@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to authorise the repayment of fees for driving tests delayed as a result of an emergency.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4413,
+        "name": "Kirsten Oswald",
+        "party": "Scottish National Party",
+        "partyColour": "fff685",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4413/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4413/contact",
+        "memberFrom": "East Renfrewshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2824,
+  "shortTitle": "Driving Tests (Repayment of Test Fees) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-04T15:58:55.6297011",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12701,
+    "stageId": 7,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

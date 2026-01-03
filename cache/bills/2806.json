@@ -1,0 +1,77 @@
+{
+  "longTitle": "A Bill to make provision about the security of public electronic communications networks and public electronic communications services.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4728,
+        "name": "Lord Parkinson of Whitley Bay",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4728/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4728/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Digital, Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 2
+    },
+    {
+      "member": {
+        "memberId": 4647,
+        "name": "Julia Lopez",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4647/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4647/contact",
+        "memberFrom": "Hornchurch and Upminster"
+      },
+      "organisation": {
+        "name": "Department for Digital, Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 3
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2806,
+  "shortTitle": "Telecommunications (Security) Act 2021",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-12-15T13:06:22.9714478",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35,
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 15987,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 12600,
+        "stageId": 11,
+        "billStageId": 15987,
+        "billId": 2806,
+        "date": "2021-11-17T00:00:00"
+      }
+    ],
+    "sortOrder": 18
+  }
+}

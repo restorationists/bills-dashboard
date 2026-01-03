@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to amend the London Olympic Games and Paralympic Games Act 2006.",
+  "summary": "<p>The Bill makes a small number of technical amendments to the advertising and trading, ticket touting and traffic management provisions of the London Olympic Games and Paralympic Games Act 2006. These amendments cover:</p><ul><li>the seizure of articles which contravene advertising and trading regulations</li><li>the parliamentary procedure and notice periods required when new advertising and trading regulations are introduced</li><li>the penalty for unauthorised sales of Olympic tickets </li><li>traffic regulation and enforcement during the Games. </li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1572,
+        "name": "Mr Jeremy Hunt",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1572/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1572/contact",
+        "memberFrom": "South West Surrey"
+      },
+      "organisation": {
+        "name": "Department for Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3842,
+        "name": "Baroness Garden of Frognal",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3842/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3842/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 841,
+  "shortTitle": "London Olympic Games and Paralympic Games (Amendment) Act 2011",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-04-19T13:06:12",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4653,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4432,
+        "stageId": 11,
+        "billStageId": 4653,
+        "billId": 841,
+        "date": "2011-12-14T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

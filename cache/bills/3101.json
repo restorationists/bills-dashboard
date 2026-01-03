@@ -1,0 +1,41 @@
+{
+  "longTitle": "A Bill to introduce a moratorium on recovery and enforcement action by freeholders and managing agents relating to service charges increases, fees or demands for payment in respect of leaseholders’ share of the costs of fire safety remediation work; and for connected purposes.",
+  "summary": null,
+  "sponsors": [],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3101,
+  "shortTitle": "Fire Safety Remediation Charges (Recovery and Enforcement) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-05T15:26:59.6775825",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16080,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12722,
+        "stageId": 7,
+        "billStageId": 16080,
+        "billId": 3101,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

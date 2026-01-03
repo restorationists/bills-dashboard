@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require small business rate relief payments to be made automatically; and for connected purposes.",
+  "summary": "Businesses and other occupiers of non-domestic properties pay business rates to contribute to the cost of local authority services. A rate relief system for small businesses is in place in England (with different systems in place in Scotland and Wales), which gives relief to businesses which occupy one property with a rateable value below a certain threshold. Business ratepayers currently have to apply for small business rate relief once every five years, provided that their circumstances have not changed in the interim period. This Bill would make the payment of the relief to small businesses automatic.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 268,
+        "name": "Peter Luff",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/268/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/268/contact",
+        "memberFrom": "Mid Worcestershire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 402,
+  "shortTitle": "Small Business Rate Relief (Automatic Payment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-10-29T12:44:40",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2070,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 1970,
+        "stageId": 7,
+        "billStageId": 2070,
+        "billId": 402,
+        "date": "2009-03-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision about the recall of Members of the House of Commons; to allow for the extension of such provision to other offices; to provide that the recall of elected representatives in Scotland, Wales and Northern Ireland be a devolved matter; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4062,
+        "name": "Zac Goldsmith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4062/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4062/contact",
+        "memberFrom": "Richmond Park"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1495,
+  "shortTitle": "Recall of Elected Representatives Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-30T15:13:49",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14280,
+    "stageId": 7,
+    "sessionId": 27,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for a convention to consider the constitution of the United Kingdom; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4293,
+        "name": "Lord Purvis of Tweed",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4293/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4293/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2898,
+  "shortTitle": "Constitutional Convention Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-04-28T15:07:18.1587946",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15360,
+    "stageId": 1,
+    "sessionId": 36,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 11887,
+        "stageId": 1,
+        "billStageId": 15360,
+        "billId": 2898,
+        "date": "2021-06-17T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

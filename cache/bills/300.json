@@ -1,0 +1,48 @@
+{
+  "longTitle": null,
+  "summary": "<p>This Bill was presented by the Liberal Democrat spokesperson for foreign affairs, and supported by other front bench Liberal Democrats. It is designed to establish an inquiry into the circumstances surrounding the invasion of Iraq in 2003, using powers under the Inquiries Act 2005. Since 2003, there have been a number of campaigns to establish an independent inquiry.<br><br>Key areas</p><ul><li>The Government would be responsible for appointing a panel of 12 members who would have powers to investigate</li><li>The inquiry would cover the origins, inception, legality and conduct of the hostilities </li><li>The inquiry would make its findings public.  </li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 188,
+        "name": "Mr Edward Davey",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/188/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/188/contact",
+        "memberFrom": "Kingston and Surbiton"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 300,
+  "shortTitle": "Iraq War Inquiry (No. 2) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-10-30T19:04:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13193,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

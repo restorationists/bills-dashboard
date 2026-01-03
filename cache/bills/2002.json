@@ -1,0 +1,59 @@
+{
+  "longTitle": "A Bill to make provision for members of the Regular Forces to serve part-time or subject to geographic restrictions",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2000,
+        "name": "Earl Howe",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2000/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2000/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "Ministry of Defence",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-defence"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2002,
+  "shortTitle": "Armed Forces (Flexible Working) Act 2018",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2018-02-09T10:25:56",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 10217,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 9374,
+        "stageId": 11,
+        "billStageId": 10217,
+        "billId": 2002,
+        "date": "2018-02-08T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+}

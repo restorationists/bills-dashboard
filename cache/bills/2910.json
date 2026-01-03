@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about meeting the needs of adults and children with an acquired brain injury; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1446,
+        "name": "Chris Bryant",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1446/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1446/contact",
+        "memberFrom": "Rhondda"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2910,
+  "shortTitle": "Acquired Brain Injury Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-04-29T11:14:07.890283",
+  "billWithdrawn": "2021-12-07T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15385,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 11911,
+        "stageId": 7,
+        "billStageId": 15385,
+        "billId": 2910,
+        "date": "2021-12-03T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

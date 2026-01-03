@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to amend the House of Commons (Administration) Act 1978 so as to make provision about the membership of the House of Commons Commission, so as to confer a new strategic function on the Commission, and so as to make provision about the exercise of functions on behalf of the Commission or its members.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 379,
+        "name": "Mr William Hague",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/379/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/379/contact",
+        "memberFrom": "Richmond (Yorks)"
+      },
+      "organisation": {
+        "name": "Office of the Leader of the House of Commons",
+        "url": "https://www.gov.uk/government/organisations/the-office-of-the-leader-of-the-house-of-commons"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1816,
+        "name": "Lord Wallace of Saltaire",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1816/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1816/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1550,
+  "shortTitle": "House of Commons Commission Act 2015",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-27T11:09:05",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7705,
+    "stageId": 11,
+    "sessionId": 27,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7191,
+        "stageId": 11,
+        "billStageId": 7705,
+        "billId": 1550,
+        "date": "2015-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

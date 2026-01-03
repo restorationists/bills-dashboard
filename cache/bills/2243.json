@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the surrender, production or other delivery up of driving licences, or test certificates, in relation to certain offences; to make provision in relation to identifying persons in connection with fixed penalty notices, conditional offers and the payment of fixed penalties under the Road Traffic Offenders Act 1988; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4619,
+        "name": "Mr Alister Jack",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4619/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4619/contact",
+        "memberFrom": "Dumfries and Galloway"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2243,
+  "shortTitle": "Road Traffic Offenders (Surrender of Driving Licences etc.) (No. 2) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2018-06-15T13:43:42",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 10380,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 9642,
+        "stageId": 7,
+        "billStageId": 10380,
+        "billId": 2243,
+        "date": "2018-06-15T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to establish a commission to assess the differential impact of the tax system in the UK on different groups of people; to require that commission to make recommendations for reform of the tax system; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4521,
+        "name": "Liz Saville Roberts",
+        "party": "Plaid Cymru",
+        "partyColour": "348837",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4521/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4521/contact",
+        "memberFrom": "Dwyfor Meirionnydd"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3369,
+  "shortTitle": "Tax Reform Commission Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T17:00:21.2611111",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17115,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13915,
+        "stageId": 6,
+        "billStageId": 17115,
+        "billId": 3369,
+        "date": "2022-11-15T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

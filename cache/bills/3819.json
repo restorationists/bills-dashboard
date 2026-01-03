@@ -1,0 +1,63 @@
+{
+  "longTitle": "A Bill to define the term “green spaces” to include urban parks, neighbourhood areas, and significant natural landscapes; to establish a Government Office for Green Spaces and to make provision about the powers and duties of that Office in relation to local authorities and public bodies; to require that Office to advise the Government on the preservation, enhancement, and accessibility of green spaces; to make provision about the promotion of community involvement in protection of green spaces; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5216,
+        "name": "Caroline Voaden",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5216/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5216/contact",
+        "memberFrom": "South Devon"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3819,
+  "shortTitle": "Green Spaces Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-09-11T16:42:19.1518577",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19114,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16190,
+        "stageId": 7,
+        "billStageId": 19114,
+        "billId": 3819,
+        "date": "2025-03-07T00:00:00"
+      },
+      {
+        "id": 16807,
+        "stageId": 7,
+        "billStageId": 19114,
+        "billId": 3819,
+        "date": "2026-04-24T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

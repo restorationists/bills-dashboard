@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about the meaning of references to Article 23A benchmarks in contracts and other arrangements; and to make provision about the liability of administrators of Article 23A benchmarks",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4689,
+        "name": "Lord Agnew of Oulton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4689/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4689/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4051,
+        "name": "John Glen",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4051/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4051/contact",
+        "memberFrom": "Salisbury"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3045,
+  "shortTitle": "Critical Benchmarks (References and Administrators’ Liability) Act 2021",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2021-12-17T16:49:44.1592698",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 15966,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 12611,
+        "stageId": 11,
+        "billStageId": 15966,
+        "billId": 3045,
+        "date": "2021-12-15T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

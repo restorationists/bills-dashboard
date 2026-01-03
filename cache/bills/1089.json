@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision consequential on the treaty concerning the accession of the Republic of Croatia to the European Union, signed at Brussels on 9 December 2011, and provision consequential on the Protocol on the concerns of the Irish people on the Treaty of Lisbon, adopted at Brussels on 16 May 2012; and to make provision about the entitlement of nationals of the Republic of Croatia to\r\nenter or reside in the United Kingdom as workers.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 379,
+        "name": "Mr William Hague",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/379/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/379/contact",
+        "memberFrom": "Richmond (Yorks)"
+      },
+      "organisation": {
+        "name": "Foreign and Commonwealth Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3839,
+        "name": "Baroness Warsi",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3839/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3839/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Foreign and Commonwealth Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1089,
+  "shortTitle": "European Union (Croatian Accession and Irish Protocol) Act 2013",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-02-01T09:38:30",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5663,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5309,
+        "stageId": 11,
+        "billStageId": 5663,
+        "billId": 1089,
+        "date": "2013-01-31T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

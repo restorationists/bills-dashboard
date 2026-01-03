@@ -1,0 +1,54 @@
+{
+  "longTitle": "A Bill to make provision for a railway between a junction with Phase 2a of High Speed 2 south of Crewe in Cheshire and Manchester Piccadilly Station; for a railway between Hoo Green in Cheshire and a junction with the West Coast Main Line at Bamfurlong, south of Wigan; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4473,
+        "name": "Louise Haigh",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4473/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4473/contact",
+        "memberFrom": "Sheffield, Heeley"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 3
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3094,
+  "shortTitle": "High Speed Rail (Crewe - Manchester) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-08-02T13:51:13.9138996",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 4,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36,
+    37,
+    38,
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18883,
+    "stageId": 8,
+    "sessionId": 39,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 15
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about the delivery of local authority social work services for children and young persons; to amend Parts 2 and 3 of the Children Act 1989; to make further provision about the functions of local authorities and others in relation to children and young persons; to make provision about the enforcement of care standards in relation to certain establishments or agencies connected with children; to make provision about the independent review of determinations relating to adoption; and for connected purposes.",
+  "summary": "<p>The Bill proposes to reform the statutory framework for the care system, to ensure that children and young people receive high quality care and support and to drive improvements in the delivery of services focused on the needs of the child. </p><p>It aims to enable those children and young people who enter the care system to be able to achieve the same aspirations parents have for their own children.</p><p><strong>Key areas</strong></p><ul><li>Improve stability of placements for children and ensure more consistency for children in care </li><li>Improve the experience children in care have at school, increasing their educational attainment</li><li>Give pilot local authorities the power to test a different model of organising social care by commissioning services from 'Social Work Practices' and to enable regulation of these practices </li><li>Increase the focus on the transparency and quality of care planning, to ensure that the child's voice is heard when important decisions that affect their future are taken</li><li>Increase schools' capacity to address the needs of children in care, including placing the role of the designated teacher on a statutory footing and ensuring that children in care do not move schools in Year 10 and 11 except in exceptional circumstances </li><li>Make sure that young people are not forced out of care before they are ready, by giving them a greater say over moves to independent living and ensuring they retain support and guidance as long as they need it.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3743,
+        "name": "Lord Adonis",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3743/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3743/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Children, Schools and Families",
+        "url": "http://www.dcsf.gov.uk"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1549,
+        "name": "Ed Balls",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1549/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1549/contact",
+        "memberFrom": "Normanton"
+      },
+      "organisation": {
+        "name": "Department for Children, Schools and Families",
+        "url": "http://www.dcsf.gov.uk"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 194,
+  "shortTitle": "Children and Young Persons Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-02-25T11:37:17",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1898,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1803,
+        "stageId": 11,
+        "billStageId": 1898,
+        "billId": 194,
+        "date": "2008-11-13T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

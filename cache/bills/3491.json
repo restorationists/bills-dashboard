@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Chancellor of the Exchequer to report to Parliament on the likely effects of increasing in line with inflation the income threshold for the High Income Child Benefit Charge and of determining that threshold by reference to household income instead of individual income.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4131,
+        "name": "Jim Shannon",
+        "party": "Democratic Unionist Party",
+        "partyColour": "d46a4c",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4131/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4131/contact",
+        "memberFrom": "Strangford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3491,
+  "shortTitle": "High Income Child Benefit Charge (report to Parliament) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-01T16:11:53.3345923",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17890,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14854,
+        "stageId": 6,
+        "billStageId": 17890,
+        "billId": 3491,
+        "date": "2023-07-18T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to establish and make provision in connection with a Care Quality Commission; to make provision about health care (including provision about the National Health Service) and about social care; to make provision about reviews and investigations under the Mental Health Act 1983; to establish and make provision in connection with an Office of the Health Professions Adjudicator and make other provision about the regulation of the health care professions; to confer power to modify the regulation of social care workers; to amend the Public Health (Control of Disease) Act 1984; to provide for the payment of a grant to women in connection with pregnancy; to amend the functions of the Health Protection Agency; and for connected purposes.",
+  "summary": "<p>The Bill seeks to enhance professional regulation and create a new integrated regulator, the Care Quality Commission, for health and adult social care, with focus on providing assurance about the safety and quality of care for patients and service users.</p><p><strong>Key areas</strong></p><ul><li><span>Assures the safety and quality of care and creates a new regulator, the Care Quality Commission</span></li><li><span>Equips the new regulator with tougher powers, backed by fines, to inspect, investigate and intervene where hospitals are failing to meet hygiene standards</span></li><li><span>Strengthens clinical governance and reforms the system of professional regulation to ensure it earns and sustains the confidence of patients, professionals and Parliament</span></li><li><span>Extends financial support to mothers-to-be from the 29th week of pregnancy</span></li><li><span>Ensures all healthcare professional regulatory bodies use the civil, rather than criminal, standard of proof</span></li><li><span>Creates an independent adjudicator to undertake independent and objective formal adjudication for the professional regulatory bodies</span></li><li><span>Ensures that all healthcare organisations employing or contracting with doctors appoint a 'responsible officer' to work with the GMC to identify and handle cases of poor professional performance by doctors</span></li><li><span>Updates the Public Health (Control of Disease) Act 1984 with the aim of providing a more effective and proportionate response to infectious disease.</span></li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 376,
+        "name": "Alan Johnson",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/376/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/376/contact",
+        "memberFrom": "Kingston upon Hull West and Hessle"
+      },
+      "organisation": {
+        "name": "Department of Health",
+        "url": "http://www.dh.gov.uk"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3779,
+        "name": "Lord Darzi of Denham",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3779/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3779/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department of Health",
+        "url": "http://www.dh.gov.uk"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 197,
+  "shortTitle": "Health and Social Care Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-02-25T13:34:17",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1773,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1723,
+        "stageId": 11,
+        "billStageId": 1773,
+        "billId": 197,
+        "date": "2008-07-21T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

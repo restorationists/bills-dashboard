@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to amend the Parliamentary Standards Act 2009 to make provision for the Independent Parliamentary Standards Authority to be responsible for determining, paying, maintaining oversight of, and adjudicating complaints relating to, the allowances, expenses and financial interests of members of the House of Lords; to amend the House of Lords Reform Act 2014 to provide for the compulsory retirement of members of the House of Lords under certain conditions; to make provision for the reduction of the number of members in the House of Lords; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 345,
+        "name": "Sir Edward Leigh",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/345/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/345/contact",
+        "memberFrom": "Gainsborough"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1715,
+  "shortTitle": "House of Lords (Parliamentary Standards Etc) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-05-13T11:12:53",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14488,
+    "stageId": 7,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

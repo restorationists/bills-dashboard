@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for court orders to prohibit disruptive passengers from flying, and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3970,
+        "name": "Gareth Johnson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3970/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3970/contact",
+        "memberFrom": "Dartford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3468,
+  "shortTitle": "Aviation Banning Orders (Disruptive Passengers) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-30T16:03:32.5649587",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17735,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14664,
+        "stageId": 6,
+        "billStageId": 17735,
+        "billId": 3468,
+        "date": "2023-05-24T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

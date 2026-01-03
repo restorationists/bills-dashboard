@@ -1,0 +1,77 @@
+{
+  "longTitle": "To make provision in connection with the Electoral Commission; and to make provision about political donations and expenditure and about elections.",
+  "summary": "The Bill makes some amendments to the regulation of party funding and election expenditure that is set out in the Political Parties, Elections and Referendums Act 2000. It will cover the whole of the UK.   <br><br>The Bill aims to: <br><ul><li>strengthen the regulatory powers of the Electoral Commission, to provide new powers of investigation and the option of civil sanctions </li><li>enable political parties to put forward four extra Electoral Commissioners and relax political restrictions on staff of the Commission </li><li>alter the definition of &lsquo;election expenses&rsquo; and &lsquo;candidate&rsquo; in the Representation of the People Act 1983 to take into account spending on elections prior to the dissolution of Parliament </li><li>place further requirements on parties and donors to clarify the source of donations </li><li>amend the Representation of the People Act to provide a more flexible system for adding to the register of electors when an election is called while the register is being updated &ndash; the canvass period. </li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 463,
+        "name": "Mr Jack Straw",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/463/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/463/contact",
+        "memberFrom": "Blackburn"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3451,
+        "name": "Lord Bach",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3451/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3451/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 336,
+  "shortTitle": "Political Parties and Elections",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-10-16T12:52:46",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21,
+    22
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 2661,
+    "stageId": 11,
+    "sessionId": 22,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2495,
+        "stageId": 11,
+        "billStageId": 2661,
+        "billId": 336,
+        "date": "2009-07-21T00:00:00"
+      }
+    ],
+    "sortOrder": 21
+  }
+}

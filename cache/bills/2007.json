@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the holding of referenda in relation to voting systems in local government elections",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4302,
+        "name": "Lord Balfe",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4302/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4302/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2007,
+  "shortTitle": "Local Government Elections (Referendum) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-09-10T15:46:30",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9580,
+    "stageId": 2,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 8894,
+        "stageId": 2,
+        "billStageId": 9580,
+        "billId": 2007,
+        "date": "2017-12-15T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

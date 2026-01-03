@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision for the taking of action in relation to horses which are in public places; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4079,
+        "name": "Julian Sturdy",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4079/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4079/contact",
+        "memberFrom": "York Outer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1846,
+        "name": "Baroness Mallalieu",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1846/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1846/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1427,
+  "shortTitle": "Control of Horses Act 2015",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-27T11:13:53",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7719,
+    "stageId": 11,
+    "sessionId": 27,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7183,
+        "stageId": 11,
+        "billStageId": 7719,
+        "billId": 1427,
+        "date": "2015-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

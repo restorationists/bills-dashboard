@@ -1,0 +1,59 @@
+{
+  "longTitle": "To make provision about the membership of the House of Lords; to make\r\nprovision about the disclaimer of life peerages; to abolish the jurisdiction of\r\nthe House of Lords in relation to peerage claims; to make other provision\r\nrelating to peerage; and for connected purposes.",
+  "summary": "<p>Reform of the House of Lords was a manifesto commitment for the three main parties at the 2010 election, and was included in the Coalition Agreement between the Conservatives and Liberal Democrats. A draft Bill was published in May 2011, on which a Joint Committee reported in April 2012. The Bill establishes a House of Lords which is mostly, though not wholly, elected, with a three-stage transition to reform.</p><p><strong>Key areas</strong></p><ul><li>most members will serve non-renewable 15 year terms </li><li>semi-open list elections for large regional seats in mainland Great Britain</li><li>Single Transferable Vote system for Northern Ireland</li><li>Members will be able to resign, and may be expelled or suspended</li><li>pay and allowances will be set by IPSA, with pay being related to the participation of the Member in the work of the House</li><li>the Parliament Acts will still apply to the reformed House of Lords.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1563,
+        "name": "Mr Nick Clegg",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1563/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1563/contact",
+        "memberFrom": "Sheffield, Hallam"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1067,
+  "shortTitle": "House of Lords Reform Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-21T13:11:19.7570253",
+  "billWithdrawn": "2012-09-03T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 5176,
+    "stageId": 36,
+    "sessionId": 25,
+    "description": "Ways and Means resolution",
+    "abbreviation": "WAMR",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 4945,
+        "stageId": 36,
+        "billStageId": 5176,
+        "billId": 1067,
+        "date": "2012-07-10T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  }
+}

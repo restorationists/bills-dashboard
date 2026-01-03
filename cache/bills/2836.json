@@ -1,0 +1,77 @@
+{
+  "longTitle": "A Bill to make provision for and in connection with the establishment of the Advanced\r\nResearch and Invention Agency.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4134,
+        "name": "Kwasi Kwarteng",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4134/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4134/contact",
+        "memberFrom": "Spelthorne"
+      },
+      "organisation": {
+        "name": "Department for Business, Energy and Industrial Strategy",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4336,
+        "name": "Lord Callanan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4336/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business, Energy and Industrial Strategy",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2836,
+  "shortTitle": "Advanced Research and Invention Agency Act 2022",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-04-21T12:35:36.6215387",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35,
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 16166,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 12866,
+        "stageId": 11,
+        "billStageId": 16166,
+        "billId": 2836,
+        "date": "2022-02-24T00:00:00"
+      }
+    ],
+    "sortOrder": 18
+  }
+}

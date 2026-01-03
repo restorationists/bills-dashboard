@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the accountability of police and crime commissioners; to make provision about the measurement of police and crime commissioners’ performance; to make provision about the setting of priorities for police and crime commissioners; to require the Secretary of State to commission a review of the operation and functions of police and crime commissioners, including consideration of options for their abolition and replacement; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4617,
+        "name": "Matt Western",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4617/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4617/contact",
+        "memberFrom": "Warwick and Leamington"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4026,
+  "shortTitle": "Police and Crime Commissioners (Accountability and Review) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-10-16T11:17:29.4101549",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20234,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17434,
+        "stageId": 7,
+        "billStageId": 20234,
+        "billId": 4026,
+        "date": "2026-05-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Government to set targets for the provision of public services and amenities, having regard to targets for the building of new homes; to require the Government to publish a report of progress against such targets every three years; to require the Government to consult local authorities to assess requirements for public services; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5318,
+        "name": "Olly Glover",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5318/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5318/contact",
+        "memberFrom": "Didcot and Wantage"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3836,
+  "shortTitle": "Public Services (Targets) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-02T12:49:34.2835707",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19157,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16239,
+        "stageId": 7,
+        "billStageId": 19157,
+        "billId": 3836,
+        "date": "2026-05-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

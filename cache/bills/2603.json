@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make it an offence to provide or advertise cheating services for Higher Education assessments.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4238,
+        "name": "Lord Storey",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4238/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4238/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2603,
+  "shortTitle": "Higher Education Cheating Services Prohibition Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2021-05-05T12:13:29.5717586",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11789,
+    "stageId": 2,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 10737,
+        "stageId": 2,
+        "billStageId": 11789,
+        "billId": 2603,
+        "date": "2020-01-30T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

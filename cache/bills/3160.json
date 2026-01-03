@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to address the legacy of the Northern Ireland Troubles and promote reconciliation by establishing an Independent Commission for Reconciliation and Information Recovery, limiting criminal investigations, legal proceedings, inquests and police complaints, extending the prisoner release scheme in the Northern Ireland (Sentences) Act 1998, and providing for experiences to be recorded and preserved and for events to be studied and memorialised, and to provide for the validity of interim custody orders.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4009,
+        "name": "Brandon Lewis",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4009/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4009/contact",
+        "memberFrom": "Great Yarmouth"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4581,
+        "name": "Lord Caine",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4581/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4581/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3160,
+  "shortTitle": "Northern Ireland Troubles (Legacy and Reconciliation) Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-08-19T10:14:34.4359388",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17934,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14943,
+        "stageId": 11,
+        "billStageId": 17934,
+        "billId": 3160,
+        "date": "2023-09-18T00:00:00"
+      }
+    ],
+    "sortOrder": 19
+  }
+}

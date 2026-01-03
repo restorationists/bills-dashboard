@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Child Benefit (Rates) Regulations 2006 to make provision to vary the rate of child benefit over the course of childhood to enable eligible parents to receive a higher rate during a child’s early years and a correspondingly reduced rate when that child is older",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4321,
+        "name": "Lord Farmer",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4321/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4321/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2894,
+  "shortTitle": "Front-loaded Child Benefit Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-04-28T15:06:37.9155598",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15352,
+    "stageId": 1,
+    "sessionId": 36,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 11880,
+        "stageId": 1,
+        "billStageId": 15352,
+        "billId": 2894,
+        "date": "2021-06-16T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

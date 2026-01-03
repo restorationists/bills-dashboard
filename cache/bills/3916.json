@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit quantitative easing; to prohibit the Government from indemnifying any losses that may result from quantitative easing; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5158,
+        "name": "Rupert Lowe",
+        "party": "Reform UK",
+        "partyColour": "12b6cf",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5158/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5158/contact",
+        "memberFrom": "Great Yarmouth"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3916,
+  "shortTitle": "Quantitative Easing (Prohibition) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-07-11T15:58:57.7331489",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19439,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16560,
+        "stageId": 7,
+        "billStageId": 19439,
+        "billId": 3916,
+        "date": "2025-07-11T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

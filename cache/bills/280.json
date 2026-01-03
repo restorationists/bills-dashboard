@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision to enable the Treasury in certain circumstances to make an order relating to the transfer of securities issued by, or of property, rights or liabilities belonging to an authorised deposit-taker; to make further provision in relation to building societies; and for connected purposes.",
+  "summary": "The Bill enables UK-incorporated banks and building societies to be taken into public ownership. It is drafted to ensure that a bank can be acquired only in certain defined circumstances and that this power will last for only 12 months.<br><br>The Bill provides the framework within which an independent valuer must decide on appropriate compensation to shareholders. It also makes provision for transfer of the bank or parts of it to the private sector.<br><br>If circumstances allow under the Act, the main provisions enable the Treasury to make an order to transfer the securities issued by, or property, rights or liabilities belonging to, an authorised deposit-taker; to amend relevant building society legislation that might otherwise prevent equivalent government action; to provide scope for flexibility with respect to unintended tax consequences and other measures like the 'extinguishment of subscription rights.'<br><br>The Bill is deliberately not Northern Rock-specific, but the Chancellor of the Exchequer, Alistair Darling, told the House of Commons at the first reading of the Bill on February 18 that: 'The Government have no intention at present to use the Bill to bring any institution other than Northern Rock into temporary public ownership.'",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 596,
+        "name": "Mr Alistair Darling",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/596/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/596/contact",
+        "memberFrom": "Edinburgh South West"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 987,
+        "name": "Lord Davies of Oldham",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/987/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/987/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 280,
+  "shortTitle": "Banking (Special Provisions) Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-02-25T11:46:40",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1423,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1369,
+        "stageId": 11,
+        "billStageId": 1423,
+        "billId": 280,
+        "date": "2008-02-21T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

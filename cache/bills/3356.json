@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prevent certain non-statutory payments being made by the Government to former Prime Ministers; to abolish the payment of grants to persons ceasing to hold ministerial offices; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4471,
+        "name": "Rachael Maskell",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4471/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4471/contact",
+        "memberFrom": "York Central"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3356,
+  "shortTitle": "Former Ministers and Prime Ministers (Abolition of Payments) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-01T14:48:36.7443535",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17060,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13841,
+        "stageId": 6,
+        "billStageId": 17060,
+        "billId": 3356,
+        "date": "2022-10-26T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

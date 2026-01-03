@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to give local authorities the power to apply selective licensing conditions to private landlords in exempted areas with social housing stock",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3999,
+        "name": "Graham Jones",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3999/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3999/contact",
+        "memberFrom": "Hyndburn"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 977,
+  "shortTitle": "Housing (Selective Licensing of Private Landlords in Exempted Areas) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-01T15:25:39",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13795,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

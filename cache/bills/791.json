@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision about treaties relating to the European Union and\r\ndecisions made under them, including provision implementing the Protocol\r\nsigned at Brussels on 23 June 2010 amending the Protocol (No. 36) on\r\ntransitional provisions annexed to the Treaty on European Union, to the\r\nTreaty on the Functioning of the European Union and to the Treaty\r\nestablishing the European Atomic Energy Community; and to make provision\r\nabout the means by which directly applicable or directly effective European\r\nUnion law has effect in the United Kingdom.",
+  "summary": "<p>The Bill aims to strengthen the UK procedures for agreeing to or ratifying certain EU decisions and Treaty changes. The Bill has been drafted in the context of new EU methods of approving Treaty changes and calls for more public and/or parliamentary involvement in such decisions.</p><p><strong>Key areas</strong></p><ul><li>Provides for a referendum throughout the United Kingdom on any proposed EU treaty or Treaty change which would transfer powers from the UK to the EU</li><li>Ensures that an Act of Parliament would have to be passed before a &lsquo;ratchet clause&rsquo; or a passerelle (bridging clause) in the European Union Treaty could be used. In addition, if the passerelle involved a transfer of power or competence from the UK to the EU, this would also be subject to a referendum before the Government could agree to its use</li><li>Enables the UK to ratify a Protocol to allow additional European Parliament seats for the UK and 11 other Member States during the current European Parliament term, and to legislate for the extra UK seat</li><li>Provides for a clause that affirms that EU law takes effect in the UK only because Parliament wills that it should. This confirms the principle that Parliament is sovereign. </li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 379,
+        "name": "Mr William Hague",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/379/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/379/contact",
+        "memberFrom": "Richmond (Yorks)"
+      },
+      "organisation": {
+        "name": "Foreign and Commonwealth Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 993,
+        "name": "Lord Howell of Guildford",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/993/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/993/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Foreign and Commonwealth Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 791,
+  "shortTitle": "European Union Act 2011",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2011-11-10T11:57:29",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4411,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4219,
+        "stageId": 11,
+        "billStageId": 4411,
+        "billId": 791,
+        "date": "2011-07-19T00:00:00"
+      }
+    ],
+    "sortOrder": 18
+  }
+}

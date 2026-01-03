@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the branding, promotion and advertising of electronic cigarettes, for the purpose of preventing electronic cigarettes from being marketed in a way which appeals to children; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4510,
+        "name": "Helen Hayes",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4510/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4510/contact",
+        "memberFrom": "Dulwich and West Norwood"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3494,
+  "shortTitle": "Electronic Cigarettes (Branding, Promotion and Advertising) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-01T12:50:07.8135313",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17920,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14906,
+        "stageId": 6,
+        "billStageId": 17920,
+        "billId": 3494,
+        "date": "2023-09-05T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

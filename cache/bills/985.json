@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to set up a Groceries Code Adjudicator with the role of enforcing the Groceries Code and encouraging compliance with it.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1727,
+        "name": "Baroness Wilcox",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1727/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1727/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business, Innovation and Skills",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1439,
+        "name": "Norman Lamb",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1439/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1439/contact",
+        "memberFrom": "North Norfolk"
+      },
+      "organisation": {
+        "name": "Department for Business, Innovation and Skills",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 985,
+  "shortTitle": "Groceries Code Adjudicator Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-04-29T11:41:55",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5896,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5479,
+        "stageId": 11,
+        "billStageId": 5896,
+        "billId": 985,
+        "date": "2013-04-25T00:00:00"
+      }
+    ],
+    "sortOrder": 19
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for residents of care homes and sheltered accommodation to keep domestic pets in certain circumstances; and for connected purposes.",
+  "summary": "The Bill would make provision for residents of care homes and sheltered accommodation to keep domestic pets. It stipulates the  circumstances in which operators of care homes and sheltered accommodation could refuse permission for domestic pets to be kept, and the right of appeal by residents against such a refusal.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 25,
+        "name": "Mr Nigel Waterson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/25/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/25/contact",
+        "memberFrom": "Eastbourne"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 580,
+  "shortTitle": "Care Homes and Sheltered Accommodation (Domestic Pets) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-04-12T15:50:44",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2958,
+    "stageId": 7,
+    "sessionId": 23,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 2787,
+        "stageId": 7,
+        "billStageId": 2958,
+        "billId": 580,
+        "date": "2010-03-05T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision to prohibit the use of wild animals in travelling circuses.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4593,
+        "name": "Trudy Harrison",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4593/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4593/contact",
+        "memberFrom": "Copeland"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2221,
+  "shortTitle": "Wild Animals in Circuses Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-09-19T14:40:28",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14960,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

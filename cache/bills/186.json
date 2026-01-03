@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision for the appointment of a Commission to make recommendations to the Crown for the creation of life peerages; to restrict membership of the House of Lords by virtue of hereditary peerage; to make provision for permanent leave of absence from the House of Lords; to provide for the expulsion of members of the House of Lords in specified circumstances; and for connected purposes.",
+  "summary": "<p>The Bill proposes changes to the House of Lords Act 1999 and introduces new measures that would effectively create an all-appointed House.</p><p>Lord Steel of Aikwood introduced a similar Bill with the same title in the previous parliamentary session of 2006-07.  That Bill received a second reading, on 20 July 2007, but made no further progress.  During the second reading debate, Lord Hunt of Kings Heath confirmed that the Government would not support the Bill &ndash; it wanted to see a comprehensive House of Lords Reform Bill.</p><p><strong>Key areas</strong></p><ul><li>All recommendations for life peerages would be made by a statutory Appointments Commission</li><li>Existing hereditary Peers would no longer be replaced when they die</li><li>Permanent leave of absence should be granted to Members of the Lords on request. If they do not attend the House of Lords this would be viewed as taking permanent leave of absence</li><li>Members of the Lords sentenced to more than one year in prison would no longer be Members of the House of Lords.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 949,
+        "name": "Lord Steel of Aikwood",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/949/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/949/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 186,
+  "shortTitle": "House of Lords Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-02-23T12:28:56",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2186,
+    "stageId": 3,
+    "sessionId": 21,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 3
+  }
+}

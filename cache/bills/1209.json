@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require online retailers to declare to consumers at the start of the retail process the existence of surcharges for delivery to certain addresses in the UK; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 639,
+        "name": "Sir Robert Smith",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/639/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/639/contact",
+        "memberFrom": "West Aberdeenshire and Kincardine"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1209,
+  "shortTitle": "Delivery Surcharges (Transparency for Consumers) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-05-15T13:19:02",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 6040,
+    "stageId": 7,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 5695,
+        "stageId": 7,
+        "billStageId": 6040,
+        "billId": 1209,
+        "date": "2013-09-13T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

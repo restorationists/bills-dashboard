@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to require the coroner, following an inquest, to record an opinion as to the relevant factors in a case of death by suicide; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4308,
+        "name": "The Lord Bishop of St Albans",
+        "party": "Bishops",
+        "partyColour": "702082",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4308/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4308/contact",
+        "memberFrom": "Bishops"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1453,
+        "name": "Andrew Selous",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1453/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1453/contact",
+        "memberFrom": "South West Bedfordshire"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3176,
+  "shortTitle": "Coroners (Determination of Suicide) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-10-31T13:00:37.5919069",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17966,
+    "stageId": 7,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14960,
+        "stageId": 7,
+        "billStageId": 17966,
+        "billId": 3176,
+        "date": "2023-10-20T00:00:00"
+      }
+    ],
+    "sortOrder": 6
+  }
+}

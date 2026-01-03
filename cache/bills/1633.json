@@ -1,0 +1,56 @@
+{
+  "longTitle": null,
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 47,
+        "name": "Sir Gerald Howarth",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/47/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/47/contact",
+        "memberFrom": "Aldershot"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1633,
+  "shortTitle": "Defence Expenditure (NATO Target) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-05-12T16:21:21",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 7839,
+    "stageId": 7,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 7328,
+        "stageId": 7,
+        "billStageId": 7839,
+        "billId": 1633,
+        "date": "2015-10-23T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

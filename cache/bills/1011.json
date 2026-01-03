@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about the UK Green Investment Bank; to make provision about employment law; to establish and make provision about the Competition and Markets Authority and to abolish the Competition Commission and the Office of Fair Trading; to amend the Competition Act 1998 and the Enterprise Act 2002; to make provision for the reduction of legislative burdens; to make provision about copyright and rights in performances; to make provision about payments to company directors; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 207,
+        "name": "Vince Cable",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/207/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/207/contact",
+        "memberFrom": "Twickenham"
+      },
+      "organisation": {
+        "name": "Department for Business, Innovation and Skills",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4169,
+        "name": "Viscount Younger of Leckie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4169/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4169/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "Department for Business, Innovation and Skills",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1011,
+  "shortTitle": "Enterprise and Regulatory Reform Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-04-29T11:50:04",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5901,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5488,
+        "stageId": 11,
+        "billStageId": 5901,
+        "billId": 1011,
+        "date": "2013-04-25T00:00:00"
+      }
+    ],
+    "sortOrder": 20
+  }
+}

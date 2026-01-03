@@ -1,0 +1,59 @@
+{
+  "longTitle": "To authorise the use of resources for the years ending with 31 March 2017, 31 March 2018 and 31 March 2019; to authorise the issue of sums out of the Consolidated Fund for the years ending 31 March 2018 and 31 March 2019; and to appropriate the supply\r\nauthorised by this Act for the years ending with 31 March 2017 and 31 March 2018.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3935,
+        "name": "Mel Stride",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3935/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3935/contact",
+        "memberFrom": "Central Devon"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2214,
+  "shortTitle": "Supply and Appropriation (Anticipation and Adjustments) Act 2018",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-02-20T10:56:28",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 10294,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 9505,
+        "stageId": 11,
+        "billStageId": 10294,
+        "billId": 2214,
+        "date": "2018-03-15T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

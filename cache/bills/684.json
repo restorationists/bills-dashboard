@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend section 232B of the Trade Union and Labour Relations (Consolidation) Act 1992 to extend the circumstances in which, by virtue of that section, industrial action is not to be treated as excluded from the protection of section 219 of that Act.",
+  "summary": "<p>The Bill proposes reducing regulatory burdens on trade unions in relation to the balloting and notice requirements for lawful industrial action. </p><p>It would extend the provision for small accidental errors contained in section 232B of the Trade Union and Labour Relations (Consolidation) Act 1992. </p><p>The burden of proof in applications by an employer to restrain strike action by injunction would be changed, so that the employer would have to show that the union has failed to achieve 'substantial compliance' with the ballot and notice requirements.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 178,
+        "name": "John McDonnell",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/178/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/178/contact",
+        "memberFrom": "Hayes and Harlington"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 684,
+  "shortTitle": "Lawful Industrial Action (Minor Errors) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-01T15:38:04",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 3510,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 3278,
+        "stageId": 7,
+        "billStageId": 3510,
+        "billId": 684,
+        "date": "2010-10-22T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

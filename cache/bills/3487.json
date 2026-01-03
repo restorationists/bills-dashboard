@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to establish a task force to produce a strategy for tackling rural crime; to require the Secretary of State to implement the strategy; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4942,
+        "name": "Richard Foord",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4942/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4942/contact",
+        "memberFrom": "Tiverton and Honiton"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3487,
+  "shortTitle": "Rural Crime (Strategy) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T16:28:33.7437842",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17866,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14833,
+        "stageId": 6,
+        "billStageId": 17866,
+        "billId": 3487,
+        "date": "2023-07-11T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

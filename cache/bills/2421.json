@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to amend the Climate Change Act 2008 to require net United Kingdom carbon emissions to be zero by 2050 and to include international aviation and international shipping in the calculation of such emissions.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4031,
+        "name": "Rachel Reeves",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4031/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4031/contact",
+        "memberFrom": "Leeds West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2421,
+  "shortTitle": "Climate Change (Emissions Targets) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-06-12T12:04:46",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15149,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision for giving effect to the Convention on Cluster Munitions.",
+  "summary": "<p>The main purpose of the Bill is to create criminal offences in order to enforce the prohibitions set out in Article 1 of the Convention on Cluster Munitions. This bans the use, production, transfer, and stockpiling of cluster munitions on the grounds that they cause unacceptable harm to civilians, and establishes measures to minimise the harm to civilians in the aftermath of conflicts. </p><p>Ninety-four states signed and four states ratified the Convention on Cluster Munitions at a ceremony in Oslo on 3 December 2008. The UK was amongst the signatories, although it was a relatively late convert to the idea of a total ban. Once the Bill has passed into law, the UK will then move to ratify the Convention, which has now been ratified by 30 states, and will come into force on 1 August 2010. The Government has announced that it intends to destroy all cluster munition stockpiles by the end of 2013. The Conservatives and Liberal Democrats have given their full support to the Bill.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3895,
+        "name": "Baroness Kinnock of Holyhead",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3895/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3895/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Foreign and Commonwealth Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1446,
+        "name": "Chris Bryant",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1446/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1446/contact",
+        "memberFrom": "Rhondda"
+      },
+      "organisation": {
+        "name": "Foreign and Commonwealth Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 545,
+  "shortTitle": "Cluster Munitions (Prohibitions) Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2010-03-29T13:18:48",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3354,
+    "stageId": 11,
+    "sessionId": 23,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3124,
+        "stageId": 11,
+        "billStageId": 3354,
+        "billId": 545,
+        "date": "2010-03-25T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

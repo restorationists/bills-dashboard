@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision to remove discrimination in respect of Royal marriages and succession to the Crown.",
+  "summary": "<p>The line of succession for the UK monarchy follows the hereditary principle with certain restrictions. The Crown passes to males ahead of females, and the monarch can neither be nor marry a Roman Catholic.  Any heir that marries a Catholic is removed from the line of succession.</p><p><strong>Key areas<br></strong></p><ul><li>removes the religious requirement on the monarch's spouse and the preference for men in the line of succession. It would have no effect on the religion of the monarch, who would still be required to be in communion with the Church of England. <br></li><li>repeals the Royal Marriages Act 1772, which places certain restrictions on members of the Royal Family marrying without consent of the monarch.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 96,
+        "name": "Dr Evan Harris",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/96/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/96/contact",
+        "memberFrom": "Oxford West and Abingdon"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 403,
+  "shortTitle": "Royal Marriages and Succession to the Crown (Prevention of Discrimination) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-10-26T15:51:26",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2071,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 1973,
+        "stageId": 7,
+        "billStageId": 2071,
+        "billId": 403,
+        "date": "2009-03-27T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

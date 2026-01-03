@@ -1,0 +1,76 @@
+{
+  "longTitle": "To authorise the issue out of the Consolidated Fund of Northern Ireland of certain sums for the service of the years ending 31 March 2019 and 2020; to appropriate those sums for specified purposes; to authorise the use for the public service of certain resources for those years; to revise the limits on the use of certain accruing resources\r\nin the year ending 31 March 2019; and to authorise the Department of Finance in Northern Ireland to borrow on the credit of the sum appropriated for the year ending 31 March 2020.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4110,
+        "name": "Karen Bradley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4110/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4110/contact",
+        "memberFrom": "Staffordshire Moorlands"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4686,
+        "name": "Lord Duncan of Springbank",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4686/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4686/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2360,
+  "shortTitle": "Northern Ireland Budget (Anticipation and Adjustments) Act 2019",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-03-18T09:43:20",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11081,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10207,
+        "stageId": 11,
+        "billStageId": 11081,
+        "billId": 2360,
+        "date": "2019-03-15T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

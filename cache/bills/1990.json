@@ -1,0 +1,59 @@
+{
+  "longTitle": "A Bill to make provision establishing a new financial guidance body; to make provision about the funding of debt advice in Scotland, Wales and Northern Ireland; and to make provision about the regulation of claims management services.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3349,
+        "name": "Baroness Buscombe",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3349/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3349/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1990,
+  "shortTitle": "Financial Guidance and Claims Act 2018",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2018-05-11T09:28:41",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 10409,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 9562,
+        "stageId": 11,
+        "billStageId": 10409,
+        "billId": 1990,
+        "date": "2018-05-10T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

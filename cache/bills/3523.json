@@ -1,0 +1,76 @@
+{
+  "longTitle": "A bill to prohibit the grant or assignment of certain new long residential leases of houses, to amend the rights of tenants under long residential leases to acquire the freeholds of their houses, to extend the leases of their houses or flats, and to collectively enfranchise or manage the buildings containing their flats, to give such tenants the right to reduce the rent payable under their leases to a peppercorn, to regulate the relationship between residential landlords and tenants, to regulate residential estate management, to regulate rentcharges and to amend the Building Safety Act 2022 in connection with the remediation of building defects and the insolvency of persons who have repairing obligations relating to certain kinds of buildings.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1571,
+        "name": "Michael Gove",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1571/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1571/contact",
+        "memberFrom": "Surrey Heath"
+      },
+      "organisation": {
+        "name": "Department for Levelling Up, Housing and Communities",
+        "url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4553,
+        "name": "Baroness Scott of Bybrook",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4553/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4553/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Levelling Up, Housing and Communities",
+        "url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3523,
+  "shortTitle": "Leasehold and Freehold Reform Act 2024",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-04-15T12:05:10.3433099",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 18852,
+    "stageId": 11,
+    "sessionId": 38,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 15943,
+        "stageId": 11,
+        "billStageId": 18852,
+        "billId": 3523,
+        "date": "2024-05-24T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

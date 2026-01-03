@@ -1,0 +1,59 @@
+{
+  "longTitle": "Confer power to make provision in relation to the Special Court for Sierra Leone corresponding to that made in relation to the International Criminal Court by sections 42 to 48 of the International Criminal Court Act 2001.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3703,
+        "name": "Baroness Royall of Blaisdon",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3703/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3703/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Foreign and Commonwealth Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 45,
+  "shortTitle": "International Tribunals (Sierra Leone) Act 2007",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2007-10-27T17:08:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 788,
+    "stageId": 11,
+    "sessionId": 20,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 612,
+        "stageId": 11,
+        "billStageId": 788,
+        "billId": 45,
+        "date": "2007-06-18T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about the determination of the fee limit for higher education courses provided by registered English higher education providers subject to a fee limit condition; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4680,
+        "name": "Gillian Keegan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4680/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4680/contact",
+        "memberFrom": "Chichester"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4703,
+        "name": "Baroness Barran",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4703/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4703/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 3
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3410,
+  "shortTitle": "Lifelong Learning (Higher Education Fee Limits) Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-09-21T16:56:15.8932289",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17933,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14940,
+        "stageId": 11,
+        "billStageId": 17933,
+        "billId": 3410,
+        "date": "2023-09-18T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+}

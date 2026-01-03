@@ -1,0 +1,73 @@
+{
+  "longTitle": "Make provision for the establishment of the National Consumer Council and its functions; to make provision for the abolition of other consumer bodies; to make provision about the handling of consumer complaints by certain suppliers and provision requiring certain suppliers to be members of redress schemes in respect of consumer complaints; to amend the Estate Agents Act 1979; to make provision about the cancellation of certain contracts concluded away from business premises; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3682,
+        "name": "Lord Truscott",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3682/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3682/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department of Trade and Industry",
+        "url": "http://www.dti.gov.uk"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 448,
+        "name": "Sir Ian McCartney",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/448/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/448/contact",
+        "memberFrom": "Makerfield"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 33,
+  "shortTitle": "Consumers, Estate Agents and Redress Act 2007",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2007-11-02T00:00:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 917,
+    "stageId": 11,
+    "sessionId": 20,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 702,
+        "stageId": 11,
+        "billStageId": 917,
+        "billId": 33,
+        "date": "2007-07-19T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

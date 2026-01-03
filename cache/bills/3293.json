@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to create offences in relation to the publication of false or misleading statements by elected representatives; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4521,
+        "name": "Liz Saville Roberts",
+        "party": "Plaid Cymru",
+        "partyColour": "348837",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4521/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4521/contact",
+        "memberFrom": "Dwyfor Meirionnydd"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3293,
+  "shortTitle": "Elected Representatives (Prohibition of Deception) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-31T17:00:14.6723026",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16795,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13516,
+        "stageId": 6,
+        "billStageId": 16795,
+        "billId": 3293,
+        "date": "2022-06-28T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

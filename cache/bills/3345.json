@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to transfer responsibility for marine licensing from the Marine Management Organisation to local authorities; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4677,
+        "name": "Giles Watling",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4677/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4677/contact",
+        "memberFrom": "Clacton"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3345,
+  "shortTitle": "Marine Activities (Licensing) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T11:00:05.2666317",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16983,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13759,
+        "stageId": 6,
+        "billStageId": 16983,
+        "billId": 3345,
+        "date": "2022-10-12T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

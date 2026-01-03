@@ -1,0 +1,76 @@
+{
+  "longTitle": "Authorise things done before the day on which this Act is passed in the\r\npurported exercise of functions relating to the approval of registered medical\r\npractitioners and clinicians under the Mental Health Act 1983.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1572,
+        "name": "Mr Jeremy Hunt",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1572/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1572/contact",
+        "memberFrom": "South West Surrey"
+      },
+      "organisation": {
+        "name": "Department of Health",
+        "url": "http://www.dh.gov.uk"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2000,
+        "name": "Earl Howe",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2000/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2000/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "Department of Health",
+        "url": "http://www.dh.gov.uk"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1095,
+  "shortTitle": "Mental Health (Approval Functions) Act 2012",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-11-01T12:04:07",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5319,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5066,
+        "stageId": 11,
+        "billStageId": 5319,
+        "billId": 1095,
+        "date": "2012-10-31T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

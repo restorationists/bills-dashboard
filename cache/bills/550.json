@@ -1,0 +1,70 @@
+{
+  "longTitle": "To enable persons to be married in a place of worship in a parish in the Church in Wales with which they have a qualifying connection; and for connected purposes.",
+  "summary": "<p>The purpose of the Marriage (Wales) Bill is to change the legal requirements for getting married in the Church of Wales.  </p><p>At the moment, it is normally required that at least one of those getting married should reside in the parish where the wedding is to take place. This Bill would allow people with a qualifying connection to a parish to hold their wedding there, even if they do not live within the parish.  </p><p>The <a>Church of England Marriage Measure 2008</a> made similar changes to the requirements for getting married in the Church of England.</p><p><strong>Key areas</strong></p><ul><li>The Bill would allow people to marry in the Church of Wales parish where they live, where they usually worship or to which they have a qualifying connection.<br></li><li>A person would have a qualifying connection to a parish if he or she:<br>&shy;  - was baptised in that parish (unless the baptism took place in a combined rite which included baptism and confirmation)<br>&shy;  - had his or her confirmation entered in the register book of confirmation for any church or chapel in that parish<br>&shy;  - has ever had his or her usual place of residence in that parish for a period of at least six months<br>&shy;  - has ever habitually attended public worship in that parish for a period of at least six months<br>  -&shy; has a parent who has, during the person&rsquo;s lifetime, had their usual place of residence in that parish for a period of at least six months, or habitually attended public worship in that parish for a period of at least six months<br>&shy;  - has a parent or grandparent who got married in that parish.<br></li><li>People wishing to get married would have to provide information to the minister of the parish to prove their qualifying connection.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3806,
+        "name": "Lord Rowe-Beddoe",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3806/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3806/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 562,
+        "name": "Alun Michael",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/562/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/562/contact",
+        "memberFrom": "Cardiff South and Penarth"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 550,
+  "shortTitle": "Marriage (Wales) Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2010-04-13T14:56:22",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3331,
+    "stageId": 11,
+    "sessionId": 23,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3136,
+        "stageId": 11,
+        "billStageId": 3331,
+        "billId": 550,
+        "date": "2010-03-18T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

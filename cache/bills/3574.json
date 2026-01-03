@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the maintenance of registers by local authorities of children in their area who are not full-time pupils at any school; to make provision about support by local authorities to promote the education of such children; to make provision about school attendance orders; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4459,
+        "name": "Mrs Flick Drummond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4459/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4459/contact",
+        "memberFrom": "Meon Valley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3574,
+  "shortTitle": "Children Not in School (Registers, Support and Orders) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-05-31T14:11:01.6308517",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18207,
+    "stageId": 7,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15192,
+        "stageId": 7,
+        "billStageId": 18207,
+        "billId": 3574,
+        "date": "2024-03-15T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

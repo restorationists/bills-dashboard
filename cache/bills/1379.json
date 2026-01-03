@@ -1,0 +1,62 @@
+{
+  "longTitle": "A Bill To make provision about innovation in medical treatment.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2154,
+        "name": "Lord Saatchi",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2154/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2154/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4116,
+        "name": "Michael Ellis",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4116/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4116/contact",
+        "memberFrom": "Northampton North"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1379,
+  "shortTitle": "Medical Innovation Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2015-03-30T14:29:33",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14169,
+    "stageId": 7,
+    "sessionId": 27,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 7
+  }
+}

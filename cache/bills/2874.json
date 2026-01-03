@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision in the national curriculum regarding sustainable citizenship and protection of the environment",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4160,
+        "name": "Lord Knight of Weymouth",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4160/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4160/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4621,
+        "name": "Darren Jones",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4621/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4621/contact",
+        "memberFrom": "Bristol North West"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2874,
+  "shortTitle": "Education (Environment and Sustainable Citizenship) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-04-29T16:21:50.9244116",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16232,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12909,
+        "stageId": 7,
+        "billStageId": 16232,
+        "billId": 2874,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 7
+  }
+}

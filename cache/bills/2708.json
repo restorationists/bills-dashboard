@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to authorise the use of resources for the years ending with 31 March 2020 and 31 March 2021; to authorise the issue of sums out of the Consolidated Fund for those years; and to appropriate the supply authorised by this Act for the year ending with 31 March 2020.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3991,
+        "name": "Jesse Norman",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3991/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3991/contact",
+        "memberFrom": "Hereford and South Herefordshire"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4689,
+        "name": "Lord Agnew of Oulton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4689/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4689/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2708,
+  "shortTitle": "Supply and Appropriation (Anticipation and Adjustments) Act 2020",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2020-04-02T16:46:13",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12095,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10921,
+        "stageId": 11,
+        "billStageId": 12095,
+        "billId": 2708,
+        "date": "2020-03-16T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

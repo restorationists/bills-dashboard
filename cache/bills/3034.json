@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision to increase the energy performance of buildings; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 214,
+        "name": "Lord Foster of Bath",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/214/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/214/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3034,
+  "shortTitle": "Minimum Energy Performance of Buildings Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-04-28T15:09:00.4820748",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15677,
+    "stageId": 1,
+    "sessionId": 36,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 12204,
+        "stageId": 1,
+        "billStageId": 15677,
+        "billId": 3034,
+        "date": "2021-07-20T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

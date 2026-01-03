@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require a person riding a bicycle on the public highway to wear a safety helmet; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4052,
+        "name": "Mark Pawsey",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4052/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4052/contact",
+        "memberFrom": "Rugby"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3472,
+  "shortTitle": "Road Safety (Cycle Helmets) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T16:22:17.8481178",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17748,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14686,
+        "stageId": 6,
+        "billStageId": 17748,
+        "billId": 3472,
+        "date": "2023-06-07T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

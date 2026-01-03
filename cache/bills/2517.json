@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to implement, and make other provision in connection with, the agreement between the United Kingdom and the EU under Article 50(2) of the Treaty on European Union which sets out the arrangements for the United Kingdom’s withdrawal from the EU.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4095,
+        "name": "Steve Barclay",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4095/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4095/contact",
+        "memberFrom": "North East Cambridgeshire"
+      },
+      "organisation": {
+        "name": "Department for Exiting the European Union ",
+        "url": "https://www.gov.uk/government/organisations/department-for-exiting-the-european-union"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4336,
+        "name": "Lord Callanan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4336/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Exiting the European Union ",
+        "url": "https://www.gov.uk/government/organisations/department-for-exiting-the-european-union"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2517,
+  "shortTitle": "European Union (Withdrawal Agreement) Act 2020",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2020-01-30T15:11:23",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11780,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10688,
+        "stageId": 11,
+        "billStageId": 11780,
+        "billId": 2517,
+        "date": "2020-01-23T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

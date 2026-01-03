@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about protection from redundancy during or after pregnancy or after periods of maternity, adoption or shared parental leave.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4243,
+        "name": "Dan Jarvis",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4243/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4243/contact",
+        "memberFrom": "Barnsley Central"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4577,
+        "name": "Baroness Bertin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4577/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4577/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3191,
+  "shortTitle": "Protection from Redundancy (Pregnancy and Family Leave) Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-06-23T13:57:39.1026761",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17704,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14632,
+        "stageId": 11,
+        "billStageId": 17704,
+        "billId": 3191,
+        "date": "2023-05-24T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

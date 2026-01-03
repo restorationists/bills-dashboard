@@ -1,0 +1,59 @@
+{
+  "longTitle": "Make provision with respect to local government and the functions and procedures of local authorities and certain other authorities; to make provision with respect to persons with functions of inspection and audit in relation to local government; to establish the Valuation Tribunal for England; to make provision in connection with local involvement networks; to abolish Patients' Forums and the Commission for Patient and Public Involvement in Health; to make provision with respect to local consultation in connection with health services; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 439,
+        "name": "Ruth Kelly",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/439/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/439/contact",
+        "memberFrom": "Bolton West"
+      },
+      "organisation": {
+        "name": "Department for Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 55,
+  "shortTitle": "Local Government and Public Involvement in Health Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-11-02T00:00:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 984,
+    "stageId": 11,
+    "sessionId": 20,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 836,
+        "stageId": 11,
+        "billStageId": 984,
+        "billId": 55,
+        "date": "2007-10-30T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

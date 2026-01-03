@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit practices whose predetermined purpose is to change a person’s sexual orientation or to change a person to or from being transgender; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4615,
+        "name": "Lloyd Russell-Moyle",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4615/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4615/contact",
+        "memberFrom": "Brighton, Kemptown"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3545,
+  "shortTitle": "Conversion Practices (Prohibition) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-05-31T15:43:31.5859105",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18144,
+    "stageId": 7,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15132,
+        "stageId": 7,
+        "billStageId": 18144,
+        "billId": 3545,
+        "date": "2024-03-01T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

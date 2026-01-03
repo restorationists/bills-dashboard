@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about the enforcement of child support maintenance and other maintenance; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4847,
+        "name": "Siobhan Baillie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4847/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4847/contact",
+        "memberFrom": "Stroud"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4551,
+        "name": "Baroness Redfern",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4551/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4551/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3203,
+  "shortTitle": "Child Support (Enforcement) Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-07-26T13:49:39.8407335",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17879,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14858,
+        "stageId": 11,
+        "billStageId": 17879,
+        "billId": 3203,
+        "date": "2023-07-20T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

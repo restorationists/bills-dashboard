@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision imposing a tax (to be known as the health and social care levy), the proceeds of which are payable to the Secretary of State towards the cost of health care and social care, on amounts in respect of which national insurance contributions are, or would be if no restriction by reference to pensionable age were applicable, payable; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4689,
+        "name": "Lord Agnew of Oulton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4689/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4689/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    },
+    {
+      "member": {
+        "memberId": 4517,
+        "name": "Lucy Frazer",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4517/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4517/contact",
+        "memberFrom": "South East Cambridgeshire"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 3
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3041,
+  "shortTitle": "Health and Social Care Levy Act 2021",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-10-21T10:40:47.3998841",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 15788,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 12367,
+        "stageId": 11,
+        "billStageId": 15788,
+        "billId": 3041,
+        "date": "2021-10-20T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

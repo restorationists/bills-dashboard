@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision in connection with applications for naturalisation as a British citizen made by members or former members of the armed forces.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4090,
+        "name": "Jonathan Lord",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4090/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4090/contact",
+        "memberFrom": "Woking"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1813,
+        "name": "Lord Trefgarne",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1813/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1813/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1204,
+  "shortTitle": "Citizenship (Armed Forces)",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-03-14T09:26:16",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 6718,
+    "stageId": 11,
+    "sessionId": 26,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 6286,
+        "stageId": 11,
+        "billStageId": 6718,
+        "billId": 1204,
+        "date": "2014-03-13T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

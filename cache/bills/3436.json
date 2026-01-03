@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to exempt NHS clinical staff from the requirement to pay fees under section 68 of the Immigration Act 2014; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4810,
+        "name": "Rob Roberts",
+        "party": "Independent",
+        "partyColour": "909090",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4810/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4810/contact",
+        "memberFrom": "Delyn"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3436,
+  "shortTitle": "Immigration and Nationality Fees (Exemption for NHS Clinical Staff) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T10:24:45.39305",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17540,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14413,
+        "stageId": 6,
+        "billStageId": 17540,
+        "billId": 3436,
+        "date": "2023-03-20T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

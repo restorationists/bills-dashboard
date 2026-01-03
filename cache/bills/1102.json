@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to set up a body to establish a public initiative for the prevention of suicide and self harm, to work with internet providers and others to reduce access to information on the internet and through other sources on methods of suicide and to develop a system of alerts and blocks for internet searches relating to suicide; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 655,
+        "name": "Dr William McCrea",
+        "party": "Democratic Unionist Party",
+        "partyColour": "d46a4c",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/655/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/655/contact",
+        "memberFrom": "South Antrim"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1102,
+  "shortTitle": "Suicide (Prevention) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-04-26T11:37:56",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13903,
+    "stageId": 7,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

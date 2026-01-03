@@ -1,0 +1,62 @@
+{
+  "longTitle": "A Bill to make provision for the imposing of restrictions on assets owned by persons involved in conduct that gives support and assistance to terrorist organisations in the United Kingdom for the purpose of securing compensation for citizens of the United Kingdom affected by such conduct",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4216,
+        "name": "Lord Empey",
+        "party": "Ulster Unionist Party",
+        "partyColour": "a1cdf0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4216/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4216/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1447,
+        "name": "Andrew Rosindell",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1447/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1447/contact",
+        "memberFrom": "Romford"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1995,
+  "shortTitle": "Asset Freezing (Compensation) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2021-04-26T16:49:26.1985983",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14740,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 6
+  }
+}

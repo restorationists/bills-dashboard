@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about the types of things that are not prevented from being objects of personal property rights.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3154,
+        "name": "Lord Ponsonby of Shulbrede",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3154/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3154/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3914,
+        "name": "Shabana Mahmood",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3914/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3914/contact",
+        "memberFrom": "Birmingham Ladywood"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3766,
+  "shortTitle": "Property (Digital Assets etc) Act 2025",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2025-12-03T09:02:46.5674327",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 20314,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 17581,
+        "stageId": 11,
+        "billStageId": 20314,
+        "billId": 3766,
+        "date": "2025-12-02T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

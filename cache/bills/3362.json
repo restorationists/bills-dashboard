@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for a new employee share ownership scheme allowing preferential access for lower income workers; to reduce the Share Incentive Plan holding period from five to three years; to require companies to include declarations in annual reports about the type of employee sharer ownership plans that are operated and the level of employee take up; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 481,
+        "name": "Sir George Howarth",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/481/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/481/contact",
+        "memberFrom": "Knowsley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3362,
+  "shortTitle": "Employee Share Ownership (Reform) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-01T12:50:46.4437043",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17096,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13886,
+        "stageId": 6,
+        "billStageId": 17096,
+        "billId": 3362,
+        "date": "2022-11-08T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

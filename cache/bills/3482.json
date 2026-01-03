@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to publish proposals for increasing the on-lending of UK Special Drawing Rights via the IMF, for transferring the capital returned to the UK by the European Investment Bank to the World Bank, and for increasing the UK’s support for the African Development Bank, for the purpose of reducing debt burdens and the cost of capital and contributing to the implementation of the Paris Agreement on climate change.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1171,
+        "name": "Liam Byrne",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1171/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1171/contact",
+        "memberFrom": "Birmingham, Hodge Hill"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3482,
+  "shortTitle": "Global Climate and Development Finance Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-01T14:59:06.0147026",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17825,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14797,
+        "stageId": 6,
+        "billStageId": 17825,
+        "billId": 3482,
+        "date": "2023-06-28T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

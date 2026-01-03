@@ -1,0 +1,76 @@
+{
+  "longTitle": "To facilitate the formation of an Executive in Northern Ireland by extending the time for making Ministerial appointments following the election of the Northern Ireland Assembly on 2 March 2017; and to make provision about the exercise of governmental functions in, or in relation to, Northern Ireland in the absence of Northern Ireland Ministers.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4110,
+        "name": "Karen Bradley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4110/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4110/contact",
+        "memberFrom": "Staffordshire Moorlands"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4686,
+        "name": "Lord Duncan of Springbank",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4686/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4686/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2300,
+  "shortTitle": "Northern Ireland (Executive Formation and Exercise of Functions) Act 2018",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2018-11-02T16:39:58",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 10757,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 9940,
+        "stageId": 11,
+        "billStageId": 10757,
+        "billId": 2300,
+        "date": "2018-11-01T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

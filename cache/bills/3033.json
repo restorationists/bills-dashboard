@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Matrimonial Causes Act 1973 and make provision in connection with financial settlements following divorce",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3756,
+        "name": "Baroness Deech",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3756/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3756/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3033,
+  "shortTitle": "Divorce (Financial Provision) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-04-28T15:08:25.3306669",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15675,
+    "stageId": 1,
+    "sessionId": 36,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 12202,
+        "stageId": 1,
+        "billStageId": 15675,
+        "billId": 3033,
+        "date": "2021-07-19T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the liability of practitioners, and of the organisation which employs the practitioner, where a practitioner prescribes an unlicensed medicine to or carries out a non-standard treatment on a person who is terminally ill; to make provision about the import, storage and use of equipment and unlicensed medicines for the purpose of such prescriptions or such treatment; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 193,
+        "name": "Dame Siobhain McDonagh",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/193/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/193/contact",
+        "memberFrom": "Mitcham and Morden"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3893,
+  "shortTitle": "Treatment of Terminal Illness Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-03-03T16:27:38.0617354",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19326,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16415,
+        "stageId": 7,
+        "billStageId": 19326,
+        "billId": 3893,
+        "date": "2025-03-14T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

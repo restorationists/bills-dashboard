@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide that the Secretary of State’s powers in relation to the management of the Royal Botanic Gardens, Kew, include the power to grant a lease in respect of land for a period of up to 150 years.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1396,
+        "name": "Mr Ian Liddell-Grainger",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1396/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1396/contact",
+        "memberFrom": "Bridgwater and West Somerset"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1854,
+  "shortTitle": "Kew Gardens (Leases) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-08-15T12:59:03",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9844,
+    "stageId": 9,
+    "sessionId": 29,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 9061,
+        "stageId": 9,
+        "billStageId": 9844,
+        "billId": 1854,
+        "date": "2017-03-24T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

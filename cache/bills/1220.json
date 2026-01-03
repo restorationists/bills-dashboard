@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision about the inclusion at local authority meetings of observances that are, and about powers of local authorities in relation to events that to any extent are, religious or related to a religious or philosophical belief.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4006,
+        "name": "Dr Matthew Offord",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4006/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4006/contact",
+        "memberFrom": "Hendon"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1220,
+  "shortTitle": "Local Government (Religious etc. Observances) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-05-15T14:51:11",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14014,
+    "stageId": 7,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

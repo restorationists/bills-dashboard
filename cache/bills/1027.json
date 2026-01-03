@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make further provision about discrimination against people on the grounds of their mental health; and for connected purposes.",
+  "summary": "<p>The aim of the Bill is to reduce the stigma and negative perceptions associated with mental illness. It would repeal legislative provisions that can prevent people with mental health conditions from serving as Members of Parliament, members of the devolved legislatures, jurors, or company directors.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3955,
+        "name": "Gavin Barwell",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3955/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3955/contact",
+        "memberFrom": "Croydon Central"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2474,
+        "name": "Lord Stevenson of Coddenham",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2474/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2474/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1027,
+  "shortTitle": "Mental Health (Discrimination) Act 2013",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-03-01T16:09:50",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5734,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5391,
+        "stageId": 11,
+        "billStageId": 5734,
+        "billId": 1027,
+        "date": "2013-02-28T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

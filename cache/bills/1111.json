@@ -1,0 +1,53 @@
+{
+  "longTitle": "A Bill to confer powers on Hertfordshire County Council in relation to filming on highways; and for related purposes.",
+  "summary": null,
+  "sponsors": [],
+  "promoters": [
+    {
+      "organisationName": "Hertfordshire County Council",
+      "organisationUrl": null
+    }
+  ],
+  "petitioningPeriod": "House of Lords: 23 January 2013 to 6 February 2013\r\nHouse of Commons: 4 June 2013 to 10 June 2013",
+  "petitionInformation": "",
+  "agent": {
+    "name": "Sharpe Pritchard LLP",
+    "address": "Elm Yard, 13-16 Elm Street, London WC1X 0BJ",
+    "phoneNo": "020 7405 4600",
+    "email": "alewis@sharpepritchard.co.uk",
+    "website": ""
+  },
+  "billId": 1111,
+  "shortTitle": "Hertfordshire County Council (Filming on Highways) Act 2014",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2014-02-11T13:20:51",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 6,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25,
+    26
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 6598,
+    "stageId": 11,
+    "sessionId": 26,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 6167,
+        "stageId": 11,
+        "billStageId": 6598,
+        "billId": 1111,
+        "date": "2014-01-30T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "longTitle": "A Bill to make provision about anti-social behaviour, offensive weapons, offences against people (including sexual offences), property offences, the criminal exploitation of persons, sex offenders, stalking and public order; to make provision about powers of the police, the border force and other similar persons; to make provision about confiscation; to make provision about the police; to make provision about terrorism and national security, and about international agreements relating to crime; to make provision about the criminal liability of bodies; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 420,
+        "name": "Yvette Cooper",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/420/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/420/contact",
+        "memberFrom": "Pontefract, Castleford and Knottingley"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 533,
+        "name": "Lord Hanson of Flint",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/533/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/533/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3938,
+  "shortTitle": "Crime and Policing Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2026-01-02T17:15:28.9589516",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20237,
+    "stageId": 3,
+    "sessionId": 39,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 17447,
+        "stageId": 3,
+        "billStageId": 20237,
+        "billId": 3938,
+        "date": "2025-11-10T00:00:00"
+      },
+      {
+        "id": 17453,
+        "stageId": 3,
+        "billStageId": 20237,
+        "billId": 3938,
+        "date": "2025-11-17T00:00:00"
+      },
+      {
+        "id": 17454,
+        "stageId": 3,
+        "billStageId": 20237,
+        "billId": 3938,
+        "date": "2025-11-19T00:00:00"
+      },
+      {
+        "id": 17456,
+        "stageId": 3,
+        "billStageId": 20237,
+        "billId": 3938,
+        "date": "2025-11-27T00:00:00"
+      },
+      {
+        "id": 17457,
+        "stageId": 3,
+        "billStageId": 20237,
+        "billId": 3938,
+        "date": "2025-12-09T00:00:00"
+      },
+      {
+        "id": 17458,
+        "stageId": 3,
+        "billStageId": 20237,
+        "billId": 3938,
+        "date": "2025-12-15T00:00:00"
+      },
+      {
+        "id": 17459,
+        "stageId": 3,
+        "billStageId": 20237,
+        "billId": 3938,
+        "date": "2025-12-17T00:00:00"
+      },
+      {
+        "id": 17608,
+        "stageId": 3,
+        "billStageId": 20237,
+        "billId": 3938,
+        "date": "2026-01-07T00:00:00"
+      },
+      {
+        "id": 17460,
+        "stageId": 3,
+        "billStageId": 20237,
+        "billId": 3938,
+        "date": "2026-01-13T00:00:00"
+      },
+      {
+        "id": 17461,
+        "stageId": 3,
+        "billStageId": 20237,
+        "billId": 3938,
+        "date": "2026-01-15T00:00:00"
+      },
+      {
+        "id": 17462,
+        "stageId": 3,
+        "billStageId": 20237,
+        "billId": 3938,
+        "date": "2026-01-20T00:00:00"
+      },
+      {
+        "id": 17463,
+        "stageId": 3,
+        "billStageId": 20237,
+        "billId": 3938,
+        "date": "2026-01-22T00:00:00"
+      },
+      {
+        "id": 17485,
+        "stageId": 3,
+        "billStageId": 20237,
+        "billId": 3938,
+        "date": "2026-01-27T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

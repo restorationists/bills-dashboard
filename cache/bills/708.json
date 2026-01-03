@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to reaffirm the sovereignty of the United Kingdom Parliament; and for connected purposes.",
+  "summary": "<p>The Bill seeks to confirm the sovereignty of the UK Parliament by prohibiting the Government from signing, ratifying or implementing a treaty or law which increases the powers of the European Union over the United Kingdom, unless it has first been approved in a UK referendum.</p><p>If enacted, the Bill would override the requirements of the European Communities Act 1972, the rule of prerogative, the rule of international law, and any other Act of Parliament, unless the latter expressly stated to the contrary. The requirement for the Queen to withhold Assent from a Bill without a referendum first having been won would seem to interfere with a constitutional personal prerogative of the Crown.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 242,
+        "name": "Mr Christopher Chope",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/242/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/242/contact",
+        "memberFrom": "Christchurch"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 708,
+  "shortTitle": "United Kingdom Parliamentary Sovereignty Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-01T16:06:46",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 3575,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 3350,
+        "stageId": 7,
+        "billStageId": 3575,
+        "billId": 708,
+        "date": "2011-03-18T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

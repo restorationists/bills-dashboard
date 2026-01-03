@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to enable provision to be made for appeals relating to free childcare for young children of working parents to be settled by agreement; to make further provision designed to increase efficiency in the administration of free childcare schemes; to make provision about the promotion of the availability of free childcare, including to disadvantaged groups; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4654,
+        "name": "Matt Rodda",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4654/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4654/contact",
+        "memberFrom": "Reading East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2908,
+  "shortTitle": "Childcare Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-11-01T10:27:14.2057469",
+  "billWithdrawn": "2021-10-29T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15381,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 11907,
+        "stageId": 7,
+        "billStageId": 15381,
+        "billId": 2908,
+        "date": "2021-10-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

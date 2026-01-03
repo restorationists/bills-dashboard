@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to amend the law relating to the distribution of the estates of deceased persons; and for connected purposes.",
+  "summary": "<p>The Bill would give general effect, with modifications, to the recommendations of the Law Commission in its 2005 report, 'The Forfeiture Rule and the Law of Succession', which were accepted by the Labour Government in 2006. Similar provisions to those contained in the Bill were included in the Draft Civil Law Reform Bill which the Labour Government published for consultation in December 2009. The Coalition Government has announced that it does not intend to proceed with that draft Bill.</p><p>The Bill would, in certain circumstances, protect the inheritance rights of the descendants of people who have</p><ul><li>forfeited their inheritance by killing the deceased; or</li><li>decided not to accept their own inheritance.</li></ul><p>The Ministry of Justice has indicated that it will support the Bill and has assisted with drafting both the Bill and the Explanatory Notes published with it.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1200,
+        "name": "Mr Greg Knight",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1200/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1200/contact",
+        "memberFrom": "East Yorkshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 688,
+  "shortTitle": "Estates of Deceased Persons (Forfeiture Rule and Law of Succession) Act 2011",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2011-10-20T17:23:49",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4425,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4199,
+        "stageId": 11,
+        "billStageId": 4425,
+        "billId": 688,
+        "date": "2011-07-12T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

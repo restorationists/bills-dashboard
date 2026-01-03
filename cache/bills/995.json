@@ -1,0 +1,56 @@
+{
+  "longTitle": null,
+  "summary": "A Bill to amend the Airports Act 1986.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4216,
+        "name": "Lord Empey",
+        "party": "Ulster Unionist Party",
+        "partyColour": "a1cdf0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4216/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4216/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 995,
+  "shortTitle": "Airports (Amendment) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-04-30T10:58:19",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 4986,
+    "stageId": 2,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 4741,
+        "stageId": 2,
+        "billStageId": 4986,
+        "billId": 995,
+        "date": "2012-11-09T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

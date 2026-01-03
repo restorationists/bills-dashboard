@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to give workers the right to flexible working from the first day of employment except in exceptional circumstances; to require employers to offer flexible working arrangements in employment contracts and advertise the available types of such flexibility in vacancy notices; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4518,
+        "name": "Tulip Siddiq",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4518/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4518/contact",
+        "memberFrom": "Hampstead and Kilburn"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3018,
+  "shortTitle": "Flexible Working Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-04T17:11:05.8543954",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15613,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12147,
+        "stageId": 7,
+        "billStageId": 15613,
+        "billId": 3018,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

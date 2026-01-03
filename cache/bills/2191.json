@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision creating a new offence of shining or directing a laser beam towards a vehicle.",
+  "summary": "<p>Following agreement by both Houses on the text of the Bill it received Royal Assent on 10 May. The Bill is now an Act of Parliament (law).</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4584,
+        "name": "Baroness Sugg",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4584/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4584/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1413,
+        "name": "Chris Grayling",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1413/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1413/contact",
+        "memberFrom": "Epsom and Ewell"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2191,
+  "shortTitle": "Laser Misuse (Vehicles) Act 2018",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2018-05-16T10:05:52",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 10407,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 9607,
+        "stageId": 11,
+        "billStageId": 10407,
+        "billId": 2191,
+        "date": "2018-05-10T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

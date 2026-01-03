@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for a scheme for the triggering and holding of a local area referendum to approve a proposed sale of or including school playing fields by a local education authority or state-funded school; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4369,
+        "name": "Tom Pursglove",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4369/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4369/contact",
+        "memberFrom": "Corby"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1652,
+  "shortTitle": "Local Area Referendum (Disposal of School Playing Fields) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-05-13T16:37:01",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 8620,
+    "stageId": 7,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 7970,
+        "stageId": 7,
+        "billStageId": 8620,
+        "billId": 1652,
+        "date": "2016-01-22T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision about the noise emitted by fireworks supplied in the United Kingdom",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1468,
+        "name": "Rob Marris",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1468/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1468/contact",
+        "memberFrom": "Wolverhampton South West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 290,
+  "shortTitle": "Fireworks Act 2003 (Amendment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-10-16T17:28:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13184,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

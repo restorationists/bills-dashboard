@@ -1,0 +1,59 @@
+{
+  "longTitle": "A Bill To amend the criminal law; to make provision about criminal justice (including the powers and duties of the police) and about dealing with offenders; to make provision about confiscation and the use of monies in suspended accounts; to make other provision about the prevention and detection of crime and disorder; to make provision about begging, rough sleeping and anti-social behaviour; to make provision about the police; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4366,
+        "name": "James Cleverly",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4366/contact",
+        "memberFrom": "Braintree"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3511,
+  "shortTitle": "Criminal Justice Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-09-19T14:12:17.6211124",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18470,
+    "stageId": 9,
+    "sessionId": 38,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15811,
+        "stageId": 9,
+        "billStageId": 18470,
+        "billId": 3511,
+        "date": "2024-05-15T00:00:00"
+      }
+    ],
+    "sortOrder": 6
+  }
+}

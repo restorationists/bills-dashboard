@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision to ensure that medical treatment prescribed as necessary by a doctor or other medical professional must be provided unless the type of treatment is not approved by the Secretary of State or the National Institute for Health and Clinical Excellence; to establish a national register of cases where such prescribed treatment is refused; to introduce a mechanism for appeal against decisions about provision of medical treatments; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 385,
+        "name": "Hugh Bayley",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/385/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/385/contact",
+        "memberFrom": "York Central"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 923,
+  "shortTitle": "National Health Service (Right to Treatment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-01T15:02:44",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13742,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

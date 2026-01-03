@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the licensing of short-term let accommodation; to make provision about the marketing of short-term let accommodation; to make provision about planning permission in respect of short-term let accommodation; to require the Secretary of State to publish guidance about the management of short-term let accommodation; to make provision about small business rates relief for short-term let accommodation; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4471,
+        "name": "Rachael Maskell",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4471/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4471/contact",
+        "memberFrom": "York Central"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3788,
+  "shortTitle": "Short-term Let Accommodation Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-05T16:05:31.1790811",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19042,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16118,
+        "stageId": 7,
+        "billStageId": 19042,
+        "billId": 3788,
+        "date": "2026-01-09T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

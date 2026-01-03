@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Scotland Act 1998 to grant to the Scottish Parliament legislative competence in respect of the role and functions of the Scottish Law Officers; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4419,
+        "name": "Joanna Cherry",
+        "party": "Scottish National Party",
+        "partyColour": "fff685",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4419/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4419/contact",
+        "memberFrom": "Edinburgh South West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3665,
+  "shortTitle": "Scottish Law Officers (Devolution) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-06-04T15:24:08.7502268",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18411,
+    "stageId": 7,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15413,
+        "stageId": 7,
+        "billStageId": 18411,
+        "billId": 3665,
+        "date": "2024-03-22T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

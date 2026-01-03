@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to prohibit the sale and advertising of activities abroad which involve low standards of welfare for animals.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4840,
+        "name": "Angela Richardson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4840/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4840/contact",
+        "memberFrom": "Guildford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4171,
+        "name": "Lord Black of Brentwood",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4171/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4171/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3223,
+  "shortTitle": "Animals (Low-Welfare Activities Abroad) Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-09-21T17:06:14.1491057",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17950,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14945,
+        "stageId": 11,
+        "billStageId": 17950,
+        "billId": 3223,
+        "date": "2023-09-18T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "Make provision for the holding of a referendum in the United Kingdom on the United Kingdom’s continued membership of the European Union.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1775,
+        "name": "Lord Willoughby de Broke",
+        "party": "UK Independence Party",
+        "partyColour": "722889",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1775/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1775/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1021,
+  "shortTitle": "Referendum (European Union) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-04-30T11:15:39",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13824,
+    "stageId": 2,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

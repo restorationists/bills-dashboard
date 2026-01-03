@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision about the duties of public bodies to prevent homelessness.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4005,
+        "name": "Bob Blackman",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4005/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4005/contact",
+        "memberFrom": "Harrow East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3801,
+  "shortTitle": "Homelessness Prevention Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-03-31T17:05:45.6703715",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19817,
+    "stageId": 8,
+    "sessionId": 39,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 3
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "Prohibit discrimination against temporary and agency workers; to make provision about the enforcement of rights of such workers; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1436,
+        "name": "Paul Farrelly",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1436/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1436/contact",
+        "memberFrom": "Newcastle-under-Lyme"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 102,
+  "shortTitle": "Temporary and Agency Workers (Prevention of Less Favourable Treatment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-11-01T09:49:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 986,
+    "stageId": 7,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 846,
+        "stageId": 7,
+        "billStageId": 986,
+        "billId": 102,
+        "date": "2007-03-02T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

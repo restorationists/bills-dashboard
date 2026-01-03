@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision for or in connection with the relief of debts of certain developing countries.",
+  "summary": "The Bill seeks to limit the amount that can be recovered by any commercial creditor of those countries designated as having unsustainable external debts. It would restrict the activities of so-called 'vulture funds', which buy developing countries' sovereign debt at discounted prices, then seek to recover its value in full through the courts. Its provisions would limit successful claims to an internationally agreed level and apply equally to all commercial creditors. The Bill would cover the 40 countries in the IMF/World Bank Heavily Indebted Poor Countries (HIPC) initiative. Debts incurred after the Bill's entry into force would be excluded.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1506,
+        "name": "Andrew Gwynne",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1506/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1506/contact",
+        "memberFrom": "Denton and Reddish"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 518,
+        "name": "Baroness Quin",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/518/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/518/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 570,
+  "shortTitle": "Debt Relief (Developing Countries) Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-04-13T14:45:13",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3432,
+    "stageId": 11,
+    "sessionId": 23,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3223,
+        "stageId": 11,
+        "billStageId": 3432,
+        "billId": 570,
+        "date": "2010-04-08T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

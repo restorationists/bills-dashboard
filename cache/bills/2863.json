@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to provide for the payment out of money provided by Parliament of expenditure incurred by the Treasury for, or in connection with, the payment of compensation to customers of London Capital & Finance plc; provide for the making of loans to the Board of the Pension Protection Fund for the purposes of its fraud compensation functions; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4051,
+        "name": "John Glen",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4051/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4051/contact",
+        "memberFrom": "Salisbury"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4169,
+        "name": "Viscount Younger of Leckie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4169/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4169/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2863,
+  "shortTitle": "Compensation (London Capital & Finance plc and Fraud Compensation Fund) Act 2021",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-11-22T16:58:34.2107529",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 15789,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 12368,
+        "stageId": 11,
+        "billStageId": 15789,
+        "billId": 2863,
+        "date": "2021-10-20T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

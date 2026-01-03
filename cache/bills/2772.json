@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the Prime Minister to achieve climate and ecology objectives; to give the Secretary of State a duty to create and implement a strategy to achieve those objectives; to establish a Citizens’ Assembly to work with the Secretary of State in creating that strategy; to give duties to the Committee on Climate Change regarding the objectives and strategy; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3930,
+        "name": "Caroline Lucas",
+        "party": "Green Party",
+        "partyColour": "78b82a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3930/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3930/contact",
+        "memberFrom": "Brighton, Pavilion"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2772,
+  "shortTitle": "Climate and Ecology Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-04T14:20:25.3835283",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12370,
+    "stageId": 7,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

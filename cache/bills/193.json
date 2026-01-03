@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision in connection with the upper earnings limit for national insurance contributions (including in particular provision about the upper accrual point)",
+  "summary": "<p>In his Budget speech on 21 March 2007 the then Chancellor of the Exchequer, Gordon Brown, announced a series of changes to the personal tax system. </p><p>One of these measures was to &lsquo;align the income tax system with the national insurance system&rsquo; from April 2009, &lsquo;thereby creating a tax system for income that has just two rates and two thresholds.&rsquo;</p><p><strong>Key areas</strong></p><ul><li>The Bill proposes to align the upper earnings limit (UEL) for National Insurance contributions (NICs) with the higher rate threshold &ndash; the point at which taxpayers start to pay the higher rate of income tax &ndash; from 6 April 2009.  At present the upper earnings limit is subject to a statutory limit, so that it must be set at between six and a half and seven and a half times the primary threshold for National Insurance contributions. The Bill removes this restriction, and allows the limit to be set by secondary legislation for 2009-10 and beyond. </li><li>It introduces an upper accrual point (UAP) for the state second pension (S2P), also from 6 April 2009. The Pensions Act 2007 contains a number of provisions to gradually amend the S2P into a flat-rate top-up to the basic state pension, including the introduction of the upper accrual point. It had been intended that this would be introduced in 2012. The Bill brings this forward to April 2009, so that increases in the upper earnings limit from this date do not boost the S2P that higher earners would accrue. </li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 596,
+        "name": "Mr Alistair Darling",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/596/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/596/contact",
+        "memberFrom": "Edinburgh South West"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3694,
+        "name": "Lord McKenzie of Luton",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3694/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3694/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 193,
+  "shortTitle": "National Insurance Contributions Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-02-25T13:43:36",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1783,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1717,
+        "stageId": 11,
+        "billStageId": 1783,
+        "billId": 193,
+        "date": "2008-07-21T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

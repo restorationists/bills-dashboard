@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to raise the age of criminal responsibility, and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2685,
+        "name": "Lord Dholakia",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2685/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2685/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1187,
+  "shortTitle": "Age of Criminal Responsibility Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-11-11T09:14:56",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 6370,
+    "stageId": 2,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 5906,
+        "stageId": 2,
+        "billStageId": 6370,
+        "billId": 1187,
+        "date": "2013-11-08T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

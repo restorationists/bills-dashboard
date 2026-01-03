@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to increase the maximum penalty for causing death by driving whilst disqualified to fourteen years and an unlimited fine.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3987,
+        "name": "Rehman Chishti",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3987/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3987/contact",
+        "memberFrom": "Gillingham and Rainham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1319,
+  "shortTitle": "Causing Death by Driving Whilst Disqualified Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-05-15T12:25:46",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14112,
+    "stageId": 7,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

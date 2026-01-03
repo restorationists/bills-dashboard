@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the regulation of online providers of fertility and certain ancillary services by the Human Fertilisation and Embryology Authority; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4008,
+        "name": "Dame Caroline Dinenage",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4008/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4008/contact",
+        "memberFrom": "Gosport"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4005,
+  "shortTitle": "Human Fertilisation and Embryology (Regulation) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-11T14:38:18.3759707",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20135,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17291,
+        "stageId": 7,
+        "billStageId": 20135,
+        "billId": 4005,
+        "date": "2026-01-09T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

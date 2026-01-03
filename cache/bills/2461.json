@@ -1,0 +1,59 @@
+{
+  "longTitle": "To make provision about targets, plans and policies for improving the natural environment; to make provision for the Office for Environmental Protection; to make provision about waste and resource efficiency; to make provision about air quality; to make provision for the recall of products that fail to meet environmental standards; to make provision about water; to make provision about nature and biodiversity; to make provision for conservation covenants; to make provision about the regulation of chemicals; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1500,
+        "name": "Theresa Villiers",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1500/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1500/contact",
+        "memberFrom": "Chipping Barnet"
+      },
+      "organisation": {
+        "name": "Department for Environment, Food and Rural Affairs",
+        "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2461,
+  "shortTitle": "Environment Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-11-06T12:37:01",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 34,
+  "includedSessionIds": [
+    34
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11472,
+    "stageId": 36,
+    "sessionId": 34,
+    "description": "Ways and Means resolution",
+    "abbreviation": "WAMR",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 10477,
+        "stageId": 36,
+        "billStageId": 11472,
+        "billId": 2461,
+        "date": "2019-10-28T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to lower the gestational time limit for abortion from twenty-four weeks to twenty-two weeks.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3902,
+        "name": "Baroness O'Loan",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3902/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3902/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3554,
+  "shortTitle": "Abortion (Gestational Time Limit Reduction) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2024-05-29T11:30:05.9068571",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18160,
+    "stageId": 1,
+    "sessionId": 38,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15147,
+        "stageId": 1,
+        "billStageId": 18160,
+        "billId": 3554,
+        "date": "2023-12-07T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

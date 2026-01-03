@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to raise the penalty for littering offences; and to require local authorities to provide appropriate and convenient litter disposal points for the entrances to public buildings.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2127,
+        "name": "Lord Selsdon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2127/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2127/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1181,
+  "shortTitle": "Clean Neighbourhoods and Environment (Amendment) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-07-22T10:44:34",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 6224,
+    "stageId": 2,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 5829,
+        "stageId": 2,
+        "billStageId": 6224,
+        "billId": 1181,
+        "date": "2013-07-19T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

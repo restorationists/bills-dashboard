@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to remove any distinction between the sexes in determining the succession to the Crown.",
+  "summary": "At present, the Crown passes to male heirs ahead of female heirs. The Bill would amend the Act of Settlement 1700 to remove any distinction between the sexes in determining succession to the Crown.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 338,
+        "name": "Keith Vaz",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/338/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/338/contact",
+        "memberFrom": "Leicester East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 816,
+  "shortTitle": "Succession to the Crown Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-01T15:44:41",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13641,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

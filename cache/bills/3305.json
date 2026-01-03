@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require Her Majesty's Government formally to recognise the Armenian genocide of 1915–23; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 114,
+        "name": "Tim Loughton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/114/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/114/contact",
+        "memberFrom": "East Worthing and Shoreham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3305,
+  "shortTitle": "Recognition of Armenian Genocide Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T15:35:23.3766536",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16824,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13547,
+        "stageId": 6,
+        "billStageId": 16824,
+        "billId": 3305,
+        "date": "2022-06-30T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

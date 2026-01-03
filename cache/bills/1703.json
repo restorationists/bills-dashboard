@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about the Bank of England; to make provision about the regulation of financial services; to make provision about the issue of banknotes; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4535,
+        "name": "Lord Bridges of Headley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4535/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4535/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4107,
+        "name": "Harriett Baldwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4107/contact",
+        "memberFrom": "West Worcestershire"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1703,
+  "shortTitle": "Bank of England and Financial Services Act 2016",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2016-05-05T14:08:42",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 8595,
+    "stageId": 11,
+    "sessionId": 28,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7999,
+        "stageId": 11,
+        "billStageId": 8595,
+        "billId": 1703,
+        "date": "2016-05-04T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

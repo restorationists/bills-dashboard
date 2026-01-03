@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to require operator licences authorising the carrying out of spaceflight activities to specify the licensee's indemnity limit.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5170,
+        "name": "John Grady",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5170/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5170/contact",
+        "memberFrom": "Glasgow East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3474,
+        "name": "Baroness Anelay of St Johns",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3474/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3474/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3787,
+  "shortTitle": "Space Industry (Indemnities) Act 2025",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-19T10:58:43.1431738",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 20375,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 17640,
+        "stageId": 11,
+        "billStageId": 20375,
+        "billId": 3787,
+        "date": "2025-12-18T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

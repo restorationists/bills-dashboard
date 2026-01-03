@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision for a Charter for Budget Responsibility and for the Publication of Financial Statements and Budget Reports; to establish the Office for Budget Responsibility; to make provision about the Comptroller and Auditor General and to establish a body corporate called the National Audit Office; to amend Schedules 5 and 7 to the Government of Wales Act 2006 in relation to the Auditor General for Wales; and for connected purposes.",
+  "summary": "<p>The Bill establishes the Office for Budget Responsibility on a statutory basis, following its creation after the 2010 General Election. It requires the Treasury to publish a Charter for Budget Responsibility setting out its approach to fiscal policy. </p><p>The Bill also confirms a new corporate governance structure for the National Audit Office, under a new paid post of Chair, who would develop a joint strategy with the Comptroller and Auditor General.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4146,
+        "name": "Lord Sassoon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4146/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4146/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1555,
+        "name": "Justine Greening",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1555/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1555/contact",
+        "memberFrom": "Putney"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 783,
+  "shortTitle": "Budget Responsibility and National Audit Act 2011",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2021-10-06T15:29:55.9637862",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4174,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3929,
+        "stageId": 11,
+        "billStageId": 4174,
+        "billId": 783,
+        "date": "2011-03-22T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

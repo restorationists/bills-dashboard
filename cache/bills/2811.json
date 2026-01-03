@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision (including the imposition and regulation of new duties of customs) in connection with goods in Northern Ireland and their movement into or out of Northern Ireland; to make provision amending certain enactments relating to value added tax, excise duty or insurance premium tax; to make provision in connection with the recovery of unlawful state aid in relation to controlled foreign companies; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3991,
+        "name": "Jesse Norman",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3991/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3991/contact",
+        "memberFrom": "Hereford and South Herefordshire"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4689,
+        "name": "Lord Agnew of Oulton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4689/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4689/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2811,
+  "shortTitle": "Taxation (Post-transition Period) Act 2020",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-02-11T14:32:32",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12640,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 11469,
+        "stageId": 11,
+        "billStageId": 12640,
+        "billId": 2811,
+        "date": "2020-12-17T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

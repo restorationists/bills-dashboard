@@ -1,0 +1,118 @@
+{
+  "longTitle": "A Bill to make provision about combined authorities, combined county authorities, the Greater London Authority, local councils, police and crime commissioners and fire and rescue authorities, local audit and terms in business tenancies about rent.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4356,
+        "name": "Angela Rayner",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4356/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4356/contact",
+        "memberFrom": "Ashton-under-Lyne"
+      },
+      "organisation": {
+        "name": "Ministry of Housing, Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4956,
+        "name": "Baroness Taylor of Stevenage",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4956/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4956/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Housing, Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4002,
+  "shortTitle": "English Devolution and Community Empowerment Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-22T17:21:19.9503566",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20354,
+    "stageId": 3,
+    "sessionId": 39,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 17647,
+        "stageId": 3,
+        "billStageId": 20354,
+        "billId": 4002,
+        "date": "2026-01-20T00:00:00"
+      },
+      {
+        "id": 17648,
+        "stageId": 3,
+        "billStageId": 20354,
+        "billId": 4002,
+        "date": "2026-01-27T00:00:00"
+      },
+      {
+        "id": 17649,
+        "stageId": 3,
+        "billStageId": 20354,
+        "billId": 4002,
+        "date": "2026-01-29T00:00:00"
+      },
+      {
+        "id": 17650,
+        "stageId": 3,
+        "billStageId": 20354,
+        "billId": 4002,
+        "date": "2026-02-03T00:00:00"
+      },
+      {
+        "id": 17651,
+        "stageId": 3,
+        "billStageId": 20354,
+        "billId": 4002,
+        "date": "2026-02-05T00:00:00"
+      },
+      {
+        "id": 17652,
+        "stageId": 3,
+        "billStageId": 20354,
+        "billId": 4002,
+        "date": "2026-02-09T00:00:00"
+      },
+      {
+        "id": 17653,
+        "stageId": 3,
+        "billStageId": 20354,
+        "billId": 4002,
+        "date": "2026-02-11T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

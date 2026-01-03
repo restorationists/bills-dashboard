@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to amend the Mesothelioma Act 2014.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4316,
+        "name": "Mike Kane",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4316/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4316/contact",
+        "memberFrom": "Wythenshawe and Sale East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1558,
+  "shortTitle": "Mesothelioma (Amendment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-30T14:32:10",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14341,
+    "stageId": 7,
+    "sessionId": 27,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

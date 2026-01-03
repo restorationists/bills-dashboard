@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to amend the Scotland Act 1998 to grant legislative competence for employment matters to the Scottish Parliament.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4420,
+        "name": "Gavin Newlands",
+        "party": "Scottish National Party",
+        "partyColour": "fff685",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4420/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4420/contact",
+        "memberFrom": "Paisley and Renfrewshire North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3053,
+  "shortTitle": "Devolution (Employment) (Scotland) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-04-29T15:44:54.9804364",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15784,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "longTitle": "To provide for the destruction, retention, use and other regulation of certain evidential material; to impose consent and other requirements in relation to certain processing of biometric information relating to children; to provide for a code of practice about surveillance camera systems and for the appointment and role of the Surveillance Camera Commissioner; to provide for judicial approval in relation to certain authorisations and notices under the Regulation of Investigatory Powers Act 2000; to provide for the repeal or rewriting of powers of entry and associated powers and for codes of practice and other safeguards in relation to such powers; to make provision about vehicles left on land; to provide for a maximum detention period of 14 days for terrorist suspects; to replace certain stop and search powers and to provide for a related code of practice; to amend the Safeguarding Vulnerable Groups Act 2006; to make provision about criminal records; to disregard convictions and cautions for certain abolished offences; to make provision about the release and publication of datasets held by public authorities and to make other provision about freedom of information and the Information Commissioner; to repeal certain enactments; and for connected purposes.",
+  "summary": "<p>The Bill includes a wide range of measures.</p><p><strong>Key areas</strong></p><ul><li>brings in a new framework for police retention of fingerprints and DNA data, and requires schools to get parents&rsquo; consent before processing children&rsquo;s biometric information</li><li>introduces a code of practice for surveillance camera systems and provides for judicial approval of certain surveillance activities by local authorities</li><li>provides for a code of practice to cover officials&rsquo; powers of entry, with these powers being subject to review and repeal</li><li>outlaws wheel-clamping on private land</li><li>introduces a new regime for police stops and searches under the Terrorism Act 2000 and reduces the maximum pre-charge detention period under that Act from 28 to 14 days</li><li>restricts the scope of the 'vetting and barring' scheme for protecting vulnerable groups and makes changes to the system of criminal records checks</li><li>enables those with convictions for consensual sexual relations between men aged 16 or over (which have since been decriminalised) to apply to have them disregarded</li><li>extends Freedom of Information rights by requiring datasets to be available in a re-usable format</li><li>repeals provisions (never brought into force) which would have allowed trial without a jury in complex fraud cases</li><li>removes time restrictions on when marriage or civil partnership ceremonies may take place.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 8,
+        "name": "Mrs Theresa May",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/8/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/8/contact",
+        "memberFrom": "Maidenhead"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2616,
+        "name": "Lord Henley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2616/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2616/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 830,
+  "shortTitle": "Protection of Freedoms Act 2012",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-02T10:27:12",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4925,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4613,
+        "stageId": 11,
+        "billStageId": 4925,
+        "billId": 830,
+        "date": "2012-05-01T00:00:00"
+      }
+    ],
+    "sortOrder": 20
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "longTitle": "To make provision in relation to the Law Commission.",
+  "summary": "<p>The Bill contains provisions relating to the work of the Law Commission (a statutory body created in 1965 to promote the reform of the law of England and Wales) and would amend the Law Commission Act 1965. The provisions of the Bill would</p><ul><li>require the Lord Chancellor to prepare an annual report, to be laid before Parliament, on the implementation of Law Commission proposals</li><li>require the Lord Chancellor to set out plans for dealing with any Law Commission proposals which have not been implemented and provide the reasoning behind decisions not to implement proposals</li><li>allow the Lord Chancellor and Law Commission  to agree a protocol about the Law Commission&rsquo;s work. The protocol would be designed to provide a framework for the relationship between the UK Government and the Law Commission, and the Lord Chancellor would have to lay the protocol before Parliament. </li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2052,
+        "name": "Lord Lloyd of Berwick",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2052/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2052/contact",
+        "memberFrom": "Life Peer (judicial)"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1536,
+        "name": "Ms Emily Thornberry",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1536/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1536/contact",
+        "memberFrom": "Islington South and Finsbury"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 420,
+  "shortTitle": "Law Commission",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-11-20T14:44:19",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 2783,
+    "stageId": 11,
+    "sessionId": 22,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2645,
+        "stageId": 11,
+        "billStageId": 2783,
+        "billId": 420,
+        "date": "2009-11-12T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

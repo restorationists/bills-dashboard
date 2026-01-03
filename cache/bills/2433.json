@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision for children adopted from overseas to receive the same priority for admission to maintained schools as children looked after or previously looked after by a local authority in England",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3651,
+        "name": "Lord Triesman",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3651/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3651/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2433,
+  "shortTitle": "School Admissions for Children Adopted from Overseas Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-09-10T14:43:40",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15160,
+    "stageId": 2,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

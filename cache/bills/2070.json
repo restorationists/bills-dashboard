@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to extend the National Living Wage to people aged 18 to 24.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4472,
+        "name": "Holly Lynch",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4472/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4472/contact",
+        "memberFrom": "Halifax"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2070,
+  "shortTitle": "National Living Wage (Extension to Young People) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-09-19T13:23:55",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14813,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

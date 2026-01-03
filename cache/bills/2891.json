@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to raise the age of criminal responsibility",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2685,
+        "name": "Lord Dholakia",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2685/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2685/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2891,
+  "shortTitle": "Age of Criminal Responsibility Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-04-28T15:04:38.7174796",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15337,
+    "stageId": 1,
+    "sessionId": 36,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 11869,
+        "stageId": 1,
+        "billStageId": 15337,
+        "billId": 2891,
+        "date": "2021-06-15T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

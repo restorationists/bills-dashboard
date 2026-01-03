@@ -1,0 +1,77 @@
+{
+  "longTitle": "A Bill to set targets relating to the eradication of child poverty, and to make other provision about child poverty.",
+  "summary": "<p>The Bill would provide a statutory basis to the commitment made by the Government in 1999 to eradicate child poverty by 2020. Its stated purpose is to give new impetus to the Government&rsquo;s commitment, and to drive action across departments. It also aims to define success in eradicating child poverty and create a framework to monitor progress at a national and local level.</p><p><strong>Key areas</strong></p><ul><li>places a duty on the Secretary of State to meet four United Kingdom-wide poverty targets by the end of the financial year 2020</li><li>requires the UK Government to publish a regular UK child poverty strategy</li><li>requires the Scottish and Northern Irish Ministers to publish child poverty strategies</li><li>establishes a Child Poverty Commission to provide advice</li><li>requires the UK Government to publish annual progress reports</li><li>places new duties on local authorities and other delivery partners in England to work together to tackle child poverty. <br></li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 163,
+        "name": "Stephen Timms",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/163/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/163/contact",
+        "memberFrom": "East Ham"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3694,
+        "name": "Lord McKenzie of Luton",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3694/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3694/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 377,
+  "shortTitle": "Child Poverty Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-11-03T16:01:28",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22,
+    23
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3352,
+    "stageId": 11,
+    "sessionId": 23,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3093,
+        "stageId": 11,
+        "billStageId": 3352,
+        "billId": 377,
+        "date": "2010-03-25T00:00:00"
+      }
+    ],
+    "sortOrder": 18
+  }
+}

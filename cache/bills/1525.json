@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision for the supremacy of the sovereignty of the United Kingdom Parliament in relation to the United Kingdom's membership of the European Union, including matters in respect of borders and immigration; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 288,
+        "name": "Sir William Cash",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/288/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/288/contact",
+        "memberFrom": "Stone"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1525,
+  "shortTitle": "United Kingdom Parliament (Sovereignty and Jurisdiction over Borders) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-27T12:20:39",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14308,
+    "stageId": 7,
+    "sessionId": 27,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

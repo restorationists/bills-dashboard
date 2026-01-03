@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about public procurement in respect of British goods and services; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4267,
+        "name": "Sarah Champion",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4267/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4267/contact",
+        "memberFrom": "Rotherham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3553,
+  "shortTitle": "Public Procurement (British Goods and Services) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-06-04T13:47:02.4699592",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18161,
+    "stageId": 7,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15148,
+        "stageId": 7,
+        "billStageId": 18161,
+        "billId": 3553,
+        "date": "2024-03-15T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

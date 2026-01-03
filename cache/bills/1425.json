@@ -1,0 +1,63 @@
+{
+  "longTitle": "A Bill to protect tenants against retaliatory eviction; to amend the law on notices requiring possession relating to assured shorthold tenancies; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1170,
+        "name": "Sarah Teather",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1170/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1170/contact",
+        "memberFrom": "Brent Central"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1425,
+  "shortTitle": "Tenancies (Reform) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-27T13:30:19",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 6972,
+    "stageId": 7,
+    "sessionId": 27,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 6536,
+        "stageId": 7,
+        "billStageId": 6972,
+        "billId": 1425,
+        "date": "2014-11-28T00:00:00"
+      },
+      {
+        "id": 6827,
+        "stageId": 7,
+        "billStageId": 6972,
+        "billId": 1425,
+        "date": "2014-11-28T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

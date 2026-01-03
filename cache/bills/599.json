@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to reaffirm the sovereignty of the United Kingdom Parliament; and for connected purposes.",
+  "summary": "<p>The Bill seeks to confirm the sovereignty of the UK Parliament by prohibiting the Government from signing, ratifying or implementing a treaty or law which increases the powers of the European Union over the United Kingdom, unless it has first been approved in a UK referendum.</p><p>If enacted, the Bill would override the requirements of the European Communities Act 1972, the rule of prerogative, the rule of international law, and any other Act of Parliament, unless the latter expressly stated to the contrary. The requirement for the Queen to withhold Assent from a Bill without a referendum first having been won would seem to interfere with a constitutional personal prerogative of the Crown.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 288,
+        "name": "Mr William Cash",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/288/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/288/contact",
+        "memberFrom": "Stone"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 599,
+  "shortTitle": "United Kingdom Parliamentary Sovereignty Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-04-13T11:37:47",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13456,
+    "stageId": 7,
+    "sessionId": 23,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

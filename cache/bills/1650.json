@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require ministers to carry out an assessment of the impact of government policies on families by giving statutory effect to the family test; to place a duty on the Secretary of State to make a report on the costs and benefits of requiring local authorities to carry out equivalent tests on their policies; to require the Secretary of State to establish, and make an annual report on, indicators of and targets for the government’s performance in promoting family stability; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4512,
+        "name": "Caroline Ansell",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4512/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4512/contact",
+        "memberFrom": "Eastbourne"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1650,
+  "shortTitle": "Assessment of Government Policies (Impact on Families) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-05-12T15:26:07",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 7876,
+    "stageId": 7,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 7355,
+        "stageId": 7,
+        "billStageId": 7876,
+        "billId": 1650,
+        "date": "2015-12-04T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

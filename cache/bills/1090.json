@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision in connection with facilitating or controlling the following, namely, the provision or use of infrastructure, the carrying-out of development, and the compulsory acquisition of land; to make provision about when rating lists are to be compiled; to make provision about the rights of employees of companies who agree to be employee owners; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 33,
+        "name": "Mr Eric Pickles",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/33/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/33/contact",
+        "memberFrom": "Brentwood and Ongar"
+      },
+      "organisation": {
+        "name": "Department for Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2477,
+        "name": "Baroness Hanham",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2477/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2477/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1090,
+  "shortTitle": "Growth and Infrastructure Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-04-29T11:54:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5904,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5504,
+        "stageId": 11,
+        "billStageId": 5904,
+        "billId": 1090,
+        "date": "2013-04-25T00:00:00"
+      }
+    ],
+    "sortOrder": 22
+  }
+}

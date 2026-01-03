@@ -1,0 +1,63 @@
+{
+  "longTitle": "A Bill to make provision about the availability of affordable homes; and for connected purposes.",
+  "summary": "<p>This Bill has two distinct aims:</p><ul><li>to introduce three new exemptions to the application of the under-occupation deduction from Housing Benefit (or the housing element of Universal Credit) for claimants who are deemed to be under-occupying their social rented homes</li><li>to secure a review of the availability of affordable and intermediate housing by the Secretary of State. On completion, a report of the review would be laid before Parliament.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 227,
+        "name": "Andrew George",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/227/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/227/contact",
+        "memberFrom": "St Ives"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1412,
+  "shortTitle": "Affordable Homes Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-30T11:18:16",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 7157,
+    "stageId": 8,
+    "sessionId": 27,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 6727,
+        "stageId": 8,
+        "billStageId": 7157,
+        "billId": 1412,
+        "date": "2014-10-22T10:00:00"
+      },
+      {
+        "id": 6728,
+        "stageId": 8,
+        "billStageId": 7157,
+        "billId": 1412,
+        "date": "2014-10-29T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

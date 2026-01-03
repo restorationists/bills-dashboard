@@ -1,0 +1,77 @@
+{
+  "longTitle": "A Bill to make provision for the marriage of same sex couples in England and Wales, about gender change by married persons and civil partners, about consular functions in relation to marriage, for the marriage of armed forces personnel overseas, for permitting marriages according to the usages of belief organisations to be solemnized on the authority of certificates of a superintendent registrar, for the review of civil partnership, for the review of survivor benefits under occupational pension schemes, and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1480,
+        "name": "Maria Miller",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1480/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1480/contact",
+        "memberFrom": "Basingstoke"
+      },
+      "organisation": {
+        "name": "Department for Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4205,
+        "name": "Baroness Stowell of Beeston",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4205/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4205/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1135,
+  "shortTitle": "Marriage (Same Sex Couples) Act 2013",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-07-18T14:29:27",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25,
+    26
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 6248,
+    "stageId": 11,
+    "sessionId": 26,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5772,
+        "stageId": 11,
+        "billStageId": 6248,
+        "billId": 1135,
+        "date": "2013-07-17T00:00:00"
+      }
+    ],
+    "sortOrder": 19
+  }
+}

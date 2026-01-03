@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to conduct a review of the contribution of community energy to the Government’s Clean Power 2030 mission.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5081,
+        "name": "Joe Morris",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5081/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5081/contact",
+        "memberFrom": "Hexham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3918,
+  "shortTitle": "Community Energy (Review) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-07-11T16:11:14.7112711",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19444,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

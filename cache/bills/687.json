@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to conduct a cross-departmental analysis of the potential costs and benefits of advancing time by one hour for all, or part of, the year; to require the Secretary of State to take certain action in the light of that analysis; and for connected purposes.",
+  "summary": "<p>The Bill would require the Government to conduct a cross-departmental analysis of the potential costs and benefits of advancing time by one hour for all, or part of, the year. </p><p>If this analysis found that a clock change would benefit the UK, the Bill requires that the Government initiate a trial clock change to determine the full implications.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3948,
+        "name": "Rebecca Harris",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3948/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3948/contact",
+        "memberFrom": "Castle Point"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 687,
+  "shortTitle": "Daylight Saving Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-02T10:22:37",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 4642,
+    "stageId": 9,
+    "sessionId": 24,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 4397,
+        "stageId": 9,
+        "billStageId": 4642,
+        "billId": 687,
+        "date": "2012-01-20T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  }
+}

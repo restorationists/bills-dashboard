@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to set a requirement on public institutions, public servants and officials and on those carrying out functions on their behalf to act in the public interest and with candour and frankness; to define the public law duty on them to assist courts, official inquiries and investigations; to enable victims to enforce such duties; to create offences for the breach of certain duties; to provide funding for victims and their relatives in certain proceedings before the courts and at official inquiries and investigations; and for connected purposes;",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4831,
+        "name": "Ian Byrne",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4831/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4831/contact",
+        "memberFrom": "Liverpool West Derby"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3999,
+  "shortTitle": "Public Authority (Accountability) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-09-12T15:49:43.62512",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20076,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17288,
+        "stageId": 7,
+        "billStageId": 20076,
+        "billId": 3999,
+        "date": "2025-09-12T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

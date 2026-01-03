@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about consumer protection in relation to domestic building works; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4074,
+        "name": "Mark Garnier",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4074/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4074/contact",
+        "memberFrom": "Wyre Forest"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2920,
+  "shortTitle": "Domestic Building Works (Consumer Protection) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-11-19T16:53:54.3217202",
+  "billWithdrawn": "2021-11-19T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15406,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 11931,
+        "stageId": 7,
+        "billStageId": 15406,
+        "billId": 2920,
+        "date": "2021-11-19T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

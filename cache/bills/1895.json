@@ -1,0 +1,73 @@
+{
+  "longTitle": "A Bill to make provision about the payment schemes established by the Small Charitable Donations Act 2012 and the Childcare Payments Act 2014.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 105,
+        "name": "Mr Philip Hammond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/105/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/105/contact",
+        "memberFrom": "Runnymede and Weybridge"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 57,
+        "name": "Lord Young of Cookham",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/57/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/57/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1895,
+  "shortTitle": "Small Charitable Donations and Childcare Payments Act 2017",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-01-17T09:48:17",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 9233,
+    "stageId": 11,
+    "sessionId": 29,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 8517,
+        "stageId": 11,
+        "billStageId": 9233,
+        "billId": 1895,
+        "date": "2017-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+}

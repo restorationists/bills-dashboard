@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require certain public procurement contracts let by public authorities to include a commitment by the contractor to provide apprenticeships and skills training; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1506,
+        "name": "Andrew Gwynne",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1506/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1506/contact",
+        "memberFrom": "Denton and Reddish"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1208,
+  "shortTitle": "Apprenticeships and Skills (Public Procurement Contracts) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-05-15T11:31:08",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 6038,
+    "stageId": 7,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 5693,
+        "stageId": 7,
+        "billStageId": 6038,
+        "billId": 1208,
+        "date": "2013-11-01T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

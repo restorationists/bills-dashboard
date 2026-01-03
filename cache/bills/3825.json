@@ -1,0 +1,76 @@
+{
+  "longTitle": "A bill to make provision about access to customer data and business data; to make provision about services consisting of the use of information to ascertain and verify facts about individuals; to make provision about the recording and sharing, and keeping of registers, of information relating to apparatus in streets; to make provision about the keeping and maintenance of registers of births and deaths; to make provision for the regulation of the processing of information relating to identified or identifiable living individuals; to make provision about privacy and electronic communications; to establish the Information Commission; to make provision about information standards for health and social care; to make provision about the grant of smart meter communication licences; to make provision about the disclosure of information to improve public service delivery; to make provision about the retention of information by providers of internet services in connection with investigations into child deaths; to make provision about providing information for purposes related to the carrying out of independent research into online safety matters; to make provision about the retention of biometric data; to make provision about services for the provision of electronic signatures, electronic seals and other trust services; to make provision about the creation and solicitation of purported intimate images and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3792,
+        "name": "Baroness Jones of Whitchurch",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3792/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3792/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Science, Innovation and Technology",
+        "url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4505,
+        "name": "Peter Kyle",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4505/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4505/contact",
+        "memberFrom": "Hove and Portslade"
+      },
+      "organisation": {
+        "name": "Department for Science, Innovation and Technology",
+        "url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3825,
+  "shortTitle": "Data (Use and Access) Act 2025",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2025-08-08T12:22:18.87226",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 19996,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 17150,
+        "stageId": 11,
+        "billStageId": 19996,
+        "billId": 3825,
+        "date": "2025-06-19T00:00:00"
+      }
+    ],
+    "sortOrder": 24
+  }
+}

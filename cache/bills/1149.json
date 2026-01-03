@@ -1,0 +1,76 @@
+{
+  "longTitle": "To authorise the use of resources for the years ending with 31 March 2010, 31\r\nMarch 2011, 31 March 2012, 31 March 2013 and 31 March 2014; to authorise the\r\nissue of sums out of the Consolidated Fund for the years ending with 31\r\nMarch 2013 and 31 March 2014; and to appropriate the supply authorised by\r\nthis Act for the years ending with 31 March 2010, 31 March 2011, 31 March\r\n2012 and 31 March 2013.",
+  "summary": "<p>The Bill provides Parliamentary authority for funds requested by the Government. It is part of 'Supply procedure', which is how Parliament grants the Government&rsquo;s requests for resources. Proceedings on the Bill are formal; (ie there is no debate and the Bill goes through 'on the nod'). This type of Bill was previously known as the Consolidated Fund (Appropriation) Bill, but the name was changed following changes to financial reporting to Parliament.</p><p><strong>Key areas</strong></p><ul><li>The Bill authorises the release of money from the Consolidated Fund which is the Government&rsquo;s bank account</li><li>The Bill places limits on the purposes for which the money may be spent.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1529,
+        "name": "Mr David Gauke",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1529/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1529/contact",
+        "memberFrom": "South West Hertfordshire"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4262,
+        "name": "Lord Deighton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4262/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4262/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1149,
+  "shortTitle": "Supply and Appropriation (Anticipation and Adjustments) Act 2013",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-03-27T10:07:14",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5816,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5442,
+        "stageId": 11,
+        "billStageId": 5816,
+        "billId": 1149,
+        "date": "2013-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

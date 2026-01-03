@@ -1,0 +1,77 @@
+{
+  "longTitle": "A Bill to make provision relating to the civil service of the State; to make provision relating to the ratification of treaties; to amend section 2 of the House of Lords Act 1999 and make provision relating to the removal, suspension and resignation of members of the House of Lords; to repeal sections 132 to 138 of the Serious Organised Crime and Police Act 2005 and to amend Part 2 of the Public Order Act 1986; to make provision relating to time limits for human rights claims against devolved administrations; to make provision relating to judges and similar office holders; to make provision relating to the Comptroller and Auditor General and to establish a body corporate called the National Audit Office; to amend the Government Resources and Accounts Act 2000 and to make corresponding provision in relation to Wales.",
+  "summary": "<p>As introduced, this was a wide-ranging Bill covering a number of different policy areas. Many of the proposals had their origins in the 'Governance of Britain' Green Paper published in July 2007. The content of the Bill as introduced varied in some significant ways from its draft version. New chapters were added to the Bill and the clauses on the Attorney General which were in the draft Bill are not included. The Bill was greatly amended during its passage through Parliament, but many provisions were then removed during &lsquo;wash-up&rsquo;.</p><p>Key areas in the Bill as introduced</p><ul><li>establishes a statutory basis for management of the civil service</li><li>introduces a new parliamentary process for the ratification of treaties</li><li>provides for the end of by-elections for hereditary peers</li><li>makes provisions to allow for the suspension, resignation and expulsion of Members of the Lords</li><li>introduces new rules on protests around Parliament</li><li>introduces new rules on time limits for human rights actions against devolved administrations</li><li>makes various provisions relating to judicial office holders, including the removal of the Prime Minister&rsquo;s role in the process of appointing Supreme Court judges</li><li>establishes a new corporate structure for the National Audit Office and a limit to the term of appointment to the office of Comptroller and Auditor General</li><li>introduces measures designed to increase the transparency of financial reporting to Parliament.</li></ul><p>During the passage of the Bill a number of clauses were added to the Bill including:</p><ul><li>provisions on the nationality requirements for civil servants</li><li>provision for a referendum on the voting system</li><li>amendments to the Parliamentary Standards Act 2009</li><li>provisions on the tax status of MPs and Members of the House of Lords</li><li>a repeal of part of the Act of Settlement to allow non-British National peers to take their seats in the House of Lords</li><li>a requirement for returning officers to take reasonable steps to begin counting votes given on ballot papers within four hours of the close of a poll</li></ul><p>However, during wash-up, the following were removed from the Bill:</p><ul><li>provisions on the nationality requirements of civil servants</li><li>the provision for a referendum on the voting system</li><li>provisions for the end of the by-elections for hereditary peers</li><li>the provisions allowing for suspension, resignation and expulsion of Members of the Lords</li><li>the provisions on demonstrations in the vicinity of Parliament</li><li>the provisions on human rights claims against devolved administrations</li><li>provisions about courts and tribunals</li><li>provisions on National Audit<br></li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 463,
+        "name": "Mr Jack Straw",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/463/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/463/contact",
+        "memberFrom": "Blackburn"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3451,
+        "name": "Lord Bach",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3451/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3451/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 512,
+  "shortTitle": "Constitutional Reform and Governance Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-07-26T16:52:10",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22,
+    23
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3447,
+    "stageId": 11,
+    "sessionId": 23,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3206,
+        "stageId": 11,
+        "billStageId": 3447,
+        "billId": 512,
+        "date": "2010-04-08T00:00:00"
+      }
+    ],
+    "sortOrder": 24
+  }
+}

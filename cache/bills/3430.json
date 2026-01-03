@@ -1,0 +1,119 @@
+{
+  "longTitle": "A Bill to make provision for the regulation of the processing of information relating to identified or identifiable living individuals; to make provision about services consisting of the use of information to ascertain and verify facts about individuals; to make provision about access to customer data and business data; to make provision about privacy and electronic communications; to make provision about services for the provision of electronic signatures, electronic seals and other trust services; to make provision about the disclosure of information to improve public service delivery; to make provision for the implementation of agreements on sharing information for law enforcement purposes; to make provision about the keeping and maintenance of registers of births and deaths; to make provision about information standards for health and social care; to establish the Information Commission; to make provision about oversight of biometric data; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4530,
+        "name": "Michelle Donelan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4530/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4530/contact",
+        "memberFrom": "Chippenham"
+      },
+      "organisation": {
+        "name": "Department for Science, Innovation and Technology",
+        "url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4939,
+        "name": "Viscount Camrose",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4939/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4939/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "Department for Science, Innovation and Technology",
+        "url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3430,
+  "shortTitle": "Data Protection and Digital Information Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-09-23T12:52:49.3302962",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37,
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18402,
+    "stageId": 3,
+    "sessionId": 38,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15561,
+        "stageId": 3,
+        "billStageId": 18402,
+        "billId": 3430,
+        "date": "2024-03-20T00:00:00"
+      },
+      {
+        "id": 15580,
+        "stageId": 3,
+        "billStageId": 18402,
+        "billId": 3430,
+        "date": "2024-03-25T00:00:00"
+      },
+      {
+        "id": 15613,
+        "stageId": 3,
+        "billStageId": 18402,
+        "billId": 3430,
+        "date": "2024-03-27T00:00:00"
+      },
+      {
+        "id": 15616,
+        "stageId": 3,
+        "billStageId": 18402,
+        "billId": 3430,
+        "date": "2024-04-15T00:00:00"
+      },
+      {
+        "id": 15665,
+        "stageId": 3,
+        "billStageId": 18402,
+        "billId": 3430,
+        "date": "2024-04-17T00:00:00"
+      },
+      {
+        "id": 15666,
+        "stageId": 3,
+        "billStageId": 18402,
+        "billId": 3430,
+        "date": "2024-04-22T00:00:00"
+      },
+      {
+        "id": 15667,
+        "stageId": 3,
+        "billStageId": 18402,
+        "billId": 3430,
+        "date": "2024-04-24T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

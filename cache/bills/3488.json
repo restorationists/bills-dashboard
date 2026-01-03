@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide for a statutory definition of bullying at work; to make provision relating to bullying at work, including to enable claims relating to workplace bullying to be considered by an employment tribunal; to provide for a Respect at Work Code to set minimum standards for positive and respectful work environments; to give powers to the Equalities and Human Rights Commission to investigate workplaces and organisations where there is evidence of a culture of, or multiple incidents of, bullying and to take enforcement action; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4471,
+        "name": "Rachael Maskell",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4471/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4471/contact",
+        "memberFrom": "York Central"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3488,
+  "shortTitle": "Bullying and respect at work Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-31T12:15:56.5306369",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17868,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14835,
+        "stageId": 6,
+        "billStageId": 17868,
+        "billId": 3488,
+        "date": "2023-07-11T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

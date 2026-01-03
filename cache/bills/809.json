@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision for a voluntary mechanism through which banks, building societies and other providers of financial services can support community projects through reinvestment of part of their profits and assistance in kind; and for connected purposes;",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 456,
+        "name": "Hazel Blears",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/456/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/456/contact",
+        "memberFrom": "Salford and Eccles"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 809,
+  "shortTitle": "Banking and Financial Services (Community Investment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-02T09:50:47",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13634,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

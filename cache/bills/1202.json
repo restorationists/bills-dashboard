@@ -1,0 +1,77 @@
+{
+  "longTitle": "A Bill to make provision for the holding of a referendum in the United Kingdom on the United Kingdom’s membership of the European Union.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4123,
+        "name": "James Wharton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4123/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4123/contact",
+        "memberFrom": "Stockton South"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4192,
+        "name": "Lord Dobbs",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4192/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4192/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1202,
+  "shortTitle": "European Union (Referendum) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-02-03T09:08:47",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 6543,
+    "stageId": 3,
+    "sessionId": 26,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 6116,
+        "stageId": 3,
+        "billStageId": 6543,
+        "billId": 1202,
+        "date": "2014-01-24T00:00:00"
+      },
+      {
+        "id": 6188,
+        "stageId": 3,
+        "billStageId": 6543,
+        "billId": 1202,
+        "date": "2014-01-31T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

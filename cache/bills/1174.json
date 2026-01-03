@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to introduce a civil penalty for littering from vehicles and to require local authorities to publish details of contracts relating to litter clearance.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1854,
+        "name": "Lord Marlesford",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1854/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1854/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1174,
+  "shortTitle": "Littering from Vehicles Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-07-22T10:43:20",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 6174,
+    "stageId": 2,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 5674,
+        "stageId": 2,
+        "billStageId": 6174,
+        "billId": 1174,
+        "date": "2013-07-19T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

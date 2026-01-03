@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide for a national register of children who are not pupils at any school; to require local authorities to provide data about such children in their area for the purpose of maintaining that register; to make provision about the support that local authorities provide to such children; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4046,
+        "name": "Bridget Phillipson",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4046/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4046/contact",
+        "memberFrom": "Houghton and Sunderland South"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3673,
+  "shortTitle": "Children Not in School (National Register and Support) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-05-31T14:10:28.2729244",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18447,
+    "stageId": 7,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15458,
+        "stageId": 7,
+        "billStageId": 18447,
+        "billId": 3673,
+        "date": "2024-02-07T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

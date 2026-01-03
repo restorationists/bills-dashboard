@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Matrimonial Causes Act 1973 and make provision in connection with financial settlements following divorce.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3756,
+        "name": "Baroness Deech",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3756/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3756/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1383,
+  "shortTitle": "Divorce (Financial Provision) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2015-03-19T09:17:30",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 7674,
+    "stageId": 5,
+    "sessionId": 27,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 7094,
+        "stageId": 5,
+        "billStageId": 7674,
+        "billId": 1383,
+        "date": "2015-03-18T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  }
+}

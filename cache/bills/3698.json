@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for establishing a new government Ministry, the Ministry for Poverty Prevention; to make provision for the objectives and powers of that Ministry; to make provision that the Ministry can only be abolished or combined with another department by an Act of Parliament; to make provision for reporting requirements on the Ministry’s work; to make provision for a power to create binding poverty reduction targets; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4564,
+        "name": "Lord Bird",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4564/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4564/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3698,
+  "shortTitle": "Ministry for Poverty Prevention Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2024-05-29T11:53:19.9991914",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18591,
+    "stageId": 1,
+    "sessionId": 38,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15619,
+        "stageId": 1,
+        "billStageId": 18591,
+        "billId": 3698,
+        "date": "2024-03-13T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

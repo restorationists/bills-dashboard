@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision in connection with works for or in connection with the restoration of the Palace of Westminster and other works relating to the Parliamentary Estate; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4117,
+        "name": "Andrea Leadsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4117/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4117/contact",
+        "memberFrom": "South Northamptonshire"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4329,
+        "name": "Baroness Evans of Bowes Park",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4329/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4329/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2399,
+  "shortTitle": "Parliamentary Buildings (Restoration and Renewal) Act 2019 ",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2020-01-16T14:39:15",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11407,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10455,
+        "stageId": 11,
+        "billStageId": 11407,
+        "billId": 2399,
+        "date": "2019-10-08T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

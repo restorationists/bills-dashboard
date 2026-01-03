@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to impose duties on certain education and training providers in relation to safeguarding and promoting the welfare of children.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4753,
+        "name": "Mary Kelly Foy",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4753/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4753/contact",
+        "memberFrom": "City of Durham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4724,
+        "name": "Baroness Blower",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4724/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4724/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2633,
+  "shortTitle": "Education and Training (Welfare of Children) Act 2021",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-05T17:36:33.7011985",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12912,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 11766,
+        "stageId": 11,
+        "billStageId": 12912,
+        "billId": 2633,
+        "date": "2021-04-29T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

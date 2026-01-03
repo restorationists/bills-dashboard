@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for a review of access for people with learning disabilities to healthcare and other services; to make provision for a review of the provision of learning disability services across government; to make associated provision for the reform of such services; to provide a statutory code of practice on the public sector equality duty for public bodies for matters relating to learning disabilities; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 547,
+        "name": "Lord Wigley",
+        "party": "Plaid Cymru",
+        "partyColour": "348837",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/547/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/547/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3115,
+  "shortTitle": "Learning Disabilities (Access to Services) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-04-28T15:21:12.0309612",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16171,
+    "stageId": 1,
+    "sessionId": 36,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 12835,
+        "stageId": 1,
+        "billStageId": 16171,
+        "billId": 3115,
+        "date": "2022-02-10T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

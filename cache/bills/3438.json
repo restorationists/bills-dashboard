@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to enable clergy of the Church of England to conduct same sex marriages on Church of England premises in certain circumstances; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 230,
+        "name": "Mr Ben Bradshaw",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/230/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/230/contact",
+        "memberFrom": "Exeter"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3438,
+  "shortTitle": "Same Sex Marriage (Church of England) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T16:31:34.8472112",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17547,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14421,
+        "stageId": 6,
+        "billStageId": 17547,
+        "billId": 3438,
+        "date": "2023-03-21T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

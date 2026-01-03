@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to Make provision about paying and arranging for healthcare provided outside the United Kingdom and giving effect to healthcare agreements; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4070,
+        "name": "Matt Hancock",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4070/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4070/contact",
+        "memberFrom": "West Suffolk"
+      },
+      "organisation": {
+        "name": "Department of Health and Social Care",
+        "url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4019,
+        "name": "Nicola Blackwood",
+        "party": null,
+        "partyColour": null,
+        "house": "Unassigned",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4019/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4019/contact",
+        "memberFrom": null
+      },
+      "organisation": {
+        "name": "Department of Health and Social Care",
+        "url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2305,
+  "shortTitle": "Healthcare (European Economic Area and Switzerland Arrangements) Act 2019",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-03-27T12:50:03",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11102,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10190,
+        "stageId": 11,
+        "billStageId": 11102,
+        "billId": 2305,
+        "date": "2019-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+}

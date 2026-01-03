@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision in connection with the ratification by the United Kingdom of the Council of Europe Convention on preventing and combating violence against women and domestic violence (the Istanbul Convention).",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3911,
+        "name": "Dr Eilidh Whiteford",
+        "party": "Scottish National Party",
+        "partyColour": "fff685",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3911/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3911/contact",
+        "memberFrom": "Banff and Buchan"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2503,
+        "name": "Baroness Gale",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2503/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2503/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1954,
+  "shortTitle": "Preventing and Combating Violence Against Women and Domestic Violence (Ratification of Convention) Act 2017",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-08-15T13:05:46",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 9532,
+    "stageId": 11,
+    "sessionId": 29,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 8817,
+        "stageId": 11,
+        "billStageId": 9532,
+        "billId": 1954,
+        "date": "2017-04-27T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

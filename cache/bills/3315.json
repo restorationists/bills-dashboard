@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for a public consultation to inform a set of national wellbeing goals; to require public bodies to act in pursuit of the United Kingdom’s environmental, social, economic and cultural wellbeing by meeting wellbeing objectives, publishing future generations impact assessments and accounting for preventative spending; to establish a futures and forecasting report; to establish a Commission for Future Generations for the United Kingdom; to extend the duty of the Office of Budget Responsibility to consider wellbeing and the future generations principle in their work; to add onto a Minister in each government department's portfolio a duty to promote the future generations principle across government policy; to establish a Joint Parliamentary Committee on Future Generations; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4564,
+        "name": "Lord Bird",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4564/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4564/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3315,
+  "shortTitle": "Wellbeing of Future Generations Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-10-31T12:59:00.7114715",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16855,
+    "stageId": 1,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 13584,
+        "stageId": 1,
+        "billStageId": 16855,
+        "billId": 3315,
+        "date": "2022-07-08T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

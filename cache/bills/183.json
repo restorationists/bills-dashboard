@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make further provision in relation to local transport authorities, the provision and regulation of road transport services and the subsidising of passenger transport services; to amend sections 74, 75 and 79 of the Transport Act 1985; to make provision for or in relation to committees which represent the interests of users of public transport; to rename the Passenger Transport Authorities as Integrated Transport Authorities and to make further provision in relation to them; to make further provision in relation to charging for the use of roads; to make provision in relation to the acquisition, disclosure and use of information relating to vehicles registered outside the United Kingdom; and for connected purposes.",
+  "summary": "<p>The Bill looks at important areas of public transport like local bus services and sets out proposals for a more consistent approach to local transport planning. It plans to reform the existing laws on road pricing schemes for local authorities who wish to have schemes in their areas. </p><p>It was published in draft form in the 2006-07 session of Parliament.</p><p>The Bill includes changes that followed public consultation, further discussion on the role of traffic commissioners and the report of the Transport Select Committee which scrutinised the draft Bill in June and July 2007.</p><p><br><strong>Key areas</strong></p><ul><li>Enable local authorities to improve the quality of local bus services, building on the measures set out in December 2006 in the Department for Transport report, 'Putting Passengers First' </li><li>Reform the arrangements for local transport governance in the major conurbations. This aims to encourage stronger local leadership and a coherent approach to transport across individual local authority boundaries and across different transport modes</li><li>Reform the existing legislation relating to local road pricing schemes. This would ensure that, where local authorities wish to develop local schemes, they can do so in a way that best meets local needs - while ensuring that any schemes are consistent and interoperable. </li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3504,
+        "name": "Lord Bassam of Brighton",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3504/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3504/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 439,
+        "name": "Ruth Kelly",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/439/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/439/contact",
+        "memberFrom": "Bolton West"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 183,
+  "shortTitle": "Local Transport Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-02-25T13:40:41",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1910,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1798,
+        "stageId": 11,
+        "billStageId": 1910,
+        "billId": 183,
+        "date": "2008-11-26T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

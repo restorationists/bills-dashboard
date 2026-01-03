@@ -1,0 +1,62 @@
+{
+  "longTitle": "A Bill to give a statutory pardon to Alan Mathison Turing for offences under Section 11 of the Criminal Law Amendment Act 1885 of which he was convicted on 31 March 1952.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4196,
+        "name": "Lord Sharkey",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4196/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4196/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1543,
+        "name": "Mr John Leech",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1543/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1543/contact",
+        "memberFrom": "Manchester, Withington"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1175,
+  "shortTitle": "Alan Turing (Statutory Pardon) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2014-05-15T11:26:33",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13971,
+    "stageId": 7,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 6
+  }
+}

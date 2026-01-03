@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to define the term “green energy”; to promote its development, installation and usage; and for connected purposes.",
+  "summary": "<p>This Bill seeks to define and promote &lsquo;green energy. It aims to facilitate the development of green energy by: </p><ul><li>requiring a review and revision of the Government&rsquo;s microgeneration strategy, including feed-in tariffs</li><li>changing permitted development rights in planning law to facilitate the installation of domestic-scale wind turbines or air source heat pumps </li><li>ensuring that any increase in the value of a domestic property caused by the installation of energy efficiency measures or microgeneration systems will not result in higher council tax or, similarly, in higher rates bills for non-domestic properties.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 99,
+        "name": "Mr Peter Ainsworth",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/99/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/99/contact",
+        "memberFrom": "East Surrey"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 405,
+  "shortTitle": "Green Energy (Definition and Promotion)",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-11-20T14:42:21",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 2788,
+    "stageId": 11,
+    "sessionId": 22,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2644,
+        "stageId": 11,
+        "billStageId": 2788,
+        "billId": 405,
+        "date": "2009-11-12T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

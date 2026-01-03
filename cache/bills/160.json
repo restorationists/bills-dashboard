@@ -1,0 +1,73 @@
+{
+  "longTitle": "Confer power on the Financial Services Authority to disallow excessive regulatory provision by recognised investment exchanges and clearing houses; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 591,
+        "name": "Mr Gordon Brown",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/591/contact",
+        "memberFrom": "Kirkcaldy and Cowdenbeath"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3694,
+        "name": "Lord McKenzie of Luton",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3694/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3694/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 160,
+  "shortTitle": "Investment Exchanges and Clearing Houses Act 2006",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-10-27T17:08:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 898,
+    "stageId": 11,
+    "sessionId": 20,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 789,
+        "stageId": 11,
+        "billStageId": 898,
+        "billId": 160,
+        "date": "2006-12-19T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

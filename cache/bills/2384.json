@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to impose a duty on public bodies in relation to the welfare needs of animals as sentient beings.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1491,
+        "name": "Kerry McCarthy",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1491/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1491/contact",
+        "memberFrom": "Bristol East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2384,
+  "shortTitle": "Animals (Recognition of Sentience) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-09-17T16:32:44",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15120,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

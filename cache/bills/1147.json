@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the Government to publish a list of the powers of local councils and a code of conduct defining the degree of autonomy attached to those powers and areas where a council may act autonomously; to create a mechanism to identify and adjudicate on breaches of the code by either central or local government; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1454,
+        "name": "John Pugh",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1454/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1454/contact",
+        "memberFrom": "Southport"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1147,
+  "shortTitle": "Local Authority Devolution and Powers Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-04-26T10:32:24",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13946,
+    "stageId": 7,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

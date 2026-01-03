@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to introduce a national day to raise awareness of the need to eradicate all forms of slavery, human trafficking and exploitation; and for connected purposes.",
+  "summary": "The Bill would require the Secretary of State to specify a date to be observed each year as Anti-Slavery Day. The purpose of the day would be to raise awareness of the dangers and consequences of modern-day slavery and human trafficking.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 239,
+        "name": "Mr Anthony Steen",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/239/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/239/contact",
+        "memberFrom": "Totnes"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3804,
+        "name": "Baroness Butler-Sloss",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3804/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3804/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 573,
+  "shortTitle": "Anti-Slavery Day Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-10-26T10:44:38",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3442,
+    "stageId": 11,
+    "sessionId": 23,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3228,
+        "stageId": 11,
+        "billStageId": 3442,
+        "billId": 573,
+        "date": "2010-04-08T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

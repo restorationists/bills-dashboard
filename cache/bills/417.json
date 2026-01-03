@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for further training of teachers and specialist staff; to make requirements relating to access to specialist services; and for connected purposes.",
+  "summary": "The Bill makes provision for further training of teachers and specialist staff and would introduce requirements relating to access to specialist services.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 17,
+        "name": "John Bercow",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/17/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/17/contact",
+        "memberFrom": "Buckingham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 417,
+  "shortTitle": "Special Educational Needs and Disability (Support) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-10-29T12:44:55",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2093,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 1995,
+        "stageId": 7,
+        "billStageId": 2093,
+        "billId": 417,
+        "date": "2009-05-15T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

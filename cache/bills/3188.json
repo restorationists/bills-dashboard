@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the regulation of private burial grounds and cemeteries",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4164,
+        "name": "Baroness Hussein-Ece",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4164/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4164/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3188,
+  "shortTitle": "Private Burial Grounds and Cemeteries Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-10-31T12:53:32.4456888",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16556,
+    "stageId": 1,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 13262,
+        "stageId": 1,
+        "billStageId": 16556,
+        "billId": 3188,
+        "date": "2022-06-15T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

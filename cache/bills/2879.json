@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require that age assurance systems for online or digital services or products must meet certain minimum standards; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4258,
+        "name": "Baroness Kidron",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4258/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4258/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2879,
+  "shortTitle": "Age Assurance (Minimum Standards) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-04-28T15:22:16.4725462",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15303,
+    "stageId": 2,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 12416,
+        "stageId": 2,
+        "billStageId": 15303,
+        "billId": 2879,
+        "date": "2021-11-19T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

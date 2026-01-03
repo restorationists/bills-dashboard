@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to amend the Charities Act 2011 and the Universities and College Estates Act 1925; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4728,
+        "name": "Lord Parkinson of Whitley Bay",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4728/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4728/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Digital, Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4407,
+        "name": "Nigel Huddleston",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4407/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4407/contact",
+        "memberFrom": "Mid Worcestershire"
+      },
+      "organisation": {
+        "name": "Department for Digital, Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2877,
+  "shortTitle": "Charities Act 2022",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-11-14T14:44:10.6559198",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 16195,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 12868,
+        "stageId": 11,
+        "billStageId": 16195,
+        "billId": 2877,
+        "date": "2022-02-24T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

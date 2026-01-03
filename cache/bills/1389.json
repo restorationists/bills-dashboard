@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision about slavery, servitude and forced or compulsory labour; to make provision about human trafficking; to make provision for an Anti-slavery Commissioner; and for connected purposes.",
+  "summary": "<p>The Bill consolidates the current offences relating to trafficking and slavery. </p><p><strong>Key areas</strong></p><ul><li>creates two new civil orders to prevent modern slavery </li><li>establishes an Anti-Slavery Commissioner</li><li>makes provision for the protection of modern slavery victims.<br></li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 8,
+        "name": "Mrs Theresa May",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/8/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/8/contact",
+        "memberFrom": "Maidenhead"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1091,
+        "name": "Lord Bates",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1091/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1091/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1389,
+  "shortTitle": "Modern Slavery Act 2015",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-03-16T14:09:31",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7718,
+    "stageId": 11,
+    "sessionId": 27,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7171,
+        "stageId": 11,
+        "billStageId": 7718,
+        "billId": 1389,
+        "date": "2015-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 17
+  }
+}

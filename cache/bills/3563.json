@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the definition of still-birth to apply from 20 weeks into a pregnancy; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4167,
+        "name": "Baroness Benjamin",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4167/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4167/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3563,
+  "shortTitle": "Still-Birth (Definition) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2024-05-29T11:34:16.1992904",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18182,
+    "stageId": 1,
+    "sessionId": 38,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15168,
+        "stageId": 1,
+        "billStageId": 18182,
+        "billId": 3563,
+        "date": "2023-12-11T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

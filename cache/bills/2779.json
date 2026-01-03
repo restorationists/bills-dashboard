@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require a Minister to move a motion in the House of Commons seeking to establish a select committee to monitor Overseas Development Assistance expenditure by government departments.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4765,
+        "name": "Wendy Chamberlain",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4765/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4765/contact",
+        "memberFrom": "North East Fife"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2779,
+  "shortTitle": "Overseas Development Assistance Committee Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-05T14:58:11.3436205",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12404,
+    "stageId": 7,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

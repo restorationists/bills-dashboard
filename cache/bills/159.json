@@ -1,0 +1,56 @@
+{
+  "longTitle": "Amend certain provisions of the Serious Organised Crime and Police Act 2005 and other legislative restraints on public demonstrations; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1934,
+        "name": "Baroness Miller of Chilthorne Domer",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1934/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1934/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 159,
+  "shortTitle": "Public Demonstrations (Repeals) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2007-10-19T17:07:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 771,
+    "stageId": 2,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 600,
+        "stageId": 2,
+        "billStageId": 771,
+        "billId": 159,
+        "date": "2007-01-26T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

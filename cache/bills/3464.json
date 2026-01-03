@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to regulate the use of artificial intelligence technologies in the workplace; to make provision about workers' and trade union rights in relation to the use of artificial intelligence technologies; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4755,
+        "name": "Mick Whitley",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4755/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4755/contact",
+        "memberFrom": "Birkenhead"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3464,
+  "shortTitle": "Artificial Intelligence (Regulation and Workers' Rights) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-30T15:54:52.3597709",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17698,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14622,
+        "stageId": 6,
+        "billStageId": 17698,
+        "billId": 3464,
+        "date": "2023-05-17T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

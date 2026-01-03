@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the holding of a referendum on the United Kingdom’s membership of the European Union; and for connected purposes.",
+  "summary": "The Bill would require the Government to hold a referendum on the United Kingdom&rsquo;s membership of the European Union. It makes provision for the conduct and financing of the referendum and stipulates the question to be asked.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1527,
+        "name": "Mr Douglas Carswell",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1527/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1527/contact",
+        "memberFrom": "Harwich"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 581,
+  "shortTitle": "European Union Membership (Referendum) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-04-12T16:39:08",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13440,
+    "stageId": 7,
+    "sessionId": 23,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

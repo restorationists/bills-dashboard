@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision to enable local authorities to establish planning obligations relating to affordable housing in respect of the conversion of commercial property to residential use; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4674,
+        "name": "Vicky Ford",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4674/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4674/contact",
+        "memberFrom": "Chelmsford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3420,
+  "shortTitle": "Affordable Housing (Conversion of Commercial Property) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-30T15:48:43.4966277",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17423,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14271,
+        "stageId": 6,
+        "billStageId": 17423,
+        "billId": 3420,
+        "date": "2023-02-22T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

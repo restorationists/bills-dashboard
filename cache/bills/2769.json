@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision about terminally ill people in the welfare system.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1548,
+        "name": "Jessica Morden",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1548/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1548/contact",
+        "memberFrom": "Newport East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2769,
+  "shortTitle": "Welfare (Terminal Illness) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-06T11:24:26.4403391",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12346,
+    "stageId": 7,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

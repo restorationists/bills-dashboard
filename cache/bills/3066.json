@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to set national minimum requirements for flood mitigation and protection measures in new build public and private properties enforced by local planning authorities; to place reporting requirements on local and national government in relation to flood prevention measures; to establish a certification scheme for improvements to domestic and commercial properties for flood prevention and mitigation purposes and an accreditation scheme for installers of such improvements; to require insurers to take account of such improvements and any existing flood prevention and mitigation measures that were planning permission requirements when determining premiums; to extend eligibility to the Flood Reinsurance scheme under section 64 of the Water Act 2014 to small and medium-sized enterprises and homes built after 2009; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4645,
+        "name": "Emma Hardy",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4645/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4645/contact",
+        "memberFrom": "Kingston upon Hull West and Hessle"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3066,
+  "shortTitle": "Flooding (Prevention and Insurance) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-03T16:40:55.9005242",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15871,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12483,
+        "stageId": 7,
+        "billStageId": 15871,
+        "billId": 3066,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

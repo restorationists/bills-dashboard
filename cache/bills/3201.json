@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require utility companies to provide financial support to customers with a terminal illness; to make provision about the employment rights of people with a terminal illness; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4122,
+        "name": "Alex Cunningham",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4122/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4122/contact",
+        "memberFrom": "Stockton North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3201,
+  "shortTitle": "Terminal Illness (Support and Rights) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T17:02:24.7166159",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16587,
+    "stageId": 7,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13948,
+        "stageId": 7,
+        "billStageId": 16587,
+        "billId": 3201,
+        "date": "2022-11-18T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

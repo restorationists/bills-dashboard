@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision relating to salaries, allowances and pensions for members of the Northern Ireland Assembly.",
+  "summary": "<p>This short Bill amends the Northern Ireland Act 1998 to allow the Northern Ireland Assembly to delegate its powers in relation to the setting of salaries and allowances of Members of the Legislative Assembly (MLAs). </p><p>The Bill will enable the Assembly to confer these functions on an independent body of its own choosing. There has been pressure from the Assembly to allow such functions to be delegated.</p><p>The Bill includes provisions to prevent Assembly Members who also sit in the House of Commons or the European Parliament from drawing their Assembly salaries. They would still be entitled to full allowances in connection with each mandate they hold.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3703,
+        "name": "Baroness Royall of Blaisdon",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3703/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3703/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 98,
+        "name": "Shaun Woodward",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/98/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/98/contact",
+        "memberFrom": "St. Helens South"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 547,
+  "shortTitle": "Northern Ireland Assembly Members Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2010-04-13T14:38:28",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3445,
+    "stageId": 11,
+    "sessionId": 23,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3216,
+        "stageId": 11,
+        "billStageId": 3445,
+        "billId": 547,
+        "date": "2010-04-08T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

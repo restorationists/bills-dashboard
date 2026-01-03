@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill To enable the law relating to societies registered and incorporated under the Friendly Societies Act 1992 and certain mutual insurers to be amended to permit or facilitate the issue of deferred shares; and to restrict the voting rights of members who hold such shares.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1251,
+        "name": "Lord Naseby",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1251/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1251/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1166,
+        "name": "Jonathan Evans",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1166/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1166/contact",
+        "memberFrom": "Cardiff North"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1380,
+  "shortTitle": "Mutuals' Deferred Shares Act 2015",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2015-03-27T11:16:46",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7722,
+    "stageId": 11,
+    "sessionId": 27,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7169,
+        "stageId": 11,
+        "billStageId": 7722,
+        "billId": 1380,
+        "date": "2015-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

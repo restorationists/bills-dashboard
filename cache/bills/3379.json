@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require energy companies to allow a grace period before disconnecting customers with pre-payment meters who have run out of credit; to require energy companies to offer debt management support to all customers; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4437,
+        "name": "Anne McLaughlin",
+        "party": "Scottish National Party",
+        "partyColour": "fff685",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4437/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4437/contact",
+        "memberFrom": "Glasgow North East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3379,
+  "shortTitle": "Pre-Payment Meters (Self-Disconnection) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T15:00:42.2357337",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17162,
+    "stageId": 7,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13969,
+        "stageId": 7,
+        "billStageId": 17162,
+        "billId": 3379,
+        "date": "2023-03-24T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

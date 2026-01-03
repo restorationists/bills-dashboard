@@ -1,0 +1,77 @@
+{
+  "longTitle": null,
+  "summary": "A Bill to make provision about non-domestic rating; to make provision about grants to local authorities; to make provision about council tax; to make provision about the supply of information for purposes relating to rates in Northern Ireland; and for connected purposes.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 33,
+        "name": "Mr Eric Pickles",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/33/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/33/contact",
+        "memberFrom": "Brentwood and Ongar"
+      },
+      "organisation": {
+        "name": "Department for Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2477,
+        "name": "Baroness Hanham",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2477/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2477/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 922,
+  "shortTitle": "Local Government Finance Act 2012",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-11-08T12:11:24",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24,
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5352,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4975,
+        "stageId": 11,
+        "billStageId": 5352,
+        "billId": 922,
+        "date": "2012-10-31T00:01:00"
+      }
+    ],
+    "sortOrder": 20
+  }
+}

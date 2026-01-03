@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision in connection with finance.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1572,
+        "name": "Jeremy Hunt",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1572/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1572/contact",
+        "memberFrom": "South West Surrey"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4580,
+        "name": "Baroness Vere of Norbiton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4580/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4580/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3514,
+  "shortTitle": "Finance Act 2024",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-09-23T14:34:05.2184292",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 18514,
+    "stageId": 11,
+    "sessionId": 38,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 15536,
+        "stageId": 11,
+        "billStageId": 18514,
+        "billId": 3514,
+        "date": "2024-02-22T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

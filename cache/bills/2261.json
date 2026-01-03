@@ -1,0 +1,70 @@
+{
+  "longTitle": "To amend the Animal Welfare Act 2006 in relation to service animals.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 69,
+        "name": "Sir Oliver Heald",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/69/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/69/contact",
+        "memberFrom": "North East Hertfordshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1829,
+        "name": "Viscount Trenchard",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1829/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1829/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2261,
+  "shortTitle": "Animal Welfare (Service Animals) Act 2019",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-04-09T09:23:57",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11135,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10182,
+        "stageId": 11,
+        "billStageId": 11135,
+        "billId": 2261,
+        "date": "2019-04-08T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "longTitle": "Make amendments of and in relation to section 43 of the Criminal Justice Act 2003.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 617,
+        "name": "John Reid",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/617/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/617/contact",
+        "memberFrom": "Airdrie and Shotts"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2490,
+        "name": "Lord Goldsmith",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2490/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2490/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 94,
+  "shortTitle": "Fraud (Trials Without a Jury) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-10-27T17:05:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 438,
+    "stageId": 2,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 300,
+        "stageId": 2,
+        "billStageId": 438,
+        "billId": 94,
+        "date": "2007-03-20T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

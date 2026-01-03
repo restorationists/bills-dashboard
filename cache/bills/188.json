@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to amend the definition of 'the Treaties' and 'the Community Treaties' in section 1(2) of the European Communities Act 1972 so as to include the decision of 7th June 2007 of the Council on the Communities' system of own resources",
+  "summary": "<p>The Bill would give effect in UK law to the decisions on the financing of the EU Budget taken at the European Council meeting in December 2005.</p><p>The resources (revenue) and expenditure of the EU are governed by two separate agreements; the revenue side is covered by the Own Resources Decision (ORD).  This sets out how Member States contribute towards the EU budget through customs, sugar and agricultural duties, VAT-based contributions and Gross National Income-based contributions. It also sets out how the UK abatement is calculated. A new ORD was formally agreed at a European level on 7 June 2007.</p><p><strong>Key areas</strong></p><ul><li>The European Communities (Finance) Bill adds the latest Own Resources Decision to the European Communities Act 1972.  This allows for payments in line with the ORD to be made to the EU directly out of the Consolidated Fund. The Bill does not replicate the detail set out in the Own Resources Decision.</li><li>The new ORD does not change the overall ceiling of revenue available to the EU. A change is made to the UK abatement mechanism which means that the abatement is lower than it would have been under the previous ORD, but because the level of overall EU expenditure is rising it will still rise in value compared to previous years.</li><li>A number of other changes are also made, including to the VAT-based contribution of all Member States and provisions to reduce the contributions of Germany, Austria, the Netherlands and Sweden who are significant net contributors.</li></ul><p>UK net contributions to the EU Budget are expected to rise over the period 2007-13, partly due to the changes made.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 596,
+        "name": "Mr Alistair Darling",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/596/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/596/contact",
+        "memberFrom": "Edinburgh South West"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 987,
+        "name": "Lord Davies of Oldham",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/987/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/987/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 188,
+  "shortTitle": "European Communities (Finance) Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-02-24T15:37:24",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1420,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1322,
+        "stageId": 11,
+        "billStageId": 1420,
+        "billId": 188,
+        "date": "2008-02-19T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+}

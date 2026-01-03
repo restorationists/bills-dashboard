@@ -1,0 +1,63 @@
+{
+  "longTitle": "A Bill to set targets and objectives relating to water, including in relation to the ownership of water companies and to climate mitigation and adaptation; to require the Secretary of State to publish and implement a strategy for achieving those targets and objectives; to establish a Commission on Water to advise the Secretary of State on that strategy; to make provision about the powers and duties of that Commission, including a requirement to establish a Citizens’ Assembly on water ownership; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4500,
+        "name": "Clive Lewis",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4500/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4500/contact",
+        "memberFrom": "Norwich South"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3777,
+  "shortTitle": "Water Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-09-10T12:55:33.9550526",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19020,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16096,
+        "stageId": 7,
+        "billStageId": 19020,
+        "billId": 3777,
+        "date": "2025-03-28T00:00:00"
+      },
+      {
+        "id": 16893,
+        "stageId": 7,
+        "billStageId": 19020,
+        "billId": 3777,
+        "date": "2026-01-30T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "longTitle": "A Bill to provide for an organ donation scheme based upon presumed consent; to make provision in relation to safeguards for such a scheme; and for connected purposes.",
+  "summary": "<p>The aim of the Bill is to introduce a presumption that consent has been given for the donation of organs for transplantation unless the person who has died has previously registered an objection to this. Exceptions to this presumption would be made only</p><ul><li>if the person&rsquo;s spouse, partner, parent or child could provide information that the person had expressed an objection to organ donation that had not been registered<br></li><li>if proceeding with the donation would cause distress to the person&rsquo;s spouse, partner, parent or child.</li></ul><p>The Bill would establish a register of persons who object to their organs being used for transplantation, and would impose a requirement for the register to be consulted before any transplantations took place.</p><p>The Bill would also provide that organs could not be removed for transplantation unless two registered medical practitioners had certified the death.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1575,
+        "name": "Mr Jeremy Browne",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1575/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1575/contact",
+        "memberFrom": "Taunton"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 411,
+  "shortTitle": "Organ Donation (Presumed Consent) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-11-18T14:45:36",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2081,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 1986,
+        "stageId": 7,
+        "billStageId": 2081,
+        "billId": 411,
+        "date": "2009-03-13T00:00:00"
+      },
+      {
+        "id": 2142,
+        "stageId": 7,
+        "billStageId": 2081,
+        "billId": 411,
+        "date": "2009-06-19T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

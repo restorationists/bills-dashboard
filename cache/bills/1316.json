@@ -1,0 +1,53 @@
+{
+  "longTitle": "A Bill to confer powers on Buckinghamshire County Council in relation to filming on highways; and for related purposes.",
+  "summary": null,
+  "sponsors": [],
+  "promoters": [
+    {
+      "organisationName": "Buckinghamshire County Council",
+      "organisationUrl": null
+    }
+  ],
+  "petitioningPeriod": "House of Lords: 23 January 2014 to 6 February 2014\r\nHouse of Commons: 18 June 2014 to 30 June 2014",
+  "petitionInformation": "<p>If you are &quot;specially and directly affected&quot; by this bill you may oppose the bill or seek its amendment before a Select Committee in either or both Houses.  If you present a &quot;petition&quot; against the bill at the appropriate times you may be able to have your views on the bill heard by the Committee (in whichever House you petition). There are specific times when petitions can be presented.</p><p><strong>House of Lords</strong> - The petitioning period for the House of Lords ran from 22 January 2014 to 5pm on 6 February 2014. No petitions were presented against the Bill.</p><p><strong>House of Commons</strong> -  The petitioning period in the House of Commons ran from 18 to 30 June 2014. No petitions were presented against the Bill.</p><p>There will be no further opportunity to petition against the Bill in either the House of Lords or the House of Commons.</p><p><a>Further information about petitioning</a> can be found by following the link or you can <a>contact</a> one of the Private Bill Offices.  Staff in either office will be happy to answer any questions you may have about the process of opposing a private bill.</p>",
+  "agent": {
+    "name": "Sharpe Pritchard LLP",
+    "address": "Elm Yard, 13-16 Elm Street, London WC1X 0BJ",
+    "phoneNo": "020 7405 4600",
+    "email": "alewis@sharpepritchard.co.uk",
+    "website": ""
+  },
+  "billId": 1316,
+  "shortTitle": "Buckinghamshire County Council (Filming on Highways) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2014-11-12T15:16:41",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 6,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26,
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 7272,
+    "stageId": 10,
+    "sessionId": 27,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 6767,
+        "stageId": 10,
+        "billStageId": 7272,
+        "billId": 1316,
+        "date": "2014-11-11T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

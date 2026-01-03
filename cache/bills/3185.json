@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to include water safety and training in prevention of drowning as a compulsory part of the curriculum for all schools in England",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4238,
+        "name": "Lord Storey",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4238/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4238/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3185,
+  "shortTitle": "Water Safety (Curriculum) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-10-31T12:58:43.8549345",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16546,
+    "stageId": 2,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 14529,
+        "stageId": 2,
+        "billStageId": 16546,
+        "billId": 3185,
+        "date": "2023-05-19T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

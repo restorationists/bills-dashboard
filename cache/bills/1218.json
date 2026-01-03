@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to promote gender equality in the provision by the Government of development assistance and humanitarian assistance to countries outside the United Kingdom; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 288,
+        "name": "Mr William Cash",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/288/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/288/contact",
+        "memberFrom": "Stone"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1892,
+        "name": "Lord McColl of Dulwich",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1892/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1892/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1218,
+  "shortTitle": "International Development (Gender Equality) Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-03-14T09:28:45",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 6719,
+    "stageId": 11,
+    "sessionId": 26,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 6293,
+        "stageId": 11,
+        "billStageId": 6719,
+        "billId": 1218,
+        "date": "2014-03-13T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

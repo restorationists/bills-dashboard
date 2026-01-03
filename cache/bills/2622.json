@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about the mode of trial and maximum penalty for certain offences under the Animal Welfare Act 2006.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4751,
+        "name": "Chris Loder",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4751/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4751/contact",
+        "memberFrom": "West Dorset"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 209,
+        "name": "Lord Randall of Uxbridge",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/209/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/209/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2622,
+  "shortTitle": "Animal Welfare (Sentencing) Act 2021",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-04T11:48:39.7974781",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12930,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 11760,
+        "stageId": 11,
+        "billStageId": 12930,
+        "billId": 2622,
+        "date": "2021-04-29T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

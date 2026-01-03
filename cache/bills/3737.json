@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision to amend the law relating to employment rights; to make provision about procedure for handling redundancies; to make provision about the treatment of workers involved in the supply of services under certain public contracts; to provide for duties to be imposed on employers in relation to equality; to amend the definition of “employment business” in the Employment Agencies Act 1973; to provide for the establishment of the School Support Staff Negotiating Body and the Social Care Negotiating Bodies; to amend the Seafarers’ Wages Act 2023; to make provision for the implementation of international agreements relating to maritime employment; to make provision about trade unions, industrial action, employers’ associations and the functions of the Certification Officer; to make provision about the enforcement of legislation relating to the labour market; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4119,
+        "name": "Jonathan Reynolds",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4119/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4119/contact",
+        "memberFrom": "Stalybridge and Hyde"
+      },
+      "organisation": {
+        "name": "Department for Business and Trade ",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 5414,
+        "name": "Baroness Lloyd of Effra",
+        "party": null,
+        "partyColour": null,
+        "house": "Unassigned",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5414/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5414/contact",
+        "memberFrom": null
+      },
+      "organisation": {
+        "name": "Department for Business and Trade ",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3737,
+  "shortTitle": "Employment Rights Act 2025",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-22T11:02:30.7253228",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 20388,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 17636,
+        "stageId": 11,
+        "billStageId": 20388,
+        "billId": 3737,
+        "date": "2025-12-18T00:00:00"
+      }
+    ],
+    "sortOrder": 23
+  }
+}

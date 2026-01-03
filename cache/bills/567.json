@@ -1,0 +1,76 @@
+{
+  "longTitle": "Repeal and revive provisions of the Video Recordings Act 1984.",
+  "summary": "The Bill repeals and revives, without amendment, the Video Recordings Act 1984. Its purpose is to rectify a procedural error made during the passage of the 1984 Act, thereby making the age-rated classification and supply controls contained in that Act enforceable in UK courts. The Bill would also allow the 1984 Act to be amended by the Digital Economy Bill 2009-10.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1391,
+        "name": "Mr Siôn Simon",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1391/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1391/contact",
+        "memberFrom": "Birmingham, Erdington"
+      },
+      "organisation": {
+        "name": "Department for Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 987,
+        "name": "Lord Davies of Oldham",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/987/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/987/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 567,
+  "shortTitle": "Video Recording Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-04-13T14:57:57",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3091,
+    "stageId": 11,
+    "sessionId": 23,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2960,
+        "stageId": 11,
+        "billStageId": 3091,
+        "billId": 567,
+        "date": "2010-01-21T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

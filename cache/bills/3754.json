@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to support women in UK-sponsored and supported conflict prevention, peace processes, mediation and diplomatic delegations; to ensure systematic gender consideration and responsiveness in UK foreign and defence policy; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4301,
+        "name": "Baroness Hodgson of Abinger",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4301/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4301/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4267,
+        "name": "Sarah Champion",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4267/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4267/contact",
+        "memberFrom": "Rotherham"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3754,
+  "shortTitle": "Women, Peace and Security Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2025-11-26T13:05:03.6887609",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19401,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16502,
+        "stageId": 7,
+        "billStageId": 19401,
+        "billId": 3754,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 6
+  }
+}

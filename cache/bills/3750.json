@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to publish an annual report on complications from abortions in England; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3750,
+  "shortTitle": "Complications from Abortions (Annual Report) Bill [HL]",
+  "formerShortTitle": "",
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2025-06-09T09:18:32.4626895",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19986,
+    "stageId": 4,
+    "sessionId": 39,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 4
+  }
+}

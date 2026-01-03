@@ -1,0 +1,66 @@
+{
+  "longTitle": "A Bill to make provision in connection with finance.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4031,
+        "name": "Rachel Reeves",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4031/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4031/contact",
+        "memberFrom": "Leeds West and Pudsey"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4042,
+  "shortTitle": "Finance (No. 2) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2026-01-02T17:36:25.678492",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20384,
+    "stageId": 49,
+    "sessionId": 39,
+    "description": "Committee of the whole House",
+    "abbreviation": "COTWH",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17661,
+        "stageId": 49,
+        "billStageId": 20384,
+        "billId": 4042,
+        "date": "2026-01-12T00:00:00"
+      },
+      {
+        "id": 17662,
+        "stageId": 49,
+        "billStageId": 20384,
+        "billId": 4042,
+        "date": "2026-01-13T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

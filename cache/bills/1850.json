@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision in relation to the procedure to be followed by local authorities when varying the charges to be paid in connection with the use of certain parking places.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 335,
+        "name": "David Tredinnick",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/335/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/335/contact",
+        "memberFrom": "Bosworth"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4551,
+        "name": "Baroness Redfern",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4551/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4551/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1850,
+  "shortTitle": "Parking Places (Variation of Charges) Act 2017 ",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-04-28T12:13:24",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 9525,
+    "stageId": 11,
+    "sessionId": 29,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 8781,
+        "stageId": 11,
+        "billStageId": 9525,
+        "billId": 1850,
+        "date": "2017-04-27T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make unauthorised development without planning permission an offence; to prohibit retrospective planning applications; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4798,
+        "name": "Gareth Bacon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4798/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4798/contact",
+        "memberFrom": "Orpington"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3050,
+  "shortTitle": "Unauthorised Development (Offences) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-11-30T13:30:48.1165111",
+  "billWithdrawn": "2021-11-29T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15759,
+    "stageId": 6,
+    "sessionId": 36,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12326,
+        "stageId": 6,
+        "billStageId": 15759,
+        "billId": 3050,
+        "date": "2021-09-21T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

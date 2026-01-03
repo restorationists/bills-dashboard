@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to set minimum standards for the building of new homes in relation to quality and energy efficiency; to place requirements on developers of new homes; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5122,
+        "name": "Manuela Perteghella",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5122/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5122/contact",
+        "memberFrom": "Stratford-on-Avon"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3835,
+  "shortTitle": "Building Regulations (Minimum Standards) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-09-11T16:30:57.8625287",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19155,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16237,
+        "stageId": 7,
+        "billStageId": 19155,
+        "billId": 3835,
+        "date": "2026-02-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

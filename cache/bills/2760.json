@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to authorise the use of resources for the year ending with 31 March 2021; to authorise both the issue of sums out of the Consolidated Fund and the application of income for that year; and to appropriate the supply authorised for that year by this Act and by the Supply and Appropriation (Anticipation and Adjustments) Act 2020.",
+  "summary": "<p>The Bill provides Parliamentary authority for funds requested by the Government. It is part of 'supply procedure', which is how Parliament grants the Government&rsquo;s requests for resources. Proceedings on the Bill are formal: there is no debate and the Bill goes through 'on the nod'. </p><p>This type of Bill was previously known as the Consolidated Fund (Appropriation) Bill. </p><p><strong>Key areas</strong></p><ul><li>authorises the release of money from the Consolidated Fund which is the Government&rsquo;s bank account</li><li>places limits on the purposes for which the money may be spent.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3991,
+        "name": "Jesse Norman",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3991/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3991/contact",
+        "memberFrom": "Hereford and South Herefordshire"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4689,
+        "name": "Lord Agnew of Oulton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4689/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4689/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2760,
+  "shortTitle": "Supply and Appropriation (Main Estimates) Act 2020",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2020-07-24T10:36:39",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12349,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 11211,
+        "stageId": 11,
+        "billStageId": 12349,
+        "billId": 2760,
+        "date": "2020-07-22T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

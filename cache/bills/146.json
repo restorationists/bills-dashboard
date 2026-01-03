@@ -1,0 +1,59 @@
+{
+  "longTitle": "Make provision about pensions and other benefits payable to persons in connection with bereavement or by reference to pensionable age; to make provision about the establishment and functions of the Personal Accounts Delivery Authority; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 494,
+        "name": "Mr John Hutton",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/494/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/494/contact",
+        "memberFrom": "Barrow and Furness"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 146,
+  "shortTitle": "Pensions Act 2007",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-01-10T10:55:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 730,
+    "stageId": 11,
+    "sessionId": 20,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 570,
+        "stageId": 11,
+        "billStageId": 730,
+        "billId": 146,
+        "date": "2007-07-26T00:00:00"
+      }
+    ],
+    "sortOrder": 17
+  }
+}

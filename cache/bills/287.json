@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to promote the reform of the statute law by the repeal, in accordance with recommendations of the Law Commission and the Scottish Law Commission, of certain enactments which (except in so far as their effect is preserved) are no longer of practical utility, and to make other provision in connection with the repeal of those enactments.",
+  "summary": "<p><span>This Bill would repeal a number of statutes which have become obsolete. It follows recommendations in the 18<span>th</span> report of the UK Law Commission, which is responsible for modernising and simplifying the statute book to make it more accessible. There have been 17 previous Statute Law Repeal Bills since 1965, repealing 2000 Acts in their entirety.</span></p><p><span><strong>Key areas</strong></span></p><ul><li><span>The Bill will repeal 260 whole Acts and part repeal 68 other Acts</span></li><li><span>These range from laws on turnpikes and the East India Company to London workhouses and the aftermath of the Peterloo Massacre of 1819.</span></li></ul> ",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2024,
+        "name": "Lord Hunt of Kings Heath",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2024/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2024/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 260,
+        "name": "Mr Michael Wills",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/260/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/260/contact",
+        "memberFrom": "North Swindon"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 287,
+  "shortTitle": "Statute Law (Repeals) Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-02-25T15:39:30",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1771,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1757,
+        "stageId": 11,
+        "billStageId": 1771,
+        "billId": 287,
+        "date": "2008-07-21T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

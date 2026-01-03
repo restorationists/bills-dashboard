@@ -1,0 +1,85 @@
+{
+  "longTitle": "Make provision for a railway transport system running from Maidenhead, in the County of Berkshire, and Heathrow Airport, in the London Borough of Hillingdon, through central London to Shenfield, in the County of Essex, and Abbey Wood, in the London Borough of Greenwich; and for connected purposes.",
+  "summary": "<p>Crossrail is the plan to integrate the mainline railways to the east and west of London through the construction of two tunnels beneath central London from Paddington to Liverpool Street.</p><p>The main purpose of the Bill was to secure the powers necessary to build Crossrail. This Bill received Royal Assent in July 2008 and Crossrail is now proceeding. It was a Hybrid Bill, as it contained provisions which had an impact on the interests of particular individuals, as well as the general public. For more information on hybrid bills please refer to <a>Hybrid Bills</a> page. </p><p><strong>Key areas of the Bill included:</strong></p><ul><li>authorisation of works necessary to build Crossrail and associated works </li><li>acquisition of land and interests in land necessary for those works </li><li>establishment of a planning and heritage regime for the works </li><li>application of existing railway and other miscellaneous legislation to Crossrail </li><li>the handover by transfer scheme of property, rights and liabilities from relevant authorities to nominated undertakers </li><li>devolution of control of the Crossrail project to the Greater London Authority, or Transport for London or a combination of the two.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 632,
+        "name": "Mr Douglas Alexander",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/632/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/632/contact",
+        "memberFrom": "Paisley South"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3504,
+        "name": "Lord Bassam of Brighton",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3504/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3504/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": {
+    "name": "Broadfield Law UK LLP",
+    "address": "One Bartholomew Close, London, EC1A 7BL.",
+    "phoneNo": "020 7783 3437",
+    "email": "PamThompson@bdbpitmans.com",
+    "website": ""
+  },
+  "billId": 140,
+  "shortTitle": "Crossrail Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-07-14T17:45:21",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 4,
+  "introducedSessionId": 18,
+  "includedSessionIds": [
+    18,
+    19,
+    20,
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1787,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1699,
+        "stageId": 11,
+        "billStageId": 1787,
+        "billId": 140,
+        "date": "2008-07-22T00:00:00"
+      }
+    ],
+    "sortOrder": 27
+  }
+}

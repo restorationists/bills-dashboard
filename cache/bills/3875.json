@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to conduct a review of the funding of hospices specialising in the care of children and to publish proposals for measures to guarantee access to hospices for all children who require palliative care; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4831,
+        "name": "Ian Byrne",
+        "party": "Independent",
+        "partyColour": "909090",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4831/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4831/contact",
+        "memberFrom": "Liverpool West Derby"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3875,
+  "shortTitle": "Children’s Hospices (Funding) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-09-12T15:48:59.6827928",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19234,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16315,
+        "stageId": 7,
+        "billStageId": 19234,
+        "billId": 3875,
+        "date": "2025-09-12T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

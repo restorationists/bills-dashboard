@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make succession to the Crown not depend on gender; to make provision about Royal Marriages; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1563,
+        "name": "Mr Nick Clegg",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1563/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1563/contact",
+        "memberFrom": "Sheffield, Hallam"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 630,
+        "name": "Lord Wallace of Tankerness",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/630/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/630/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1121,
+  "shortTitle": "Succession to the Crown Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-04-29T11:44:49",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5897,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 5515,
+        "stageId": 11,
+        "billStageId": 5897,
+        "billId": 1121,
+        "date": "2013-04-25T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

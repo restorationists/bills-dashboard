@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the regulation of food standards in hospitals.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2729,
+        "name": "Baroness Cumberlege",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2729/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2729/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1186,
+  "shortTitle": "Health and Social Care (Amendment) (Food Standards) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-12-03T09:46:58",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 6438,
+    "stageId": 5,
+    "sessionId": 26,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 6025,
+        "stageId": 5,
+        "billStageId": 6438,
+        "billId": 1186,
+        "date": "2013-12-02T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

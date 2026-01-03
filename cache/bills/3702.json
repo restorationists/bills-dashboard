@@ -1,0 +1,59 @@
+{
+  "longTitle": "A Bill to amend section 58AA of the Courts and Legal Services Act 1990 to make provision about the enforceability of litigation funding agreements.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4899,
+        "name": "Lord Stewart of Dirleton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4899/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4899/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Office of the Advocate General for Scotland",
+        "url": "https://www.gov.uk/government/organisations/office-of-the-advocate-general-for-scotland"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3702,
+  "shortTitle": "Litigation Funding Agreements (Enforceability) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2024-05-29T11:50:05.4373248",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18667,
+    "stageId": 3,
+    "sessionId": 38,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15710,
+        "stageId": 3,
+        "billStageId": 18667,
+        "billId": 3702,
+        "date": "2024-04-29T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

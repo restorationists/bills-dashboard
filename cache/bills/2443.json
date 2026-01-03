@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to establish a public advocate to provide advice to, and act as data controller for, representatives of the deceased after major incidents.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 483,
+        "name": "Maria Eagle",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/483/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/483/contact",
+        "memberFrom": "Garston and Halewood"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2443,
+  "shortTitle": "Public Advocate Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-09-19T14:04:15",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15169,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

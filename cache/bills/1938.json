@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill applying to England to provide for the introduction of first past the post elections of mayors, the London Assembly and Police and Crime Commissioners; to require elections for mayors, the London Assembly, Police and Crime Commissioners and local authorities to take place on the same day; to abolish the election of councillors by halves or thirds to local authorities; to allow a person to be a Member of the House of Commons and to hold any elected local government office, including that of Police and Crime Commissioner, at the same time; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4498,
+        "name": "Mr Ranil Jayawardena",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4498/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4498/contact",
+        "memberFrom": "North East Hampshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1938,
+  "shortTitle": "Electoral Reform (Local Elections and Miscellaneous Provisions) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-03-28T10:19:25",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14691,
+    "stageId": 7,
+    "sessionId": 29,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

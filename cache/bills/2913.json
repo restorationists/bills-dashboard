@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about hare coursing offences; to increase penalties for such offences; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3912,
+        "name": "Richard Fuller",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3912/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3912/contact",
+        "memberFrom": "North East Bedfordshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2913,
+  "shortTitle": "Hare Coursing Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-01-24T13:57:59.2983123",
+  "billWithdrawn": "2022-01-21T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15390,
+    "stageId": 6,
+    "sessionId": 36,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 11916,
+        "stageId": 6,
+        "billStageId": 15390,
+        "billId": 2913,
+        "date": "2021-06-16T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

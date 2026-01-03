@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require screening for dyslexia in primary schools; to make provision about the teaching and assessment of children found by that screening to have dyslexia; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4070,
+        "name": "Matt Hancock",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4070/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4070/contact",
+        "memberFrom": "West Suffolk"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3083,
+  "shortTitle": "Dyslexia Screening Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-03-16T12:36:44.3543579",
+  "billWithdrawn": "2022-03-15T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15956,
+    "stageId": 6,
+    "sessionId": 36,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12578,
+        "stageId": 6,
+        "billStageId": 15956,
+        "billId": 3083,
+        "date": "2021-12-07T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": null,
+  "summary": "The Bill seeks to introduce greater employment protection for employees who work in businesses which are changing ownership by share transfer. <br><br>Key areas<br><ul><li>The Bill proposes to make certain provisions of the transfer of undertakings regulations (known as TUPE) apply where there is an &lsquo;equity transfer&rsquo;</li></ul><ul><li>Powers are given to the Secretary of State to define in detail the scope of transactions that would be caught by the provisions.</li></ul>The Bill was withdrawn at Second Reading.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 363,
+        "name": "Mr John Heppell",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/363/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/363/contact",
+        "memberFrom": "Nottingham East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 226,
+  "shortTitle": "Private Equity (Transfer of Undertakings and Protection of Employment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-05-07T13:47:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 1162,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 1059,
+        "stageId": 7,
+        "billStageId": 1162,
+        "billId": 226,
+        "date": "2008-03-07T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

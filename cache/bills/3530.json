@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for leave to enter the United Kingdom to be granted to people for the purposes of making an application for asylum; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4922,
+        "name": "The Lord Bishop of Chelmsford",
+        "party": "Bishops",
+        "partyColour": "702082",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4922/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4922/contact",
+        "memberFrom": "Bishops"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3530,
+  "shortTitle": "Asylum Application (Entry to the United Kingdom) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2024-05-29T11:36:59.3590933",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18096,
+    "stageId": 1,
+    "sessionId": 38,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15087,
+        "stageId": 1,
+        "billStageId": 18096,
+        "billId": 3530,
+        "date": "2023-11-29T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

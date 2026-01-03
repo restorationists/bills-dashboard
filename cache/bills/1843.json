@@ -1,0 +1,63 @@
+{
+  "longTitle": "A Bill to require assessment of a benefit claimant’s circumstances before the implementation of sanctions; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4421,
+        "name": "Mhairi Black",
+        "party": "Scottish National Party",
+        "partyColour": "fff685",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4421/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4421/contact",
+        "memberFrom": "Paisley and Renfrewshire South"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1843,
+  "shortTitle": "Benefit Claimants Sanctions (Required Assessment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-02-27T11:11:05",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 8797,
+    "stageId": 7,
+    "sessionId": 29,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 8199,
+        "stageId": 7,
+        "billStageId": 8797,
+        "billId": 1843,
+        "date": "2016-12-02T00:00:00"
+      },
+      {
+        "id": 8500,
+        "stageId": 7,
+        "billStageId": 8797,
+        "billId": 1843,
+        "date": "2016-12-02T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

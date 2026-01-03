@@ -1,0 +1,59 @@
+{
+  "longTitle": "A Bill to make provision for loans or other financial assistance to be provided to, or for the benefit of, the government of Ukraine.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4621,
+        "name": "Darren Jones",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4621/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4621/contact",
+        "memberFrom": "Bristol North West"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3882,
+  "shortTitle": "Financial Assistance to Ukraine Act 2025",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-07-09T18:10:37.3122781",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 19454,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 16595,
+        "stageId": 11,
+        "billStageId": 19454,
+        "billId": 3882,
+        "date": "2025-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

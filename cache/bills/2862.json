@@ -1,0 +1,94 @@
+{
+  "longTitle": "A Bill to make provision in relation to freedom of speech and academic freedom in higher\r\neducation institutions and in students’ unions; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4108,
+        "name": "Gavin Williamson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4108/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4108/contact",
+        "memberFrom": "South Staffordshire"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4113,
+        "name": "Nadhim Zahawi",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4113/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4113/contact",
+        "memberFrom": "Stratford-on-Avon"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 2
+    },
+    {
+      "member": {
+        "memberId": 2000,
+        "name": "Earl Howe",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2000/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2000/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 3
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2862,
+  "shortTitle": "Higher Education (Freedom of Speech) Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-10-03T12:38:55.1753871",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36,
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17673,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14578,
+        "stageId": 11,
+        "billStageId": 17673,
+        "billId": 2862,
+        "date": "2023-05-11T00:00:00"
+      }
+    ],
+    "sortOrder": 20
+  }
+}

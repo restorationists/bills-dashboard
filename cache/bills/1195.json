@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill To Repeal the European Communities Act 1972; and to make provision for the Secretary of State to repeal any enactment that has been a consequence of the European Communities Act 1972.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3153,
+        "name": "Lord Pearson of Rannoch",
+        "party": "UK Independence Party",
+        "partyColour": "722889",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3153/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3153/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1195,
+  "shortTitle": "European Union (Withdrawal) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-05-16T10:53:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13991,
+    "stageId": 2,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

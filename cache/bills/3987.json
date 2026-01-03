@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for establishing an independent public inquiry into UK involvement in Israeli military operations in Gaza; to require the inquiry to consider any UK military, economic or political cooperation with Israel since October 2023, including the sale, supply or use of weapons, surveillance aircraft and Royal Air Force bases; to provide the inquiry with the power to question Ministers and officials about decisions taken in relation to UK involvement; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 185,
+        "name": "Jeremy Corbyn",
+        "party": "Independent",
+        "partyColour": "909090",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/185/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/185/contact",
+        "memberFrom": "Islington North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3987,
+  "shortTitle": "Gaza (Independent Public Inquiry) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-27T13:28:03.8491339",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20008,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17146,
+        "stageId": 7,
+        "billStageId": 20008,
+        "billId": 3987,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

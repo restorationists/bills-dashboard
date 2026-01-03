@@ -1,0 +1,63 @@
+{
+  "longTitle": "A Bill to amend section 172 of the Companies Act 2006 to require company directors to balance their duty to promote the success of the company with duties in respect of the environment and the company’s employees.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5111,
+        "name": "Martin Wrigley",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5111/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5111/contact",
+        "memberFrom": "Newton Abbot"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3794,
+  "shortTitle": "Company Directors (Duties) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-26T13:20:16.7581833",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19063,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17246,
+        "stageId": 7,
+        "billStageId": 19063,
+        "billId": 3794,
+        "date": "2025-07-04T00:00:00"
+      },
+      {
+        "id": 16135,
+        "stageId": 7,
+        "billStageId": 19063,
+        "billId": 3794,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

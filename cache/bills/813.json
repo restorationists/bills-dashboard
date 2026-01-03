@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Food Labelling Regulations 1996 to provide for information about the country of origin of food to be made available to consumers; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1451,
+        "name": "Mr Richard Bacon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1451/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1451/contact",
+        "memberFrom": "South Norfolk"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 813,
+  "shortTitle": "Food Labelling Regulations (Amendment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-01T15:04:15",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 3997,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 3764,
+        "stageId": 7,
+        "billStageId": 3997,
+        "billId": 813,
+        "date": "2011-04-01T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

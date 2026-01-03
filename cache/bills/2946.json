@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to permit 16 to 19 academies to have a designated religious character; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4793,
+        "name": "Scott Benton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4793/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4793/contact",
+        "memberFrom": "Blackpool South"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2946,
+  "shortTitle": "Education (16 to 19 Academies) (Religious Character) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-10-19T12:40:25.2147645",
+  "billWithdrawn": "2021-10-18T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15460,
+    "stageId": 6,
+    "sessionId": 36,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 11982,
+        "stageId": 6,
+        "billStageId": 15460,
+        "billId": 2946,
+        "date": "2021-06-21T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

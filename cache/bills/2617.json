@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to enable co-operative and community benefit societies to raise external share capital for the purpose of making environmentally sustainable investment; to make associated provisions about restricting conversion to company status and the distribution of capital on winding-up; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4632,
+        "name": "Anna McMorrin",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4632/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4632/contact",
+        "memberFrom": "Cardiff North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2617,
+  "shortTitle": "Co-operative and Community Benefit Societies (Environmentally Sustainable Investment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-04T14:26:05.2962257",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11832,
+    "stageId": 7,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 10754,
+        "stageId": 7,
+        "billStageId": 11832,
+        "billId": 2617,
+        "date": "2020-09-11T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to report to Parliament on the merits of the House of Lords meeting in a large ballroom in Blackpool.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3926,
+        "name": "Paul Maynard",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3926/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3926/contact",
+        "memberFrom": "Blackpool North and Cleveleys"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3401,
+  "shortTitle": "Relocation of the House of Lords (Report to Parliament) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T15:47:33.7318167",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17295,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14121,
+        "stageId": 6,
+        "billStageId": 17295,
+        "billId": 3401,
+        "date": "2023-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

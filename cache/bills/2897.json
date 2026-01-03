@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about menopause support and services; to exempt hormone replacement therapy from National Health Service prescription charges; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4480,
+        "name": "Carolyn Harris",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4480/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4480/contact",
+        "memberFrom": "Swansea East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2897,
+  "shortTitle": "Menopause (Support and Services) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-11-01T10:23:08.6648201",
+  "billWithdrawn": "2021-10-29T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15359,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 11886,
+        "stageId": 7,
+        "billStageId": 15359,
+        "billId": 2897,
+        "date": "2021-10-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

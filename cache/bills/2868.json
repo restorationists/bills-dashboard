@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about local skills improvement plans; to make provision relating to further education; to make provision about functions of the Institute for Apprenticeships and Technical Education and relating to technical education qualifications; to make provision about student finance and fees; to make provision about assessments by the Office for Students; to make provision about the funding of certain post-16 education or training providers; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4703,
+        "name": "Baroness Barran",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4703/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4703/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4113,
+        "name": "Nadhim Zahawi",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4113/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4113/contact",
+        "memberFrom": "Stratford-on-Avon"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2868,
+  "shortTitle": "Skills and Post-16 Education Act 2022",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-05-05T17:07:56.1201933",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 16407,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 13121,
+        "stageId": 11,
+        "billStageId": 16407,
+        "billId": 2868,
+        "date": "2022-04-28T00:00:00"
+      }
+    ],
+    "sortOrder": 17
+  }
+}

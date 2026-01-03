@@ -1,0 +1,56 @@
+{
+  "longTitle": "To amend the Rehabilitation of Offenders Act 1974; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2685,
+        "name": "Lord Dholakia",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2685/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2685/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 543,
+  "shortTitle": "Rehabilitation of Offenders (Amendment) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2010-04-09T12:35:53",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 3271,
+    "stageId": 5,
+    "sessionId": 23,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 3013,
+        "stageId": 5,
+        "billStageId": 3271,
+        "billId": 543,
+        "date": "2010-03-16T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  }
+}

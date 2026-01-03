@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to establish a Registrar of lobbyists, a register of lobbyists and a Code of Conduct for lobbyists; and for related purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3335,
+        "name": "Lord Brooke of Alverthorpe",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3335/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3335/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1786,
+  "shortTitle": "Lobbying (Transparency) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2017-03-17T13:07:54",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9154,
+    "stageId": 5,
+    "sessionId": 29,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 8493,
+        "stageId": 5,
+        "billStageId": 9154,
+        "billId": 1786,
+        "date": "2016-12-20T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  }
+}

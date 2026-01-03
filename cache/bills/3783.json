@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to amend the Licensing Act 2003 so that licensing hours Orders can be made by negative resolution statutory instrument.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5046,
+        "name": "Andrew Ranger",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5046/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5046/contact",
+        "memberFrom": "Wrexham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1463,
+        "name": "Lord Watson of Wyre Forest",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1463/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1463/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3783,
+  "shortTitle": "Licensing Hours Extensions Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-17T16:04:36.3404326",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20256,
+    "stageId": 3,
+    "sessionId": 39,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 17644,
+        "stageId": 3,
+        "billStageId": 20256,
+        "billId": 3783,
+        "date": "2026-01-06T00:00:00"
+      }
+    ],
+    "sortOrder": 7
+  }
+}

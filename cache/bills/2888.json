@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to reduce the voting age to 16 for UK parliamentary elections and all local elections in England",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3743,
+        "name": "Lord Adonis",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3743/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3743/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2888,
+  "shortTitle": "Representation of the People (Young People’s Enfranchisement) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-04-28T15:20:47.9129217",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15330,
+    "stageId": 2,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 12657,
+        "stageId": 2,
+        "billStageId": 15330,
+        "billId": 2888,
+        "date": "2022-01-28T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

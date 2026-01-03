@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to impose duties on the Treasury and the Office for Budget Responsibility in respect of the announcement of fiscally significant measures.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4031,
+        "name": "Rachel Reeves",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4031/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4031/contact",
+        "memberFrom": "Leeds West and Pudsey"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4559,
+        "name": "Lord Livermore",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4559/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4559/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3731,
+  "shortTitle": "Budget Responsibility Act 2024",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-11-11T17:57:20.3363443",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 18963,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 16037,
+        "stageId": 11,
+        "billStageId": 18963,
+        "billId": 3731,
+        "date": "2024-09-10T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

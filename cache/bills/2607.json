@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to provide for a consultation on the introduction of a Duty to Plan requiring Category 1 responders to plan for terrorist threats and requiring those responsible for places to which the public have access to consider the vulnerability of those places to attack and take measures to mitigate any such vulnerability",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2671,
+        "name": "Lord Harris of Haringey",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2671/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2671/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2607,
+  "shortTitle": "Duty to Plan for Terrorism (Consultation) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2021-05-05T11:56:25.9575835",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11798,
+    "stageId": 2,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

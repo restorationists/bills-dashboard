@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision relating to gas importation and storage; to make provision in relation to electricity generated from renewable sources; to make provision about the decommissioning of energy installations and wells; to make provision about the management and disposal of waste produced during the operation of nuclear installations; to make provision relating to petroleum licences; to make provision about third party access to oil and gas infrastructure and modifications of pipelines; to make provision about reports relating to energy matters; to make provision relating to gas meters and electricity meters and provision relating to electricity safety; to make provision about the security of equipment, software and information relating to nuclear matters; and for connected purposes.",
+  "summary": "The Energy Bill contains the legislative provisions required to implement UK energy policy following the publication of the Energy Review 2006 and the Energy White Paper 2007. <br><br>This policy is driven by the two long-term energy challenges faced by the UK: tackling climate change by reducing carbon dioxide emissions, and ensuring secure, clean and affordable energy.<br><br><strong>Key areas</strong><br><br><ul><li>Strengthens the regulatory framework for offshore gas supply infrastructure to enable private sector investment </li><li>Creates a regulatory framework to enable private sector investment in Carbon Capture and Storage projects</li><li>Strengthens the Renewables Obligation to drive greater and more rapid deployment of renewables in the UK</li><li>Strengthens statutory decommissioning provisions for offshore renewables and oil and gas installations to minimise the risk of liabilities falling to the Government</li><li>Improves the offshore oil and gas licensing regime in response to changes in the commercial environment and enable the Department for Business Enterprise and Regulatory Reform to carry out its regulatory functions more effectively</li><li>Ensures the operators of new nuclear power stations accumulate funds to meet the full costs of decommissioning and their full share of waste management costs</li><li>Introduces amending powers such that Ofgem is able to run the offshore electricity transmission licensing regime more effectively.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 494,
+        "name": "Mr John Hutton",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/494/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/494/contact",
+        "memberFrom": "Barrow and Furness"
+      },
+      "organisation": {
+        "name": "Department for Business, Enterprise and Regulatory Reform",
+        "url": "http://www.berr.gov.uk/"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3775,
+        "name": "Lord Jones of Birmingham",
+        "party": "Other",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3775/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3775/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business, Enterprise and Regulatory Reform",
+        "url": "http://www.berr.gov.uk/"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 259,
+  "shortTitle": "Energy Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-03-12T11:41:35",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1935,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1843,
+        "stageId": 11,
+        "billStageId": 1935,
+        "billId": 259,
+        "date": "2008-11-26T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

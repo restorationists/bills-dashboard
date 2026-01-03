@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to require public bodies to accompany any proposal for a change in public expenditure, administration or policy with a family impact assessment; and to require the Secretary of State to report on the costs and benefits of extending family impact assessments to local authorities and to establish and evaluate progress towards objectives and targets for family stability.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4321,
+        "name": "Lord Farmer",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4321/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4321/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3958,
+        "name": "Fiona Bruce",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3958/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3958/contact",
+        "memberFrom": "Congleton"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2012,
+  "shortTitle": "Family Relationships (Impact Assessment and Targets) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2018-12-07T12:59:03",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 10383,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 9570,
+        "stageId": 7,
+        "billStageId": 10383,
+        "billId": 2012,
+        "date": "2018-11-23T00:00:00"
+      }
+    ],
+    "sortOrder": 6
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to change the period of life expectancy relevant to certain pension rules.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 253,
+        "name": "Mr Laurence Robertson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/253/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/253/contact",
+        "memberFrom": "Tewkesbury"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4173,
+        "name": "Lord Popat",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4173/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4173/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3543,
+  "shortTitle": "Pensions (Special Rules for End of Life) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-05-29T12:07:25.6304967",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18798,
+    "stageId": 1,
+    "sessionId": 38,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15883,
+        "stageId": 1,
+        "billStageId": 18798,
+        "billId": 3543,
+        "date": "2024-05-20T00:00:00"
+      }
+    ],
+    "sortOrder": 7
+  }
+}

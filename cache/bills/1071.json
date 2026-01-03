@@ -1,0 +1,76 @@
+{
+  "longTitle": "To authorise the use of resources for the year ending with 31 March 2013; to authorise both the issue of sums out of the Consolidated Fund and the application of income for that year; and to appropriate the supply authorised for that year by this Act and by the Supply and Appropriation (Anticipationand Adjustments) Act 2012.",
+  "summary": "<p>The Bill provides Parliamentary authority for funds requested by the Government. It is part of 'supply procedure', which is how Parliament grants the Government&rsquo;s requests for resources. Proceedings on the Bill are formal: there is no debate and the Bill goes through 'on the nod'.  </p><p>This type of Bill was previously known as the Consolidated Fund (Appropriation) Bill. Following changes to financial reporting to Parliament, brought about by the Alignment project, the Bill is now known as the Supply and Appropriation (Main Estimates) Bill.</p><p><strong>Key areas</strong></p><ul><li>authorises the release of money from the Consolidated Fund which is the Government&rsquo;s bank account</li><li>places limits on the purposes for which the money may be spent.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1414,
+        "name": "Mr Mark Hoban",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1414/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1414/contact",
+        "memberFrom": "Fareham"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4146,
+        "name": "Lord Sassoon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4146/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4146/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1071,
+  "shortTitle": "Supply and Appropriation (Main Estimates) Act 2012",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-11-01T15:38:19",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 5189,
+    "stageId": 11,
+    "sessionId": 25,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4949,
+        "stageId": 11,
+        "billStageId": 5189,
+        "billId": 1071,
+        "date": "2012-07-17T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

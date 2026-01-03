@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit the installation of new pre-payment meters for domestic energy customers before 31 March 2023; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4602,
+        "name": "Wera Hobhouse",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4602/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4602/contact",
+        "memberFrom": "Bath"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3390,
+  "shortTitle": "Pre-Payment Meters (Temporary Prohibition) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T15:01:24.5611348",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17223,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14038,
+        "stageId": 6,
+        "billStageId": 17223,
+        "billId": 3390,
+        "date": "2022-12-07T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to re-establish the Office of Health Improvement and Disparities as the Office of Health Promotion; to establish a National Plan for Sport to coordinate, support and maintain access to sporting and recreational facilities essential to public health; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3453,
+        "name": "Lord Addington",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3453/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3453/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3180,
+  "shortTitle": "Health Promotion Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-10-31T14:32:10.3708808",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16535,
+    "stageId": 2,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 13892,
+        "stageId": 2,
+        "billStageId": 16535,
+        "billId": 3180,
+        "date": "2022-12-02T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

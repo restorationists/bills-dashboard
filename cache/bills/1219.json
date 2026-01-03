@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require disclosure of various financial information by large companies; to provide for disclosure of beneficial ownership; to require banks to disclose to Her Majesty’s Revenue and Customs the identity of certain companies holding bank accounts; to require the publication of the tax returns of individuals with an income of more than a certain level and the largest two hundred and fifty UK companies; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 454,
+        "name": "Mr Michael Meacher",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/454/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/454/contact",
+        "memberFrom": "Oldham West and Royton"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1219,
+  "shortTitle": "United Kingdom Corporate and Individual Tax and Financial Transparency Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-05-15T16:47:43",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 6060,
+    "stageId": 7,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 5708,
+        "stageId": 7,
+        "billStageId": 6060,
+        "billId": 1219,
+        "date": "2013-09-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

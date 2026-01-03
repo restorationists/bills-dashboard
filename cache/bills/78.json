@@ -1,0 +1,56 @@
+{
+  "longTitle": "To make provision for the establishment of a compulsory registration scheme for off-road vehicles; and forconnected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 449,
+        "name": "Graham Stringer",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/449/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/449/contact",
+        "memberFrom": "Manchester, Blackley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 78,
+  "shortTitle": "Off-Road Vehicles (Registration) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-10-25T20:10:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 366,
+    "stageId": 15,
+    "sessionId": 20,
+    "description": "Money resolution",
+    "abbreviation": "MR",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 227,
+        "stageId": 15,
+        "billStageId": 366,
+        "billId": 78,
+        "date": "2007-06-26T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

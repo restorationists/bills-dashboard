@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to exclude requirements relating to National Health Services procurement, delivery or commissioning from international trade agreements; to require the consent of the House of Commons and the devolved legislatures to international trade agreements insofar as they relate to the National Health Services of England, Scotland and Wales and Health and Social Care in Northern Ireland; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5280,
+        "name": "Seamus Logan",
+        "party": "Scottish National Party",
+        "partyColour": "fff685",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5280/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5280/contact",
+        "memberFrom": "Aberdeenshire North and Moray East"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3826,
+  "shortTitle": "Trade Agreements (Exclusion of National Health Services) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-21T11:19:35.7420507",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19134,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17550,
+        "stageId": 7,
+        "billStageId": 19134,
+        "billId": 3826,
+        "date": "2026-05-15T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "longTitle": "A Bill to make provision for the pardoning, or otherwise setting aside, of cautions and convictions for specified sexual offences that have now been abolished; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4415,
+        "name": "John Nicolson",
+        "party": "Scottish National Party",
+        "partyColour": "fff685",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4415/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4415/contact",
+        "memberFrom": "East Dunbartonshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1836,
+  "shortTitle": "Sexual Offences (Pardons Etc.) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-05-03T10:49:11",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 8787,
+    "stageId": 7,
+    "sessionId": 29,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 8160,
+        "stageId": 7,
+        "billStageId": 8787,
+        "billId": 1836,
+        "date": "2016-10-21T00:00:00"
+      },
+      {
+        "id": 8393,
+        "stageId": 7,
+        "billStageId": 8787,
+        "billId": 1836,
+        "date": "2017-01-20T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

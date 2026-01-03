@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to provide finance for payments in cases where persons have been adversely affected by maladministration in the regulation before December 2001 of the Equitable Life Assurance Society; and for connected purposes.",
+  "summary": "The Bill provides the authority for a payments scheme for eligible former and current Equitable Life policyholders in respect of the consequences of maladministration by regulatory bodies as identified by the Ombudsman and accepted by government. Although the precise shape of the payments scheme is as yet unknown, the Bill provides the authority for money to be paid once the scheme is set up and clarifies the tax treatment of future payments.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1414,
+        "name": "Mr Mark Hoban",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1414/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1414/contact",
+        "memberFrom": "Fareham"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4146,
+        "name": "Lord Sassoon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4146/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4146/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 665,
+  "shortTitle": "Equitable Life (Payments) Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2011-10-27T16:23:21",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3974,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3594,
+        "stageId": 11,
+        "billStageId": 3974,
+        "billId": 665,
+        "date": "2010-12-16T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

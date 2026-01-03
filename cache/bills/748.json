@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision for a referendum on the voting system for parliamentary elections and to provide for parliamentary elections to be held under the alternative vote system if a majority of those voting in the referendum are in favour of that; to make provision about the number and size of parliamentary constituencies; and for connected purposes.",
+  "summary": "<p>The Bill provides for the next General Election to be held under the Alternative Vote system, provided this change is endorsed in a referendum on 5 May 2011 and boundary changes have been made to reduce the size of the House of Commons to 600.</p><p>The Bill also creates new rules for the redistribution of seats which will require 600 constituencies in the Commons rather than the current 650. The rules will give priority to numerical equality as a principle, in that there will be a uniform electoral quota for the UK, and seats may not vary by more than 5 per cent from the quota, with some limited exceptions. Regular redistributions would take place every five years. The Parliamentary Boundary Commissions are to conduct a review by the end of September 2013 with subsequent reviews every five years.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1563,
+        "name": "Mr Nick Clegg",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1563/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1563/contact",
+        "memberFrom": "Sheffield, Hallam"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 919,
+        "name": "Lord McNally",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/919/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/919/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 748,
+  "shortTitle": "Parliamentary Voting System and Constituencies Act 2011",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2011-11-10T15:08:12",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4097,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3819,
+        "stageId": 11,
+        "billStageId": 4097,
+        "billId": 748,
+        "date": "2011-02-16T00:04:00"
+      }
+    ],
+    "sortOrder": 23
+  }
+}

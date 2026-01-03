@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Town and Country Planning Act 1990 to enable local authorities in England to determine the fees to be paid in respect of applications and deemed applications for planning permission; to require local authorities to set the scale of fees with a view to ensuring that the costs of determining applications can be wholly funded by application fees; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4769,
+        "name": "Daisy Cooper",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4769/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4769/contact",
+        "memberFrom": "St Albans"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3372,
+  "shortTitle": "Planning Application Fees Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T14:54:05.700681",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17125,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13928,
+        "stageId": 6,
+        "billStageId": 17125,
+        "billId": 3372,
+        "date": "2022-11-16T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

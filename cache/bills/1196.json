@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to re-establish the Secretary of State's legal duty as to the National Health Service in England, Quangos and related bodies",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 992,
+        "name": "Lord Owen",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/992/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/992/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1196,
+  "shortTitle": "National Health Service (Amended Duties and Powers) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-05-17T09:39:24",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13992,
+    "stageId": 2,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

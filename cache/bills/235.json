@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide for the equal treatment of Forces widows' pensions in respect of retirement from military service for the periods before 1973 and between 1973 and 2005; and for connected purposes",
+  "summary": "<p>Until 1973, the widow of a retired serviceman was entitled to a pension equal to one third of the pension their spouse had earned.</p><p>In 1973, a number of improvements to the Armed Forces Pension Scheme were introduced, one of which was to increase the service widow&rsquo;s pensions to half the spouse&rsquo;s rate of pension. However, this improvement applied only to that part of the spouse&rsquo;s pension earned by service on or after 31 March 1973.<br><br><strong>Key areas<br></strong></p><ul><li>The Bill would provide for armed forces pensions to be paid to surviving spouses and civil partners of deceased armed forces personnel who retired from service:</li></ul><p>    (a) before 31 March 1973 and<br>    (b) between 31 March 1973 and 6 April 2005<br>    to be calculated and paid on the same basis.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 49,
+        "name": "Mr Michael Mates",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/49/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/49/contact",
+        "memberFrom": "East Hampshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 235,
+  "shortTitle": "Forces Widows' Pensions (Equality of Treatment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-10-30T19:01:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 1178,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 1075,
+        "stageId": 7,
+        "billStageId": 1178,
+        "billId": 235,
+        "date": "2008-02-01T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

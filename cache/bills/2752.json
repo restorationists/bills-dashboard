@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to create the offence of desecrating a war memorial; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4814,
+        "name": "Jonathan Gullis",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4814/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4814/contact",
+        "memberFrom": "Stoke-on-Trent North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2752,
+  "shortTitle": "Desecration of War Memorials Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-03-24T10:16:06.5636386",
+  "billWithdrawn": "2021-03-23T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12241,
+    "stageId": 6,
+    "sessionId": 35,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 11118,
+        "stageId": 6,
+        "billStageId": 12241,
+        "billId": 2752,
+        "date": "2020-06-23T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

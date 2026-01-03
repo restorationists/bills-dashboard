@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to create an offence of unauthorised entry at football matches for which a football banning order can be imposed following conviction.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1400,
+        "name": "Kevin Brennan",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1400/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1400/contact",
+        "memberFrom": "Cardiff West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3556,
+  "shortTitle": "Unauthorised Entry to Football Matches Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-09-23T14:36:26.2768432",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18536,
+    "stageId": 8,
+    "sessionId": 38,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15794,
+        "stageId": 8,
+        "billStageId": 18536,
+        "billId": 3556,
+        "date": "2024-05-08T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision to facilitate an increase in the registration of voters resident overseas who are eligible to participate in United Kingdom Parliamentary elections; to extend the criteria for eligibility to register as an overseas voter; to enable those registered as overseas voters to cast their votes through use of the internet; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 242,
+        "name": "Mr Christopher Chope",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/242/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/242/contact",
+        "memberFrom": "Christchurch"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1669,
+  "shortTitle": "Overseas Voters Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-03-04T11:19:15",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 7917,
+    "stageId": 7,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 7409,
+        "stageId": 7,
+        "billStageId": 7917,
+        "billId": 1669,
+        "date": "2016-02-26T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

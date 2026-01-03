@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision for ensuring the secrecy of ballots cast in polling stations at elections; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 863,
+        "name": "Lord Hayward",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/863/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/863/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4792,
+        "name": "Paul Bristow",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4792/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4792/contact",
+        "memberFrom": "Peterborough"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3172,
+  "shortTitle": "Ballot Secrecy Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-05-03T09:06:06.5972483",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17576,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14541,
+        "stageId": 11,
+        "billStageId": 17576,
+        "billId": 3172,
+        "date": "2023-05-02T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

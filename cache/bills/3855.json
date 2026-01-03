@@ -1,0 +1,63 @@
+{
+  "longTitle": "A Bill to require the Government to conduct a review of every Arm’s-Length Body in existence on 4 July 2024 and to publish the results of those reviews within four years; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 242,
+        "name": "Sir Christopher Chope",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/242/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/242/contact",
+        "memberFrom": "Christchurch"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3855,
+  "shortTitle": "Arm’s-Length Bodies (Review) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-07-07T16:09:17.0050362",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19195,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16277,
+        "stageId": 7,
+        "billStageId": 19195,
+        "billId": 3855,
+        "date": "2025-03-14T00:00:00"
+      },
+      {
+        "id": 16837,
+        "stageId": 7,
+        "billStageId": 19195,
+        "billId": 3855,
+        "date": "2026-03-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

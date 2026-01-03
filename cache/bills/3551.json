@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to require operator licences authorising the carrying out of spaceflight activities to specify the licensee's indemnity limit.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4090,
+        "name": "Mr Jonathan Lord",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4090/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4090/contact",
+        "memberFrom": "Woking"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3474,
+        "name": "Baroness Anelay of St Johns",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3474/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3474/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3551,
+  "shortTitle": "Space Industry (Indemnities) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-05-29T11:27:21.9698453",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18808,
+    "stageId": 1,
+    "sessionId": 38,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15890,
+        "stageId": 1,
+        "billStageId": 18808,
+        "billId": 3551,
+        "date": "2024-05-20T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "longTitle": "To amend the Arbitration Act 1996.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4941,
+        "name": "Lord Bellamy",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4941/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4941/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3515,
+  "shortTitle": "Arbitration Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2024-05-29T11:35:28.2840183",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18428,
+    "stageId": 46,
+    "sessionId": 38,
+    "description": "Lords Special Public Bill Committee",
+    "abbreviation": "LSPBC",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15655,
+        "stageId": 46,
+        "billStageId": 18428,
+        "billId": 3515,
+        "date": "2024-03-27T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

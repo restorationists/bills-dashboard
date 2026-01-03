@@ -1,0 +1,63 @@
+{
+  "longTitle": "A Bill to make provision about the keeping and maintenance of registers of births and deaths; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4818,
+        "name": "Saqib Bhatti",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4818/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4818/contact",
+        "memberFrom": "Meriden"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2916,
+  "shortTitle": "Registers of Births and Deaths Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-04T16:56:30.8674694",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15398,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 11923,
+        "stageId": 7,
+        "billStageId": 15398,
+        "billId": 2916,
+        "date": "2021-11-26T00:00:00"
+      },
+      {
+        "id": 12530,
+        "stageId": 7,
+        "billStageId": 15398,
+        "billId": 2916,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

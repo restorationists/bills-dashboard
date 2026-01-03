@@ -1,0 +1,56 @@
+{
+  "longTitle": null,
+  "summary": "A Bill to make further provision about arbitration and mediation services and the application of equality legislation to such services; to make provision about the protection of victims of domestic abuse; and for connected purposes.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3364,
+        "name": "Baroness Cox",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3364/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3364/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 990,
+  "shortTitle": "Arbitration and Mediation Services (Equality) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-04-30T10:59:46",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 5202,
+    "stageId": 2,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 4918,
+        "stageId": 2,
+        "billStageId": 5202,
+        "billId": 990,
+        "date": "2012-10-19T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

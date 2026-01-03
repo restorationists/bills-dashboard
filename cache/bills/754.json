@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about the administration and governance of police forces; about the licensing of, and for the imposition of a late night levy in relation to, the sale and supply of alcohol; for the repeal of sections 132 to 138 of the Serious Organised Crime and Police Act 2005 and for the prohibition of certain activities in Parliament Square; to enable provision in local authority byelaws to include powers of seizure and forfeiture; about the control of dangerous or otherwise harmful drugs; to restrict the issue of arrest warrants for certain extra-territorial offences; and for connected purposes.",
+  "summary": "<p>The Bill covers five distinct policy areas: police accountability and governance; alcohol licensing; the regulation of protests around Parliament Square; misuse of drugs; and the issue of arrest warrants in respect of private prosecutions for universal jurisdiction offences.</p><p><strong>Key areas</strong></p><ul><li>replaces police authorities with directly elected Police and Crime Commissioners, with the aim of improving police accountability</li><li>amends and supplements the Licensing Act 2003 with the intention of &lsquo;rebalancing&rsquo; it in favour of local authorities, the police and local communities</li><li>sets out a new framework for regulating protests around Parliament Square. Relevant sections of the Serious Organised Crime and Police Act 2005 would be repealed and the police would be given new powers to prevent encampments and the use of amplified noise equipment</li><li>enables the Home Secretary to temporarily ban drugs for up to a year, and removes the statutory requirement for the Advisory Council on the Misuse of Drugs to include members with experience in specified activities</li><li>introduces a new requirement for private prosecutors to obtain the consent of the Director of Public Prosecutions prior to the issue of an arrest warrant for &lsquo;universal jurisdiction&rsquo; offences such as war crimes or torture. The Government's aim in introducing this change is to prevent the courts being used for political purposes.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 8,
+        "name": "Mrs Theresa May",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/8/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/8/contact",
+        "memberFrom": "Maidenhead"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 236,
+        "name": "Baroness Browning",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/236/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/236/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 754,
+  "shortTitle": "Police Reform and Social Responsibility Act 2011",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2011-11-10T15:26:28",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4484,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4213,
+        "stageId": 11,
+        "billStageId": 4484,
+        "billId": 754,
+        "date": "2011-09-15T00:00:00"
+      }
+    ],
+    "sortOrder": 17
+  }
+}

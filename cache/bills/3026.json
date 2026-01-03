@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require dog keepers to register a dog’s DNA on a database; to make provision about such databases and about the information held on them; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4874,
+        "name": "Andrew Griffith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4874/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4874/contact",
+        "memberFrom": "Arundel and South Downs"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3026,
+  "shortTitle": "Dogs (DNA Databases) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-02-08T15:42:57.1535223",
+  "billWithdrawn": "2022-02-07T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15641,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12173,
+        "stageId": 7,
+        "billStageId": 15641,
+        "billId": 3026,
+        "date": "2022-03-18T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

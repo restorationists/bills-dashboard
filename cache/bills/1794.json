@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the resolution of disputes concerning the location or placement of the boundaries and private rights of way relating to the title of an estate in land; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1864,
+        "name": "The Earl of Lytton",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1864/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1864/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1794,
+  "shortTitle": "Property Boundaries (Resolution of Disputes) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2017-05-02T14:13:49",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 8681,
+    "stageId": 2,
+    "sessionId": 29,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 8115,
+        "stageId": 2,
+        "billStageId": 8681,
+        "billId": 1794,
+        "date": "2016-12-09T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

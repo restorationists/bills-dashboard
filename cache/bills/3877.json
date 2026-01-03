@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to create an offence of possessing a blueprint for the production of a firearm by 3D printing; to create an offence of possessing part of a firearm produced by 3D printing; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4603,
+        "name": "Preet Kaur Gill",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4603/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4603/contact",
+        "memberFrom": "Birmingham Edgbaston"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3877,
+  "shortTitle": "Firearms (3D Printing) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-26T13:34:38.0341593",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19238,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16319,
+        "stageId": 7,
+        "billStageId": 19238,
+        "billId": 3877,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

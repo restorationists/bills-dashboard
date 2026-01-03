@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision for the holding of a referendum in the United Kingdom and Gibraltar on whether the United Kingdom should accept the outcome of negotiations between the Government and the European Union regarding the United Kingdom’s exit from the European Union",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1867,
+        "name": "Baroness Ludford",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1867/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1867/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2040,
+  "shortTitle": "European Union (Referendum on the Withdrawal Agreement) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-03-22T13:16:50",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11099,
+    "stageId": 2,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

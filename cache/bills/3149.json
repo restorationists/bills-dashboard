@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require Ministers of the Crown to disclose their tax residency status and that of members of their household, and to disclose whether they and members of their household are beneficiaries of trusts held abroad; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4634,
+        "name": "Christine Jardine",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4634/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4634/contact",
+        "memberFrom": "Edinburgh West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3149,
+  "shortTitle": "Ministers (Tax Residency Status and Trusts) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-03T14:30:11.1444581",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16440,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13134,
+        "stageId": 7,
+        "billStageId": 16440,
+        "billId": 3149,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

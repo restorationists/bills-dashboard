@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to promote continued membership of the Open Skies Agreement.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4230,
+        "name": "Baroness Randerson",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4230/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4230/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2010,
+  "shortTitle": "Open Skies Agreement (Membership) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-09-12T11:21:46",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9586,
+    "stageId": 2,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 8898,
+        "stageId": 2,
+        "billStageId": 9586,
+        "billId": 2010,
+        "date": "2018-01-26T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

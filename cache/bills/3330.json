@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to place a duty on the Government to ensure that every town with a population of more than 10,000 people has a regular bus service operating seven days a week, and that local health services, including hospitals and GP surgeries, are served by those buses; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4934,
+        "name": "Helen Morgan",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4934/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4934/contact",
+        "memberFrom": "North Shropshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3330,
+  "shortTitle": "Bus Services Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-31T12:17:22.1624985",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16920,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13653,
+        "stageId": 6,
+        "billStageId": 16920,
+        "billId": 3330,
+        "date": "2022-07-20T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

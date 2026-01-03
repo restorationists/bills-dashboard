@@ -1,0 +1,51 @@
+{
+  "longTitle": "A Bill to Amend section 8(5) of the Industrial Development Act 1982 and section 6 of the Export and Investment Guarantees Act 1991.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4505,
+        "name": "Peter Kyle",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4505/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4505/contact",
+        "memberFrom": "Hove and Portslade"
+      },
+      "organisation": {
+        "name": "Department for Business and Trade ",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4034,
+  "shortTitle": "Industry and Exports (Financial Assistance) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-16T12:49:40.1909197",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20383,
+    "stageId": 49,
+    "sessionId": 39,
+    "description": "Committee of the whole House",
+    "abbreviation": "COTWH",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 5
+  }
+}

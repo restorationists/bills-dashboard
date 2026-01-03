@@ -1,0 +1,80 @@
+{
+  "longTitle": "A Bill to make provision about prisons; make provision about practice and procedure in courts and tribunals, organisation of courts and tribunals, functions of the judiciary and of courts and tribunals and their staff, appointment and deployment of the judiciary, and functions of the Judicial Appointments Commission; and make provision about whiplash claims.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4097,
+        "name": "Elizabeth Truss",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4097/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4097/contact",
+        "memberFrom": "South West Norfolk"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1962,
+  "shortTitle": "Prisons and Courts Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2017-04-20T16:23:09",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9435,
+    "stageId": 8,
+    "sessionId": 29,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 8738,
+        "stageId": 8,
+        "billStageId": 9435,
+        "billId": 1962,
+        "date": "2017-03-28T00:00:00"
+      },
+      {
+        "id": 8739,
+        "stageId": 8,
+        "billStageId": 9435,
+        "billId": 1962,
+        "date": "2017-03-29T00:00:00"
+      },
+      {
+        "id": 8818,
+        "stageId": 8,
+        "billStageId": 9435,
+        "billId": 1962,
+        "date": "2017-04-18T00:00:00"
+      },
+      {
+        "id": 8819,
+        "stageId": 8,
+        "billStageId": 9435,
+        "billId": 1962,
+        "date": "2017-04-20T00:00:00"
+      }
+    ],
+    "sortOrder": 6
+  }
+}

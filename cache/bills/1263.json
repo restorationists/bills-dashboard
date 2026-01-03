@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to establish a public register of organisations and individuals that carry out lobbying of Parliament, the Government and local authorities for financial gain; to introduce a code of conduct for those on the register; to introduce sanctions for non-registration and non-compliance with the code of conduct; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3962,
+        "name": "Thomas Docherty",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3962/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3962/contact",
+        "memberFrom": "Dunfermline and West Fife"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1263,
+  "shortTitle": "Lobbyists (Registration of Code of Conduct) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-05-15T14:47:18",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14057,
+    "stageId": 7,
+    "sessionId": 26,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

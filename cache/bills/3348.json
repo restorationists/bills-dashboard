@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to establish an Energy Equity Commission to prepare a strategy for the UK Government to help manage energy costs for households, businesses, non-profit organisations and public services by ending fossil fuel dependence; to require the Commission to set equalities and environmental objectives to be met by the UK Government in implementing the strategy; to require the Commission to make recommendations on replacing the price cap system with a free Universal Basic Energy Allowance and an associated social tariff for retail energy, on an energy allowance in Universal Credit and legacy benefits, on writing off household energy debt, on the remit and objectives of Ofgem, and on how the UK Government should meet the costs of the measures recommended by the Commission; to require the Commission to prepare a Retrofitting Strategy for the Nations, including proposals for a street-by-street retrofit programme led by devolved administrations and local authorities, for financial support for improving energy efficiency, for how to target households, businesses, not-for-profit organisations and public services most in need of support, for any changes required to Minimum Energy Efficiency Standards and Future Buildings Standards, for addressing workforce and training needs, and proposals on how the UK Government should meet the costs of these measures; to require the UK Government to implement the strategy and recommendations of the Energy Equity Commission within a specified timeframe; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4500,
+        "name": "Clive Lewis",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4500/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4500/contact",
+        "memberFrom": "Norwich South"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3348,
+  "shortTitle": "Energy Equity Commission Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-01T12:59:48.8515761",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17004,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13784,
+        "stageId": 6,
+        "billStageId": 17004,
+        "billId": 3348,
+        "date": "2022-10-18T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

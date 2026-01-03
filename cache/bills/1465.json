@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the restriction or regulation of traffic on roads in connection with filming; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4015,
+        "name": "Iain Stewart",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4015/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4015/contact",
+        "memberFrom": "Milton Keynes South"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1465,
+  "shortTitle": "Road Traffic Regulation (Temporary Closure for Filming) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-03-30T15:22:37",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 7053,
+    "stageId": 7,
+    "sessionId": 27,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 6625,
+        "stageId": 7,
+        "billStageId": 7053,
+        "billId": 1465,
+        "date": "2014-11-07T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

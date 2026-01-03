@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision for passenger railway services to be provided by public sector companies instead of by means of franchises.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4473,
+        "name": "Louise Haigh",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4473/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4473/contact",
+        "memberFrom": "Sheffield Heeley"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4972,
+        "name": "Lord Hendy of Richmond Hill",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4972/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4972/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Transport",
+        "url": "https://www.gov.uk/government/organisations/department-for-transport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3732,
+  "shortTitle": "Passenger Railway Services (Public Ownership) Act 2024",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-11-29T08:28:50.1594523",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 19312,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 16411,
+        "stageId": 11,
+        "billStageId": 19312,
+        "billId": 3732,
+        "date": "2024-11-28T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

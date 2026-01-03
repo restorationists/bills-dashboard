@@ -1,0 +1,48 @@
+{
+  "longTitle": "To place certain requirements relating to payment of tax in the UK on companies bidding for public contracts; to prohibit the transfer of such contracts overseas; to require companies bidding for public contracts to provide certain information relating to tax payments and for related purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1541,
+        "name": "Nia Griffith",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1541/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1541/contact",
+        "memberFrom": "Llanelli"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 329,
+  "shortTitle": "Public Contracts (UK Tax Requirements) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-10-16T17:35:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13220,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

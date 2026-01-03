@@ -1,0 +1,68 @@
+{
+  "longTitle": "A Bill to remove the remaining connection between hereditary peerage and membership of the House of Lords; to make provision about resignation from the House of Lords; to abolish the jurisdiction of the House of Lords in relation to claims to hereditary peerages; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1587,
+        "name": "Pat McFadden",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1587/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1587/contact",
+        "memberFrom": "Wolverhampton South East"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4170,
+        "name": "Baroness Smith of Basildon",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4170/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4170/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3755,
+  "shortTitle": "House of Lords (Hereditary Peers) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-09-30T10:27:18.6945832",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20179,
+    "stageId": 13,
+    "sessionId": 39,
+    "description": "Consideration of Commons amendments and / or reasons",
+    "abbreviation": "COCAA/OR",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 12
+  }
+}

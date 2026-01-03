@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to Amend the Proceeds of Crime Act 2002, the Computer Misuse Act 1990, Part 4 of the Policing and Crime Act 2009, section 1 of the Children and Young Persons Act 1933, the Female Genital Mutilation Act 2003, the Prohibition of Female Genital Mutilation (Scotland) Act 2005 and the Terrorism Act 2006; to make provision about involvement in organised crime groups and about serious crime prevention orders; to make provision for the seizure and forfeiture of drug-cutting agents; to create an offence of communicating sexually with a child; to make it an offence to possess an item that contains advice or guidance about committing sexual offences against children; to create an offence in relation to controlling or coercive behaviour in intimate or family relationships; to make it an offence to possess a knife or offensive weapon inside a prison; to make provision for the prevention or restriction of the use of communication devices by persons detained in custodial institutions; to make provision approving for the purposes of section 8 of the European Union Act 2011 certain draft decisions under Article 352 of the Treaty on the Functioning of the European Union relating to serious crime; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3787,
+        "name": "Lord Taylor of Holbeach",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3787/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3787/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 8,
+        "name": "Mrs Theresa May",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/8/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/8/contact",
+        "memberFrom": "Maidenhead"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1376,
+  "shortTitle": "Serious Crime Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2015-03-11T11:05:19",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 27,
+  "includedSessionIds": [
+    27
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7613,
+    "stageId": 11,
+    "sessionId": 27,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7081,
+        "stageId": 11,
+        "billStageId": 7613,
+        "billId": 1376,
+        "date": "2015-03-03T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the Government to undertake a review of the adequacy of local welfare assistance schemes provided by local authorities.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3926,
+        "name": "Paul Maynard",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3926/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3926/contact",
+        "memberFrom": "Blackpool North and Cleveleys"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2825,
+  "shortTitle": "Local Welfare Assistance Provision (Review) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-05T14:23:14.0394971",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12703,
+    "stageId": 7,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

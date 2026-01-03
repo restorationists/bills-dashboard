@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit the use of affirmative and positive action in recruitment and appointment processes; to repeal the Sex Discrimination (Election Candidates) Act 2002; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1565,
+        "name": "Philip Davies",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1565/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1565/contact",
+        "memberFrom": "Shipley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 769,
+  "shortTitle": "Equality and Diversity (Reform) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2011-10-24T09:43:43",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 3793,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 3548,
+        "stageId": 7,
+        "billStageId": 3793,
+        "billId": 769,
+        "date": "2011-10-21T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

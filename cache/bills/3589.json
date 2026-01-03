@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision in connection with the ratification by the United Kingdom of the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas beyond National Jurisdiction.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4451,
+        "name": "Kevin Foster",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4451/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4451/contact",
+        "memberFrom": "Torbay"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3589,
+  "shortTitle": "Conservation and Sustainable Use of Marine Biological Diversity (Ratification of Treaty) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-02-12T15:43:13.8185438",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19581,
+    "stageId": 7,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

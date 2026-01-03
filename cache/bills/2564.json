@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to amend the Matrimonial Causes Act 1973 and make provision in connection with financial settlements following divorce",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4198,
+        "name": "Baroness Shackleton of Belgravia",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4198/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4198/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2564,
+  "shortTitle": "Divorce (Financial Provision) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2021-05-05T11:54:09.7197722",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11685,
+    "stageId": 2,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

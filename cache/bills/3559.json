@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require offenders serving community and certain other sentences to provide information about names used and contact details.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4716,
+        "name": "Ruth Jones",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4716/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4716/contact",
+        "memberFrom": "Newport West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3559,
+  "shortTitle": "Community and Suspended Sentences (Notification of Details) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-09-23T14:53:06.3572754",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18538,
+    "stageId": 8,
+    "sessionId": 38,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15833,
+        "stageId": 8,
+        "billStageId": 18538,
+        "billId": 3559,
+        "date": "2024-05-15T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

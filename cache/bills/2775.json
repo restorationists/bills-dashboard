@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision in connection with the internal market for goods and services in the United Kingdom (including provision about the recognition of professional and other qualifications); to make provision in connection with provisions of the Northern Ireland Protocol relating to trade and state aid; to authorise the provision of financial assistance by Ministers of the Crown in connection with economic development, infrastructure, culture, sport and educational or training activities and exchanges; to make regulation of the provision of distortive or harmful subsidies a reserved or excepted matter; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4014,
+        "name": "Alok Sharma",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4014/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4014/contact",
+        "memberFrom": "Reading West"
+      },
+      "organisation": {
+        "name": "Department for Business, Energy and Industrial Strategy",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4336,
+        "name": "Lord Callanan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4336/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business, Energy and Industrial Strategy",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2775,
+  "shortTitle": "United Kingdom Internal Market Act 2020",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2020-12-18T08:45:55",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 12639,
+    "stageId": 11,
+    "sessionId": 35,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 11444,
+        "stageId": 11,
+        "billStageId": 12639,
+        "billId": 2775,
+        "date": "2020-12-17T00:00:00"
+      }
+    ],
+    "sortOrder": 22
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to ensure that domestic properties have a minimum energy performance rating of C on an Energy Performance Certificate; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 44,
+        "name": "Sir David Amess",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/44/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/44/contact",
+        "memberFrom": "Southend West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2207,
+  "shortTitle": "Domestic Properties (Minimum Energy Performance) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2018-06-22T12:03:35",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 10200,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 9444,
+        "stageId": 7,
+        "billStageId": 10200,
+        "billId": 2207,
+        "date": "2018-06-15T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

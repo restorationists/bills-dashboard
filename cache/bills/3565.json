@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to report to Parliament on the merits of providing financial support for parents of children receiving care in hospital for extended periods.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 69,
+        "name": "Sir Oliver Heald",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/69/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/69/contact",
+        "memberFrom": "North East Hertfordshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3565,
+  "shortTitle": "Children in Hospital for Extended Periods (Report to Parliament) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-05-31T14:09:52.9573339",
+  "billWithdrawn": "2024-01-19T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18189,
+    "stageId": 7,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15174,
+        "stageId": 7,
+        "billStageId": 18189,
+        "billId": 3565,
+        "date": "2024-01-19T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

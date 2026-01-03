@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to amend the Abortion Act 1967 to exclude cleft lip, cleft palate and clubfoot as qualifying physical abnormalities for the purposes of medical termination of pregnancy under section 1(1)(d).",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3958,
+        "name": "Fiona Bruce",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3958/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3958/contact",
+        "memberFrom": "Congleton"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2743,
+  "shortTitle": "Abortion (Cleft Lip, Cleft Palate and Clubfoot) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-04T10:55:22.6940381",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12196,
+    "stageId": 7,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

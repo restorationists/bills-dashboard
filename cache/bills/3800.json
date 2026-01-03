@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require providers of electronic communications networks to grant other such providers access to their apparatus where that is necessary to ensure consistent network coverage; to prevent those providers from charging more than the standard market rate for such access; to require the regulator to impose penalties on providers who unreasonably fail to grant such access; to make provision for the purpose of incentivising providers to allow customers of other providers to use their networks where access cannot be granted to their apparatus; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4934,
+        "name": "Helen Morgan",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4934/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4934/contact",
+        "memberFrom": "North Shropshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3800,
+  "shortTitle": "Access to Telecommunications Networks Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-07-11T15:53:15.5596056",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19075,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17149,
+        "stageId": 7,
+        "billStageId": 19075,
+        "billId": 3800,
+        "date": "2025-07-11T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

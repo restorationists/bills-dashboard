@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision in relation to introducing an international element and greater course choice in higher education and research in the United Kingdom; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2735,
+        "name": "The Earl of Dundee",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2735/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2735/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3493,
+  "shortTitle": "International Higher Education and Research Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2023-10-31T14:27:02.0676339",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17904,
+    "stageId": 1,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 14884,
+        "stageId": 1,
+        "billStageId": 17904,
+        "billId": 3493,
+        "date": "2023-07-24T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

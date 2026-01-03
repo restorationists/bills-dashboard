@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require His Majesty’s Government to recognise formally the Republic of Somaliland; to make provision in connection with the establishing of diplomatic relations with the Republic of Somaliland; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4108,
+        "name": "Sir Gavin Williamson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4108/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4108/contact",
+        "memberFrom": "South Staffordshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3485,
+  "shortTitle": "Republic of Somaliland (Recognition) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T16:15:25.3822599",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17841,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14812,
+        "stageId": 6,
+        "billStageId": 17841,
+        "billId": 3485,
+        "date": "2023-07-04T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

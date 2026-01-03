@@ -1,0 +1,48 @@
+{
+  "longTitle": "To establish a bank holiday to celebrate the contribution of Polish citizens to Great Britain since 1940",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1566,
+        "name": "Daniel Kawczynski",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1566/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1566/contact",
+        "memberFrom": "Shrewsbury and Atcham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 317,
+  "shortTitle": "Bank Holiday (Contribution of Polish Citizens) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-10-16T17:32:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13209,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to set up a Citizens' Convention for the purposes of establishing minimum standards of ethics for Members of Parliament and for promoting the involvement of citizens in political decision making; and for connected purposes.",
+  "summary": "<p>The Bill would require the Electoral Commission to establish a Citizens' Convention of no fewer than 100 randomly selected people, subject to a requirement that the membership of the Convention should reflect the composition of the electorate in the United Kingdom. The Convention would make recommendations on:</p><ul><li>the system of allowances and expenses payable to Members of Parliament</li><li>the system or systems of election to each House of Parliament</li><li>the means by which electors may hold to account Members, including any mechanism for the recall or disqualification of Members</li><li>the way business is conducted in both Houses of Parliament</li><li>the funding of political parties.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 566,
+        "name": "Mr Martin Caton",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/566/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/566/contact",
+        "memberFrom": "Gower"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 488,
+  "shortTitle": "Citizens' Convention (Accountability and Ethics) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-10-23T16:11:58",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13356,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

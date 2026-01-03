@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the keeping and maintenance of registers of births and deaths; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1211,
+        "name": "Mr Andrew Mitchell",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1211/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1211/contact",
+        "memberFrom": "Sutton Coldfield"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2634,
+  "shortTitle": "Registers of Births and Deaths Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-05T16:42:45.3722156",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12687,
+    "stageId": 9,
+    "sessionId": 35,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 11589,
+        "stageId": 9,
+        "billStageId": 12687,
+        "billId": 2634,
+        "date": "2021-03-12T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

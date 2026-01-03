@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to create offences of dog abduction and cat abduction and to confer a power to make corresponding provision relating to the abduction of other animals commonly kept as pets.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4936,
+        "name": "Anna Firth",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4936/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4936/contact",
+        "memberFrom": "Southend West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4171,
+        "name": "Lord Black of Brentwood",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4171/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4171/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3549,
+  "shortTitle": "Pet Abduction Act 2024",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-05-31T14:08:12.1199126",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 18845,
+    "stageId": 11,
+    "sessionId": 38,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 15940,
+        "stageId": 11,
+        "billStageId": 18845,
+        "billId": 3549,
+        "date": "2024-05-24T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

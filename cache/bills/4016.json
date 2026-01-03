@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision for and in connection with the implementation by the United Kingdom of the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 420,
+        "name": "Yvette Cooper",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/420/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/420/contact",
+        "memberFrom": "Pontefract, Castleford and Knottingley"
+      },
+      "organisation": {
+        "name": "Foreign, Commonwealth and Development Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3972,
+        "name": "Baroness Chapman of Darlington",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3972/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3972/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Foreign, Commonwealth and Development Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4016,
+  "shortTitle": "Biodiversity Beyond National Jurisdiction Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-22T18:17:41.7731177",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20363,
+    "stageId": 4,
+    "sessionId": 39,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 17609,
+        "stageId": 4,
+        "billStageId": 20363,
+        "billId": 4016,
+        "date": "2026-01-12T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

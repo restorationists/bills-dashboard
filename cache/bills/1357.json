@@ -1,0 +1,77 @@
+{
+  "longTitle": "To make provision about elections to and membership of the National Assembly for Wales; to make provision about the Welsh Assembly Government; to make provision about the setting by the Assembly of a rate of income tax to be paid by Welsh taxpayers and about the devolution of taxation powers to the Assembly; to make related amendments to Part 4A of the Scotland Act 1998; to make provision about borrowing by the Welsh Ministers; to make miscellaneous amendments in the law relating to Wales; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1502,
+        "name": "Mr David Jones",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1502/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1502/contact",
+        "memberFrom": "Clwyd West"
+      },
+      "organisation": {
+        "name": "Wales Office",
+        "url": "https://www.gov.uk/government/organisations/wales-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4230,
+        "name": "Baroness Randerson",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4230/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4230/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Wales Office",
+        "url": "https://www.gov.uk/government/organisations/wales-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1357,
+  "shortTitle": "Wales Act 2014",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2015-01-06T10:36:34",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26,
+    27
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 7408,
+    "stageId": 11,
+    "sessionId": 27,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 6875,
+        "stageId": 11,
+        "billStageId": 7408,
+        "billId": 1357,
+        "date": "2014-12-17T00:00:00"
+      }
+    ],
+    "sortOrder": 20
+  }
+}

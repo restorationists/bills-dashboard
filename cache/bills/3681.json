@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Ministerial and other Pensions and Salaries Act 1991 in relation to grants to persons ceasing to hold ministerial and other offices; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1536,
+        "name": "Emily Thornberry",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1536/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1536/contact",
+        "memberFrom": "Islington South and Finsbury"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3681,
+  "shortTitle": "Ministerial Severance (Reform) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-06-03T15:50:57.6805697",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18498,
+    "stageId": 7,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15514,
+        "stageId": 7,
+        "billStageId": 18498,
+        "billId": 3681,
+        "date": "2024-02-27T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "Amend section 33 of the Health and Safety at Work etc. Act 1974.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1398,
+        "name": "Mr Wayne David",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1398/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1398/contact",
+        "memberFrom": "Caerphilly"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 108,
+  "shortTitle": "Health and Safety (Offences) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-10-26T09:10:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 516,
+    "stageId": 7,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 374,
+        "stageId": 7,
+        "billStageId": 516,
+        "billId": 108,
+        "date": "2007-04-27T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "Amend the law so as to require traffic authorities to cause traffic signs to be placed on or near roads for the purpose of indicating the location of historic county, town and village boundaries; to require the Ordnance Survey of Great Britain and Northern Ireland to mark the boundaries of the historic counties, towns and villages on its maps; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1447,
+        "name": "Andrew Rosindell",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1447/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1447/contact",
+        "memberFrom": "Romford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 110,
+  "shortTitle": "Historic Counties, Towns and Villages (Traffic Signs and Mapping) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-10-24T15:23:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 518,
+    "stageId": 7,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 393,
+        "stageId": 7,
+        "billStageId": 518,
+        "billId": 110,
+        "date": "2007-06-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

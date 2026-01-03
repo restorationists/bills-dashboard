@@ -1,0 +1,60 @@
+{
+  "longTitle": "A Bill to make provision about the welfare of certain kept animals that are in, imported into, or exported from Great Britain.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3934,
+        "name": "George Eustice",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3934/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3934/contact",
+        "memberFrom": "Camborne and Redruth"
+      },
+      "organisation": {
+        "name": "Department for Environment, Food and Rural Affairs",
+        "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2880,
+  "shortTitle": "Animal Welfare (Kept Animals) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-06-14T17:35:37.5844878",
+  "billWithdrawn": "2023-06-08T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36,
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16466,
+    "stageId": 7,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13157,
+        "stageId": 7,
+        "billStageId": 16466,
+        "billId": 2880,
+        "date": "2022-05-11T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

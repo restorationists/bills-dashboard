@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the whole-life carbon emissions of buildings to be reported; to set limits on embodied carbon emissions in the construction of buildings; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4784,
+        "name": "Duncan Baker",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4784/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4784/contact",
+        "memberFrom": "North Norfolk"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3107,
+  "shortTitle": "Carbon Emissions (Buildings) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-03-15T10:53:02.9365074",
+  "billWithdrawn": "2022-03-14T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16131,
+    "stageId": 6,
+    "sessionId": 36,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12791,
+        "stageId": 6,
+        "billStageId": 16131,
+        "billId": 3107,
+        "date": "2022-02-02T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

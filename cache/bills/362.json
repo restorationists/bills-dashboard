@@ -1,0 +1,59 @@
+{
+  "longTitle": "A Bill to make provision about banking.",
+  "summary": "The Bill establishes for the first time a permanent statutory regime for dealing with failing banks, amends related current legislation and makes new provisions for the governance of the Bank of England.<br><br><strong>Key areas</strong><br><br><ul><li>establishes a permanent special resolution regime, providing the authorities with tools to deal with banks that get into financial difficulties. The regime has three options - transfer to a private sector purchaser, transfer to a bridge bank and transfer to temporary public sector ownership</li><li>creates a new bank insolvency procedure</li><li>provides for a new bank administration procedure for use where there has been a partial transfer of business from a failing bank</li><li>amends the Financial Services and Markets Act 2000 to enable changes to the Financial Services Compensation Scheme to be made, which fall outside the scope of the existing legislation</li><li>formalises the Bank of England&rsquo;s role in the oversight of inter-bank payment systems</li><li>repeals legislation governing the issue of banknotes in Scotland and Northern Ireland, limits their issuance to existing issuers and provides for new reserve requirements</li><li>makes provisions relating to the governance of the Bank of England, including a new statutory financial stability objective and the establishment of a Financial Stability Committee.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3869,
+        "name": "Lord Myners",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3869/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3869/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 362,
+  "shortTitle": "Banking (No. 2) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-02-23T11:37:37",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 1961,
+    "stageId": 2,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 1879,
+        "stageId": 2,
+        "billStageId": 1961,
+        "billId": 362,
+        "date": "2008-12-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

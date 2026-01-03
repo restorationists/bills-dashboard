@@ -1,0 +1,56 @@
+{
+  "longTitle": "To establish a Marine Navigation Aids Commission; to establish an Office of Marine Navigation Aids Regulation; to amend the Merchant Shipping Act 1995; and for connected purposes.",
+  "summary": "<p>The Marine Navigation Aids Bill proposes establishing a Marine Navigation Aids Commission.  The commission would be responsible for the operation and maintenance of shipping navigation aids and for the collection of light dues.  Light dues are the charges payable by ships that enter English, Welsh, Scottish or Northern Irish waters.<br>Lord Berkeley introduced a similar Bill with the same title in the 2008-09 session of Parliament.  The Bill received a first reading on 14 May 2009 but did not progress any further.</p><p><br><strong>Key areas</strong></p><ul><li>The Bill would create the Marine Navigation Aids Commission, funded by the General Lighthouse Fund.</li></ul><ul><li>The Office of Marine Navigation Aids Regulation would be established to regulate the work of the commission.  The office would ensure the commission procures and maintains navigation aids safely and efficiently, would set the charges payable by ships entering English, Welsh, Scottish or Northern Irish Waters, and would administer the General Lighthouse Fund. </li></ul><ul><li>The Secretary of State would be empowered to appoint the members and chief executive of the commission and the chairperson of the Office of Marine Navigation Aids Regulation. </li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3526,
+        "name": "Lord Berkeley",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3526/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3526/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 558,
+  "shortTitle": "Marine Navigation Aids Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2010-04-13T09:45:25",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2874,
+    "stageId": 2,
+    "sessionId": 23,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 2760,
+        "stageId": 2,
+        "billStageId": 2874,
+        "billId": 558,
+        "date": "2010-02-05T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

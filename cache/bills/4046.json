@@ -1,0 +1,51 @@
+{
+  "longTitle": "A Bill to Make provision to amend section 4 of the Social Security Contributions and Benefits Act 1992, and section 4 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, so that amounts of salary sacrificed for employer pensions contributions pursuant to optional remuneration arrangements are liable to national insurance contributions.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4031,
+        "name": "Rachel Reeves",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4031/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4031/contact",
+        "memberFrom": "Leeds West and Pudsey"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4046,
+  "shortTitle": "National Insurance Contributions (Employer Pensions Contributions) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-18T12:44:55.0165585",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20389,
+    "stageId": 49,
+    "sessionId": 39,
+    "description": "Committee of the whole House",
+    "abbreviation": "COTWH",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 4
+  }
+}

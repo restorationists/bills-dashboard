@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision enabling sanctions to be imposed where appropriate for the purposes of compliance with United Nations obligations or other international obligations or for the purposes of furthering the prevention of terrorism or for the purposes of national security or international peace and security or for the purposes of furthering foreign policy objectives; to make provision for the purposes of the detection, investigation and prevention of money laundering and terrorist financing and for the purposes of implementing Standards published by the Financial Action Task Force relating to combating threats to the integrity of the international financial system; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4210,
+        "name": "Lord Ahmad of Wimbledon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4210/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4210/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Foreign and Commonwealth Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1423,
+        "name": "Boris Johnson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1423/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1423/contact",
+        "memberFrom": "Uxbridge and South Ruislip"
+      },
+      "organisation": {
+        "name": "Foreign and Commonwealth Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2166,
+  "shortTitle": "Sanctions and Anti-Money Laundering Act 2018",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2018-05-24T09:21:02",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 10449,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 9606,
+        "stageId": 11,
+        "billStageId": 10449,
+        "billId": 2166,
+        "date": "2018-05-23T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

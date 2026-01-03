@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to give local authorities the power to require licences for the conversion of domestic properties into short-term and holiday-let accommodation; to give local authorities the power to issue fines and to remove such licences when safety, noise and nuisance conditions have not been met; to make provision about banning the licensing of such properties in defined geographical areas; to give local authorities the power to vary the rates of local taxes in relation to such properties; to give local authorities the power to restrict the number of days per year for which such properties can be let; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4471,
+        "name": "Rachael Maskell",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4471/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4471/contact",
+        "memberFrom": "York Central"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3220,
+  "shortTitle": "Short-term and Holiday-let Accommodation (Licensing) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T16:51:18.148746",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16635,
+    "stageId": 7,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14047,
+        "stageId": 7,
+        "billStageId": 16635,
+        "billId": 3220,
+        "date": "2022-12-09T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

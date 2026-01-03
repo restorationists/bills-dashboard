@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the succession of female heirs to hereditary titles; for husbands and civil partners of those receiving honours to be allowed to use equivalent honorary titles to those available to wives; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1879,
+        "name": "Lord Lucas",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1879/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1879/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1182,
+  "shortTitle": "Equality (Titles) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-12-09T09:18:44",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 6437,
+    "stageId": 3,
+    "sessionId": 26,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 6024,
+        "stageId": 3,
+        "billStageId": 6437,
+        "billId": 1182,
+        "date": "2013-12-06T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

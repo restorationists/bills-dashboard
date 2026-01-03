@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to change the period of life expectancy relevant to certain pension rules.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4778,
+        "name": "Greg Smith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4778/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4778/contact",
+        "memberFrom": "Mid Buckinghamshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3802,
+  "shortTitle": "Pension (Special Rules for End of Life) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-07-10T13:25:47.8568385",
+  "billWithdrawn": "2025-07-09T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19079,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

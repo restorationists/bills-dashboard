@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to conduct a review into the risks associated with at-home early medical abortions; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4184,
+        "name": "Baroness Eaton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4184/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4184/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3529,
+  "shortTitle": "At-Home Early Medical Abortion (Review) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2024-05-29T11:37:48.8032819",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18094,
+    "stageId": 1,
+    "sessionId": 38,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15086,
+        "stageId": 1,
+        "billStageId": 18094,
+        "billId": 3529,
+        "date": "2023-11-29T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

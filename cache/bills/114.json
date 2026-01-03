@@ -1,0 +1,63 @@
+{
+  "longTitle": "Clarify the meaning of “public authority” in section 6 of the Human Rights Act 1998.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 179,
+        "name": "Mr Andrew Dismore",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/179/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/179/contact",
+        "memberFrom": "Hendon"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 114,
+  "shortTitle": "Human Rights Act 1998 (Meaning of Public Authority) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-10-26T09:12:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 542,
+    "stageId": 7,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 399,
+        "stageId": 7,
+        "billStageId": 542,
+        "billId": 114,
+        "date": "2007-06-15T00:00:00"
+      },
+      {
+        "id": 400,
+        "stageId": 7,
+        "billStageId": 542,
+        "billId": 114,
+        "date": "2007-06-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

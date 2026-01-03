@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about economic crime and corporate transparency; to make further provision about companies, limited partnerships and other kinds of corporate entity; and to make provision about the registration of overseas entities.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4475,
+        "name": "Suella Braverman",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4475/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4475/contact",
+        "memberFrom": "Fareham"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4949,
+        "name": "Lord Johnson of Lainston",
+        "party": null,
+        "partyColour": null,
+        "house": "Unassigned",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4949/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4949/contact",
+        "memberFrom": null
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3339,
+  "shortTitle": "Economic Crime and Corporate Transparency Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-02-28T15:40:03.8315171",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17990,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14991,
+        "stageId": 11,
+        "billStageId": 17990,
+        "billId": 3339,
+        "date": "2023-10-26T00:00:00"
+      }
+    ],
+    "sortOrder": 22
+  }
+}

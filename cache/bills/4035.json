@@ -1,0 +1,59 @@
+{
+  "longTitle": "A Bill to Make provision, including provision amending the Network and Information Systems Regulations 2018, about the security and resilience of network and information systems used or relied on in connection with the carrying on of essential activities.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4026,
+        "name": "Liz Kendall",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4026/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4026/contact",
+        "memberFrom": "Leicester West"
+      },
+      "organisation": {
+        "name": "Department for Science, Innovation and Technology",
+        "url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4035,
+  "shortTitle": "Cyber Security and Resilience (Network and Information Systems) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-19T14:24:57.037588",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20290,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17626,
+        "stageId": 7,
+        "billStageId": 20290,
+        "billId": 4035,
+        "date": "2026-01-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

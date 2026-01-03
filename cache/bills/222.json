@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to enable local planning authorities to set requirements for energy generation and energy efficiency in local plans",
+  "summary": "<p>The Bill would allow local councils to set targets in their areas for on-site renewable energy, on-site low carbon electricity and energy efficiency standards in addition to national requirements. The Bill would cover England and Wales.</p><p><strong>Key areas</strong></p><ul><li>It would also require developers to source at least 10 per cent of any new building&rsquo;s energy from renewable sources, implementing nationwide the so-called &lsquo;Merton Rule&rsquo;, named after the sustainable planning policy first adopted by the London Borough of Merton</li><li>The Government has implemented policies in this area, notably the Planning Policy Statement on Climate Change, issued by the Government on 17 December 2007 after public consultation. Some councils, such as Merton and Woking, have already adopted environmentally friendly strategies but the picture across councils in England and Wales is mixed. </li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 88,
+        "name": "Mr Michael Fallon",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/88/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/88/contact",
+        "memberFrom": "Sevenoaks"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2650,
+        "name": "Lord Hanningfield",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2650/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2650/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 222,
+  "shortTitle": "Planning and Energy Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-02-25T13:46:42",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1900,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1838,
+        "stageId": 11,
+        "billStageId": 1900,
+        "billId": 222,
+        "date": "2008-11-13T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

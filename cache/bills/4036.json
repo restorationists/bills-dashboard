@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision about the seizure of frozen assets connected to the Russian Federation; to require the Secretary of State to publish recommendations about the use of such assets to fund military, reconstruction and humanitarian work in Ukraine; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5346,
+        "name": "Calum Miller",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5346/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5346/contact",
+        "memberFrom": "Bicester and Woodstock"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4036,
+  "shortTitle": "Russian frozen assets (seizure and aid to Ukraine) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-12T16:39:52.1590822",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20293,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17516,
+        "stageId": 7,
+        "billStageId": 20293,
+        "billId": 4036,
+        "date": "2026-01-30T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

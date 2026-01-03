@@ -1,0 +1,70 @@
+{
+  "longTitle": "To make provision about the registration of marriage; to make provision for the extension of civil partnerships to couples not of the same sex; to make provision for a report on the registration of pregnancy loss; to make provision about the investigation of still-births; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 114,
+        "name": "Tim Loughton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/114/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/114/contact",
+        "memberFrom": "East Worthing and Shoreham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4301,
+        "name": "Baroness Hodgson of Abinger",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4301/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4301/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2063,
+  "shortTitle": "Civil Partnerships, Marriages and Deaths (Registration etc) Act 2019",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-03-27T09:31:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11100,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10168,
+        "stageId": 11,
+        "billStageId": 11100,
+        "billId": 2063,
+        "date": "2019-03-26T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+}

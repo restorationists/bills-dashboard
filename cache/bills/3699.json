@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to authorise the use of resources for the years ending with 31 March 2023, 31 March 2024 and 31 March 2025; to authorise the issue of sums out of the Consolidated Fund for those years; and to appropriate the supply authorised by this Act for the years ending with 31 March 2023 and 31 March 2024.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4407,
+        "name": "Nigel Huddleston",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4407/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4407/contact",
+        "memberFrom": "Mid Worcestershire"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4580,
+        "name": "Baroness Vere of Norbiton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4580/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4580/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3699,
+  "shortTitle": "Supply and Appropriation (Anticipation and Adjustments) Act 2024",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-03-21T16:48:10.3124139",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 18627,
+    "stageId": 11,
+    "sessionId": 38,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 15659,
+        "stageId": 11,
+        "billStageId": 18627,
+        "billId": 3699,
+        "date": "2024-03-20T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

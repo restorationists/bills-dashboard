@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the rights of renters.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4291,
+        "name": "Baroness Grender",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4291/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4291/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1781,
+  "shortTitle": "Renters’ Rights Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2017-05-02T14:20:14",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 8753,
+    "stageId": 3,
+    "sessionId": 29,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 8095,
+        "stageId": 3,
+        "billStageId": 8753,
+        "billId": 1781,
+        "date": "2016-11-18T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

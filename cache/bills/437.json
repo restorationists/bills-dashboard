@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to define public service content for the purposes of public service broadcasting",
+  "summary": "<p>The Bill provides a definition of public service content for the purposes of public service broadcasting. Its provisions would require that no licence fee revenue would be paid for BBC services failing to meet this definition.</p><p><strong>Key areas</strong></p><ul><li>Defines public service content in terms of: impartial, factual and objective news or current affairs; children&rsquo;s programming; charitable or religious programming; or content unlikely to be supplied by the market </li><li>Gives the National Audit Office a role in determining whether market failure exists in relation to some broadcasting content</li><li>Requires all public service content to meet prevailing standards of good taste and decency </li><li>Repeals section 264 of the Communications Act 2003 which provides for Ofcom having to periodically report on the state of public service television broadcasting </li><li>Prevents licence fee revenue being paid to the BBC for services not meeting the definition of public service content</li><li>Gives the National Audit Office a duty to keep under review, and to conduct a value for money audit of the total cost of public service television broadcasting.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 242,
+        "name": "Mr Christopher Chope",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/242/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/242/contact",
+        "memberFrom": "Christchurch"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 437,
+  "shortTitle": "Broadcasting (Public Service Content) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-11-09T11:17:37",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2140,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 2081,
+        "stageId": 7,
+        "billStageId": 2140,
+        "billId": 437,
+        "date": "2009-06-12T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

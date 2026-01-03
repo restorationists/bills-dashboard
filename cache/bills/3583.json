@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the provision of information relating to support available for parents and carers of infants for the purpose of supporting those infants; to require the Government to publish an annual report on the support available for infants and the impact that that support has had on outcomes for infants and children; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4842,
+        "name": "Sally-Ann Hart",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4842/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4842/contact",
+        "memberFrom": "Hastings and Rye"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3583,
+  "shortTitle": "Support for Infants Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-02-06T12:48:55.5853904",
+  "billWithdrawn": "2024-02-05T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18224,
+    "stageId": 6,
+    "sessionId": 38,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15209,
+        "stageId": 6,
+        "billStageId": 18224,
+        "billId": 3583,
+        "date": "2023-12-11T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

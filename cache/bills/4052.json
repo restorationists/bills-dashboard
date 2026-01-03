@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to enable local authorities to allocate for temporary use by charities, community organisations and small businesses any vacant commercial properties during the period of their vacancy; to provide for certain obligations on landlords of commercial property in connection with such allocations; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5112,
+        "name": "Luke Akehurst",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5112/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5112/contact",
+        "memberFrom": "North Durham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4052,
+  "shortTitle": "Vacant Commercial Properties (Temporary Use) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-17T09:28:53.4963899",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20387,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17635,
+        "stageId": 7,
+        "billStageId": 20387,
+        "billId": 4052,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

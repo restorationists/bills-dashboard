@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for and in connection with offences relating to verbal and physical abuse of public-facing workers in the course of their employment.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4864,
+        "name": "Olivia Blake",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4864/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4864/contact",
+        "memberFrom": "Sheffield, Hallam"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3049,
+  "shortTitle": "Abuse of Public-facing Workers (Offences) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-04-29T11:13:43.2350902",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15754,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12302,
+        "stageId": 7,
+        "billStageId": 15754,
+        "billId": 3049,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

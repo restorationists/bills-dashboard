@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about deep sea mining; and for connected purposes.",
+  "summary": "Third reading - the final chance for the Lords to change the Bill - took place on 18 March and no amendments were made. <br><br>As both Houses have agreed on the text of the Bill it now waits for the final stage of Royal Assent when the Bill will become an Act of Parliament. A date for Royal Assent has yet to be set.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4100,
+        "name": "Sheryll Murray",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4100/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4100/contact",
+        "memberFrom": "South East Cornwall"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1727,
+        "name": "Baroness Wilcox",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1727/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1727/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1205,
+  "shortTitle": "Deep Sea Mining Act ",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2014-05-15T10:26:52",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 26,
+  "includedSessionIds": [
+    26
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 6825,
+    "stageId": 11,
+    "sessionId": 26,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 6374,
+        "stageId": 11,
+        "billStageId": 6825,
+        "billId": 1205,
+        "date": "2014-05-14T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

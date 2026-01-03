@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision about the functions of the Office of Communications; to make provision about the online infringement of copyright, about licensing of copyright and performers’ rights and about penalties for infringement; to make provision about internet domain registries; to make provision about the functions of the Channel Four Television Corporation; to make provision about the regulation of television and radio services; to make provision about the regulation of the use of the electromagnetic spectrum; to amend the Video Recordings Act 1984; to make provision about public lending right in relation to electronic publications; and for connected purposes.",
+  "summary": "<p>The Bill implements aspects of Government policy on digital media set out in the &lsquo;Digital Britain&rsquo; White Paper published in June 2009.</p><p><strong>Key areas</strong></p><ul><li>requires Ofcom to report on communications infrastructure and media content</li><li>imposes obligations on internet service providers to reduce online copyright infringement</li><li>allows the Secretary of State to intervene in internet domain name registration</li><li>requires Channel Four to provide public service content on a range of media</li><li>provides more flexibility over the licensing of Channel 3 and Channel 5 services</li><li>modifies the licensing regime to facilitate switchover to digital radio</li><li>allows variation of the public service provision in Channel 3 and 5 licences</li><li>provides Ofcom with additional powers in relation to electromagnetic spectrum access</li><li>extends the range of video games that are subject to age-related classification</li><li>includes non-print formats in the public lending right payment scheme</li></ul><p>Following amendments in the House of Commons Committee Stage, the Bill no longer provides for the appointment of providers of regional and local news. Provisions in relation to extending copyright licensing and orphan works have also been removed.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 500,
+        "name": "Lord Mandelson",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/500/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/500/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business, Innovation and Skills",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 230,
+        "name": "Mr Ben Bradshaw",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/230/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/230/contact",
+        "memberFrom": "Exeter"
+      },
+      "organisation": {
+        "name": "Department for Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 544,
+  "shortTitle": "Digital Economy Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2011-04-08T10:33:52",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 23,
+  "includedSessionIds": [
+    23
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3427,
+    "stageId": 11,
+    "sessionId": 23,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3213,
+        "stageId": 11,
+        "billStageId": 3427,
+        "billId": 544,
+        "date": "2010-04-08T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

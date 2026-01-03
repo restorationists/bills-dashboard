@@ -1,0 +1,63 @@
+{
+  "longTitle": "A Bill to establish a public advocate to provide advice to, and act as data controller for, representatives of the deceased after major incidents.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 483,
+        "name": "Maria Eagle",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/483/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/483/contact",
+        "memberFrom": "Garston and Halewood"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3224,
+  "shortTitle": "Public Advocate (No. 2) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T15:03:25.3784435",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16643,
+    "stageId": 7,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13348,
+        "stageId": 7,
+        "billStageId": 16643,
+        "billId": 3224,
+        "date": "2022-07-15T00:00:00"
+      },
+      {
+        "id": 13723,
+        "stageId": 7,
+        "billStageId": 16643,
+        "billId": 3224,
+        "date": "2023-05-12T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

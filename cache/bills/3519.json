@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the regulation of Artificial Intelligence; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3519,
+  "shortTitle": "Artificial Intelligence (Regulation) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2024-05-29T11:36:20.3282534",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18674,
+    "stageId": 5,
+    "sessionId": 38,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15714,
+        "stageId": 5,
+        "billStageId": 18674,
+        "billId": 3519,
+        "date": "2024-05-10T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

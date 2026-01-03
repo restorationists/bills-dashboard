@@ -1,0 +1,41 @@
+{
+  "longTitle": "A Bill to prohibit the sale of disposable electronic cigarettes; and for connected purposes.",
+  "summary": null,
+  "sponsors": [],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3417,
+  "shortTitle": "Disposable Electronic Cigarettes (Prohibition of Sale) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-31T16:52:15.8171792",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17400,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14248,
+        "stageId": 6,
+        "billStageId": 17400,
+        "billId": 3417,
+        "date": "2023-02-08T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

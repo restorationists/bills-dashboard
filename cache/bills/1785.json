@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the International Development (Official Development Assistance Target) Act 2015 in order to provide for a five year reporting period instead of an annual reporting period.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2492,
+        "name": "Lord Lipsey",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2492/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2492/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1785,
+  "shortTitle": "International Development (Official Development Assistance Target) (Amendment) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2017-05-02T11:57:33",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 8666,
+    "stageId": 2,
+    "sessionId": 29,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 8101,
+        "stageId": 2,
+        "billStageId": 8666,
+        "billId": 1785,
+        "date": "2016-11-18T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

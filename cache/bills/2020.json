@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to amend the Children Act 1989 to state that proceedings under Section 5A of, and Schedule 2 to, the Female Genital Mutilation Act 2003 are family proceedings",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4276,
+        "name": "Lord Berkeley of Knighton",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4276/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4276/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4062,
+        "name": "Zac Goldsmith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4062/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4062/contact",
+        "memberFrom": "Richmond Park"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2020,
+  "shortTitle": "Children Act 1989 (Amendment) (Female Genital Mutilation) Act 2019",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-03-18T09:40:20",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11080,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10160,
+        "stageId": 11,
+        "billStageId": 11080,
+        "billId": 2020,
+        "date": "2019-03-15T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

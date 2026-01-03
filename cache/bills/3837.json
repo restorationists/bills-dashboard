@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to establish an independent body to operate a national oversight mechanism to monitor recommendations arising from investigations into state-related deaths, including inquests, public inquiries and official reviews; to make provision about the powers of that body to require action in relation to such recommendations; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5102,
+        "name": "Carla Denyer",
+        "party": "Green Party",
+        "partyColour": "78b82a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5102/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5102/contact",
+        "memberFrom": "Bristol Central"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3837,
+  "shortTitle": "State-related Deaths (National Oversight Mechanism) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-28T11:42:19.4537159",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19159,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16241,
+        "stageId": 7,
+        "billStageId": 19159,
+        "billId": 3837,
+        "date": "2026-01-30T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

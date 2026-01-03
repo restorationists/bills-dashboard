@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision relating to pensions; and for connected purposes.",
+  "summary": "<p>The four parts of the Bill include a range of measures related to pension provision.</p><p><strong>Key areas</strong></p><ul><li>Accelerates the existing timetable for increasing the State Pension age to 66</li><li>Amends the legislative framework requiring employers to automatically enrol employees into a qualifying pension system and to make contributions to that scheme</li><li>Amends legislation providing for the indexation and revaluation of occupational pensions and payments from the Pension Protection Fund</li><li>Allows contributions to be taken towards the cost of providing personal pension benefits to members of Judicial Pension Schemes.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3893,
+        "name": "Lord Freud",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3893/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3893/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 152,
+        "name": "Mr Iain Duncan Smith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/152/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/152/contact",
+        "memberFrom": "Chingford and Woodford Green"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 815,
+  "shortTitle": "Pensions Act 2011",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2011-11-10T15:24:21",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4570,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4341,
+        "stageId": 11,
+        "billStageId": 4570,
+        "billId": 815,
+        "date": "2011-11-03T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

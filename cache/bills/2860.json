@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision in relation to national insurance contributions.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4483,
+        "name": "Rishi Sunak",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4483/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4483/contact",
+        "memberFrom": "Richmond (Yorks)"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4169,
+        "name": "Viscount Younger of Leckie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4169/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4169/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2860,
+  "shortTitle": "National Insurance Contributions Act 2022",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-11-14T14:41:45.6072313",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 16282,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 12964,
+        "stageId": 11,
+        "billStageId": 16282,
+        "billId": 2860,
+        "date": "2022-03-14T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

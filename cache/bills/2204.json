@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to Provide that the Secretary of State’s powers in relation to the management of the Royal Botanic Gardens, Kew, include the power to grant a lease in respect of land for a period of up to 150 years.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4062,
+        "name": "Zac Goldsmith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4062/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4062/contact",
+        "memberFrom": "Richmond Park"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2204,
+  "shortTitle": "Kew Gardens (Leases) (No. 2) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-03-25T11:19:16",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14945,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

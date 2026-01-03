@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to raise the minimum age of consent to marriage or civil partnership to eighteen; create an offence of causing a person under the age of eighteen to enter into a marriage or civil partnership; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 200,
+        "name": "Baroness Tonge",
+        "party": "Independent Liberal Democrat",
+        "partyColour": null,
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/200/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/200/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1792,
+  "shortTitle": "Marriage and Civil Partnership (Minimum Age) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2017-03-17T13:05:33",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9164,
+    "stageId": 5,
+    "sessionId": 29,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 8495,
+        "stageId": 5,
+        "billStageId": 9164,
+        "billId": 1792,
+        "date": "2016-12-20T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

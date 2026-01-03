@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to report to Parliament on the merits of extending eligibility for statutory adoption pay to persons who are self-employed or contractors; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5070,
+        "name": "Lisa Smart",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5070/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5070/contact",
+        "memberFrom": "Hazel Grove"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3931,
+  "shortTitle": "Statutory Adoption Pay (Report on Extension to the Self-Employed) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-11-26T12:59:37.6892791",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19512,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16682,
+        "stageId": 7,
+        "billStageId": 19512,
+        "billId": 3931,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

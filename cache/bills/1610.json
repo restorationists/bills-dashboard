@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to allow local authorities which have opted for a mayor and cabinet executive in a referendum to hold further referendums under Part 1A of the Local Government Act 2000.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4337,
+        "name": "Baroness Janke",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4337/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4337/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1610,
+  "shortTitle": "Referendum (Local Authority Governance) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2016-05-12T15:16:52",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14385,
+    "stageId": 2,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

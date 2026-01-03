@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for the establishment of carbon emissions performance targets for electricity generating stations; and for connected purposes.",
+  "summary": "This Bill makes provision for the establishment of a carbon emissions performance standard for electricity generators. It would require the Secretary of State to set a standard for generators after consultation and would prohibit new entrants who did not meet the standard.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 634,
+        "name": "Mr Charles Kennedy",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/634/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/634/contact",
+        "memberFrom": "Ross, Skye and Lochaber"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 415,
+  "shortTitle": "Industrial Carbon Emissions (Targets) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-11-04T17:24:28",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2089,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 1992,
+        "stageId": 7,
+        "billStageId": 2089,
+        "billId": 415,
+        "date": "2009-07-03T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

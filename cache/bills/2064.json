@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision for protecting persons from risks associated with stalking; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4073,
+        "name": "Dr Sarah Wollaston",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4073/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4073/contact",
+        "memberFrom": "Totnes"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4577,
+        "name": "Baroness Bertin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4577/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4577/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2064,
+  "shortTitle": "Stalking Protection Act 2019",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-03-18T09:36:51",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11079,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10169,
+        "stageId": 11,
+        "billStageId": 11079,
+        "billId": 2064,
+        "date": "2019-03-15T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

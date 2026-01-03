@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision requiring local authorities to exercise their functions with a view to improving and promoting regular attendance by registered pupils at schools in their area; and to make provision requiring school proprietors to have an attendance policy to promote regular attendance.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4674,
+        "name": "Vicky Ford",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4674/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4674/contact",
+        "memberFrom": "Chelmsford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3586,
+  "shortTitle": "School Attendance (Duties of Local Authorities and Proprietors of Schools) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-05-29T11:19:25.3622837",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18806,
+    "stageId": 1,
+    "sessionId": 38,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15889,
+        "stageId": 1,
+        "billStageId": 18806,
+        "billId": 3586,
+        "date": "2024-05-20T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  }
+}

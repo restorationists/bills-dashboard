@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide for a mechanism for statutory redundancy pay which links it to average weekly earnings; and for connected purposes",
+  "summary": "<p>The right of an employee to receive a one-off redundancy payment from their employer is well established, appearing in many individual contracts of employment. The Employment Rights Act 1996 entitles employees to a redundancy payment after they have been employed continuously with the same employer for two years. The payment is calculated with reference to how long the employment has lasted, the relevant age bracket into which the employee falls, and their weekly pay. The legislation places a &lsquo;cap&rsquo; on the amount of a week&rsquo;s pay to be used in the calculation. This cap is reviewed annually and if necessary uprated in line with the retail prices index. The Bill would oblige the Secretary of State to introduce regulations within a specific time frame that would establish a link between the annual uprating of the cap and average earnings.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 467,
+        "name": "Mr Lindsay Hoyle",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/467/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/467/contact",
+        "memberFrom": "Chorley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 401,
+  "shortTitle": "Statutory Redundancy Pay (Amendment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-10-21T12:28:11",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2507,
+    "stageId": 15,
+    "sessionId": 22,
+    "description": "Money resolution",
+    "abbreviation": "MR",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 2352,
+        "stageId": 15,
+        "billStageId": 2507,
+        "billId": 401,
+        "date": "2009-06-16T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

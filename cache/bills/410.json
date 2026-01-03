@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to confer on patients a right to choose where to receive palliative care; and for connected purposes.",
+  "summary": "The Bill would make provision for patients to request where they received palliative care: in a hospital or specialist hospital, in a hospice or at home. It would require the relevant NHS body to take all reasonable steps to fulfil such requests. The Bill also makes provision for regulations governing standards of palliative care, which is defined in the Bill as 'care given with the intention of improving the quality of life of persons with a terminal illness.'",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 312,
+        "name": "Mrs Caroline Spelman",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/312/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/312/contact",
+        "memberFrom": "Meriden"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 410,
+  "shortTitle": "Palliative Care Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-10-14T18:06:11",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 2079,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 1984,
+        "stageId": 7,
+        "billStageId": 2079,
+        "billId": 410,
+        "date": "2009-04-24T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

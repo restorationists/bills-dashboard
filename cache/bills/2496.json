@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to authorise the issue out of the Consolidated Fund of Northern Ireland of certain sums for the service of the year ending 31 March 2020; to appropriate those sums for specified purposes; to authorise the Department of Finance in Northern Ireland to borrow on the credit of the appropriated sums; and to authorise the use for the public service of certain resources (including accruing resources) for that year.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4118,
+        "name": "Julian Smith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4118/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4118/contact",
+        "memberFrom": "Skipton and Ripon"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4686,
+        "name": "Lord Duncan of Springbank",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4686/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4686/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2496,
+  "shortTitle": "Northern Ireland Budget Act 2019",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-11-01T09:40:31",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 34,
+  "includedSessionIds": [
+    34
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11565,
+    "stageId": 11,
+    "sessionId": 34,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10556,
+        "stageId": 11,
+        "billStageId": 11565,
+        "billId": 2496,
+        "date": "2019-10-31T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for disability equality in respect of abortions.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4557,
+        "name": "Lord Shinkwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4557/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4557/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1790,
+  "shortTitle": "Abortion (Disability Equality) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2017-05-02T10:36:51",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9209,
+    "stageId": 4,
+    "sessionId": 29,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 8494,
+        "stageId": 4,
+        "billStageId": 9209,
+        "billId": 1790,
+        "date": "2017-02-24T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

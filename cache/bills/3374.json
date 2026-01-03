@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to place a duty on the Secretary of State to promote the safety and wellbeing of teenagers; to make provision to prevent crime against teenagers; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4641,
+        "name": "Alex Norris",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4641/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4641/contact",
+        "memberFrom": "Nottingham North"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3374,
+  "shortTitle": "Teenagers (Safety and Wellbeing) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T17:01:05.6742907",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17129,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13932,
+        "stageId": 6,
+        "billStageId": 17129,
+        "billId": 3374,
+        "date": "2022-11-16T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

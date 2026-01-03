@@ -1,0 +1,59 @@
+{
+  "longTitle": "To implement, and make other provision in connection with, the agreement between the United Kingdom and the EU under Article 50(2) of the Treaty on European Union which sets out the arrangements for the United Kingdom’s withdrawal from the EU.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4095,
+        "name": "Stephen Barclay",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4095/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4095/contact",
+        "memberFrom": "North East Cambridgeshire"
+      },
+      "organisation": {
+        "name": "Department for Exiting the European Union ",
+        "url": "https://www.gov.uk/government/organisations/department-for-exiting-the-european-union"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2474,
+  "shortTitle": "European Union (Withdrawal Agreement) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-11-06T12:37:54",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 34,
+  "includedSessionIds": [
+    34
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11469,
+    "stageId": 36,
+    "sessionId": 34,
+    "description": "Ways and Means resolution",
+    "abbreviation": "WAMR",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 10496,
+        "stageId": 36,
+        "billStageId": 11469,
+        "billId": 2474,
+        "date": "2019-10-22T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  }
+}

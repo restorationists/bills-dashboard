@@ -1,0 +1,62 @@
+{
+  "longTitle": "A Bill to make provision for the prohibition of unpaid work experience exceeding four weeks, and for connected matters",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3997,
+        "name": "Alec Shelbrooke",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3997/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3997/contact",
+        "memberFrom": "Elmet and Rothwell"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1997,
+  "shortTitle": "Unpaid Work Experience (Prohibition) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-09-19T14:38:20",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14742,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 6
+  }
+}

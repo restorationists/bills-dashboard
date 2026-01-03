@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the law regarding succession to peerages and baronetcies; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3191,
+        "name": "Lord Northbrook",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3191/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3191/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3513,
+  "shortTitle": "Succession to Peerages and Baronetcies Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2024-05-29T11:35:36.704269",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18045,
+    "stageId": 2,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15438,
+        "stageId": 2,
+        "billStageId": 18045,
+        "billId": 3513,
+        "date": "2024-02-09T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

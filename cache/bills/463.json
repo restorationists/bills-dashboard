@@ -1,0 +1,59 @@
+{
+  "longTitle": "A Bill to grant certain duties, to alter other duties, and to amend the law relating to the National Debt and the Public Review, and to make further provision in connection with finance.",
+  "summary": "<p>The annual Finance Bill encompasses all of the changes to be made to tax law for the year.  Its formal description is &lsquo;a Bill to grant certain duties, to alter other duties, and to amend the law relating to the National Debt and the Public Revenue, and to make further provision in connection with finance.&rsquo; The Bill will enact many of the measures announced in the Budget, which was presented by the Chancellor of the Exchequer, Alistair Darling, on 22 April 2009. </p><ul><li>Two important changes to income tax were announced in the 2009 Budget, which will take effect from April 2010, and the Bill includes enabling provisions for these: <br>a new higher rate of income tax of 50 per cent on income over &pound;150,000 </li><li>the gradual withdrawal of the personal allowance for individuals with incomes above &pound;100,000. </li></ul><p> </p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 163,
+        "name": "Stephen Timms",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/163/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/163/contact",
+        "memberFrom": "East Ham"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 463,
+  "shortTitle": "Finance Act 2009",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2011-05-11T10:33:09",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 2655,
+    "stageId": 11,
+    "sessionId": 22,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2545,
+        "stageId": 11,
+        "billStageId": 2655,
+        "billId": 463,
+        "date": "2009-07-21T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require a supermajority of votes in favour of a proposal for constitutional change on which a referendum is being held in order for it to be decided in the affirmative.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4129,
+        "name": "Ian Paisley",
+        "party": "Democratic Unionist Party",
+        "partyColour": "d46a4c",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4129/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4129/contact",
+        "memberFrom": "North Antrim"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3361,
+  "shortTitle": "Referendums (Supermajority) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-11-02T15:38:11.4417577",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17095,
+    "stageId": 7,
+    "sessionId": 37,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

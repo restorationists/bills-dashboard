@@ -1,0 +1,59 @@
+{
+  "longTitle": "A Bill to establish the Health Service Safety Investigations Body and to confer the function of carrying out investigations and other functions on that body; to make provision in connection with investigations carried out by that body; to make provision about medical examiners; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4019,
+        "name": "Baroness Blackwood of North Oxford",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4019/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4019/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department of Health and Social Care",
+        "url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2466,
+  "shortTitle": "Health Service Safety Investigations Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-11-08T10:22:04",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 34,
+  "includedSessionIds": [
+    34
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 11432,
+    "stageId": 2,
+    "sessionId": 34,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 10482,
+        "stageId": 2,
+        "billStageId": 11432,
+        "billId": 2466,
+        "date": "2019-10-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

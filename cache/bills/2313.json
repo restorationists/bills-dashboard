@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to make provision for the regulation of fees charged by management companies to freeholders of residential properties; to make provision for self-management of shared facilities by such freeholders; to require management companies to ensure shared facilities are of an adequate standard; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1484,
+        "name": "Helen Goodman",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1484/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1484/contact",
+        "memberFrom": "Bishop Auckland"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2313,
+  "shortTitle": "Freehold Properties (Management Charges and Shared Facilities) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-03-21T11:47:21",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15050,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

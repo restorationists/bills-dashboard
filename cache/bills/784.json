@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make further provision to limit the size of the legislature by ensuring that the number of peers entitled to vote in the House of Lords does not exceed the number of parliamentary constituencies; to introduce a statutory limit on the number of Ministers, Whips and Parliamentary Private Secretaries in each House of Parliament; and to set a maximum proportion of Ministers, Whips and Parliamentary Private Secretaries in the total membership of each House of Parliament.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 242,
+        "name": "Mr Christopher Chope",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/242/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/242/contact",
+        "memberFrom": "Christchurch"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 784,
+  "shortTitle": "Parliament (Amendment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-02T11:22:21",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 3818,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 3572,
+        "stageId": 7,
+        "billStageId": 3818,
+        "billId": 784,
+        "date": "2011-03-04T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

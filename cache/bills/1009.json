@@ -1,0 +1,48 @@
+{
+  "longTitle": null,
+  "summary": "A Bill to ensure that higher education institutions in England, Wales and Scotland may not vary fees charged to British students based on a student's place of domicile and to require organisations using public funds to assist students in paying fees not to vary support based on a student's place of study within the United Kingdom.",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1141,
+        "name": "Lord Forsyth of Drumlean",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1141/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1141/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1009,
+  "shortTitle": "Higher Education (Fees) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2013-04-30T11:08:33",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13820,
+    "stageId": 2,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

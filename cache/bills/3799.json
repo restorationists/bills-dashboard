@@ -1,0 +1,63 @@
+{
+  "longTitle": "A Bill to amend the Scotland Act 1998 to grant legislative competence to the Scottish Parliament in respect of immigration.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4434,
+        "name": "Stephen Gethins",
+        "party": "Scottish National Party",
+        "partyColour": "fff685",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4434/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4434/contact",
+        "memberFrom": "Arbroath and Broughty Ferry"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3799,
+  "shortTitle": "Devolution (Immigration) (Scotland) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-02T12:47:04.7561844",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19073,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16145,
+        "stageId": 7,
+        "billStageId": 19073,
+        "billId": 3799,
+        "date": "2025-04-25T00:00:00"
+      },
+      {
+        "id": 16961,
+        "stageId": 7,
+        "billStageId": 19073,
+        "billId": 3799,
+        "date": "2026-05-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

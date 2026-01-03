@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about public service pension schemes, including retrospective provision to rectify unlawful discrimination in the way in which existing schemes were restricted under the Public Service Pensions Act 2013 and corresponding Northern Ireland legislation; to make provision for the establishment of new public pension schemes for members of occupational pension schemes of bodies that were brought into public ownership under the Banking (Special Provisions) Act 2008; to make provision about the remuneration and the date of retirement of holders of certain judicial offices; to make provision about judicial service after retirement; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4169,
+        "name": "Viscount Younger of Leckie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4169/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4169/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4655,
+        "name": "Mr Simon Clarke",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4655/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4655/contact",
+        "memberFrom": "Middlesbrough South and East Cleveland"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3032,
+  "shortTitle": "Public Service Pensions and Judicial Offices Act 2022",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2022-03-17T15:50:10.1779236",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 16269,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 12948,
+        "stageId": 11,
+        "billStageId": 16269,
+        "billId": 3032,
+        "date": "2022-03-10T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "longTitle": "A Bill to make provision to require Ministers of the Crown and others when making strategic decisions about the exercise of their functions to have regard to the desirability of reducing socio-economic inequalities; to reform and harmonise equality law and restate the greater part of the enactments relating to discrimination and harassment related to certain personal characteristics; to enable certain employers to be required to publish information about the \r\ndifferences in pay between male and female employees; to prohibit  \r\nvictimisation in certain circumstances; to require the exercise of certain functions to be with regard to the need to eliminate discrimination and other prohibited conduct; to enable duties to be imposed in relation to the exercise of public procurement functions; to increase equality of opportunity; and for connected purposes.",
+  "summary": "<p>The Bill will harmonise and in some cases extend existing discrimination law covering the 'protected characteristics' of age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation. It will address the impact of recent case law which is generally seen as having weakened discrimination protection, and harmonise provisions defining indirect discrimination.</p><p><strong>Key areas</strong></p><ul><li>Provides powers to extend age discrimination protection outside the workplace</li><li>Clarifies protection against discrimination by association, for example in relation to a mother who cares for her disabled child</li><li>Extends protection from discrimination on the grounds of gender reassignment to school pupils</li><li>Extends discrimination protection in the terms of membership and benefits for private clubs and associations</li><li>Creates a unified public sector duty, intended to promote equality in public policy and decision-making, existing provisions being extended to the protected characteristics of sexual orientation, age and religion or belief, and proposes a new public sector duty related to socio-economic inequalities</li><li>Provides for legislation requiring that employers review gender pay differences within their organisations and publish the results</li><li>Provides for changes to the way that individual claims are enforced, and gives employment tribunals wider powers to make recommendations for the collective benefit of employees</li><li>Allows a Minister to amend UK equality legislation to comply with European law without the need for primary legislation</li><li>Extends the period for which all-women shortlists may be used for parliamentary and other elections until 2030 and allows parties to reserve places on shortlists of candidates for people on the grounds of race or disability.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 150,
+        "name": "Ms Harriet Harman",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/150/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/150/contact",
+        "memberFrom": "Camberwell and Peckham"
+      },
+      "organisation": {
+        "name": "Government Equalities Office",
+        "url": "http://www.equalities.gov.uk"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3703,
+        "name": "Baroness Royall of Blaisdon",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3703/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3703/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Government Equalities Office",
+        "url": "http://www.equalities.gov.uk"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 381,
+  "shortTitle": "Equality Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2010-09-15T09:39:59",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22,
+    23
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3443,
+    "stageId": 11,
+    "sessionId": 23,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3205,
+        "stageId": 11,
+        "billStageId": 3443,
+        "billId": 381,
+        "date": "2010-04-08T00:00:00"
+      }
+    ],
+    "sortOrder": 17
+  }
+}

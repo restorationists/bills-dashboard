@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to amend the Scotland Act 1998 and make provision about the functions of the Scottish Ministers; and for connected purposes.",
+  "summary": "<p>The Bill will implement recommendations of the Final Report of the Commission on Scottish Devolution (the Calman Commission). </p><p>It would make changes to the finances of the Scottish Parliament, including a new Scottish rate of income tax, and make a number of adjustments to the boundary of devolved responsibilities.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 638,
+        "name": "Michael Moore",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/638/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/638/contact",
+        "memberFrom": "Berwickshire, Roxburgh and Selkirk"
+      },
+      "organisation": {
+        "name": "Scotland Office",
+        "url": "https://www.gov.uk/government/organisations/scotland-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 630,
+        "name": "Lord Wallace of Tankerness",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/630/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/630/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Scotland Office",
+        "url": "https://www.gov.uk/government/organisations/scotland-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 680,
+  "shortTitle": "Scotland Act 2012",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-10-06T15:55:56.4771372",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4927,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4598,
+        "stageId": 11,
+        "billStageId": 4927,
+        "billId": 680,
+        "date": "2012-05-01T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  }
+}

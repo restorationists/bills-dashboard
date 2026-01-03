@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision to require every school to have access to a qualified mental health professional; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4231,
+        "name": "Baroness Tyler of Enfield",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4231/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4231/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3525,
+  "shortTitle": "Schools (Mental Health Professionals) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2024-05-29T11:24:44.1908754",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18774,
+    "stageId": 24,
+    "sessionId": 38,
+    "description": "Order of Commitment discharged",
+    "abbreviation": "OOCD",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15854,
+        "stageId": 24,
+        "billStageId": 18774,
+        "billId": 3525,
+        "date": "2024-05-14T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to Authorise the use of resources for the years ending with 31 March 2024, 31 March 2025 and 31 March 2026; to authorise the issue of sums out of the Consolidated Fund for those years; and to appropriate the supply authorised by this Act for the years ending with 31 March 2024 and 31 March 2025.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4797,
+        "name": "James Murray",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4797/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4797/contact",
+        "memberFrom": "Ealing North"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4559,
+        "name": "Lord Livermore",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4559/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4559/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3941,
+  "shortTitle": "Supply and Appropriation (Anticipation and Adjustments) Act 2025",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-03-13T10:32:07.8396912",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 19749,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 16809,
+        "stageId": 11,
+        "billStageId": 19749,
+        "billId": 3941,
+        "date": "2025-03-11T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  }
+}

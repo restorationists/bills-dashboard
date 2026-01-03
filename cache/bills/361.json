@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision for the purposes of promoting public involvement in relation to local authorities and other public authorities; to make provision about bodies representing the interests of tenants; to make provision about the procedures of local authorities and the audit of entities connected with them; to establish the Boundary Committee for England and to make provision relating to local government boundary and electoral change; to make provision about local and regional development; to amend the law relating to construction contracts; and for connected purposes.",
+  "summary": "<p>The Bill seeks to create greater opportunities for community and individual involvement in local decision-making. It also provides for greater involvement of local authorities in local and regional economic development.</p><p><strong>Key areas:</strong></p><ul><li>Provisions to secure greater involvement of people in the workings and decision-making processes of local public authorities</li><li>provisions to ensure that councils respond to petitions and can consider other matters raised by citizens in their area</li><li>a new duty for local authorities to assess economic conditions; a joint duty on regional development agencies and local authorities to produce a single regional strategy; and powers for councils to co-operate in promoting economic development.</li></ul>Additional provisions in the Bill include: <ul><li>establishing a new body to represent the interests of housing tenants in England at national level </li><li>new powers for audit authorities to appoint auditors to, and to produce public interest reports on, entities connected with local authorities</li><li>making the Boundary Committee for England a separate body from the Electoral Commission </li><li>improving the operation of construction contracts particularly as regards cash flow and adjudication.   </li></ul><p> </p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2534,
+        "name": "Baroness Andrews",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2534/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2534/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 456,
+        "name": "Hazel Blears",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/456/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/456/contact",
+        "memberFrom": "Salford"
+      },
+      "organisation": {
+        "name": "Department for Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 361,
+  "shortTitle": "Local Democracy",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2010-01-18T12:47:30",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 2789,
+    "stageId": 11,
+    "sessionId": 22,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2620,
+        "stageId": 11,
+        "billStageId": 2789,
+        "billId": 361,
+        "date": "2009-11-12T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

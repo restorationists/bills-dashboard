@@ -1,0 +1,74 @@
+{
+  "longTitle": "Make provision about social security; to amend the Vaccine Damage Payments Act 1979; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 494,
+        "name": "Mr John Hutton",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/494/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/494/contact",
+        "memberFrom": "Barrow and Furness"
+      },
+      "organisation": {
+        "name": "Department for Work and Pensions",
+        "url": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3694,
+        "name": "Lord McKenzie of Luton",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3694/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3694/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 144,
+  "shortTitle": "Welfare Reform Act 2007",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-02-22T12:14:38",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 19,
+  "includedSessionIds": [
+    19,
+    20
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 860,
+    "stageId": 11,
+    "sessionId": 20,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 630,
+        "stageId": 11,
+        "billStageId": 860,
+        "billId": 144,
+        "date": "2007-05-03T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

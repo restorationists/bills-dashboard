@@ -1,0 +1,48 @@
+{
+  "longTitle": "To make provision for all receipts printed in the United Kingdom to contain a figure for the total amount of tax paid on the goods and services purchased.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 474,
+        "name": "Mr Nigel Evans",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/474/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/474/contact",
+        "memberFrom": "Ribble Valley"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 324,
+  "shortTitle": "Transparent Taxation (Receipts) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-10-16T17:35:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13216,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

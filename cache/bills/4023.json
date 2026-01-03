@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require schools to maintain a record of pupils with caring responsibilities; to make provision about support in schools for pupils with caring responsibilities, including requiring schools to designate a member of staff as having responsibility for supporting young carers; to require schools to provide specified academic and other support to pupils with caring responsibilities, including support in relation to public examinations and provision of counselling; to make provision about support for future employment for pupils with caring responsibilities, including through mentoring and a programme of skills development; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5040,
+        "name": "Liz Jarvis",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5040/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5040/contact",
+        "memberFrom": "Eastleigh"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4023,
+  "shortTitle": "Young Carers (Educational and Employment Support) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-10-29T17:33:33.4235299",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20225,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17419,
+        "stageId": 7,
+        "billStageId": 20225,
+        "billId": 4023,
+        "date": "2026-05-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

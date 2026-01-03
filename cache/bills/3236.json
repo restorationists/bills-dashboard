@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to create an offence of killing, injuring or taking hares at certain times of the year.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4801,
+        "name": "Anthony Browne",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4801/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4801/contact",
+        "memberFrom": "South Cambridgeshire"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3236,
+  "shortTitle": "Hares (Close Season) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-11-17T11:50:02.0271438",
+  "billWithdrawn": "2022-11-16T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 16670,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 13389,
+        "stageId": 6,
+        "billStageId": 16670,
+        "billId": 3236,
+        "date": "2022-06-20T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide certain protections for persons who live together as a couple or have lived together as a couple as cohabitants; to make provision about the property of deceased persons who are survived by a cohabitant; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4206,
+        "name": "Lord Marks of Henley-on-Thames",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4206/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4206/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2026,
+  "shortTitle": "Cohabitation Rights Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-09-12T12:42:43",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9623,
+    "stageId": 2,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 8936,
+        "stageId": 2,
+        "billStageId": 9623,
+        "billId": 2026,
+        "date": "2019-03-15T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

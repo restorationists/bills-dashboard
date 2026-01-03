@@ -1,0 +1,73 @@
+{
+  "longTitle": "A Bill to prevent the implementation of existing proposals made for the purposes of Part 1 of the Local Government and Public Involvement in Health Act 2007; to revoke the Exeter and Devon (Structural Changes) Order 2010 and the Norwich and Norfolk (Structural Changes) Order 2010; and to make provision consequential on that revocation.",
+  "summary": "The Bill gives effect to the Coalition Government&rsquo;s commitment to put a stop to existing proposals for restructuring of councils in Norfolk, Devon and Suffolk. It would prevent implementation of any of the existing proposals for a single-tier local government structure - which in practice relate to these three counties - under the Local Government and Public Involvement in Health Act 2007. ",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2477,
+        "name": "Baroness Hanham",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2477/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2477/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 33,
+        "name": "Mr Eric Pickles",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/33/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/33/contact",
+        "memberFrom": "Brentwood and Ongar"
+      },
+      "organisation": {
+        "name": "Department for Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 649,
+  "shortTitle": "Local Government Act 2010",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2011-11-10T15:03:59",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 3976,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 3589,
+        "stageId": 11,
+        "billStageId": 3976,
+        "billId": 649,
+        "date": "2010-12-16T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  }
+}

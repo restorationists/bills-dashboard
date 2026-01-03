@@ -1,0 +1,48 @@
+{
+  "longTitle": "To make provision for the establishment of a Federation of the Armed Forces; and for connected puposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1438,
+        "name": "Mr Kevan Jones",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1438/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1438/contact",
+        "memberFrom": "North Durham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 311,
+  "shortTitle": "Armed Forces (Federation) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-06-20T09:37:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13204,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

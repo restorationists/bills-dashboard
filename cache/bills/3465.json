@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision for immigration restrictions to be disregarded for the purposes of the British Nationality Act 1981 in historical cases in which such restrictions were in practice disregarded.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4475,
+        "name": "Suella Braverman",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4475/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4475/contact",
+        "memberFrom": "Fareham"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4950,
+        "name": "Lord Murray of Blidworth",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4950/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4950/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Home Office",
+        "url": "https://www.gov.uk/government/organisations/home-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3465,
+  "shortTitle": "British Nationality (Regularisation of Past Practice) Act 2023",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-06-30T09:13:39.2811359",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 17798,
+    "stageId": 11,
+    "sessionId": 37,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 14780,
+        "stageId": 11,
+        "billStageId": 17798,
+        "billId": 3465,
+        "date": "2023-06-29T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+}

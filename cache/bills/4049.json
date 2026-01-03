@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to place a duty on the Secretary of State to enter into negotiations with the European Union to agree a customs union between the United Kingdom and the European Union; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 5288,
+        "name": "Dr Al Pinkerton",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5288/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5288/contact",
+        "memberFrom": "Surrey Heath"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4049,
+  "shortTitle": "UK-EU Customs Union (Duty to Negotiate) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-10T12:31:03.929695",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20361,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17606,
+        "stageId": 7,
+        "billStageId": 20361,
+        "billId": 4049,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

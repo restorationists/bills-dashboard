@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to confer further powers on the Health and Safety Executive.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4366,
+        "name": "James Cleverly",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4366/contact",
+        "memberFrom": "Braintree"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1649,
+  "shortTitle": "Health and Safety Executive (Powers) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-05-13T10:59:27",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14423,
+    "stageId": 7,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

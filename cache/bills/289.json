@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to introduce a bank holiday in the Autumn",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 370,
+        "name": "Shona McIsaac",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/370/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/370/contact",
+        "memberFrom": "Cleethorpes"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 289,
+  "shortTitle": "Autumn Bank Holiday Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-10-22T09:26:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13183,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

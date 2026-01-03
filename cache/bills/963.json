@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to enforce strict liability on directors of financial institutions; to require directors of financial institutions to post personal bonds as additional bank capital; to require personal bonds and bonuses to be treated as additional bank capital; to make provision for the insolvency of financial institutions; to establish a financial crimes investigation unit; and for connected purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4064,
+        "name": "Steve Baker",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4064/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4064/contact",
+        "memberFrom": "Wycombe"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 963,
+  "shortTitle": "Financial Institutions (Reform) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-02T11:03:06",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13781,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

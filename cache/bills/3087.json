@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to require the Secretary of State to report to Parliament on providing additional allowances to people in receipt of the state pension and other social security benefits in places with colder climates to reflect the increased cost of domestic heating; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4782,
+        "name": "Neale Hanvey",
+        "party": "Alba Party",
+        "partyColour": "005eb8",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4782/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4782/contact",
+        "memberFrom": "Kirkcaldy and Cowdenbeath"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3087,
+  "shortTitle": "Cold Climate Allowance Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-04-29T14:18:59.9809149",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15990,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12999,
+        "stageId": 7,
+        "billStageId": 15990,
+        "billId": 3087,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

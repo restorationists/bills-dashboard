@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit the import and sale of fur; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4716,
+        "name": "Ruth Jones",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4716/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4716/contact",
+        "memberFrom": "Newport West and Islwyn"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3789,
+  "shortTitle": "Fur (Import and Sale) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2025-12-16T12:51:46.0309297",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19044,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16120,
+        "stageId": 7,
+        "billStageId": 19044,
+        "billId": 3789,
+        "date": "2026-02-13T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

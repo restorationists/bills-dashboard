@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision in relation to marine functions and activities; to make provision about migratory and freshwater fish; to make provision for and in connection with the establishment of an English coastal walking route and of rights of access to land near the English coast; to enable the making of Assembly Measures in relation to Welsh coastal routes for recreational journeys and rights of access to land near the Welsh coast; to make further provision in relation to Natural England and the Countryside Council of Wales; to make provision in relation to works which are detrimental to navigation; to amend the Harbours Act 1964; and for connected purposes.",
+  "summary": "<p>A draft Marine Bill was published on 3 April 2008 for public consultation. It was also subject to pre-legislative scrutiny by Parliament. The Bill covers a broad range of marine issues.</p><p><strong>Key areas</strong></p><ul><li>Sets up a new Marine Management Organisation under which many of the existing, diverse areas of marine regulation would be centralised</li><li>streamlines the existing marine licensing system and provides powers to create a joined-up marine planning policy</li><li>introduces new measures to reform fisheries management</li><li>provides a framework for establishing marine conservation zones</li><li>enables the creation of a walkable route around the English coast.</li></ul><p> </p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2024,
+        "name": "Lord Hunt of Kings Heath",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2024/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2024/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Environment, Food and Rural Affairs",
+        "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 413,
+        "name": "Hilary Benn",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/413/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/413/contact",
+        "memberFrom": "Leeds Central"
+      },
+      "organisation": {
+        "name": "Department for Environment, Food and Rural Affairs",
+        "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 360,
+  "shortTitle": "Marine and Coastal Access",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2010-01-07T12:32:15",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 2792,
+    "stageId": 11,
+    "sessionId": 22,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 2619,
+        "stageId": 11,
+        "billStageId": 2792,
+        "billId": 360,
+        "date": "2009-11-12T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+}

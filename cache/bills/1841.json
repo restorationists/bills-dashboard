@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to amend the Parliamentary Constituencies Act 1986 to make provision about the number and size of parliamentary constituencies in the United Kingdom; to specify how the size of a constituency is to be calculated; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4103,
+        "name": "Pat Glass",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4103/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4103/contact",
+        "memberFrom": "North West Durham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1841,
+  "shortTitle": "Parliamentary Constituencies (Amendment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-03-08T14:19:42.6194096",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12763,
+    "stageId": 8,
+    "sessionId": 29,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 3
+  }
+}

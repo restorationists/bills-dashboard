@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit the use of wild animals in circuses; and for connected purposes",
+  "summary": "<p>This Bill began its second reading debate on 18 January 2013; the debate was adjourned. The Bill is expected resume its second reading debate on a date yet to be announced.</p><p>This Bill was presented to Parliament on 25 June 2012. This is known as the first reading and there was no debate on the Bill at this stage.</p><p>This Bill is a Private Member&rsquo;s Bill. These are often not printed until close to the second reading debate. If the text is not yet available here and you wish to know more about this bill please contact its sponsor, Thomas Docherty.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3962,
+        "name": "Thomas Docherty",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3962/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3962/contact",
+        "memberFrom": "Dunfermline and West Fife"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1053,
+  "shortTitle": "Wild Animals in Circuses Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2013-01-22T10:52:20",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 25,
+  "includedSessionIds": [
+    25
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 5103,
+    "stageId": 7,
+    "sessionId": 25,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 4852,
+        "stageId": 7,
+        "billStageId": 5103,
+        "billId": 1053,
+        "date": "2013-01-18T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

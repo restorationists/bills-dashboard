@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require the Government to publish a plan for meeting the domestic energy efficiency targets in the Clean Growth Strategy; to make provision for monitoring performance against milestones in that plan; to establish an advisory body on implementation of the plan; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4071,
+        "name": "Sarah Newton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4071/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4071/contact",
+        "memberFrom": "Truro and Falmouth"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2427,
+  "shortTitle": "Domestic Energy Efficiency Plan Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-06-19T10:55:40",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15155,
+    "stageId": 7,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

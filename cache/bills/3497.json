@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide for a national register of asbestos present in non-domestic premises and of the condition of that asbestos; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3939,
+        "name": "Andrew Percy",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3939/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3939/contact",
+        "memberFrom": "Brigg and Goole"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3497,
+  "shortTitle": "Asbestos (national register) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2023-10-30T15:58:14.9260931",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 17940,
+    "stageId": 6,
+    "sessionId": 37,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 14930,
+        "stageId": 6,
+        "billStageId": 17940,
+        "billId": 3497,
+        "date": "2023-09-13T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

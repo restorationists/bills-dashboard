@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide for parliamentary approval of trade agreements; to place a duty on the Secretary of State to consider UK agricultural, environmental and animal welfare standards when negotiating trade agreements; to require the Trade and Agriculture Commission to assess the effects of potential trade agreements on farming, the rural environment and animal welfare and to produce associated reports; to require the Secretary of State to lay such reports before Parliament; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1591,
+        "name": "Tim Farron",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1591/contact",
+        "memberFrom": "Westmorland and Lonsdale"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3079,
+  "shortTitle": "Trade Agreements (Parliamentary Scrutiny and Farming) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-05-04T15:28:56.8508269",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15937,
+    "stageId": 7,
+    "sessionId": 36,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 12550,
+        "stageId": 7,
+        "billStageId": 15937,
+        "billId": 3079,
+        "date": "2022-05-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

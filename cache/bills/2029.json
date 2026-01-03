@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for Members of the House of Lords to vote in elections to the House of Commons",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1251,
+        "name": "Lord Naseby",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1251/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1251/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2029,
+  "shortTitle": "Extension of Franchise (House of Lords) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-09-12T14:05:44",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 9629,
+    "stageId": 2,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 8940,
+        "stageId": 2,
+        "billStageId": 9629,
+        "billId": 2029,
+        "date": "2019-07-19T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

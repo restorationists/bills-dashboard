@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to provide a renewed constitutional form for the peoples of England, Scotland, Wales and Northern Ireland, to continue to join together to form the United Kingdom, to affirm that the peoples of those nations and parts have chosen, subject to and in accordance with the provisions of this Act, to continue to pool their sovereignty for specified purposes, and to protect social and economic rights for citizens",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4351,
+        "name": "Lord Lisvane",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4351/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4351/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2295,
+  "shortTitle": "Act of Union Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-10-09T10:28:01",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15032,
+    "stageId": 2,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

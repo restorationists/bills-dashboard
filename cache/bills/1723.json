@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to establish a mechanism by which the Scottish Government, Scottish Parliament and a majority of Members representing Scottish constituencies may jointly determine further powers and responsibilities to be devolved to Scotland; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1546,
+        "name": "Angus Brendan MacNeil",
+        "party": "Scottish National Party",
+        "partyColour": "fff685",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1546/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1546/contact",
+        "memberFrom": "Na h-Eileanan an Iar"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1723,
+  "shortTitle": "Scotland Act 1998 (Amendment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-05-13T12:15:59",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14496,
+    "stageId": 7,
+    "sessionId": 28,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

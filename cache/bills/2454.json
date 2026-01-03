@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make further provision in connection with the period for negotiations for withdrawing from the European Union.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 413,
+        "name": "Hilary Benn",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/413/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/413/contact",
+        "memberFrom": "Leeds Central"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 302,
+        "name": "Lord Rooker",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/302/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/302/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2454,
+  "shortTitle": "European Union (Withdrawal) (No. 2) Act",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-09-10T09:48:16",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 11381,
+    "stageId": 11,
+    "sessionId": 30,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 10438,
+        "stageId": 11,
+        "billStageId": 11381,
+        "billId": 2454,
+        "date": "2019-09-09T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

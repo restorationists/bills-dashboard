@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the Alternative Investment Fund Managers Regulations 2013 to remove Listed Investment Companies from Alternative Investment Fund designation; to make related changes to other relevant legislation; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4533,
+        "name": "Baroness Altmann",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4533/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4533/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3518,
+  "shortTitle": "Alternative Investment Fund Designation Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2024-05-29T11:31:35.431512",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18673,
+    "stageId": 5,
+    "sessionId": 38,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15713,
+        "stageId": 5,
+        "billStageId": 18673,
+        "billId": 3518,
+        "date": "2024-05-10T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

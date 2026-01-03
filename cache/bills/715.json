@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to provide for controls on the powers of certain regulatory authorities to impose charges for their services; and for connected purposes.",
+  "summary": "<p>The Bill would place restrictions on regulatory authorities in England (defined as &quot;any authority or body which regulates the carrying on of any business or activity, or the practice of any profession&quot;) so that they could not increase fees by more than the rate of inflation (measured by the Consumer Prices Index) over a specified period of time. </p><p>In addition, if such authorities wished to introduce a charge for a service that had previously not been charged for, they would have to seek parliamentary approval for this.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 242,
+        "name": "Mr Christopher Chope",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/242/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/242/contact",
+        "memberFrom": "Christchurch"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 715,
+  "shortTitle": "Regulatory Authorities (Level of Charges) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-01T16:22:16",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 3589,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 3360,
+        "stageId": 7,
+        "billStageId": 3589,
+        "billId": 715,
+        "date": "2011-05-13T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

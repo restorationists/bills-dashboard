@@ -1,0 +1,48 @@
+{
+  "longTitle": "Require an audit of existing or planned infrastructure in areas of significant housing development.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 115,
+        "name": "Mr Francis Maude",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/115/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/115/contact",
+        "memberFrom": "Horsham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 116,
+  "shortTitle": "Infrastructure Audit (Housing Development) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2007-10-24T14:48:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 20,
+  "includedSessionIds": [
+    20
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13034,
+    "stageId": 7,
+    "sessionId": 20,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

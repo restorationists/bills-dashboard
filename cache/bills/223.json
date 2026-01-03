@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to amend the Education Act 1996 in relation to the provision and publication of information about children who have special educational needs; and for connected purposes",
+  "summary": "<p>The Bill proposes to amend the Education Act 1996 in relation to the provision and publication of information about children who have special educational needs (SEN).</p><p><strong>Key areas</strong></p><ul><li>Seeks to highlight both the quality and efficiency of special educational needs support for children within schools and Local Education Authorities by ensuring the publication of outcomes for children with SEN. </li><li>Intends to assist in the rolling out of best practice by enabling a more informed assessment of special educational needs policies.<br></li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1521,
+        "name": "Mrs Sharon Hodgson",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1521/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1521/contact",
+        "memberFrom": "Gateshead East and Washington West"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3179,
+        "name": "Baroness Pitkeathley",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3179/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3179/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 223,
+  "shortTitle": "Special Educational Needs (Information) Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-02-25T13:52:07",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1770,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1743,
+        "stageId": 11,
+        "billStageId": 1770,
+        "billId": 223,
+        "date": "2008-07-21T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

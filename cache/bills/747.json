@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about the dissolution of Parliament and the determination of polling days for parliamentary general elections; and for connected purposes.",
+  "summary": "<p>The Bill fixes the date of the next General Election at 7 May 2015, and provides for five-year fixed terms. It includes provisions to allow the Prime Minister to alter the date by up to two months by Order. There are also two ways in which an election could be triggered before the end of the five-year term: </p><ul><li>if a motion of no confidence is passed and no alternative government is found </li><li>or if a motion for an early general election is agreed either by at least two-thirds of the House or without division</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1563,
+        "name": "Mr Nick Clegg",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1563/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1563/contact",
+        "memberFrom": "Sheffield, Hallam"
+      },
+      "organisation": {
+        "name": "Cabinet Office",
+        "url": "https://www.gov.uk/government/organisations/cabinet-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 630,
+        "name": "Lord Wallace of Tankerness",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/630/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/630/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Office of the Advocate General for Scotland",
+        "url": "https://www.gov.uk/government/organisations/office-of-the-advocate-general-for-scotland"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 747,
+  "shortTitle": "Fixed-Term Parliaments Act 2011",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2011-12-08T16:23:39",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4517,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4324,
+        "stageId": 11,
+        "billStageId": 4517,
+        "billId": 747,
+        "date": "2011-09-15T00:00:00"
+      }
+    ],
+    "sortOrder": 19
+  }
+}

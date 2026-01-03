@@ -1,0 +1,51 @@
+{
+  "longTitle": "A Bill to make new provision to address the legacy of the Northern Ireland Troubles.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 413,
+        "name": "Hilary Benn",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/413/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/413/contact",
+        "memberFrom": "Leeds South"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4022,
+  "shortTitle": "Northern Ireland Troubles Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2026-01-02T17:23:49.600572",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20309,
+    "stageId": 49,
+    "sessionId": 39,
+    "description": "Committee of the whole House",
+    "abbreviation": "COTWH",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 5
+  }
+}

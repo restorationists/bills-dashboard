@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to provide for the protection of temporary and agency workers; to require the principle of equal treatment to be applied to temporary and agency workers; to make provision about the enforcement of rights of temporary and agency workers; and for connected purposes",
+  "summary": "<p>The Bill would provide for equal treatment between agency workers and those working directly for an employer, in respect of &lsquo;basic working and employment conditions&rsquo; including pay. </p><p><strong>Key areas</strong></p><ul><li>The Bill&rsquo;s provisions largely follow EU Commission proposals produced in 2002 for an EC Directive which has failed to make progress at the European Council of Ministers </li><li>There are detailed provisions on enforcement allowing for the creation of a regulatory authority, appointment of statutory officers and provision for alternative dispute resolution.</li></ul><p>The Bill was withdrawn at Committee stage.</p><p> </p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 428,
+        "name": "Andrew Miller",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/428/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/428/contact",
+        "memberFrom": "Ellesmere Port and Neston"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 224,
+  "shortTitle": "Temporary and Agency Workers (Equal Treatment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-08-13T14:10:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 1426,
+    "stageId": 8,
+    "sessionId": 21,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 1350,
+        "stageId": 8,
+        "billStageId": 1426,
+        "billId": 224,
+        "date": "2008-05-07T00:00:00"
+      },
+      {
+        "id": 1460,
+        "stageId": 8,
+        "billStageId": 1426,
+        "billId": 224,
+        "date": "2008-05-14T00:00:00"
+      },
+      {
+        "id": 1559,
+        "stageId": 8,
+        "billStageId": 1426,
+        "billId": 224,
+        "date": "2008-05-21T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  }
+}

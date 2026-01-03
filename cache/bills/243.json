@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about the procedure for the resolution of employment disputes; to provide for compensation for financial loss in cases of unlawful underpayment or non-payment; to make provision about the enforcement of minimum wages legislation and the application of the national minimum wage to Cadet Force Adult Volunteers; to make provision about the enforcement of offences under the Employment Agencies Act 1973; to make provision about the right of trade unions to expel or exclude members on the grounds of membership of a political party; and for connected purposes.",
+  "summary": "The Bill contains proposals to reform existing law covering industrial relations and employment protection. <br><strong><br>Key areas</strong><br><br><ul><li>Repeals the Employment Act 2002 (Dispute Resolution) Regulations 2004 which were intended to reduce employment litigation, but had unintended consequences in practice</li><li>The statutory dispute resolution procedures will be replaced by a new non-regulatory system; a package of measures to encourage early/informal resolution of employment disputes possibly with increased support for the involvement of Acas</li><li>Clarifies and strengthens the enforcement framework for the National Minimum Wage</li><li>Clarifies and strengthens employment agency standards to address some of the concerns about vulnerable workers </li><li>Changes the relevant labour law to ensure compliance with the European Court of Human Rights judgement in Aslef v UK. This requires clearer rights for trade unions to determine their membership, after domestic courts held that trade unions could not lawfully expel British National Party activists.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3775,
+        "name": "Lord Jones of Birmingham",
+        "party": "Other",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3775/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3775/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business, Enterprise and Regulatory Reform",
+        "url": "http://www.berr.gov.uk/"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1587,
+        "name": "Mr Pat McFadden",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1587/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1587/contact",
+        "memberFrom": "Wolverhampton South East"
+      },
+      "organisation": {
+        "name": "Department for Business, Enterprise and Regulatory Reform",
+        "url": "http://www.berr.gov.uk/"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 243,
+  "shortTitle": "Employment Act 2008",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2009-02-25T12:06:29",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 1899,
+    "stageId": 11,
+    "sessionId": 21,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 1839,
+        "stageId": 11,
+        "billStageId": 1899,
+        "billId": 243,
+        "date": "2008-11-13T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision for the national citizen service.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4247,
+        "name": "Lord Ashton of Hyde",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4247/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4247/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": {
+        "name": "Department for Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 1556,
+        "name": "Mr Rob Wilson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1556/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1556/contact",
+        "memberFrom": "Reading East"
+      },
+      "organisation": {
+        "name": "Department for Culture, Media and Sport",
+        "url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1905,
+  "shortTitle": "National Citizen Service Act 2017",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2017-09-21T14:01:35",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 9529,
+    "stageId": 11,
+    "sessionId": 29,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 8802,
+        "stageId": 11,
+        "billStageId": 9529,
+        "billId": 1905,
+        "date": "2017-04-27T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  }
+}

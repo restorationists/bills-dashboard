@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to make provision about the administration and conduct of elections, including provision designed to strengthen the integrity of the electoral process; about overseas electors; about voting and candidacy rights of EU citizens; about the designation of a strategy and policy statement for the Electoral Commission; about the membership of the Speaker's Committee; about the Electoral Commission's functions in relation to criminal proceedings; about financial information to be provided by a political party on applying for registration; for preventing a person being registered as a political party and being a recognised non-party campaigner at the same time; about regulation of expenditure for political purposes; about disqualification of offenders for holding elective offices; about information to be included in electronic campaigning material; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4597,
+        "name": "Kemi Badenoch",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4597/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4597/contact",
+        "memberFrom": "Saffron Walden"
+      },
+      "organisation": {
+        "name": "Department for Levelling Up, Housing and Communities",
+        "url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4200,
+        "name": "Lord True",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4200/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4200/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Levelling Up, Housing and Communities",
+        "url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3020,
+  "shortTitle": "Elections Act 2022",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-10-12T16:48:06.2495862",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 16438,
+    "stageId": 11,
+    "sessionId": 36,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 13116,
+        "stageId": 11,
+        "billStageId": 16438,
+        "billId": 3020,
+        "date": "2022-04-28T00:00:00"
+      }
+    ],
+    "sortOrder": 18
+  }
+}

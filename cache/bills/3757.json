@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision about listed investment companies; the classification and characteristics of those companies; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4562,
+        "name": "Baroness Bowles of Berkhamsted",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4562/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4562/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 5070,
+        "name": "Lisa Smart",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5070/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5070/contact",
+        "memberFrom": "Hazel Grove"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3757,
+  "shortTitle": "Listed Investment Companies (Classification etc) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2025-11-26T12:57:47.9471081",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 19406,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16529,
+        "stageId": 7,
+        "billStageId": 19406,
+        "billId": 3757,
+        "date": "2026-01-16T00:00:00"
+      }
+    ],
+    "sortOrder": 6
+  }
+}

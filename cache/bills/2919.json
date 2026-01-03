@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to prohibit the sale of miniature mobile phones; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4855,
+        "name": "Sarah Atherton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4855/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4855/contact",
+        "memberFrom": "Wrexham"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2919,
+  "shortTitle": "Miniature Mobile Phones (Prohibition of Sale) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2022-01-12T12:45:27.748609",
+  "billWithdrawn": "2022-01-11T00:00:00",
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 36,
+  "includedSessionIds": [
+    36
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15403,
+    "stageId": 6,
+    "sessionId": 36,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 11928,
+        "stageId": 6,
+        "billStageId": 15403,
+        "billId": 2919,
+        "date": "2021-06-21T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  }
+}

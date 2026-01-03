@@ -1,0 +1,76 @@
+{
+  "longTitle": "A Bill to give effect to, and make provision in connection with, an agreement between the governments of the United Kingdom and the Republic of Mauritius concerning the Chagos Archipelago.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 206,
+        "name": "Mr David Lammy",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/206/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/206/contact",
+        "memberFrom": "Tottenham"
+      },
+      "organisation": {
+        "name": "Foreign, Commonwealth and Development Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 3972,
+        "name": "Baroness Chapman of Darlington",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3972/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3972/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Foreign, Commonwealth and Development Office",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 4004,
+  "shortTitle": "Diego Garcia Military Base and British Indian Ocean Territory Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2026-01-02T16:43:08.4346437",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 39,
+  "includedSessionIds": [
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20324,
+    "stageId": 4,
+    "sessionId": 39,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 17587,
+        "stageId": 4,
+        "billStageId": 20324,
+        "billId": 4004,
+        "date": "2026-01-05T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "longTitle": "A Bill to amend certain provisions of the Royal Albert Hall Act 1966 relating to the annual contribution payable by the Members of the Corporation towards the general purposes of the Royal Albert Hall; to make further provision regarding the exclusion of the Members from the hall.",
+  "summary": null,
+  "sponsors": [],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": {
+    "name": "Broadfield Law UK LLP",
+    "address": "One Bartholomew Close, London, EC1A 7BL.",
+    "phoneNo": "020 7783 3437",
+    "email": "PamThompson@bdbpitmans.com",
+    "website": ""
+  },
+  "billId": 3381,
+  "shortTitle": "Royal Albert Hall Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2025-11-13T14:36:57.506091",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 6,
+  "introducedSessionId": 37,
+  "includedSessionIds": [
+    37,
+    38,
+    39
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 20128,
+    "stageId": 8,
+    "sessionId": 39,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17526,
+        "stageId": 8,
+        "billStageId": 20128,
+        "billId": 3381,
+        "date": "2026-01-13T00:00:00"
+      }
+    ],
+    "sortOrder": 24
+  }
+}

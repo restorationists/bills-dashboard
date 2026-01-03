@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to make provision for parliamentary scrutiny of senior appointments to the British Board of Film Classification and of guildlines produced by it; to establish a body with powers to hear appeals against the release of videos and DVDs and the classification of works in prescribed circumstances; to make provision about penalties for the distribution of illegal works; and for connect purposes",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 77,
+        "name": "Mr Julian Brazier",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/77/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/77/contact",
+        "memberFrom": "Canterbury"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 225,
+  "shortTitle": "British Board of Film Classification (Accountability to Parliament and Appeals) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2008-04-03T16:35:00",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 21,
+  "includedSessionIds": [
+    21
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 1160,
+    "stageId": 7,
+    "sessionId": 21,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 1057,
+        "stageId": 7,
+        "billStageId": 1160,
+        "billId": 225,
+        "date": "2008-02-29T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

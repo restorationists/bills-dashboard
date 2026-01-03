@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to require NHS bodies in England to provide cervical screening for women aged 20 and over.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1488,
+        "name": "Mr Brooks Newmark",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1488/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1488/contact",
+        "memberFrom": "Braintree"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 519,
+  "shortTitle": "Cervical Cancer (Minimum Age for Screening) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2009-10-23T10:45:23",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 22,
+  "includedSessionIds": [
+    22
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 13383,
+    "stageId": 7,
+    "sessionId": 22,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

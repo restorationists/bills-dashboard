@@ -1,0 +1,51 @@
+{
+  "longTitle": "To require the Parole Board to take into account any failure by a prisoner serving a sentence for unlawful killing or for taking or making an indecent image of a child to disclose information about the victim.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4106,
+        "name": "Robert Buckland",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4106/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4106/contact",
+        "memberFrom": "South Swindon"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2462,
+  "shortTitle": "Prisoners (Disclosure of Information About Victims) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2019-11-06T12:38:37",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 34,
+  "includedSessionIds": [
+    34
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 15188,
+    "stageId": 7,
+    "sessionId": 34,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

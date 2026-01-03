@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to permit young persons to carry out voluntary work on a heritage railway or tramway",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 2472,
+        "name": "Lord Faulkner of Worcester",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2472/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2472/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2044,
+  "shortTitle": "Heritage Railways and Tramways (Voluntary Work) Bill [HL]",
+  "formerShortTitle": null,
+  "currentHouse": "Lords",
+  "originatingHouse": "Lords",
+  "lastUpdate": "2019-09-10T14:46:52",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 2,
+  "introducedSessionId": 30,
+  "includedSessionIds": [
+    30
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 14788,
+    "stageId": 2,
+    "sessionId": 30,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}

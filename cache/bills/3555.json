@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to amend the boundaries of the Greater London Low Emission Zone and Ultra Low Emission Zone; to provide that Transport for London may not make an order amending those boundaries without the consent of the Secretary of State; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 3970,
+        "name": "Gareth Johnson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3970/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3970/contact",
+        "memberFrom": "Dartford"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3555,
+  "shortTitle": "Greater London Low Emission Zone Charging (Amendment) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-05-30T11:15:51.8724607",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18164,
+    "stageId": 7,
+    "sessionId": 38,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 15679,
+        "stageId": 7,
+        "billStageId": 18164,
+        "billId": 3555,
+        "date": "2024-03-22T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

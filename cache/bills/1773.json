@@ -1,0 +1,73 @@
+{
+  "longTitle": "A Bill to make provision about higher education and research; and to make provision about alternative payments to students in higher or further education.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 1555,
+        "name": "Justine Greening",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1555/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1555/contact",
+        "memberFrom": "Putney"
+      },
+      "organisation": {
+        "name": "Department for Education",
+        "url": "http://www.education.gov.uk/"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4169,
+        "name": "Viscount Younger of Leckie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4169/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4169/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1773,
+  "shortTitle": "Higher Education and Research Act 2017 ",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-02-22T12:26:11",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 29,
+  "includedSessionIds": [
+    29
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 9521,
+    "stageId": 11,
+    "sessionId": 29,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 8768,
+        "stageId": 11,
+        "billStageId": 9521,
+        "billId": 1773,
+        "date": "2017-04-27T00:00:00"
+      }
+    ],
+    "sortOrder": 17
+  }
+}

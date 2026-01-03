@@ -1,0 +1,56 @@
+{
+  "longTitle": "A Bill to designate St George’s Day, or the nearest working day, as an annual public holiday in England with effect from 2012; to designate St David’s Day, or the nearest working day, as an annual public holiday in Wales with effect from 2012; and for connected purposes.",
+  "summary": "<p>The Bill would amend the the Banking and Financial Dealings Act 1971 to provide that 23 April or the nearest working day should be a bank holiday in England but not in Wales, and that 1 March or the nearest working day should be a bank holiday in Wales but not in England. </p><p>The Bill would enable the Secretary of State to designate an alternative date for the St. George's Day bank holiday if it fell on Good Friday or Easter Monday.</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4113,
+        "name": "Nadhim Zahawi",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4113/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4113/contact",
+        "memberFrom": "Stratford-on-Avon"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 811,
+  "shortTitle": "St George's Day and St David's Day Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-01T15:41:20",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 5,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 3962,
+    "stageId": 7,
+    "sessionId": 24,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 3686,
+        "stageId": 7,
+        "billStageId": 3962,
+        "billId": 811,
+        "date": "2011-05-13T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  }
+}

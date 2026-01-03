@@ -1,0 +1,70 @@
+{
+  "longTitle": "A Bill to make provision for, and in connection with, the removal of the Secretary of State’s powers under the National Health Service Act 2006 to appoint trustees; to make provision transferring to Great Ormond Street Hospital Children’s Charity the right to a royalty conferred by Schedule 6 to the Copyright, Designs and Patents Act 1988; and for connected purposes.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4358,
+        "name": "Wendy Morton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4358/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4358/contact",
+        "memberFrom": "Aldridge-Brownhills"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 2489,
+        "name": "Baroness Massey of Darwen",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2489/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2489/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": null,
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 1635,
+  "shortTitle": "NHS (Charitable Trusts Etc) Act 2016",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2016-03-24T10:51:32",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 7,
+  "introducedSessionId": 28,
+  "includedSessionIds": [
+    28
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 8504,
+    "stageId": 11,
+    "sessionId": 28,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 7896,
+        "stageId": 11,
+        "billStageId": 8504,
+        "billId": 1635,
+        "date": "2016-03-23T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  }
+}

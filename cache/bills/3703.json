@@ -1,0 +1,51 @@
+{
+  "longTitle": "Please note: this is the old version of the Bill introduced under the previous Government. A link to the new version introduced by the current Government is provided below.",
+  "summary": "<p><a href=\"https://bills.parliament.uk/bills/3879\" rel=\"noopener noreferrer\" target=\"_blank\">Tobacco and Vapes Bill - Parliamentary Bills - UK Parliament</a> - link to the new Bill in Session 2024-25</p>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4399,
+        "name": "Victoria Atkins",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4399/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4399/contact",
+        "memberFrom": "Louth and Horncastle"
+      },
+      "organisation": {
+        "name": "Department of Health and Social Care",
+        "url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+      },
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 3703,
+  "shortTitle": "Tobacco and Vapes Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2024-11-21T16:31:32.3746261",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 38,
+  "includedSessionIds": [
+    38
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 18854,
+    "stageId": 9,
+    "sessionId": 38,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 7
+  }
+}

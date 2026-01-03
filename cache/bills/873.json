@@ -1,0 +1,76 @@
+{
+  "longTitle": "To make provision about legal aid; to make further provision about funding legal services; to make provision about costs and other amounts awarded in civil and criminal proceedings; to make provision about sentencing offenders, including provision about release on licence or otherwise; to make provision about bail and about remand otherwise than on bail; to make provision about the employment, payment and transfer of persons detained in prisons and other institutions; to make provision about penalty notices for disorderly behaviour and cautions; and to create new offences of threatening with a weapon in public or on school premises.",
+  "summary": "<p>The Bill covers a wide range of issues. It comprises four parts and 16 schedules. Part 1 makes provisions on legal aid, Part 2 deals with litigation funding and costs, and Part 3 covers sentencing and the punishment of offenders.</p><p><strong>Key areas</strong></p><ul><li>reverses the position under the Access to Justice Act 1999, whereby civil legal aid is available for any matter not specifically excluded. The Bill takes some types of case out of scope for legal aid funding and provides that cases would not be eligible for funding unless of a type specified in the Bill</li><li>abolishes the Legal Services Commission</li><li>makes various provisions in respect of civil litigation funding and costs, taking forward the recommendations of the Jackson Review and the Government&rsquo;s response to that review</li><li>makes changes to sentencing provisions, including giving courts an express duty (rather than the current power) to consider making compensation orders where victims have suffered harm or loss; reducing the detailed requirements on courts when they give reasons for a sentence; allowing courts to suspend sentences of up to two years rather than 12 months; and amending the court&rsquo;s power to suspend a prison sentence</li><li>introduces new powers to allow curfews to be imposed for more hours in the day and for up to 12 months rather than the current six</li><li>repeals provisions in the Criminal Justice Act 2003 which would have increased the maximum sentence a magistrate&rsquo;s court could impose from six to 12 months</li><li>makes changes to the law on bail and remand, aimed at reducing the number of those who are unnecessarily remanded into custody. Under the new &ldquo;no real prospect&rdquo; test, people would be released on bail if they would be unlikely to receive a custodial sentence</li><li>makes provision to ensure that, where a person aged under 18 has to be remanded into custody, in most cases they would be remanded into local authority accommodation</li><li>amends provisions relating to the release and recall of prisoners</li><li>gives the Secretary of State new powers to make prison rules about prisoners&rsquo; employment, pay and deductions from their pay. The intention of these provisions is that prisoners should make payments which would support victims of crime</li><li>introduces a penalty notice with an education option and provision for conditional cautions to be given without the need to refer the case to the relevant prosecutor</li><li>creates a new offence of threatening with an offensive weapon or an article with a blade or point thereby creating an immediate risk of serious physical harm. A minimum sentence of 6 months&rsquo; imprisonment would normally be given to persons over 18 found guilty of this offence.</li></ul>",
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 366,
+        "name": "Mr Kenneth Clarke",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/366/contact",
+        "memberFrom": "Rushcliffe"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 919,
+        "name": "Lord McNally",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/919/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/919/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Ministry of Justice",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+      },
+      "sortOrder": 2
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 873,
+  "shortTitle": "Legal Aid, Sentencing and Punishment of Offenders Act 2012",
+  "formerShortTitle": null,
+  "currentHouse": "Unassigned",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2012-05-17T14:51:16",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 1,
+  "introducedSessionId": 24,
+  "includedSessionIds": [
+    24
+  ],
+  "isAct": true,
+  "currentStage": {
+    "id": 4926,
+    "stageId": 11,
+    "sessionId": 24,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 4618,
+        "stageId": 11,
+        "billStageId": 4926,
+        "billId": 873,
+        "date": "2012-05-01T00:00:00"
+      }
+    ],
+    "sortOrder": 21
+  }
+}

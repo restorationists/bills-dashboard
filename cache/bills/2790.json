@@ -1,0 +1,48 @@
+{
+  "longTitle": "A Bill to amend the Equality Act 2010 to permit political parties to use all-ethnic-minority shortlists for the selection of election candidates.",
+  "summary": null,
+  "sponsors": [
+    {
+      "member": {
+        "memberId": 4602,
+        "name": "Wera Hobhouse",
+        "party": "Liberal Democrat",
+        "partyColour": "faa01a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4602/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4602/contact",
+        "memberFrom": "Bath"
+      },
+      "organisation": null,
+      "sortOrder": 1
+    }
+  ],
+  "promoters": [],
+  "petitioningPeriod": null,
+  "petitionInformation": null,
+  "agent": null,
+  "billId": 2790,
+  "shortTitle": "Election Candidates (All-ethnic-minority Shortlists) Bill",
+  "formerShortTitle": null,
+  "currentHouse": "Commons",
+  "originatingHouse": "Commons",
+  "lastUpdate": "2021-05-04T15:59:44.3541051",
+  "billWithdrawn": null,
+  "isDefeated": false,
+  "billTypeId": 8,
+  "introducedSessionId": 35,
+  "includedSessionIds": [
+    35
+  ],
+  "isAct": false,
+  "currentStage": {
+    "id": 12470,
+    "stageId": 7,
+    "sessionId": 35,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 2
+  }
+}
