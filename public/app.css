@@ -1,6 +1,13 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: "Merriweather", serif;
+  --font-serif: "Merriweather", serif;
+  --shadow-soft: 0 12px 40px rgba(0, 0, 0, 0.08);
+  --shadow-soft-dark: 0 16px 50px rgba(0, 0, 0, 0.45);
+}
 
 :root {
   color-scheme: light;
@@ -9,7 +16,6 @@ html.dark {
   color-scheme: dark;
 }
 
-/* Subtle selection polish */
 ::selection {
   background: rgba(56, 189, 248, 0.35);
 }

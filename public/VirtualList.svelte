@@ -1,15 +1,11 @@
 <script>
   import { onMount, tick } from "svelte";
 
-  export let items = [];
-  export let row_height = 92;
-  export let overscan = 8;
+  let { items = [], row_height = 92, overscan = 8, render_key = (item, idx) => idx, row } = $props();
 
-  export let render_key = (item, idx) => idx;
-
-  let container;
-  let scroll_top = 0;
-  let height = 600;
+  let container = $state(null);
+  let scroll_top = $state(0);
+  let height = $state(600);
 
   const measure = () => {
     if (!container) return;
@@ -20,28 +16,23 @@
     scroll_top = container ? container.scrollTop : 0;
   };
 
-  const on_resize = () => {
-    measure();
-  };
+  let total = $derived(items.length);
+  let start = $derived(Math.max(0, Math.floor(scroll_top / row_height) - overscan));
+  let visible = $derived(Math.ceil(height / row_height) + overscan * 2);
+  let end = $derived(Math.min(total, start + visible));
+  let slice = $derived(items.slice(start, end));
 
-  $: total = items.length;
-  $: start = Math.max(0, Math.floor(scroll_top / row_height) - overscan);
-  $: visible = Math.ceil(height / row_height) + overscan * 2;
-  $: end = Math.min(total, start + visible);
-  $: slice = items.slice(start, end);
+  let pad_top = $derived(start * row_height);
+  let pad_bottom = $derived(Math.max(0, (total - end) * row_height));
 
-  $: pad_top = start * row_height;
-  $: pad_bottom = Math.max(0, (total - end) * row_height);
-
-  // When items change (filter), keep scroll position sane
-  $: if (container) {
-    // if we've scrolled past new end, clamp
+  $effect(() => {
+    if (!container) return;
     const max_scroll = Math.max(0, total * row_height - height);
     if (scroll_top > max_scroll) {
       scroll_top = max_scroll;
       container.scrollTop = max_scroll;
     }
-  }
+  });
 
   onMount(async () => {
     await tick();
@@ -49,13 +40,13 @@
   });
 </script>
 
-<svelte:window on:resize={on_resize} />
+<svelte:window onresize={measure} />
 
-<div bind:this={container} class="h-full overflow-auto" on:scroll={on_scroll}>
+<div bind:this={container} class="h-full overflow-auto" onscroll={on_scroll}>
   <div style="padding-top:{pad_top}px; padding-bottom:{pad_bottom}px;">
     {#each slice as item, i (render_key(item, start + i))}
       <div style="height:{row_height}px;">
-        <slot name="row" item={item} index={start + i}></slot>
+        {@render row(item, start + i)}
       </div>
     {/each}
   </div>

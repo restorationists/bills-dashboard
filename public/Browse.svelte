@@ -6,18 +6,18 @@
   import bills_url from "./bills_simplified.json?url";
   import members_url from "./members.json?url";
 
-  let loading = true;
-  let error = "";
+  let loading = $state(true);
+  let error = $state("");
 
-  let bills = [];
-  let members_by_id = {};
-  let bills_by_id = {};
+  let bills = $state([]);
+  let members_by_id = $state({});
+  let bills_by_id = $state({});
 
-  let q = "";
-  let selected = null;
-  let drawer_open = false;
+  let q = $state("");
+  let selected = $state(null);
+  let drawer_open = $state(false);
 
-  let row_height = 118;
+  let row_height = $state(118);
   let mq = null;
   let mq_handler = null;
 
@@ -82,8 +82,6 @@
           "dark:bg-cyan-400/18 dark:text-cyan-100 dark:ring-cyan-200/25"
       };
 
-    // IMPORTANT: unknown party must never render as white-on-white.
-    // Use a dark grey pill in both themes.
     return {
       hex: "#a3a3a3",
       pill:
@@ -102,23 +100,15 @@
     selected = null;
   };
 
-  const matches = (b) => {
-    const qq = normalize(q);
-    if (!qq) return true;
-
-    const hay = `${b.short_title || ""} ${b.long_title || ""} ${b.member_name || ""} ${b.constituency || ""} ${b.party || ""}`.toLowerCase();
-    return hay.includes(qq);
-  };
-
-  $: qq = normalize(q);
-  $: filtered = !qq
-    ? bills
-    : bills.filter((b) => {
-        const hay = `${b.short_title || ""} ${b.long_title || ""} ${b.member_name || ""} ${b.constituency || ""} ${b.party || ""}`
-          .toLowerCase();
-        return hay.includes(qq);
-      });
-
+  let qq = $derived(normalize(q));
+  let filtered = $derived(
+    !qq
+      ? bills
+      : bills.filter((b) => {
+          const hay = `${b.short_title || ""} ${b.long_title || ""} ${b.member_name || ""} ${b.constituency || ""} ${b.party || ""}`.toLowerCase();
+          return hay.includes(qq);
+        })
+  );
 
   onMount(async () => {
     mq = window.matchMedia("(min-width: 640px)");
@@ -171,7 +161,7 @@
     </p>
   </div>
 
-  <div class="rounded-xl border border-neutral-200 bg-white p-4 sm:p-5 dark:border-white/10 dark:bg-[#0A0C12]">
+  <div class="rounded border border-neutral-200 bg-white p-4 sm:p-5 dark:border-white/10 dark:bg-[#0A0C12]">
     <div class="relative">
       <span
         class="iconify absolute left-4 top-1/2 -translate-y-1/2 text-[20px] text-neutral-500 dark:text-neutral-400"
@@ -201,75 +191,73 @@
       {/if}
     </div>
 
-    <div class="mt-4 h-[70vh] rounded-xl border border-neutral-200 bg-white overflow-hidden dark:border-white/10 dark:bg-[#0A0C12]">
+    <div class="mt-4 h-[70vh] rounded border border-neutral-200 bg-white overflow-hidden dark:border-white/10 dark:bg-[#0A0C12]">
       {#if loading}
         <div class="p-6 text-neutral-600 dark:text-neutral-300">Loading bills…</div>
       {:else if error}
         <div class="p-6 text-rose-700 dark:text-rose-200">{error}</div>
       {:else}
         <VirtualList items={filtered} row_height={row_height} render_key={(b) => b.bill_id}>
-          <!-- tighter outer padding on mobile -->
-          <div slot="row" let:item class="px-0 sm:px-6 h-full">
-            <button
-              class="relative w-full h-full text-left flex items-center gap-2 sm:gap-5 rounded-2xl
-                     px-2 sm:px-4 py-2 sm:py-0
-                     transition border border-transparent
-                     hover:bg-black/5 dark:hover:bg-white/[0.02]
-                     hover:border-neutral-300 dark:hover:border-white/10"
-              on:click={() => open_bill(item)}
-            >
-              <div class="shrink-0">
-                <!-- smaller icon block on mobile -->
-                <div class="h-8 w-8 sm:h-12 sm:w-12 rounded-2xl border border-neutral-200 bg-white
-                            dark:border-white/10 dark:bg-white/[0.05]
-                            flex items-center justify-center">
-                  <span
-                    class="iconify text-[18px] sm:text-[24px]"
-                    data-icon="mdi:file-document-outline"
-                    style={`color:${party_meta(item.party).hex}`}
-                  ></span>
-                </div>
-              </div>
-
-              <div class="min-w-0 flex-1 pr-0 sm:pr-28">
-                <div class="flex items-center gap-2 min-w-0">
-                  <div class="truncate font-semibold text-[16px] sm:text-[19px] text-neutral-900 dark:text-neutral-50">
-                    {item.short_title}
+          {#snippet row(item)}
+            <div class="px-0 sm:px-6 h-full">
+              <button
+                class="relative w-full h-full text-left flex items-center gap-2 sm:gap-5 rounded
+                       px-2 sm:px-4 py-2 sm:py-0
+                       transition border border-transparent
+                       hover:bg-black/5 dark:hover:bg-white/[0.02]
+                       hover:border-neutral-300 dark:hover:border-white/10"
+                onclick={() => open_bill(item)}
+              >
+                <div class="shrink-0">
+                  <div class="h-8 w-8 sm:h-12 sm:w-12 rounded border border-neutral-200 bg-white
+                              dark:border-white/10 dark:bg-white/[0.05]
+                              flex items-center justify-center">
+                    <span
+                      class="iconify text-[18px] sm:text-[24px]"
+                      data-icon="mdi:file-document-outline"
+                      style={`color:${party_meta(item.party).hex}`}
+                    ></span>
                   </div>
-                  <span class="hidden sm:inline text-xs text-neutral-500 shrink-0">#{item.bill_id}</span>
                 </div>
 
-                <div class="mt-1 text-[12px] sm:text-[14px] text-neutral-600 dark:text-neutral-300 truncate">
-                  {item.member_name || "—"} · {item.constituency || "—"} · {item.house}
+                <div class="min-w-0 flex-1 pr-0 sm:pr-28">
+                  <div class="flex items-center gap-2 min-w-0">
+                    <div class="truncate font-semibold text-[16px] sm:text-[19px] text-neutral-900 dark:text-neutral-50">
+                      {item.short_title}
+                    </div>
+                    <span class="hidden sm:inline text-xs text-neutral-500 shrink-0">#{item.bill_id}</span>
+                  </div>
+
+                  <div class="mt-1 text-[12px] sm:text-[14px] text-neutral-600 dark:text-neutral-300 truncate">
+                    {item.member_name || "—"} · {item.constituency || "—"} · {item.house}
+                  </div>
+
+                  <span
+                    class={`mt-1 inline-flex sm:hidden items-center
+                            px-2.5 py-1.5 rounded-lg text-[11px] leading-none ring-1
+                            ${party_meta(item.party).pill}`}
+                    title={item.party || "—"}
+                  >
+                    <span class="max-w-[210px] truncate">{item.party || "Independent / Unknown"}</span>
+                  </span>
                 </div>
 
-                <!-- mobile pill -->
                 <span
-                  class={`mt-1 inline-flex sm:hidden items-center
-                          px-2.5 py-1.5 rounded-lg text-[11px] leading-none ring-1
+                  class={`hidden sm:inline absolute right-12 top-1/2 -translate-y-1/2
+                          inline-flex items-center
+                          px-3 py-2 rounded-lg text-xs leading-none ring-1
                           ${party_meta(item.party).pill}`}
                   title={item.party || "—"}
                 >
-                  <span class="max-w-[210px] truncate">{item.party || "Independent / Unknown"}</span>
+                  <span class="max-w-[140px] truncate">{item.party || "Independent / Unknown"}</span>
                 </span>
-              </div>
 
-              <!-- desktop floating pill -->
-              <span
-                class={`hidden sm:inline absolute right-12 top-1/2 -translate-y-1/2
-                        inline-flex items-center
-                        px-3 py-2 rounded-lg text-xs leading-none ring-1
-                        ${party_meta(item.party).pill}`}
-                title={item.party || "—"}
-              >
-                <span class="max-w-[140px] truncate">{item.party || "Independent / Unknown"}</span>
-              </span>
-
-              <div class="hidden sm:block shrink-0 absolute right-3 top-1/2 -translate-y-1/2 text-neutral-400">
-                <span class="iconify text-[26px]" data-icon="mdi:chevron-right"></span>
-              </div>
-            </button>
-          </div>
+                <div class="hidden sm:block shrink-0 absolute right-3 top-1/2 -translate-y-1/2 text-neutral-400">
+                  <span class="iconify text-[26px]" data-icon="mdi:chevron-right"></span>
+                </div>
+              </button>
+            </div>
+          {/snippet}
         </VirtualList>
       {/if}
     </div>

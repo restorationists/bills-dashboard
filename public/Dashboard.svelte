@@ -5,18 +5,16 @@
   import stats_url from "./statistics.json?url";
   import bills_url from "./bills_simplified.json?url";
 
-  let loading = true;
-  let error = "";
-  let stats = null;
-  let bills = [];
+  let loading = $state(true);
+  let error = $state("");
+  let stats = $state(null);
+  let bills = $state([]);
 
-  let el_mp;
-  let el_party;
-  let el_house;
-  let el_stage;
-
+  let el_mp = $state();
+  let el_party = $state();
+  let el_house = $state();
+  let el_stage = $state();
   let c_mp, c_party, c_house, c_stage;
-
   let theme_observer = null;
 
   const normalize = (s) => (s || "").toLowerCase().trim();
@@ -198,10 +196,8 @@
       bills = (await br.json()).items || [];
       loading = false;
 
-      // build after DOM paints
       requestAnimationFrame(() => build());
 
-      // rebuild charts when the theme class changes on <html>
       theme_observer = new MutationObserver(() => {
         requestAnimationFrame(() => build());
       });
@@ -232,16 +228,16 @@
   </div>
 
   {#if loading}
-    <div class="rounded-xl border border-neutral-200 dark:border-white/10 bg-neutral-100 dark:bg-white/5 p-6 text-neutral-700 dark:text-neutral-300">
+    <div class="rounded border border-neutral-200 dark:border-white/10 bg-neutral-100 dark:bg-white/5 p-6 text-neutral-700 dark:text-neutral-300">
       Loading dashboard…
     </div>
   {:else if error}
-    <div class="rounded-xl border border-rose-300 dark:border-rose-400/30 bg-rose-50 dark:bg-rose-500/10 p-6 text-rose-800 dark:text-rose-200">
+    <div class="rounded border border-rose-300 dark:border-rose-400/30 bg-rose-50 dark:bg-rose-500/10 p-6 text-rose-800 dark:text-rose-200">
       {error}
     </div>
   {:else}
     <div class="grid grid-cols-1 xl:grid-cols-2 gap-4">
-      <div class="rounded-xl border border-neutral-200 dark:border-white/10 bg-neutral-50 dark:bg-white/5 p-5 overflow-hidden">
+      <div class="rounded border border-neutral-200 dark:border-white/10 bg-neutral-50 dark:bg-white/5 p-5 overflow-hidden">
         <div class="flex items-center justify-between">
           <div class="font-serif text-2xl font-bold text-neutral-900 dark:text-neutral-50">Most Prolific MPs</div>
           <span class="iconify text-[20px] text-neutral-500 dark:text-neutral-400" data-icon="mdi:account-star-outline"></span>
@@ -251,7 +247,7 @@
         </div>
       </div>
 
-      <div class="rounded-xl border border-neutral-200 dark:border-white/10 bg-neutral-100 dark:bg-white/5 p-5 overflow-hidden">
+      <div class="rounded border border-neutral-200 dark:border-white/10 bg-neutral-100 dark:bg-white/5 p-5 overflow-hidden">
         <div class="flex items-center justify-between">
           <div class="font-serif text-2xl font-bold text-neutral-900 dark:text-neutral-50">Bills by Party</div>
           <span class="iconify text-[20px] text-neutral-500 dark:text-neutral-400" data-icon="mdi:flag-variant-outline"></span>
@@ -261,7 +257,7 @@
         </div>
       </div>
 
-      <div class="rounded-xl border border-neutral-200 dark:border-white/10 bg-neutral-100 dark:bg-white/5 p-5 overflow-hidden">
+      <div class="rounded border border-neutral-200 dark:border-white/10 bg-neutral-100 dark:bg-white/5 p-5 overflow-hidden">
         <div class="flex items-center justify-between">
           <div class="font-serif text-2xl font-bold text-neutral-900 dark:text-neutral-50">Originating House</div>
           <span class="iconify text-[20px] text-neutral-500 dark:text-neutral-400" data-icon="mdi:bank-outline"></span>
@@ -271,7 +267,7 @@
         </div>
       </div>
 
-      <div class="rounded-xl border border-neutral-200 dark:border-white/10 bg-neutral-100 dark:bg-white/5 p-5 overflow-hidden">
+      <div class="rounded border border-neutral-200 dark:border-white/10 bg-neutral-100 dark:bg-white/5 p-5 overflow-hidden">
         <div class="flex items-center justify-between">
           <div class="font-serif text-2xl font-bold text-neutral-900 dark:text-neutral-50">Current Stage (Top 12)</div>
           <span class="iconify text-[20px] text-neutral-500 dark:text-neutral-400" data-icon="mdi:progress-clock"></span>

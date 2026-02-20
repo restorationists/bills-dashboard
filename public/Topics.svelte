@@ -7,20 +7,20 @@
   import bills_url from "./bills_simplified.json?url";
   import members_url from "./members.json?url";
 
-  let loading = true;
-  let error = "";
+  let loading = $state(true);
+  let error = $state("");
 
-  let topics = [];
-  let bills_by_id = {};
-  let members_by_id = {};
+  let topics = $state([]);
+  let bills_by_id = $state({});
+  let members_by_id = $state({});
 
-  let active_slug = "";
-  let topic_q = "";
+  let active_slug = $state("");
+  let topic_q = $state("");
 
-  let selected = null;
-  let drawer_open = false;
+  let selected = $state(null);
+  let drawer_open = $state(false);
 
-  let row_height = 118;
+  let row_height = $state(118);
   let mq = null;
   let mq_handler = null;
 
@@ -103,17 +103,19 @@
     };
   };
 
-  $: active = topics.find((t) => t.slug === active_slug) || topics[0] || null;
+  let active = $derived(topics.find((t) => t.slug === active_slug) || topics[0] || null);
 
-  $: active_bills = (active?.bills || [])
-    .map((id) => bills_by_id[id])
-    .filter(Boolean)
-    .filter((b) => {
-      const qq = normalize(topic_q);
-      if (!qq) return true;
-      const hay = `${b.short_title || ""} ${b.member_name || ""} ${b.constituency || ""} ${b.party || ""}`.toLowerCase();
-      return hay.includes(qq);
-    });
+  let active_bills = $derived(
+    (active?.bills || [])
+      .map((id) => bills_by_id[id])
+      .filter(Boolean)
+      .filter((b) => {
+        const qq = normalize(topic_q);
+        if (!qq) return true;
+        const hay = `${b.short_title || ""} ${b.member_name || ""} ${b.constituency || ""} ${b.party || ""}`.toLowerCase();
+        return hay.includes(qq);
+      })
+  );
 
   const on_keydown = (e) => {
     if (e.key !== "Escape") return;
@@ -155,8 +157,7 @@
   });
 </script>
 
-<!-- MUST be top-level -->
-<svelte:window on:keydown={on_keydown} />
+<svelte:window onkeydown={on_keydown} />
 
 <section class="w-full font-[Merriweather]">
   <div class="mb-6">
@@ -169,17 +170,16 @@
   </div>
 
   {#if loading}
-    <div class="rounded-xl border border-neutral-200 bg-white p-6 text-neutral-700 dark:border-white/10 dark:bg-white/[0.04] dark:text-neutral-300">
+    <div class="rounded border border-neutral-200 bg-white p-6 text-neutral-700 dark:border-white/10 dark:bg-white/[0.04] dark:text-neutral-300">
       Loading topics…
     </div>
   {:else if error}
-    <div class="rounded-xl border border-rose-300 bg-rose-50 p-6 text-rose-800 dark:border-rose-400/20 dark:bg-rose-500/10 dark:text-rose-200">
+    <div class="rounded border border-rose-300 bg-rose-50 p-6 text-rose-800 dark:border-rose-400/20 dark:bg-rose-500/10 dark:text-rose-200">
       {error}
     </div>
   {:else}
-    <!-- Mobile: dropdown + results (no giant left list) -->
     <div class="grid grid-cols-1 lg:grid-cols-[360px_1fr] gap-4">
-      <aside class="hidden lg:block rounded-xl border border-neutral-200 bg-white shadow-sm overflow-hidden dark:border-white/10 dark:bg-white/[0.04] dark:shadow-softDark">
+      <aside class="hidden lg:block rounded border border-neutral-200 bg-white shadow-sm overflow-hidden dark:border-white/10 dark:bg-white/[0.04] dark:shadow-soft-dark">
         <div class="p-4 border-b border-neutral-200 flex items-center justify-between dark:border-white/10">
           <div class="font-semibold text-neutral-900 dark:text-neutral-100">Topics</div>
           <span class="iconify text-[18px] text-neutral-500 dark:text-neutral-400" data-icon="mdi:tag-multiple-outline"></span>
@@ -193,7 +193,7 @@
                       border-neutral-100 hover:bg-neutral-50
                       dark:border-white/5 dark:hover:bg-white/[0.06]
                       ${t.slug === active_slug ? "bg-neutral-50 dark:bg-white/[0.08]" : ""}`}
-              on:click={() => (active_slug = t.slug)}
+              onclick={() => (active_slug = t.slug)}
             >
               <div class="flex items-center justify-between gap-3">
                 <div class="min-w-0">
@@ -207,9 +207,8 @@
         </div>
       </aside>
 
-      <main class="rounded-xl border border-neutral-200 bg-white shadow-sm overflow-hidden dark:border-white/10 dark:bg-[#0A0C12] dark:shadow-softDark">
+      <main class="rounded border border-neutral-200 bg-white shadow-sm overflow-hidden dark:border-white/10 dark:bg-[#0A0C12] dark:shadow-soft-dark">
         <div class="p-4 sm:p-5 border-b border-neutral-200 dark:border-white/10">
-          <!-- Mobile dropdown -->
           <div class="lg:hidden">
             <label class="block text-xs uppercase tracking-wide text-neutral-500 dark:text-neutral-400 mb-2">
               Topic
@@ -244,7 +243,6 @@
             </div>
           </div>
 
-          <!-- Desktop heading -->
           <div class="hidden lg:block">
             <div class="text-xs uppercase tracking-wide text-neutral-500">Selected topic</div>
             <div class="mt-1 font-serif text-2xl sm:text-3xl font-black text-neutral-900 dark:text-neutral-50">
@@ -276,67 +274,69 @@
 
         <div class="h-[64vh]">
           <VirtualList items={active_bills} row_height={row_height} render_key={(b) => b.bill_id}>
-            <div slot="row" let:item class="px-0 sm:px-6 h-full">
-              <button
-                type="button"
-                class="relative w-full h-full text-left flex items-center gap-2 sm:gap-5 rounded-2xl
-                       px-2 sm:px-4 py-2 sm:py-0
-                       transition border border-transparent
-                       hover:bg-black/5 dark:hover:bg-white/[0.02]
-                       hover:border-neutral-300 dark:hover:border-white/10"
-                on:click={() => open_bill(item)}
-              >
-                <div class="shrink-0">
-                  <div
-                    class="h-8 w-8 sm:h-12 sm:w-12 rounded-2xl border border-neutral-200 bg-white
-                           dark:border-white/10 dark:bg-white/[0.05]
-                           flex items-center justify-center"
-                  >
-                    <span
-                      class="iconify text-[18px] sm:text-[24px]"
-                      data-icon="mdi:file-document-outline"
-                      style={`color:${party_meta(item.party).hex}`}
-                    ></span>
-                  </div>
-                </div>
-
-                <div class="min-w-0 flex-1 pr-0 sm:pr-28">
-                  <div class="flex items-center gap-2 min-w-0">
-                    <div class="truncate font-semibold text-[16px] sm:text-[19px] text-neutral-900 dark:text-neutral-50">
-                      {item.short_title}
+            {#snippet row(item)}
+              <div class="px-0 sm:px-6 h-full">
+                <button
+                  type="button"
+                  class="relative w-full h-full text-left flex items-center gap-2 sm:gap-5 rounded
+                         px-2 sm:px-4 py-2 sm:py-0
+                         transition border border-transparent
+                         hover:bg-black/5 dark:hover:bg-white/[0.02]
+                         hover:border-neutral-300 dark:hover:border-white/10"
+                  onclick={() => open_bill(item)}
+                >
+                  <div class="shrink-0">
+                    <div
+                      class="h-8 w-8 sm:h-12 sm:w-12 rounded border border-neutral-200 bg-white
+                             dark:border-white/10 dark:bg-white/[0.05]
+                             flex items-center justify-center"
+                    >
+                      <span
+                        class="iconify text-[18px] sm:text-[24px]"
+                        data-icon="mdi:file-document-outline"
+                        style={`color:${party_meta(item.party).hex}`}
+                      ></span>
                     </div>
-                    <span class="hidden sm:inline text-xs text-neutral-500 shrink-0">#{item.bill_id}</span>
                   </div>
 
-                  <div class="mt-1 text-[12px] sm:text-[14px] text-neutral-600 dark:text-neutral-300 truncate">
-                    {item.member_name || "—"} · {item.constituency || "—"} · {item.house}
+                  <div class="min-w-0 flex-1 pr-0 sm:pr-28">
+                    <div class="flex items-center gap-2 min-w-0">
+                      <div class="truncate font-semibold text-[16px] sm:text-[19px] text-neutral-900 dark:text-neutral-50">
+                        {item.short_title}
+                      </div>
+                      <span class="hidden sm:inline text-xs text-neutral-500 shrink-0">#{item.bill_id}</span>
+                    </div>
+
+                    <div class="mt-1 text-[12px] sm:text-[14px] text-neutral-600 dark:text-neutral-300 truncate">
+                      {item.member_name || "—"} · {item.constituency || "—"} · {item.house}
+                    </div>
+
+                    <span
+                      class={`mt-1 inline-flex sm:hidden items-center
+                              px-2.5 py-1.5 rounded-lg text-[11px] leading-none ring-1
+                              ${party_meta(item.party).pill}`}
+                      title={item.party || "—"}
+                    >
+                      <span class="max-w-[210px] truncate">{item.party || "Independent / Unknown"}</span>
+                    </span>
                   </div>
 
                   <span
-                    class={`mt-1 inline-flex sm:hidden items-center
-                            px-2.5 py-1.5 rounded-lg text-[11px] leading-none ring-1
+                    class={`hidden sm:inline absolute right-12 top-1/2 -translate-y-1/2
+                            inline-flex items-center
+                            px-3 py-2 rounded-lg text-xs leading-none ring-1
                             ${party_meta(item.party).pill}`}
                     title={item.party || "—"}
                   >
-                    <span class="max-w-[210px] truncate">{item.party || "Independent / Unknown"}</span>
+                    <span class="max-w-[140px] truncate">{item.party || "Independent / Unknown"}</span>
                   </span>
-                </div>
 
-                <span
-                  class={`hidden sm:inline absolute right-12 top-1/2 -translate-y-1/2
-                          inline-flex items-center
-                          px-3 py-2 rounded-lg text-xs leading-none ring-1
-                          ${party_meta(item.party).pill}`}
-                  title={item.party || "—"}
-                >
-                  <span class="max-w-[140px] truncate">{item.party || "Independent / Unknown"}</span>
-                </span>
-
-                <div class="hidden sm:block shrink-0 absolute right-3 top-1/2 -translate-y-1/2 text-neutral-400">
-                  <span class="iconify text-[26px]" data-icon="mdi:chevron-right"></span>
-                </div>
-              </button>
-            </div>
+                  <div class="hidden sm:block shrink-0 absolute right-3 top-1/2 -translate-y-1/2 text-neutral-400">
+                    <span class="iconify text-[26px]" data-icon="mdi:chevron-right"></span>
+                  </div>
+                </button>
+              </div>
+            {/snippet}
           </VirtualList>
         </div>
       </main>

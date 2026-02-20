@@ -1,11 +1,7 @@
 <script>
   import { onDestroy } from "svelte";
 
-  export let open = false;
-  export let bill = null;
-  export let members_by_id = {};
-  export let bills_by_id = {};
-  export let on_close = () => {};
+  let { open = false, bill = null, members_by_id = {}, bills_by_id = {}, on_close = () => {} } = $props();
 
   const sponsor = (b) => (b?.member_id ? members_by_id[b.member_id] : null);
   const related = (b) => (b?.related || []).map((id) => bills_by_id[id]).filter(Boolean);
@@ -83,14 +79,16 @@
 
   let unlock = null;
 
-  $: if (open && bill && typeof window !== "undefined") {
-    if (!unlock) unlock = lock_scroll();
-  } else {
-    if (unlock) {
-      unlock();
-      unlock = null;
+  $effect(() => {
+    if (open && bill && typeof window !== "undefined") {
+      if (!unlock) unlock = lock_scroll();
+    } else {
+      if (unlock) {
+        unlock();
+        unlock = null;
+      }
     }
-  }
+  });
 
   const on_key = (e) => {
     if (!open) return;
@@ -102,30 +100,26 @@
   });
 </script>
 
-<!-- MUST be top-level (not inside {#if}) -->
-<svelte:window on:keydown={on_key} />
+<svelte:window onkeydown={on_key} />
 
 {#if open && bill}
   <div class="fixed inset-0 z-50" role="dialog" aria-modal="true" aria-label="Bill details">
-    <!-- Backdrop clickable -->
     <button
       type="button"
       class="absolute inset-0 bg-black/60"
-      on:click={on_close}
+      onclick={on_close}
       aria-label="Close"
     ></button>
 
-    <!-- Panel: full screen on mobile; centered sheet on >= sm -->
     <div class="absolute inset-0 sm:inset-auto sm:left-6 sm:right-6 sm:top-20 sm:bottom-auto lg:left-8 lg:right-8">
       <div
         class="h-full sm:h-auto sm:max-h-[calc(100vh-6rem)]
-               rounded-none sm:rounded-2xl
+               rounded-none sm:rounded
                border border-neutral-900/10 dark:border-white/10
                bg-white dark:bg-[#0B0B10]
-               shadow-soft dark:shadow-softDark
+               shadow-soft dark:shadow-soft-dark
                overflow-hidden"
       >
-        <!-- Header (sticky on mobile so Close is always visible) -->
         <div
           class="sticky top-0 z-10
                  p-4 sm:p-6
@@ -135,17 +129,16 @@
         >
           <div class="min-w-0">
             <div class="flex flex-wrap items-center gap-2 text-xs text-neutral-600 dark:text-neutral-400">
-              <span class={`inline-flex items-center gap-1 px-2.5 py-1.5 rounded-xl text-xs ${pill_neutral()}`}>
+              <span class={`inline-flex items-center gap-1 px-2.5 py-1.5 rounded text-xs ${pill_neutral()}`}>
                 <span class="iconify text-[14px]" data-icon={house_icon(bill.house)}></span>
                 {bill.house}
               </span>
 
-              <!-- NO flag icon -->
-              <span class={`inline-flex items-center gap-1 px-2.5 py-1.5 rounded-xl text-xs ${party_style(bill.party)}`}>
+              <span class={`inline-flex items-center gap-1 px-2.5 py-1.5 rounded text-xs ${party_style(bill.party)}`}>
                 {bill.party || "Independent / Unknown"}
               </span>
 
-              <span class={`inline-flex items-center gap-1 px-2.5 py-1.5 rounded-xl text-xs ${pill_neutral()}`}>
+              <span class={`inline-flex items-center gap-1 px-2.5 py-1.5 rounded text-xs ${pill_neutral()}`}>
                 <span class="iconify text-[14px]" data-icon="mdi:map-marker-outline"></span>
                 {bill.constituency || "—"}
               </span>
@@ -158,16 +151,15 @@
             </h3>
           </div>
 
-          <!-- Close always visible, top-right -->
           <button
             type="button"
             class="shrink-0 inline-flex items-center justify-center gap-2
-                   px-3 py-2 rounded-xl border
+                   px-3 py-2 rounded border
                    border-neutral-900/10 dark:border-white/10
                    bg-neutral-900/5 dark:bg-white/10
                    hover:bg-neutral-900/8 dark:hover:bg-white/15
                    text-neutral-800 dark:text-neutral-100 transition"
-            on:click={on_close}
+            onclick={on_close}
             aria-label="Close panel"
           >
             <span class="iconify text-[18px]" data-icon="mdi:close"></span>
@@ -175,7 +167,6 @@
           </button>
         </div>
 
-        <!-- Body scrolls (not the page) -->
         <div class="h-[calc(100vh-92px)] sm:h-auto sm:max-h-[calc(100vh-6rem-96px)] overflow-auto">
           <div class="p-5 sm:p-6 grid grid-cols-1 lg:grid-cols-3 gap-6">
             <div class="lg:col-span-2">
@@ -185,7 +176,7 @@
 
               <div class="mt-6 flex flex-wrap gap-2">
                 <a
-                  class="inline-flex items-center gap-2 px-3 py-2 rounded-xl border border-neutral-200 dark:border-white/10
+                  class="inline-flex items-center gap-2 px-3 py-2 rounded border border-neutral-200 dark:border-white/10
                          bg-white hover:bg-neutral-100 dark:bg-white/5 dark:hover:bg-white/10 transition text-sm
                          text-neutral-900 dark:text-neutral-100"
                   href={bill_link(bill.bill_id)}
@@ -197,7 +188,7 @@
                 </a>
 
                 <a
-                  class="inline-flex items-center gap-2 px-3 py-2 rounded-xl border border-neutral-200 dark:border-white/10
+                  class="inline-flex items-center gap-2 px-3 py-2 rounded border border-neutral-200 dark:border-white/10
                          bg-white hover:bg-neutral-100 dark:bg-white/5 dark:hover:bg-white/10 transition text-sm
                          text-neutral-900 dark:text-neutral-100"
                   href={bill_link(bill.bill_id, "/news")}
@@ -209,7 +200,7 @@
                 </a>
 
                 <a
-                  class="inline-flex items-center gap-2 px-3 py-2 rounded-xl border border-neutral-200 dark:border-white/10
+                  class="inline-flex items-center gap-2 px-3 py-2 rounded border border-neutral-200 dark:border-white/10
                          bg-white hover:bg-neutral-100 dark:bg-white/5 dark:hover:bg-white/10 transition text-sm
                          text-neutral-900 dark:text-neutral-100"
                   href={bill_link(bill.bill_id, "/stages")}
@@ -221,7 +212,7 @@
                 </a>
 
                 <a
-                  class="inline-flex items-center gap-2 px-3 py-2 rounded-xl border border-neutral-200 dark:border-white/10
+                  class="inline-flex items-center gap-2 px-3 py-2 rounded border border-neutral-200 dark:border-white/10
                          bg-white hover:bg-neutral-100 dark:bg-white/5 dark:hover:bg-white/10 transition text-sm
                          text-neutral-900 dark:text-neutral-100"
                   href={bill_link(bill.bill_id, "/publications")}
@@ -243,7 +234,7 @@
                   <div class="mt-3 space-y-2">
                     {#each related(bill) as r}
                       <a
-                        class="block rounded-xl p-4 border border-neutral-200 dark:border-white/10
+                        class="block rounded p-4 border border-neutral-200 dark:border-white/10
                                bg-white hover:bg-neutral-100 dark:bg-white/5 dark:hover:bg-white/10 transition"
                         href={bill_link(r.bill_id)}
                         target="_blank"
@@ -259,7 +250,7 @@
             </div>
 
             <div>
-              <div class="rounded-2xl p-5 border border-neutral-200 dark:border-white/10 bg-neutral-100 dark:bg-white/5">
+              <div class="rounded p-5 border border-neutral-200 dark:border-white/10 bg-neutral-100 dark:bg-white/5">
                 <div class="flex items-center justify-between">
                   <div class="text-xs uppercase tracking-wide text-neutral-500 dark:text-neutral-500">Sponsor</div>
                   <span class="iconify text-[18px] text-neutral-500 dark:text-neutral-400" data-icon="mdi:account-tie-outline"></span>
@@ -270,7 +261,7 @@
                     <img
                       src={sponsor(bill).photo}
                       alt={sponsor(bill).name}
-                      class="h-16 w-16 rounded-xl object-cover border border-neutral-200 dark:border-white/10"
+                      class="h-16 w-16 rounded object-cover border border-neutral-200 dark:border-white/10"
                       loading="lazy"
                     />
                     <div class="min-w-0">

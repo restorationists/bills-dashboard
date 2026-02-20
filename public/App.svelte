@@ -4,7 +4,7 @@
   import Browse from "./Browse.svelte";
   import Topics from "./Topics.svelte";
 
-  let tab = "dashboard";
+  let tab = $state("dashboard");
 
   const tabs = [
     { id: "dashboard", label: "Overview", icon: "mdi:chart-box-outline" },
@@ -12,7 +12,7 @@
     { id: "topics", label: "Legislation Topics", icon: "mdi:tag-multiple-outline" }
   ];
 
-  let theme = "light";
+  let theme = $state("light");
   let mq = null;
   let mq_handler = null;
 
@@ -39,10 +39,10 @@
     root.style.colorScheme = mode;
   };
 
-  $: is_dark = theme === "dark";
-  $: theme_label = is_dark ? "Light" : "Dark"; // label = what you switch to
-  $: theme_icon = is_dark ? "mdi:weather-sunny" : "mdi:weather-night";
-  $: logo_src = is_dark ? "/restorationist-logo-dark.png" : "/restorationist-logo-light.png";
+  let is_dark = $derived(theme === "dark");
+  let theme_label = $derived(is_dark ? "Light" : "Dark");
+  let theme_icon = $derived(is_dark ? "mdi:weather-sunny" : "mdi:weather-night");
+  let logo_src = $derived(is_dark ? "/restorationist-logo-dark.png" : "/restorationist-logo-light.png");
 
   const set_theme = (mode) => {
     theme = mode;
@@ -62,7 +62,6 @@
     theme = stored || system;
     apply_theme(theme);
 
-    // Follow system only if user has NOT saved a preference
     mq_handler = (e) => {
       const has_saved = !!read_theme();
       if (has_saved) return;
@@ -82,7 +81,6 @@
 </script>
 
 <div class="min-h-full flex flex-col bg-white text-neutral-900 dark:bg-[#070A12] dark:text-neutral-100 font-sans">
-  <!-- Top bar -->
   <header class="sticky top-0 z-40 backdrop-blur bg-white/80 dark:bg-[#070A12]/75 border-b border-neutral-200/70 dark:border-white/10">
     <div class="w-full px-4 sm:px-6 lg:px-8 py-3 flex items-center gap-3">
       <a href="/" class="flex items-center gap-3 min-w-[48px]" aria-label="Home">
@@ -97,15 +95,15 @@
 
       <div class="flex-1">
         <div class="flex items-center justify-center">
-          <nav class="flex items-center gap-1 rounded-2xl p-1 bg-neutral-100/70 dark:bg-white/5 border border-neutral-200/60 dark:border-white/10">
+          <nav class="flex items-center gap-1 rounded p-1 bg-neutral-100/70 dark:bg-white/5 border border-neutral-200/60 dark:border-white/10">
             {#each tabs as t}
               <button
                 type="button"
-                class="px-3 py-2 rounded-2xl text-sm font-medium transition
+                class="px-3 py-2 rounded text-sm font-medium transition
                   {tab === t.id
-                    ? 'bg-white dark:bg-white/10 shadow-soft dark:shadow-softDark'
+                    ? 'bg-white dark:bg-white/10 shadow-soft dark:shadow-soft-dark'
                     : 'hover:bg-white/60 dark:hover:bg-white/7'}"
-                on:click={() => (tab = t.id)}
+                onclick={() => (tab = t.id)}
                 aria-current={tab === t.id ? "page" : undefined}
               >
                 <span class="inline-flex items-center gap-2">
@@ -121,9 +119,9 @@
       <div class="flex items-center justify-end gap-2 min-w-[48px]">
         <button
           type="button"
-          class="inline-flex items-center gap-2 px-3 py-2 rounded-2xl border border-neutral-200/70 dark:border-white/10
+          class="inline-flex items-center gap-2 px-3 py-2 rounded border border-neutral-200/70 dark:border-white/10
                  bg-white/70 dark:bg-white/5 hover:bg-white dark:hover:bg-white/10 transition"
-          on:click={toggle_theme}
+          onclick={toggle_theme}
           title="Toggle theme"
         >
           <span class="iconify text-[18px]" data-icon={theme_icon}></span>
@@ -133,7 +131,6 @@
     </div>
   </header>
 
-  <!-- Main -->
   <main class="flex-1 w-full px-4 sm:px-6 lg:px-8 py-6 pb-24">
     {#if tab === "dashboard"}
       <Dashboard />
@@ -144,7 +141,6 @@
     {/if}
   </main>
 
-  <!-- Sticky footer -->
   <footer class="fixed bottom-0 left-0 right-0 z-30 border-t border-neutral-200/70 dark:border-white/10 backdrop-blur bg-white/80 dark:bg-[#070A12]/75">
     <div class="w-full px-4 sm:px-6 lg:px-8 py-3 flex items-center justify-between text-xs text-neutral-600 dark:text-neutral-300">
       <div class="flex items-center gap-2">
