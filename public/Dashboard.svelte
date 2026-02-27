@@ -219,10 +219,10 @@
 
 <section class="w-full">
   <div class="mb-8">
-    <h1 class="font-serif text-5xl sm:text-6xl font-black tracking-tight text-neutral-900 dark:text-neutral-50">
+    <h1 class="font-serif text-5xl sm:text-6xl text-center font-black tracking-tight text-neutral-900 dark:text-neutral-50">
       Bills In The UK Parliament
     </h1>
-    <p class="mt-3 text-[15px] sm:text-[16px] text-neutral-700 dark:text-neutral-300 max-w-3xl">
+    <p class="mt-3 text-[15px] sm:text-[16px] text-center text-neutral-700 dark:text-neutral-300">
       If we can do this for free in a few hours, why can't an organisation with taxpayer funds do it?
     </p>
   </div>

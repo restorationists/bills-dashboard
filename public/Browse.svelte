@@ -153,10 +153,10 @@
 
 <section class="w-full font-[Merriweather]">
   <div class="mb-6">
-    <h2 class="font-serif text-4xl sm:text-5xl font-black tracking-tight text-neutral-900 dark:text-neutral-50">
+    <h2 class="font-serif text-4xl sm:text-5xl text-center font-black tracking-tight text-neutral-900 dark:text-neutral-50">
       Did You Vote For Any Of This?
     </h2>
-    <p class="mt-2 text-[15px] sm:text-[16px] text-neutral-600 dark:text-neutral-300">
+    <p class="mt-2 text-[15px] sm:text-[16px] text-center text-neutral-600 dark:text-neutral-300">
       Did your MP explain what they were submitting? Is your money being wasted?
     </p>
   </div>

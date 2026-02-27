@@ -161,10 +161,10 @@
 
 <section class="w-full font-[Merriweather]">
   <div class="mb-6">
-    <h2 class="font-serif text-4xl sm:text-5xl font-black tracking-tight text-neutral-900 dark:text-neutral-50">
+    <h2 class="font-serif text-4xl sm:text-5xl text-center font-black tracking-tight text-neutral-900 dark:text-neutral-50">
       What Are They Passing Bills About?
     </h2>
-    <p class="mt-2 text-[15px] sm:text-[16px] text-neutral-600 dark:text-neutral-300">
+    <p class="mt-2 text-[15px] text-center sm:text-[16px] text-neutral-600 dark:text-neutral-300">
       Why can't Parliament group its legislation into subject areas and ideology?
     </p>
   </div>
