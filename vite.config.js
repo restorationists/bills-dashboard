@@ -14,7 +14,7 @@ export default defineConfig({
     target: "es2020",
     minify: "esbuild",
     cssMinify: true,
-    outDir: "../dist",
+    outDir: "./dist",
     emptyOutDir: true
   }
 });
