@@ -36,11 +36,11 @@
   "petitionInformation": null,
   "agent": null,
   "billId": 3810,
-  "shortTitle": "Secure 16 to 19 Academies Bill",
+  "shortTitle": "Secure 16 to 19 Academies Act 2026",
   "formerShortTitle": null,
-  "currentHouse": "Lords",
+  "currentHouse": "Unassigned",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-12-17T16:12:50.6405974",
+  "lastUpdate": "2026-02-16T10:58:54.3473695",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 8,
@@ -48,23 +48,23 @@
   "includedSessionIds": [
     39
   ],
-  "isAct": false,
+  "isAct": true,
   "currentStage": {
-    "id": 20258,
-    "stageId": 3,
+    "id": 20482,
+    "stageId": 11,
     "sessionId": 39,
-    "description": "Committee stage",
-    "abbreviation": "CS",
-    "house": "Lords",
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
     "stageSittings": [
       {
-        "id": 17646,
-        "stageId": 3,
-        "billStageId": 20258,
+        "id": 17836,
+        "stageId": 11,
+        "billStageId": 20482,
         "billId": 3810,
-        "date": "2026-01-13T00:00:00"
+        "date": "2026-02-12T00:00:00"
       }
     ],
-    "sortOrder": 8
+    "sortOrder": 10
   }
 }

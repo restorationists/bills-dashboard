@@ -7,7 +7,7 @@
         "memberId": 5350,
         "name": "Ben Maguire",
         "party": "Liberal Democrat",
-        "partyColour": "faa01a",
+        "partyColour": "fc7d0b",
         "house": "Commons",
         "memberPhoto": "https://members-api.parliament.uk/api/Members/5350/Thumbnail",
         "memberPage": "https://members.parliament.uk/member/5350/contact",
@@ -26,7 +26,7 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-11-26T12:47:03.2367127",
+  "lastUpdate": "2026-05-05T15:22:20.3721672",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 8,
@@ -42,15 +42,7 @@
     "description": "2nd reading",
     "abbreviation": "2R",
     "house": "Commons",
-    "stageSittings": [
-      {
-        "id": 17384,
-        "stageId": 7,
-        "billStageId": 20198,
-        "billId": 4018,
-        "date": "2026-01-16T00:00:00"
-      }
-    ],
+    "stageSittings": [],
     "sortOrder": 2
   }
 }

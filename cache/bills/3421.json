@@ -42,11 +42,11 @@
   "petitionInformation": "<p>Submitted petitions can be found <a href=\"https://committees.parliament.uk/committee/735/holocaust-memorial-bill-select-committee-lords/publications/bill-petitions/\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p><p><br></p><p>The <a href=\"https://committees.parliament.uk/committee/735/holocaust-memorial-bill-select-committee-lords/\" rel=\"noopener noreferrer\" target=\"_blank\">Holocaust Memorial Select Committee page</a> has been set up to oversee the Bill’s petitioning period in the House of Lords. This petitioning period opened at 9am on Thursday 23 May 2024 and closed at 5pm on Wednesday 17 July 2024. The Committee provides individuals and bodies directly and specially affected by the Bill with the opportunity to object to the Bill’s specific provisions and to seek its amendment.</p><p><br></p><p>Petitions against the Bill should be written using the <a href=\"https://committees.parliament.uk/publications/44817/documents/222604/default/\" rel=\"noopener noreferrer\" target=\"_blank\">petition template</a> and submitted via the <a href=\"https://committees.parliament.uk/work/8481/petitioning-against-the-holocaust-memorial-bill/\" rel=\"noopener noreferrer\" target=\"_blank\">online portal</a>.</p>",
   "agent": null,
   "billId": 3421,
-  "shortTitle": "Holocaust Memorial Bill",
+  "shortTitle": "Holocaust Memorial Act 2026",
   "formerShortTitle": null,
-  "currentHouse": "Commons",
+  "currentHouse": "Unassigned",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-10-28T10:43:49.7924742",
+  "lastUpdate": "2026-01-29T13:34:26.8465946",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 4,
@@ -56,15 +56,23 @@
     38,
     39
   ],
-  "isAct": false,
+  "isAct": true,
   "currentStage": {
-    "id": 20147,
-    "stageId": 12,
+    "id": 20448,
+    "stageId": 11,
     "sessionId": 39,
-    "description": "Consideration of Lords amendments",
-    "abbreviation": "COLA",
-    "house": "Commons",
-    "stageSittings": [],
-    "sortOrder": 24
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 17747,
+        "stageId": 11,
+        "billStageId": 20448,
+        "billId": 3421,
+        "date": "2026-01-22T00:00:00"
+      }
+    ],
+    "sortOrder": 27
   }
 }

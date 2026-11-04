@@ -1,5 +1,5 @@
 {
-  "longTitle": "A Bill to make provision about the safeguarding and welfare of children; about support for children in care or leaving care; about regulation of care workers; about regulation of establishments and agencies under Part 2 of the Care Standards Act 2000; about employment of children; about breakfast club provision and school uniform; about attendance of children at school; about regulation of independent educational institutions; about inspections of schools and colleges; about teacher misconduct; about Academies and teachers at Academies; repealing section 128 of the Education Act 2002; about school places and admissions; about establishing new schools; and for connected purposes.",
+  "longTitle": "A Bill to make provision about the safeguarding and welfare of children; about support for children in care or leaving care; about regulation of care workers; about regulation of establishments and agencies under Part 2 of the Care Standards Act 2000; about employment of children; about breakfast club provision and school uniform; about allergy safety in schools; about attendance of children at school; about regulation of independent educational institutions; about inspections of schools and colleges; about teacher misconduct; about Academies and teachers at Academies; repealing section 128 of the Education Act 2002; about school places and admissions; about establishing new schools; and for connected purposes.",
   "summary": null,
   "sponsors": [
     {
@@ -42,11 +42,11 @@
   "petitionInformation": null,
   "agent": null,
   "billId": 3909,
-  "shortTitle": "Children’s Wellbeing and Schools Bill",
+  "shortTitle": "Children’s Wellbeing and Schools Act 2026",
   "formerShortTitle": null,
-  "currentHouse": "Lords",
+  "currentHouse": "Unassigned",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-12-22T17:22:38.1421011",
+  "lastUpdate": "2026-06-26T12:17:09.6931705",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 1,
@@ -54,51 +54,23 @@
   "includedSessionIds": [
     39
   ],
-  "isAct": false,
+  "isAct": true,
   "currentStage": {
-    "id": 20215,
-    "stageId": 4,
+    "id": 20719,
+    "stageId": 11,
     "sessionId": 39,
-    "description": "Report stage",
-    "abbreviation": "RS",
-    "house": "Lords",
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
     "stageSittings": [
       {
-        "id": 17615,
-        "stageId": 4,
-        "billStageId": 20215,
+        "id": 18079,
+        "stageId": 11,
+        "billStageId": 20719,
         "billId": 3909,
-        "date": "2026-01-14T00:00:00"
-      },
-      {
-        "id": 17616,
-        "stageId": 4,
-        "billStageId": 20215,
-        "billId": 3909,
-        "date": "2026-01-19T00:00:00"
-      },
-      {
-        "id": 17617,
-        "stageId": 4,
-        "billStageId": 20215,
-        "billId": 3909,
-        "date": "2026-01-21T00:00:00"
-      },
-      {
-        "id": 17618,
-        "stageId": 4,
-        "billStageId": 20215,
-        "billId": 3909,
-        "date": "2026-01-28T00:00:00"
-      },
-      {
-        "id": 17619,
-        "stageId": 4,
-        "billStageId": 20215,
-        "billId": 3909,
-        "date": "2026-02-03T00:00:00"
+        "date": "2026-04-29T00:00:00"
       }
     ],
-    "sortOrder": 12
+    "sortOrder": 24
   }
 }

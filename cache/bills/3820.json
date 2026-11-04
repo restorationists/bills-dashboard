@@ -7,7 +7,7 @@
         "memberId": 5336,
         "name": "Helen Maguire",
         "party": "Liberal Democrat",
-        "partyColour": "faa01a",
+        "partyColour": "fc7d0b",
         "house": "Commons",
         "memberPhoto": "https://members-api.parliament.uk/api/Members/5336/Thumbnail",
         "memberPage": "https://members.parliament.uk/member/5336/contact",
@@ -26,7 +26,7 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-07-08T16:08:47.5250004",
+  "lastUpdate": "2026-05-01T12:26:15.9210216",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 8,
@@ -42,15 +42,7 @@
     "description": "2nd reading",
     "abbreviation": "2R",
     "house": "Commons",
-    "stageSittings": [
-      {
-        "id": 16192,
-        "stageId": 7,
-        "billStageId": 19116,
-        "billId": 3820,
-        "date": "2026-05-29T00:00:00"
-      }
-    ],
+    "stageSittings": [],
     "sortOrder": 2
   }
 }

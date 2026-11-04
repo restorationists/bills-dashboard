@@ -7,7 +7,7 @@
         "memberId": 1591,
         "name": "Tim Farron",
         "party": "Liberal Democrat",
-        "partyColour": "faa01a",
+        "partyColour": "fc7d0b",
         "house": "Commons",
         "memberPhoto": "https://members-api.parliament.uk/api/Members/1591/Thumbnail",
         "memberPage": "https://members.parliament.uk/member/1591/contact",
@@ -26,7 +26,7 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-09-12T15:37:46.0533828",
+  "lastUpdate": "2026-05-05T14:35:28.1432648",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 8,
@@ -42,15 +42,7 @@
     "description": "2nd reading",
     "abbreviation": "2R",
     "house": "Commons",
-    "stageSittings": [
-      {
-        "id": 16592,
-        "stageId": 7,
-        "billStageId": 19451,
-        "billId": 3919,
-        "date": "2025-07-11T00:00:00"
-      }
-    ],
+    "stageSittings": [],
     "sortOrder": 2
   }
 }

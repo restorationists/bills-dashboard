@@ -7,7 +7,7 @@
         "memberId": 1804,
         "name": "Lord Thomas of Gresford",
         "party": "Liberal Democrat",
-        "partyColour": "faa01a",
+        "partyColour": "fc7d0b",
         "house": "Lords",
         "memberPhoto": "https://members-api.parliament.uk/api/Members/1804/Thumbnail",
         "memberPage": "https://members.parliament.uk/member/1804/contact",
@@ -21,7 +21,7 @@
         "memberId": 5350,
         "name": "Ben Maguire",
         "party": "Liberal Democrat",
-        "partyColour": "faa01a",
+        "partyColour": "fc7d0b",
         "house": "Commons",
         "memberPhoto": "https://members-api.parliament.uk/api/Members/5350/Thumbnail",
         "memberPage": "https://members.parliament.uk/member/5350/contact",
@@ -40,7 +40,7 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Lords",
-  "lastUpdate": "2025-11-26T12:45:08.9685619",
+  "lastUpdate": "2026-05-06T09:40:28.8247082",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 2,
@@ -56,15 +56,7 @@
     "description": "2nd reading",
     "abbreviation": "2R",
     "house": "Commons",
-    "stageSittings": [
-      {
-        "id": 17299,
-        "stageId": 7,
-        "billStageId": 20142,
-        "billId": 3748,
-        "date": "2026-01-16T00:00:00"
-      }
-    ],
+    "stageSittings": [],
     "sortOrder": 7
   }
 }

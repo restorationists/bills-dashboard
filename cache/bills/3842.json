@@ -7,7 +7,7 @@
         "memberId": 4934,
         "name": "Helen Morgan",
         "party": "Liberal Democrat",
-        "partyColour": "faa01a",
+        "partyColour": "fc7d0b",
         "house": "Commons",
         "memberPhoto": "https://members-api.parliament.uk/api/Members/4934/Thumbnail",
         "memberPage": "https://members.parliament.uk/member/4934/contact",
@@ -26,7 +26,7 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-07-11T15:52:19.0163547",
+  "lastUpdate": "2026-04-30T15:04:55.5379499",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 8,
@@ -42,15 +42,7 @@
     "description": "2nd reading",
     "abbreviation": "2R",
     "house": "Commons",
-    "stageSittings": [
-      {
-        "id": 16251,
-        "stageId": 7,
-        "billStageId": 19169,
-        "billId": 3842,
-        "date": "2025-07-11T00:00:00"
-      }
-    ],
+    "stageSittings": [],
     "sortOrder": 2
   }
 }

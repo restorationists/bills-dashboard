@@ -4,20 +4,20 @@
   "sponsors": [
     {
       "member": {
-        "memberId": 4473,
-        "name": "Louise Haigh",
-        "party": "Labour",
-        "partyColour": "d50000",
-        "house": "Commons",
-        "memberPhoto": "https://members-api.parliament.uk/api/Members/4473/Thumbnail",
-        "memberPage": "https://members.parliament.uk/member/4473/contact",
-        "memberFrom": "Sheffield, Heeley"
+        "memberId": 4038,
+        "name": "Heidi Alexander",
+        "party": null,
+        "partyColour": null,
+        "house": "Unassigned",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4038/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4038/contact",
+        "memberFrom": null
       },
       "organisation": {
         "name": "Department for Transport",
         "url": "https://www.gov.uk/government/organisations/department-for-transport"
       },
-      "sortOrder": 3
+      "sortOrder": 1
     }
   ],
   "promoters": [],
@@ -29,7 +29,7 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2024-08-02T13:51:13.9138996",
+  "lastUpdate": "2026-05-15T13:44:02.1801868",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 4,
@@ -38,17 +38,26 @@
     36,
     37,
     38,
-    39
+    39,
+    40
   ],
   "isAct": false,
   "currentStage": {
-    "id": 18883,
-    "stageId": 8,
-    "sessionId": 39,
-    "description": "Committee stage",
-    "abbreviation": "CS",
+    "id": 20733,
+    "stageId": 21,
+    "sessionId": 40,
+    "description": "Bill reintroduced",
+    "abbreviation": "BR",
     "house": "Commons",
-    "stageSittings": [],
-    "sortOrder": 15
+    "stageSittings": [
+      {
+        "id": 18099,
+        "stageId": 21,
+        "billStageId": 20733,
+        "billId": 3094,
+        "date": "2026-05-14T00:00:00"
+      }
+    ],
+    "sortOrder": 17
   }
 }

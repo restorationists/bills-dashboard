@@ -26,7 +26,7 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-10-29T13:49:25.4190699",
+  "lastUpdate": "2026-05-05T12:40:25.2657335",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 5,
@@ -42,15 +42,7 @@
     "description": "2nd reading",
     "abbreviation": "2R",
     "house": "Commons",
-    "stageSittings": [
-      {
-        "id": 17318,
-        "stageId": 7,
-        "billStageId": 19378,
-        "billId": 3907,
-        "date": "2026-01-09T00:00:00"
-      }
-    ],
+    "stageSittings": [],
     "sortOrder": 2
   }
 }

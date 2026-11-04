@@ -17,7 +17,7 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Lords",
-  "lastUpdate": "2025-11-13T14:36:57.506091",
+  "lastUpdate": "2026-06-17T11:25:41.5567602",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 6,
@@ -25,25 +25,26 @@
   "includedSessionIds": [
     37,
     38,
-    39
+    39,
+    40
   ],
   "isAct": false,
   "currentStage": {
-    "id": 20128,
-    "stageId": 8,
-    "sessionId": 39,
-    "description": "Committee stage",
-    "abbreviation": "CS",
+    "id": 20826,
+    "stageId": 32,
+    "sessionId": 40,
+    "description": "Motion to revive Bill",
+    "abbreviation": "MTRB",
     "house": "Commons",
     "stageSittings": [
       {
-        "id": 17526,
-        "stageId": 8,
-        "billStageId": 20128,
+        "id": 18207,
+        "stageId": 32,
+        "billStageId": 20826,
         "billId": 3381,
-        "date": "2026-01-13T00:00:00"
+        "date": "2026-06-15T00:00:00"
       }
     ],
-    "sortOrder": 24
+    "sortOrder": 32
   }
 }

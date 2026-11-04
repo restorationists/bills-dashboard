@@ -7,7 +7,7 @@
         "memberId": 4918,
         "name": "Sarah Green",
         "party": "Liberal Democrat",
-        "partyColour": "faa01a",
+        "partyColour": "fc7d0b",
         "house": "Commons",
         "memberPhoto": "https://members-api.parliament.uk/api/Members/4918/Thumbnail",
         "memberPage": "https://members.parliament.uk/member/4918/contact",
@@ -26,7 +26,7 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-11-27T13:23:47.754592",
+  "lastUpdate": "2026-04-30T15:19:11.5280288",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 8,
@@ -42,15 +42,7 @@
     "description": "2nd reading",
     "abbreviation": "2R",
     "house": "Commons",
-    "stageSittings": [
-      {
-        "id": 16198,
-        "stageId": 7,
-        "billStageId": 19122,
-        "billId": 3823,
-        "date": "2026-01-16T00:00:00"
-      }
-    ],
+    "stageSittings": [],
     "sortOrder": 2
   }
 }

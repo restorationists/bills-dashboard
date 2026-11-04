@@ -7,7 +7,7 @@
         "memberId": 4634,
         "name": "Christine Jardine",
         "party": "Liberal Democrat",
-        "partyColour": "faa01a",
+        "partyColour": "fc7d0b",
         "house": "Commons",
         "memberPhoto": "https://members-api.parliament.uk/api/Members/4634/Thumbnail",
         "memberPage": "https://members.parliament.uk/member/4634/contact",
@@ -26,7 +26,7 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-11-26T13:18:59.2326462",
+  "lastUpdate": "2026-04-30T14:45:02.0434382",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 8,
@@ -42,15 +42,7 @@
     "description": "2nd reading",
     "abbreviation": "2R",
     "house": "Commons",
-    "stageSittings": [
-      {
-        "id": 16157,
-        "stageId": 7,
-        "billStageId": 19085,
-        "billId": 3805,
-        "date": "2026-01-16T00:00:00"
-      }
-    ],
+    "stageSittings": [],
     "sortOrder": 2
   }
 }

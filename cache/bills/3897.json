@@ -8,8 +8,8 @@
       "organisationUrl": "https://www.malvernhills.org.uk/"
     }
   ],
-  "petitioningPeriod": "9am on 23 January to 5pm on 6 February",
-  "petitionInformation": "<p>If you are directly and specially affected by this legislation you can petition against it.</p><p>You can submit your petition through the online portal <a href=\"https://committees.parliament.uk/work/8848/petitioning-against-the-malvern-hills-bill-hl/\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>, email it to HLPublicBills@Parliament.uk, post it or arrange to deliver it in person.</p><p>The petition template and petitioning guidance can be found under <a href=\"https://bills.parliament.uk/bills/3897/publications\" rel=\"noopener noreferrer\" target=\"_blank\">Publications</a>.</p>",
+  "petitioningPeriod": "The House of Lords petitioning period is closed.",
+  "petitionInformation": "<p>The House of Lords petitioning period ran from 23 January 2025 until 6 February 2025.</p>",
   "agent": {
     "name": "Sharpe Pritchard LLP",
     "address": "Elm Yard, 13-16 Elm Street, London WC1X 0BJ",
@@ -22,23 +22,32 @@
   "formerShortTitle": null,
   "currentHouse": "Lords",
   "originatingHouse": "Lords",
-  "lastUpdate": "2025-12-19T16:33:21.7289105",
+  "lastUpdate": "2026-10-30T13:54:48.5122019",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 6,
   "introducedSessionId": 39,
   "includedSessionIds": [
-    39
+    39,
+    40
   ],
   "isAct": false,
   "currentStage": {
-    "id": 19978,
-    "stageId": 3,
-    "sessionId": 39,
-    "description": "Committee stage",
-    "abbreviation": "CS",
+    "id": 20815,
+    "stageId": 34,
+    "sessionId": 40,
+    "description": "Motion to revive Bill",
+    "abbreviation": "MTRB",
     "house": "Lords",
-    "stageSittings": [],
-    "sortOrder": 5
+    "stageSittings": [
+      {
+        "id": 18198,
+        "stageId": 34,
+        "billStageId": 20815,
+        "billId": 3897,
+        "date": "2026-06-09T00:00:00"
+      }
+    ],
+    "sortOrder": 8
   }
 }

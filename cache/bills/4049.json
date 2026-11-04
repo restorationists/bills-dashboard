@@ -7,7 +7,7 @@
         "memberId": 5288,
         "name": "Dr Al Pinkerton",
         "party": "Liberal Democrat",
-        "partyColour": "faa01a",
+        "partyColour": "fc7d0b",
         "house": "Commons",
         "memberPhoto": "https://members-api.parliament.uk/api/Members/5288/Thumbnail",
         "memberPage": "https://members.parliament.uk/member/5288/contact",
@@ -26,7 +26,7 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-12-10T12:31:03.929695",
+  "lastUpdate": "2026-05-06T10:06:04.5498806",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 5,
@@ -42,15 +42,7 @@
     "description": "2nd reading",
     "abbreviation": "2R",
     "house": "Commons",
-    "stageSittings": [
-      {
-        "id": 17606,
-        "stageId": 7,
-        "billStageId": 20361,
-        "billId": 4049,
-        "date": "2026-01-16T00:00:00"
-      }
-    ],
+    "stageSittings": [],
     "sortOrder": 2
   }
 }

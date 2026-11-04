@@ -42,11 +42,11 @@
   "petitionInformation": null,
   "agent": null,
   "billId": 3938,
-  "shortTitle": "Crime and Policing Bill",
+  "shortTitle": "Crime and Policing Act 2026",
   "formerShortTitle": null,
-  "currentHouse": "Lords",
+  "currentHouse": "Unassigned",
   "originatingHouse": "Commons",
-  "lastUpdate": "2026-01-02T17:15:28.9589516",
+  "lastUpdate": "2026-05-11T10:41:29.7018009",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 1,
@@ -54,107 +54,23 @@
   "includedSessionIds": [
     39
   ],
-  "isAct": false,
+  "isAct": true,
   "currentStage": {
-    "id": 20237,
-    "stageId": 3,
+    "id": 20714,
+    "stageId": 11,
     "sessionId": 39,
-    "description": "Committee stage",
-    "abbreviation": "CS",
-    "house": "Lords",
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
     "stageSittings": [
       {
-        "id": 17447,
-        "stageId": 3,
-        "billStageId": 20237,
+        "id": 18093,
+        "stageId": 11,
+        "billStageId": 20714,
         "billId": 3938,
-        "date": "2025-11-10T00:00:00"
-      },
-      {
-        "id": 17453,
-        "stageId": 3,
-        "billStageId": 20237,
-        "billId": 3938,
-        "date": "2025-11-17T00:00:00"
-      },
-      {
-        "id": 17454,
-        "stageId": 3,
-        "billStageId": 20237,
-        "billId": 3938,
-        "date": "2025-11-19T00:00:00"
-      },
-      {
-        "id": 17456,
-        "stageId": 3,
-        "billStageId": 20237,
-        "billId": 3938,
-        "date": "2025-11-27T00:00:00"
-      },
-      {
-        "id": 17457,
-        "stageId": 3,
-        "billStageId": 20237,
-        "billId": 3938,
-        "date": "2025-12-09T00:00:00"
-      },
-      {
-        "id": 17458,
-        "stageId": 3,
-        "billStageId": 20237,
-        "billId": 3938,
-        "date": "2025-12-15T00:00:00"
-      },
-      {
-        "id": 17459,
-        "stageId": 3,
-        "billStageId": 20237,
-        "billId": 3938,
-        "date": "2025-12-17T00:00:00"
-      },
-      {
-        "id": 17608,
-        "stageId": 3,
-        "billStageId": 20237,
-        "billId": 3938,
-        "date": "2026-01-07T00:00:00"
-      },
-      {
-        "id": 17460,
-        "stageId": 3,
-        "billStageId": 20237,
-        "billId": 3938,
-        "date": "2026-01-13T00:00:00"
-      },
-      {
-        "id": 17461,
-        "stageId": 3,
-        "billStageId": 20237,
-        "billId": 3938,
-        "date": "2026-01-15T00:00:00"
-      },
-      {
-        "id": 17462,
-        "stageId": 3,
-        "billStageId": 20237,
-        "billId": 3938,
-        "date": "2026-01-20T00:00:00"
-      },
-      {
-        "id": 17463,
-        "stageId": 3,
-        "billStageId": 20237,
-        "billId": 3938,
-        "date": "2026-01-22T00:00:00"
-      },
-      {
-        "id": 17485,
-        "stageId": 3,
-        "billStageId": 20237,
-        "billId": 3938,
-        "date": "2026-01-27T00:00:00"
+        "date": "2026-04-29T00:00:00"
       }
     ],
-    "sortOrder": 10
+    "sortOrder": 23
   }
 }

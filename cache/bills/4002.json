@@ -42,11 +42,11 @@
   "petitionInformation": null,
   "agent": null,
   "billId": 4002,
-  "shortTitle": "English Devolution and Community Empowerment Bill",
+  "shortTitle": "English Devolution and Community Empowerment Act 2026",
   "formerShortTitle": null,
-  "currentHouse": "Lords",
+  "currentHouse": "Unassigned",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-12-22T17:21:19.9503566",
+  "lastUpdate": "2026-05-14T10:26:18.9471729",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 1,
@@ -54,65 +54,23 @@
   "includedSessionIds": [
     39
   ],
-  "isAct": false,
+  "isAct": true,
   "currentStage": {
-    "id": 20354,
-    "stageId": 3,
+    "id": 20720,
+    "stageId": 11,
     "sessionId": 39,
-    "description": "Committee stage",
-    "abbreviation": "CS",
-    "house": "Lords",
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
     "stageSittings": [
       {
-        "id": 17647,
-        "stageId": 3,
-        "billStageId": 20354,
+        "id": 18080,
+        "stageId": 11,
+        "billStageId": 20720,
         "billId": 4002,
-        "date": "2026-01-20T00:00:00"
-      },
-      {
-        "id": 17648,
-        "stageId": 3,
-        "billStageId": 20354,
-        "billId": 4002,
-        "date": "2026-01-27T00:00:00"
-      },
-      {
-        "id": 17649,
-        "stageId": 3,
-        "billStageId": 20354,
-        "billId": 4002,
-        "date": "2026-01-29T00:00:00"
-      },
-      {
-        "id": 17650,
-        "stageId": 3,
-        "billStageId": 20354,
-        "billId": 4002,
-        "date": "2026-02-03T00:00:00"
-      },
-      {
-        "id": 17651,
-        "stageId": 3,
-        "billStageId": 20354,
-        "billId": 4002,
-        "date": "2026-02-05T00:00:00"
-      },
-      {
-        "id": 17652,
-        "stageId": 3,
-        "billStageId": 20354,
-        "billId": 4002,
-        "date": "2026-02-09T00:00:00"
-      },
-      {
-        "id": 17653,
-        "stageId": 3,
-        "billStageId": 20354,
-        "billId": 4002,
-        "date": "2026-02-11T00:00:00"
+        "date": "2026-04-29T00:00:00"
       }
     ],
-    "sortOrder": 12
+    "sortOrder": 22
   }
 }

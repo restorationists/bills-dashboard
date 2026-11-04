@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "refresh": "python3 src/refresh.py",
+    "report": "python3 src/report.py"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^5.0.0",

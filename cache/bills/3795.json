@@ -7,7 +7,7 @@
         "memberId": 4942,
         "name": "Richard Foord",
         "party": "Liberal Democrat",
-        "partyColour": "faa01a",
+        "partyColour": "fc7d0b",
         "house": "Commons",
         "memberPhoto": "https://members-api.parliament.uk/api/Members/4942/Thumbnail",
         "memberPage": "https://members.parliament.uk/member/4942/contact",
@@ -26,7 +26,7 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-09-12T15:31:25.6285961",
+  "lastUpdate": "2026-05-05T12:58:38.7937751",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 8,
@@ -42,15 +42,7 @@
     "description": "2nd reading",
     "abbreviation": "2R",
     "house": "Commons",
-    "stageSittings": [
-      {
-        "id": 16137,
-        "stageId": 7,
-        "billStageId": 19065,
-        "billId": 3795,
-        "date": "2025-09-12T00:00:00"
-      }
-    ],
+    "stageSittings": [],
     "sortOrder": 2
   }
 }

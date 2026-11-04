@@ -42,11 +42,11 @@
   "petitionInformation": null,
   "agent": null,
   "billId": 4012,
-  "shortTitle": "Sentencing Bill",
+  "shortTitle": "Sentencing Act 2026",
   "formerShortTitle": null,
-  "currentHouse": "Lords",
+  "currentHouse": "Unassigned",
   "originatingHouse": "Commons",
-  "lastUpdate": "2026-01-02T19:14:47.2581926",
+  "lastUpdate": "2026-01-29T14:15:58.4875392",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 1,
@@ -54,23 +54,23 @@
   "includedSessionIds": [
     39
   ],
-  "isAct": false,
+  "isAct": true,
   "currentStage": {
-    "id": 20341,
-    "stageId": 4,
+    "id": 20447,
+    "stageId": 11,
     "sessionId": 39,
-    "description": "Report stage",
-    "abbreviation": "RS",
-    "house": "Lords",
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
     "stageSittings": [
       {
-        "id": 17588,
-        "stageId": 4,
-        "billStageId": 20341,
+        "id": 17746,
+        "stageId": 11,
+        "billStageId": 20447,
         "billId": 4012,
-        "date": "2026-01-06T00:00:00"
+        "date": "2026-01-22T00:00:00"
       }
     ],
-    "sortOrder": 11
+    "sortOrder": 16
   }
 }

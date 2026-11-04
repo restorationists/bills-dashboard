@@ -18,6 +18,23 @@
         "url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
       },
       "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 5414,
+        "name": "Baroness Lloyd of Effra",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5414/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5414/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Science, Innovation and Technology",
+        "url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+      },
+      "sortOrder": 2
     }
   ],
   "promoters": [],
@@ -29,31 +46,24 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-12-19T14:24:57.037588",
+  "lastUpdate": "2026-11-04T19:55:54.39335",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 1,
   "introducedSessionId": 39,
   "includedSessionIds": [
-    39
+    39,
+    40
   ],
   "isAct": false,
   "currentStage": {
-    "id": 20290,
-    "stageId": 7,
-    "sessionId": 39,
-    "description": "2nd reading",
-    "abbreviation": "2R",
+    "id": 21297,
+    "stageId": 12,
+    "sessionId": 40,
+    "description": "Consideration of Lords amendments",
+    "abbreviation": "COLA",
     "house": "Commons",
-    "stageSittings": [
-      {
-        "id": 17626,
-        "stageId": 7,
-        "billStageId": 20290,
-        "billId": 4035,
-        "date": "2026-01-06T00:00:00"
-      }
-    ],
-    "sortOrder": 2
+    "stageSittings": [],
+    "sortOrder": 16
   }
 }

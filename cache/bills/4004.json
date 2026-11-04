@@ -46,7 +46,7 @@
   "formerShortTitle": null,
   "currentHouse": "Lords",
   "originatingHouse": "Commons",
-  "lastUpdate": "2026-01-02T16:43:08.4346437",
+  "lastUpdate": "2026-04-30T14:14:03.1309651",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 1,
@@ -56,21 +56,13 @@
   ],
   "isAct": false,
   "currentStage": {
-    "id": 20324,
-    "stageId": 4,
+    "id": 20449,
+    "stageId": 13,
     "sessionId": 39,
-    "description": "Report stage",
-    "abbreviation": "RS",
+    "description": "Consideration of Commons amendments and / or reasons",
+    "abbreviation": "COCAA/OR",
     "house": "Lords",
-    "stageSittings": [
-      {
-        "id": 17587,
-        "stageId": 4,
-        "billStageId": 20324,
-        "billId": 4004,
-        "date": "2026-01-05T00:00:00"
-      }
-    ],
-    "sortOrder": 9
+    "stageSittings": [],
+    "sortOrder": 13
   }
 }

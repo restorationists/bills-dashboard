@@ -3,9 +3,11 @@
   import VirtualList from "./VirtualList.svelte";
   import BillDrawer from "./BillDrawer.svelte";
 
-  import topics_url from "../data/topics.json?url";
-  import bills_url from "../data/bills_simplified.json?url";
-  import members_url from "../data/members.json?url";
+  import default_topics_url from "../data/topics.json?url";
+  import default_bills_url from "../data/bills_simplified.json?url";
+  import default_members_url from "../data/members.json?url";
+
+  let { topics_url = default_topics_url, bills_url = default_bills_url, members_url = default_members_url } = $props();
 
   let loading = $state(true);
   let error = $state("");

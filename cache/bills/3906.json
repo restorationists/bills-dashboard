@@ -7,7 +7,7 @@
         "memberId": 5201,
         "name": "Victoria Collins",
         "party": "Liberal Democrat",
-        "partyColour": "faa01a",
+        "partyColour": "fc7d0b",
         "house": "Commons",
         "memberPhoto": "https://members-api.parliament.uk/api/Members/5201/Thumbnail",
         "memberPage": "https://members.parliament.uk/member/5201/contact",
@@ -26,7 +26,7 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-11-26T12:56:19.5047336",
+  "lastUpdate": "2026-05-05T16:38:36.9977383",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 8,
@@ -42,15 +42,7 @@
     "description": "2nd reading",
     "abbreviation": "2R",
     "house": "Commons",
-    "stageSittings": [
-      {
-        "id": 16483,
-        "stageId": 7,
-        "billStageId": 19376,
-        "billId": 3906,
-        "date": "2026-01-16T00:00:00"
-      }
-    ],
+    "stageSittings": [],
     "sortOrder": 2
   }
 }

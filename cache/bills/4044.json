@@ -3,8 +3,8 @@
   "summary": null,
   "sponsors": [],
   "promoters": [],
-  "petitioningPeriod": null,
-  "petitionInformation": null,
+  "petitioningPeriod": "The House of Lords petitioning period is closed.",
+  "petitionInformation": "<p>The House of Lords petitioning period was open from 9am on Friday 17 April until 5pm on Monday 27 April. No petitions were submitted against the Bill.</p><p></p><p></p>",
   "agent": {
     "name": "Sharpe Pritchard LLP",
     "address": "Elm Yard, 13-16 Elm Street, London WC1X 0BJ",
@@ -15,25 +15,34 @@
   "billId": 4044,
   "shortTitle": "Cheltenham Borough Council (Markets) Bill",
   "formerShortTitle": null,
-  "currentHouse": "Commons",
+  "currentHouse": "Lords",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-12-03T15:19:30.2005844",
+  "lastUpdate": "2026-09-07T17:15:54.2643349",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 6,
   "introducedSessionId": 39,
   "includedSessionIds": [
-    39
+    39,
+    40
   ],
   "isAct": false,
   "currentStage": {
-    "id": 20337,
-    "stageId": 6,
-    "sessionId": 39,
-    "description": "1st reading",
-    "abbreviation": "1R",
-    "house": "Commons",
-    "stageSittings": [],
-    "sortOrder": 3
+    "id": 21093,
+    "stageId": 5,
+    "sessionId": 40,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 18482,
+        "stageId": 5,
+        "billStageId": 21093,
+        "billId": 4044,
+        "date": "2026-07-14T00:00:00"
+      }
+    ],
+    "sortOrder": 15
   }
 }

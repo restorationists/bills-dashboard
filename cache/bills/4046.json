@@ -1,6 +1,6 @@
 {
   "longTitle": "A Bill to Make provision to amend section 4 of the Social Security Contributions and Benefits Act 1992, and section 4 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, so that amounts of salary sacrificed for employer pensions contributions pursuant to optional remuneration arrangements are liable to national insurance contributions.",
-  "summary": null,
+  "summary": "<p>Second reading - the general debate on all aspects of the bill - took place on 4 February. </p><p><strong>What happens next?  </strong></p><p>Committee stage - line by line examination of the bill – is scheduled for 24 February.  </p>",
   "sponsors": [
     {
       "member": {
@@ -18,6 +18,23 @@
         "url": "https://www.gov.uk/government/organisations/hm-treasury"
       },
       "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4559,
+        "name": "Lord Livermore",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4559/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4559/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "HM Treasury",
+        "url": "https://www.gov.uk/government/organisations/hm-treasury"
+      },
+      "sortOrder": 2
     }
   ],
   "promoters": [],
@@ -25,11 +42,11 @@
   "petitionInformation": null,
   "agent": null,
   "billId": 4046,
-  "shortTitle": "National Insurance Contributions (Employer Pensions Contributions) Bill",
+  "shortTitle": "National Insurance Contributions (Employer Pensions Contributions) Act 2026",
   "formerShortTitle": null,
-  "currentHouse": "Commons",
+  "currentHouse": "Unassigned",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-12-18T12:44:55.0165585",
+  "lastUpdate": "2026-05-14T10:09:48.2352459",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 1,
@@ -37,15 +54,23 @@
   "includedSessionIds": [
     39
   ],
-  "isAct": false,
+  "isAct": true,
   "currentStage": {
-    "id": 20389,
-    "stageId": 49,
+    "id": 20728,
+    "stageId": 11,
     "sessionId": 39,
-    "description": "Committee of the whole House",
-    "abbreviation": "COTWH",
-    "house": "Commons",
-    "stageSittings": [],
-    "sortOrder": 4
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 18088,
+        "stageId": 11,
+        "billStageId": 20728,
+        "billId": 4046,
+        "date": "2026-04-29T00:00:00"
+      }
+    ],
+    "sortOrder": 14
   }
 }

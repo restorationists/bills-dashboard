@@ -42,11 +42,11 @@
   "petitionInformation": null,
   "agent": null,
   "billId": 3968,
-  "shortTitle": "Victims and Courts Bill",
+  "shortTitle": "Victims and Courts Act 2026",
   "formerShortTitle": null,
-  "currentHouse": "Lords",
+  "currentHouse": "Unassigned",
   "originatingHouse": "Commons",
-  "lastUpdate": "2026-01-02T16:45:29.5884382",
+  "lastUpdate": "2026-05-08T12:52:23.8694404",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 1,
@@ -54,15 +54,23 @@
   "includedSessionIds": [
     39
   ],
-  "isAct": false,
+  "isAct": true,
   "currentStage": {
-    "id": 20391,
-    "stageId": 3,
+    "id": 20702,
+    "stageId": 11,
     "sessionId": 39,
-    "description": "Committee stage",
-    "abbreviation": "CS",
-    "house": "Lords",
-    "stageSittings": [],
-    "sortOrder": 10
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 18092,
+        "stageId": 11,
+        "billStageId": 20702,
+        "billId": 3968,
+        "date": "2026-04-29T00:00:00"
+      }
+    ],
+    "sortOrder": 18
   }
 }

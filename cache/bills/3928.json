@@ -26,7 +26,7 @@
   "formerShortTitle": null,
   "currentHouse": "Lords",
   "originatingHouse": "Lords",
-  "lastUpdate": "2025-01-30T09:04:45.3929514",
+  "lastUpdate": "2026-04-30T14:17:42.746348",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 2,
@@ -36,13 +36,21 @@
   ],
   "isAct": false,
   "currentStage": {
-    "id": 19497,
-    "stageId": 2,
+    "id": 19496,
+    "stageId": 1,
     "sessionId": 39,
-    "description": "2nd reading",
-    "abbreviation": "2R",
+    "description": "1st reading",
+    "abbreviation": "1R",
     "house": "Lords",
-    "stageSittings": [],
-    "sortOrder": 2
+    "stageSittings": [
+      {
+        "id": 16658,
+        "stageId": 1,
+        "billStageId": 19496,
+        "billId": 3928,
+        "date": "2025-01-29T00:00:00"
+      }
+    ],
+    "sortOrder": 1
   }
 }

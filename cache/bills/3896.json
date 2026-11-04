@@ -17,23 +17,24 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-09-01T16:20:50.05046",
+  "lastUpdate": "2026-09-07T17:19:07.5734317",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 6,
   "introducedSessionId": 39,
   "includedSessionIds": [
-    39
+    39,
+    40
   ],
   "isAct": false,
   "currentStage": {
-    "id": 19516,
-    "stageId": 8,
-    "sessionId": 39,
-    "description": "Committee stage",
-    "abbreviation": "CS",
+    "id": 21044,
+    "stageId": 9,
+    "sessionId": 40,
+    "description": "Report stage",
+    "abbreviation": "RS",
     "house": "Commons",
     "stageSittings": [],
-    "sortOrder": 5
+    "sortOrder": 10
   }
 }

@@ -14,10 +14,27 @@
         "memberFrom": "Hove and Portslade"
       },
       "organisation": {
-        "name": "Department for Business and Trade ",
+        "name": "Department for Business and Trade",
         "url": "https://www.gov.uk/government/organisations/department-for-business-and-trade"
       },
       "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 5413,
+        "name": "Lord Stockwood",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5413/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5413/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Department for Business and Trade",
+        "url": "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+      },
+      "sortOrder": 2
     }
   ],
   "promoters": [],
@@ -25,11 +42,11 @@
   "petitionInformation": null,
   "agent": null,
   "billId": 4034,
-  "shortTitle": "Industry and Exports (Financial Assistance) Bill",
+  "shortTitle": "Industry and Exports (Financial Assistance) Act 2026",
   "formerShortTitle": null,
-  "currentHouse": "Commons",
+  "currentHouse": "Unassigned",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-12-16T12:49:40.1909197",
+  "lastUpdate": "2026-04-30T10:28:26.0216885",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 1,
@@ -37,15 +54,23 @@
   "includedSessionIds": [
     39
   ],
-  "isAct": false,
+  "isAct": true,
   "currentStage": {
-    "id": 20383,
-    "stageId": 49,
+    "id": 20607,
+    "stageId": 11,
     "sessionId": 39,
-    "description": "Committee of the whole House",
-    "abbreviation": "COTWH",
-    "house": "Commons",
-    "stageSittings": [],
-    "sortOrder": 5
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 17939,
+        "stageId": 11,
+        "billStageId": 20607,
+        "billId": 4034,
+        "date": "2026-03-18T00:00:00"
+      }
+    ],
+    "sortOrder": 11
   }
 }

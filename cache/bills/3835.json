@@ -7,7 +7,7 @@
         "memberId": 5122,
         "name": "Manuela Perteghella",
         "party": "Liberal Democrat",
-        "partyColour": "faa01a",
+        "partyColour": "fc7d0b",
         "house": "Commons",
         "memberPhoto": "https://members-api.parliament.uk/api/Members/5122/Thumbnail",
         "memberPage": "https://members.parliament.uk/member/5122/contact",
@@ -26,7 +26,7 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-09-11T16:30:57.8625287",
+  "lastUpdate": "2026-04-30T15:02:49.8746798",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 8,
@@ -42,15 +42,7 @@
     "description": "2nd reading",
     "abbreviation": "2R",
     "house": "Commons",
-    "stageSittings": [
-      {
-        "id": 16237,
-        "stageId": 7,
-        "billStageId": 19155,
-        "billId": 3835,
-        "date": "2026-02-06T00:00:00"
-      }
-    ],
+    "stageSittings": [],
     "sortOrder": 2
   }
 }

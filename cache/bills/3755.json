@@ -42,11 +42,11 @@
   "petitionInformation": null,
   "agent": null,
   "billId": 3755,
-  "shortTitle": "House of Lords (Hereditary Peers) Bill",
+  "shortTitle": "House of Lords (Hereditary Peers) Act 2026",
   "formerShortTitle": null,
-  "currentHouse": "Lords",
+  "currentHouse": "Unassigned",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-09-30T10:27:18.6945832",
+  "lastUpdate": "2026-03-20T17:25:23.8252043",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 1,
@@ -54,15 +54,23 @@
   "includedSessionIds": [
     39
   ],
-  "isAct": false,
+  "isAct": true,
   "currentStage": {
-    "id": 20179,
-    "stageId": 13,
+    "id": 20590,
+    "stageId": 11,
     "sessionId": 39,
-    "description": "Consideration of Commons amendments and / or reasons",
-    "abbreviation": "COCAA/OR",
-    "house": "Lords",
-    "stageSittings": [],
-    "sortOrder": 12
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 17937,
+        "stageId": 11,
+        "billStageId": 20590,
+        "billId": 3755,
+        "date": "2026-03-18T00:00:00"
+      }
+    ],
+    "sortOrder": 13
   }
 }

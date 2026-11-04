@@ -7,7 +7,7 @@
         "memberId": 4089,
         "name": "Tessa Munt",
         "party": "Liberal Democrat",
-        "partyColour": "faa01a",
+        "partyColour": "fc7d0b",
         "house": "Commons",
         "memberPhoto": "https://members-api.parliament.uk/api/Members/4089/Thumbnail",
         "memberPage": "https://members.parliament.uk/member/4089/contact",
@@ -26,7 +26,7 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-11-27T13:29:52.9820732",
+  "lastUpdate": "2026-05-06T10:32:50.2455631",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 8,
@@ -42,15 +42,7 @@
     "description": "2nd reading",
     "abbreviation": "2R",
     "house": "Commons",
-    "stageSittings": [
-      {
-        "id": 17330,
-        "stageId": 7,
-        "billStageId": 20159,
-        "billId": 4010,
-        "date": "2026-01-23T00:00:00"
-      }
-    ],
+    "stageSittings": [],
     "sortOrder": 2
   }
 }

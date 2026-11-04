@@ -167,7 +167,7 @@ def main():
     ]
 
     with open(args.csv_path, "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=fieldnames)
+        w = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
         w.writeheader()
         for row in simplified:
             csv_row = dict(row)

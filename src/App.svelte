@@ -3,6 +3,12 @@
   import Dashboard from "./Dashboard.svelte";
   import Browse from "./Browse.svelte";
   import Topics from "./Topics.svelte";
+  import edition from "../data/edition.json";
+  import archived_stats from "../archives/starmer-2026-01-02/data/statistics.json?url";
+  import archived_bills from "../archives/starmer-2026-01-02/data/bills_simplified.json?url";
+  import archived_members from "../archives/starmer-2026-01-02/data/members.json?url";
+  import archived_topics from "../archives/starmer-2026-01-02/data/topics.json?url";
+  let archive = $state(false);
 
   let tab = $state("dashboard");
 
@@ -132,13 +138,28 @@
   </header>
 
   <main class="flex-1 w-full px-4 sm:px-6 lg:px-8 py-6 pb-24">
+    <section class="mb-6 rounded border border-neutral-200 dark:border-white/10 p-4" aria-label="Data edition">
+      <label class="font-medium">Edition
+        <select class="ml-2 rounded border p-2 bg-white text-neutral-900" bind:value={archive}>
+          <option value={false}>2026 — Burnham era</option>
+          <option value={true}>Archive — original Starmer edition</option>
+        </select>
+      </label>
+      <p class="mt-2 text-sm">{archive ? 'Original snapshot: 2 January 2026. Preserved without changes.' : edition.coverage_note}</p>
+      <p class="mt-1 text-sm">Full historical bills collection, including private members’ bills and Acts. Inclusion does not imply sponsorship by the current government.</p>
+      {#if !archive}
+        <a class="inline-block mt-2 text-sm underline" href="/reports/ridiculous-bills-2026.html" target="_blank" rel="noreferrer">Read the editorial shortlist</a>
+      {/if}
+    </section>
+    {#key archive}
     {#if tab === "dashboard"}
-      <Dashboard />
+      <Dashboard stats_url={archive ? archived_stats : undefined} bills_url={archive ? archived_bills : undefined} />
     {:else if tab === "browse"}
-      <Browse />
+      <Browse bills_url={archive ? archived_bills : undefined} members_url={archive ? archived_members : undefined} />
     {:else if tab === "topics"}
-      <Topics />
+      <Topics topics_url={archive ? archived_topics : undefined} bills_url={archive ? archived_bills : undefined} members_url={archive ? archived_members : undefined} />
     {/if}
+    {/key}
   </main>
 
   <footer class="fixed bottom-0 left-0 right-0 z-30 border-t border-neutral-200/70 dark:border-white/10 backdrop-blur bg-white/80 dark:bg-[#070A12]/75">

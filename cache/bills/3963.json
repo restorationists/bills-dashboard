@@ -7,7 +7,7 @@
         "memberId": 4769,
         "name": "Daisy Cooper",
         "party": "Liberal Democrat",
-        "partyColour": "faa01a",
+        "partyColour": "fc7d0b",
         "house": "Commons",
         "memberPhoto": "https://members-api.parliament.uk/api/Members/4769/Thumbnail",
         "memberPage": "https://members.parliament.uk/member/4769/contact",
@@ -26,7 +26,7 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-09-11T12:46:34.4482141",
+  "lastUpdate": "2026-04-30T15:48:28.4197454",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 8,
@@ -42,15 +42,7 @@
     "description": "2nd reading",
     "abbreviation": "2R",
     "house": "Commons",
-    "stageSittings": [
-      {
-        "id": 16954,
-        "stageId": 7,
-        "billStageId": 19863,
-        "billId": 3963,
-        "date": "2026-05-29T00:00:00"
-      }
-    ],
+    "stageSittings": [],
     "sortOrder": 2
   }
 }

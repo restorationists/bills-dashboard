@@ -7,7 +7,7 @@
         "memberId": 5111,
         "name": "Martin Wrigley",
         "party": "Liberal Democrat",
-        "partyColour": "faa01a",
+        "partyColour": "fc7d0b",
         "house": "Commons",
         "memberPhoto": "https://members-api.parliament.uk/api/Members/5111/Thumbnail",
         "memberPage": "https://members.parliament.uk/member/5111/contact",
@@ -26,7 +26,7 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-11-26T13:20:16.7581833",
+  "lastUpdate": "2026-04-30T16:50:10.4770739",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 8,
@@ -49,13 +49,6 @@
         "billStageId": 19063,
         "billId": 3794,
         "date": "2025-07-04T00:00:00"
-      },
-      {
-        "id": 16135,
-        "stageId": 7,
-        "billStageId": 19063,
-        "billId": 3794,
-        "date": "2026-01-16T00:00:00"
       }
     ],
     "sortOrder": 2

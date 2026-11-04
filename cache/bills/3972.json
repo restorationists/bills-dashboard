@@ -42,11 +42,11 @@
   "petitionInformation": null,
   "agent": null,
   "billId": 3972,
-  "shortTitle": "Sustainable Aviation Fuel Bill",
+  "shortTitle": "Sustainable Aviation Fuel Act 2026",
   "formerShortTitle": null,
-  "currentHouse": "Lords",
+  "currentHouse": "Unassigned",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-12-15T18:12:31.2167845",
+  "lastUpdate": "2026-03-06T16:38:30.2321685",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 1,
@@ -54,15 +54,23 @@
   "includedSessionIds": [
     39
   ],
-  "isAct": false,
+  "isAct": true,
   "currentStage": {
-    "id": 20369,
-    "stageId": 4,
+    "id": 20557,
+    "stageId": 11,
     "sessionId": 39,
-    "description": "Report stage",
-    "abbreviation": "RS",
-    "house": "Lords",
-    "stageSittings": [],
-    "sortOrder": 12
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 17881,
+        "stageId": 11,
+        "billStageId": 20557,
+        "billId": 3972,
+        "date": "2026-03-05T00:00:00"
+      }
+    ],
+    "sortOrder": 16
   }
 }

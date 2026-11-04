@@ -15,6 +15,20 @@
       },
       "organisation": null,
       "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 5085,
+        "name": "Llinos Medi",
+        "party": "Plaid Cymru",
+        "partyColour": "348837",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5085/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5085/contact",
+        "memberFrom": "Ynys Môn"
+      },
+      "organisation": null,
+      "sortOrder": 2
     }
   ],
   "promoters": [],
@@ -24,9 +38,9 @@
   "billId": 3762,
   "shortTitle": "Crown Estate (Wales) Bill [HL]",
   "formerShortTitle": null,
-  "currentHouse": "Lords",
+  "currentHouse": "Commons",
   "originatingHouse": "Lords",
-  "lastUpdate": "2025-11-14T09:15:15.7352923",
+  "lastUpdate": "2026-05-01T11:03:30.1666005",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 2,
@@ -36,13 +50,13 @@
   ],
   "isAct": false,
   "currentStage": {
-    "id": 20153,
-    "stageId": 5,
+    "id": 20473,
+    "stageId": 7,
     "sessionId": 39,
-    "description": "3rd reading",
-    "abbreviation": "3R",
-    "house": "Lords",
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
     "stageSittings": [],
-    "sortOrder": 5
+    "sortOrder": 7
   }
 }

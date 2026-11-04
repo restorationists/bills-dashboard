@@ -36,11 +36,11 @@
   "petitionInformation": null,
   "agent": null,
   "billId": 3786,
-  "shortTitle": "Unauthorised Entry to Football Matches Bill",
+  "shortTitle": "Unauthorised Entry to Football Matches Act 2026",
   "formerShortTitle": null,
-  "currentHouse": "Lords",
+  "currentHouse": "Unassigned",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-12-18T09:03:54.2147278",
+  "lastUpdate": "2026-01-23T12:45:58.1004037",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 7,
@@ -48,23 +48,23 @@
   "includedSessionIds": [
     39
   ],
-  "isAct": false,
+  "isAct": true,
   "currentStage": {
-    "id": 20364,
-    "stageId": 5,
+    "id": 20439,
+    "stageId": 11,
     "sessionId": 39,
-    "description": "3rd reading",
-    "abbreviation": "3R",
-    "house": "Lords",
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
     "stageSittings": [
       {
-        "id": 17611,
-        "stageId": 5,
-        "billStageId": 20364,
+        "id": 17748,
+        "stageId": 11,
+        "billStageId": 20439,
         "billId": 3786,
-        "date": "2026-01-16T00:00:00"
+        "date": "2026-01-22T00:00:00"
       }
     ],
-    "sortOrder": 9
+    "sortOrder": 10
   }
 }

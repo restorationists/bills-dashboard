@@ -7,7 +7,7 @@
         "memberId": 5216,
         "name": "Caroline Voaden",
         "party": "Liberal Democrat",
-        "partyColour": "faa01a",
+        "partyColour": "fc7d0b",
         "house": "Commons",
         "memberPhoto": "https://members-api.parliament.uk/api/Members/5216/Thumbnail",
         "memberPage": "https://members.parliament.uk/member/5216/contact",
@@ -26,7 +26,7 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-09-11T16:42:19.1518577",
+  "lastUpdate": "2026-05-05T11:23:24.6451962",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 8,
@@ -49,13 +49,6 @@
         "billStageId": 19114,
         "billId": 3819,
         "date": "2025-03-07T00:00:00"
-      },
-      {
-        "id": 16807,
-        "stageId": 7,
-        "billStageId": 19114,
-        "billId": 3819,
-        "date": "2026-04-24T00:00:00"
       }
     ],
     "sortOrder": 2

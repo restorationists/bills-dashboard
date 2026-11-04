@@ -7,7 +7,7 @@
         "memberId": 5265,
         "name": "James MacCleary",
         "party": "Liberal Democrat",
-        "partyColour": "faa01a",
+        "partyColour": "fc7d0b",
         "house": "Commons",
         "memberPhoto": "https://members-api.parliament.uk/api/Members/5265/Thumbnail",
         "memberPage": "https://members.parliament.uk/member/5265/contact",
@@ -26,7 +26,7 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-10-16T12:13:38.1147727",
+  "lastUpdate": "2026-05-06T10:56:45.2019165",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 5,
@@ -42,15 +42,7 @@
     "description": "2nd reading",
     "abbreviation": "2R",
     "house": "Commons",
-    "stageSittings": [
-      {
-        "id": 16594,
-        "stageId": 7,
-        "billStageId": 19453,
-        "billId": 3920,
-        "date": "2026-05-29T00:00:00"
-      }
-    ],
+    "stageSittings": [],
     "sortOrder": 2
   }
 }

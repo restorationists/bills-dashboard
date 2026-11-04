@@ -7,7 +7,7 @@
         "memberId": 5346,
         "name": "Calum Miller",
         "party": "Liberal Democrat",
-        "partyColour": "faa01a",
+        "partyColour": "fc7d0b",
         "house": "Commons",
         "memberPhoto": "https://members-api.parliament.uk/api/Members/5346/Thumbnail",
         "memberPage": "https://members.parliament.uk/member/5346/contact",
@@ -22,11 +22,11 @@
   "petitionInformation": null,
   "agent": null,
   "billId": 4036,
-  "shortTitle": "Russian frozen assets (seizure and aid to Ukraine) Bill",
+  "shortTitle": "Russian Frozen Assets (Seizure and Aid to Ukraine) Bill",
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-11-12T16:39:52.1590822",
+  "lastUpdate": "2026-05-05T16:46:46.302793",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 5,
@@ -42,15 +42,7 @@
     "description": "2nd reading",
     "abbreviation": "2R",
     "house": "Commons",
-    "stageSittings": [
-      {
-        "id": 17516,
-        "stageId": 7,
-        "billStageId": 20293,
-        "billId": 4036,
-        "date": "2026-01-30T00:00:00"
-      }
-    ],
+    "stageSittings": [],
     "sortOrder": 2
   }
 }

@@ -7,7 +7,7 @@
         "memberId": 5310,
         "name": "Mr Lee Dillon",
         "party": "Liberal Democrat",
-        "partyColour": "faa01a",
+        "partyColour": "fc7d0b",
         "house": "Commons",
         "memberPhoto": "https://members-api.parliament.uk/api/Members/5310/Thumbnail",
         "memberPage": "https://members.parliament.uk/member/5310/contact",
@@ -26,7 +26,7 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-11-13T16:28:57.2060652",
+  "lastUpdate": "2026-05-05T16:42:05.2132437",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 8,
@@ -42,15 +42,7 @@
     "description": "2nd reading",
     "abbreviation": "2R",
     "house": "Commons",
-    "stageSittings": [
-      {
-        "id": 17391,
-        "stageId": 7,
-        "billStageId": 20205,
-        "billId": 4020,
-        "date": "2026-01-16T00:00:00"
-      }
-    ],
+    "stageSittings": [],
     "sortOrder": 2
   }
 }

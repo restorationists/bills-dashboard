@@ -42,11 +42,11 @@
   "petitionInformation": null,
   "agent": null,
   "billId": 3879,
-  "shortTitle": "Tobacco and Vapes Bill",
+  "shortTitle": "Tobacco and Vapes Act 2026",
   "formerShortTitle": null,
-  "currentHouse": "Lords",
+  "currentHouse": "Unassigned",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-12-22T18:10:12.5900762",
+  "lastUpdate": "2026-05-08T12:57:48.7977061",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 1,
@@ -54,15 +54,23 @@
   "includedSessionIds": [
     39
   ],
-  "isAct": false,
+  "isAct": true,
   "currentStage": {
-    "id": 20329,
-    "stageId": 4,
+    "id": 20680,
+    "stageId": 11,
     "sessionId": 39,
-    "description": "Report stage",
-    "abbreviation": "RS",
-    "house": "Lords",
-    "stageSittings": [],
-    "sortOrder": 12
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 18091,
+        "stageId": 11,
+        "billStageId": 20680,
+        "billId": 3879,
+        "date": "2026-04-29T00:00:00"
+      }
+    ],
+    "sortOrder": 17
   }
 }

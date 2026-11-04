@@ -26,7 +26,7 @@
   "formerShortTitle": "",
   "currentHouse": "Lords",
   "originatingHouse": "Lords",
-  "lastUpdate": "2025-06-09T09:18:32.4626895",
+  "lastUpdate": "2026-04-30T14:12:22.7092737",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 2,
@@ -36,13 +36,21 @@
   ],
   "isAct": false,
   "currentStage": {
-    "id": 19986,
-    "stageId": 4,
+    "id": 19387,
+    "stageId": 3,
     "sessionId": 39,
-    "description": "Report stage",
-    "abbreviation": "RS",
+    "description": "Committee stage",
+    "abbreviation": "CS",
     "house": "Lords",
-    "stageSittings": [],
-    "sortOrder": 4
+    "stageSittings": [
+      {
+        "id": 16997,
+        "stageId": 3,
+        "billStageId": 19387,
+        "billId": 3750,
+        "date": "2025-06-06T00:00:00"
+      }
+    ],
+    "sortOrder": 3
   }
 }

@@ -7,7 +7,7 @@
         "memberId": 2539,
         "name": "Baroness Northover",
         "party": "Liberal Democrat",
-        "partyColour": "faa01a",
+        "partyColour": "fc7d0b",
         "house": "Lords",
         "memberPhoto": "https://members-api.parliament.uk/api/Members/2539/Thumbnail",
         "memberPage": "https://members.parliament.uk/member/2539/contact",
@@ -26,7 +26,7 @@
   "formerShortTitle": null,
   "currentHouse": "Lords",
   "originatingHouse": "Lords",
-  "lastUpdate": "2025-03-17T09:39:45.6714489",
+  "lastUpdate": "2026-04-30T14:15:08.7118437",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 2,
@@ -36,13 +36,21 @@
   ],
   "isAct": false,
   "currentStage": {
-    "id": 19767,
-    "stageId": 3,
+    "id": 18989,
+    "stageId": 2,
     "sessionId": 39,
-    "description": "Committee stage",
-    "abbreviation": "CS",
+    "description": "2nd reading",
+    "abbreviation": "2R",
     "house": "Lords",
-    "stageSittings": [],
-    "sortOrder": 3
+    "stageSittings": [
+      {
+        "id": 16716,
+        "stageId": 2,
+        "billStageId": 18989,
+        "billId": 3771,
+        "date": "2025-03-14T00:00:00"
+      }
+    ],
+    "sortOrder": 2
   }
 }

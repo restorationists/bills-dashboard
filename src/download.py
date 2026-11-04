@@ -41,7 +41,7 @@ import re
 import sys
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import Any, Dict, List, Optional, Tuple
 
 import requests
@@ -56,7 +56,7 @@ DETAIL_URL_TPL = "https://bills-api.parliament.uk/api/v1/Bills/{bill_id}"
 # ----------------------------
 
 def utc_now() -> str:
-    return datetime.utcnow().isoformat(timespec="seconds") + "Z"
+    return datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
 
 
 def log(msg: str, debug: bool) -> None:
@@ -257,6 +257,8 @@ def fetch_index_all(
         if sleep_pages:
             time.sleep(sleep_pages)
 
+    if total is not None and len(all_items) != total:
+        raise RuntimeError(f"Incomplete index: expected {total} bills, received {len(all_items)}")
     log(f"INDEX DONE count={len(all_items)}", debug)
     return all_items
 
@@ -267,6 +269,7 @@ def fetch_detail_cached(
     max_retries: int,
     debug: bool,
     cache_dir: str,
+    expected_update: Optional[str] = None,
 ) -> Tuple[int, Dict[str, Any], bool]:
     """
     Returns (bill_id, detail_payload, from_cache)
@@ -275,7 +278,7 @@ def fetch_detail_cached(
     cpath = bill_cache_path(cache_dir, bill_id)
 
     cached = read_json_file(cpath)
-    if cached is not None:
+    if cached is not None and expected_update is not None and cached.get("lastUpdate") == expected_update:
         return bill_id, cached, True
 
     # fetch (thread-local session)
@@ -336,8 +339,8 @@ def main():
 
     with ThreadPoolExecutor(max_workers=args.workers) as ex:
         futures = {
-            ex.submit(fetch_detail_cached, bid, args.timeout, args.max_retries, args.debug, args.cache_dir): bid
-            for bid in bill_ids
+            ex.submit(fetch_detail_cached, int(it["billId"]), args.timeout, args.max_retries, args.debug, args.cache_dir, it.get("lastUpdate")): int(it["billId"])
+            for it in index_items if it.get("billId") is not None
         }
 
         done = 0
@@ -436,7 +439,7 @@ def main():
     ordered_cols = [c for c in preferred if c in cols] + [c for c in sorted(cols) if c not in preferred]
 
     with open(args.csv_path, "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=ordered_cols, extrasaction="ignore")
+        w = csv.DictWriter(f, fieldnames=ordered_cols, extrasaction="ignore", lineterminator="\n")
         w.writeheader()
         for row in flat_rows:
             w.writerow(row)

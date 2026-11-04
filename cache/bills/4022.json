@@ -18,6 +18,23 @@
         "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
       },
       "sortOrder": 1
+    },
+    {
+      "member": {
+        "memberId": 4508,
+        "name": "Baroness Anderson of Stoke-on-Trent",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4508/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4508/contact",
+        "memberFrom": "Life peer"
+      },
+      "organisation": {
+        "name": "Northern Ireland Office",
+        "url": "https://www.gov.uk/government/organisations/northern-ireland-office"
+      },
+      "sortOrder": 2
     }
   ],
   "promoters": [],
@@ -27,25 +44,26 @@
   "billId": 4022,
   "shortTitle": "Northern Ireland Troubles Bill",
   "formerShortTitle": null,
-  "currentHouse": "Commons",
+  "currentHouse": "Lords",
   "originatingHouse": "Commons",
-  "lastUpdate": "2026-01-02T17:23:49.600572",
+  "lastUpdate": "2026-10-30T11:16:39.3039368",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 1,
   "introducedSessionId": 39,
   "includedSessionIds": [
-    39
+    39,
+    40
   ],
   "isAct": false,
   "currentStage": {
-    "id": 20309,
-    "stageId": 49,
-    "sessionId": 39,
-    "description": "Committee of the whole House",
-    "abbreviation": "COTWH",
-    "house": "Commons",
+    "id": 21268,
+    "stageId": 2,
+    "sessionId": 40,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
     "stageSittings": [],
-    "sortOrder": 5
+    "sortOrder": 12
   }
 }

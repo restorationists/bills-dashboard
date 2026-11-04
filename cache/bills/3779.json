@@ -36,11 +36,11 @@
   "petitionInformation": null,
   "agent": null,
   "billId": 3779,
-  "shortTitle": "Rare Cancers Bill",
+  "shortTitle": "Rare Cancers Act 2026",
   "formerShortTitle": null,
-  "currentHouse": "Lords",
+  "currentHouse": "Unassigned",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-12-15T12:17:30.860439",
+  "lastUpdate": "2026-03-06T16:37:17.2752546",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 7,
@@ -48,23 +48,23 @@
   "includedSessionIds": [
     39
   ],
-  "isAct": false,
+  "isAct": true,
   "currentStage": {
-    "id": 20122,
-    "stageId": 2,
+    "id": 20535,
+    "stageId": 11,
     "sessionId": 39,
-    "description": "2nd reading",
-    "abbreviation": "2R",
-    "house": "Lords",
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
     "stageSittings": [
       {
-        "id": 17620,
-        "stageId": 2,
-        "billStageId": 20122,
+        "id": 17880,
+        "stageId": 11,
+        "billStageId": 20535,
         "billId": 3779,
-        "date": "2026-01-16T00:00:00"
+        "date": "2026-03-05T00:00:00"
       }
     ],
-    "sortOrder": 8
+    "sortOrder": 11
   }
 }

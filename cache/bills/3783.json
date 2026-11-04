@@ -36,11 +36,11 @@
   "petitionInformation": null,
   "agent": null,
   "billId": 3783,
-  "shortTitle": "Licensing Hours Extensions Bill",
+  "shortTitle": "Licensing Hours Extensions Act 2026",
   "formerShortTitle": null,
-  "currentHouse": "Lords",
+  "currentHouse": "Unassigned",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-12-17T16:04:36.3404326",
+  "lastUpdate": "2026-02-16T10:56:59.7539461",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 7,
@@ -48,23 +48,23 @@
   "includedSessionIds": [
     39
   ],
-  "isAct": false,
+  "isAct": true,
   "currentStage": {
-    "id": 20256,
-    "stageId": 3,
+    "id": 20463,
+    "stageId": 11,
     "sessionId": 39,
-    "description": "Committee stage",
-    "abbreviation": "CS",
-    "house": "Lords",
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
     "stageSittings": [
       {
-        "id": 17644,
-        "stageId": 3,
-        "billStageId": 20256,
+        "id": 17835,
+        "stageId": 11,
+        "billStageId": 20463,
         "billId": 3783,
-        "date": "2026-01-06T00:00:00"
+        "date": "2026-02-12T00:00:00"
       }
     ],
-    "sortOrder": 7
+    "sortOrder": 9
   }
 }

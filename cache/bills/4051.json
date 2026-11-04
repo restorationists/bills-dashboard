@@ -22,11 +22,11 @@
   "petitionInformation": null,
   "agent": null,
   "billId": 4051,
-  "shortTitle": "Data Publication and Quality (Immigration, Nationality and Country of Birth) Bill Bill",
+  "shortTitle": "Data Publication and Quality (Immigration, Nationality and Country of Birth) Bill",
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-12-11T12:29:28.106164",
+  "lastUpdate": "2026-05-11T10:26:11.1311953",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 5,
@@ -42,15 +42,7 @@
     "description": "2nd reading",
     "abbreviation": "2R",
     "house": "Commons",
-    "stageSittings": [
-      {
-        "id": 17624,
-        "stageId": 7,
-        "billStageId": 20373,
-        "billId": 4051,
-        "date": "2026-01-16T00:00:00"
-      }
-    ],
+    "stageSittings": [],
     "sortOrder": 2
   }
 }

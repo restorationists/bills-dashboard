@@ -2,8 +2,10 @@
   import { onMount, onDestroy } from "svelte";
   import Chart from "chart.js/auto";
 
-  import stats_url from "../data/statistics.json?url";
-  import bills_url from "../data/bills_simplified.json?url";
+  import default_stats_url from "../data/statistics.json?url";
+  import default_bills_url from "../data/bills_simplified.json?url";
+
+  let { stats_url = default_stats_url, bills_url = default_bills_url } = $props();
 
   let loading = $state(true);
   let error = $state("");

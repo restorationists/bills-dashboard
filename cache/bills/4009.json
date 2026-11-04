@@ -7,7 +7,7 @@
         "memberId": 5283,
         "name": "Alison Bennett",
         "party": "Liberal Democrat",
-        "partyColour": "faa01a",
+        "partyColour": "fc7d0b",
         "house": "Commons",
         "memberPhoto": "https://members-api.parliament.uk/api/Members/5283/Thumbnail",
         "memberPage": "https://members.parliament.uk/member/5283/contact",
@@ -26,7 +26,7 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-11-28T12:36:36.0611399",
+  "lastUpdate": "2026-05-06T10:27:36.2720171",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 8,
@@ -42,15 +42,7 @@
     "description": "2nd reading",
     "abbreviation": "2R",
     "house": "Commons",
-    "stageSittings": [
-      {
-        "id": 17328,
-        "stageId": 7,
-        "billStageId": 20157,
-        "billId": 4009,
-        "date": "2026-01-16T00:00:00"
-      }
-    ],
+    "stageSittings": [],
     "sortOrder": 2
   }
 }

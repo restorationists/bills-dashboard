@@ -7,7 +7,7 @@
         "memberId": 4231,
         "name": "Baroness Tyler of Enfield",
         "party": "Liberal Democrat",
-        "partyColour": "faa01a",
+        "partyColour": "fc7d0b",
         "house": "Lords",
         "memberPhoto": "https://members-api.parliament.uk/api/Members/4231/Thumbnail",
         "memberPage": "https://members.parliament.uk/member/4231/contact",
@@ -26,7 +26,7 @@
   "formerShortTitle": null,
   "currentHouse": "Lords",
   "originatingHouse": "Lords",
-  "lastUpdate": "2024-10-29T09:15:35.9224117",
+  "lastUpdate": "2026-04-30T14:07:45.3061613",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 2,
@@ -36,13 +36,21 @@
   ],
   "isAct": false,
   "currentStage": {
-    "id": 19232,
-    "stageId": 2,
+    "id": 19231,
+    "stageId": 1,
     "sessionId": 39,
-    "description": "2nd reading",
-    "abbreviation": "2R",
+    "description": "1st reading",
+    "abbreviation": "1R",
     "house": "Lords",
-    "stageSittings": [],
-    "sortOrder": 2
+    "stageSittings": [
+      {
+        "id": 16312,
+        "stageId": 1,
+        "billStageId": 19231,
+        "billId": 3874,
+        "date": "2024-10-28T00:00:00"
+      }
+    ],
+    "sortOrder": 1
   }
 }

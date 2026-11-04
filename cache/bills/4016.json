@@ -42,11 +42,11 @@
   "petitionInformation": null,
   "agent": null,
   "billId": 4016,
-  "shortTitle": "Biodiversity Beyond National Jurisdiction Bill",
+  "shortTitle": "Biodiversity Beyond National Jurisdiction Act 2026",
   "formerShortTitle": null,
-  "currentHouse": "Lords",
+  "currentHouse": "Unassigned",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-12-22T18:17:41.7731177",
+  "lastUpdate": "2026-02-16T11:00:37.2262313",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 1,
@@ -54,23 +54,23 @@
   "includedSessionIds": [
     39
   ],
-  "isAct": false,
+  "isAct": true,
   "currentStage": {
-    "id": 20363,
-    "stageId": 4,
+    "id": 20487,
+    "stageId": 11,
     "sessionId": 39,
-    "description": "Report stage",
-    "abbreviation": "RS",
-    "house": "Lords",
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
     "stageSittings": [
       {
-        "id": 17609,
-        "stageId": 4,
-        "billStageId": 20363,
+        "id": 17837,
+        "stageId": 11,
+        "billStageId": 20487,
         "billId": 4016,
-        "date": "2026-01-12T00:00:00"
+        "date": "2026-02-12T00:00:00"
       }
     ],
-    "sortOrder": 10
+    "sortOrder": 14
   }
 }

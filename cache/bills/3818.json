@@ -26,7 +26,7 @@
   "formerShortTitle": null,
   "currentHouse": "Commons",
   "originatingHouse": "Commons",
-  "lastUpdate": "2025-11-20T10:34:19.397635",
+  "lastUpdate": "2026-04-30T16:55:20.4930622",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 8,
@@ -36,28 +36,13 @@
   ],
   "isAct": false,
   "currentStage": {
-    "id": 20077,
-    "stageId": 9,
+    "id": 20532,
+    "stageId": 10,
     "sessionId": 39,
-    "description": "Report stage",
-    "abbreviation": "RS",
+    "description": "3rd reading",
+    "abbreviation": "3R",
     "house": "Commons",
-    "stageSittings": [
-      {
-        "id": 17236,
-        "stageId": 9,
-        "billStageId": 20077,
-        "billId": 3818,
-        "date": "2025-07-11T00:00:00"
-      },
-      {
-        "id": 17280,
-        "stageId": 9,
-        "billStageId": 20077,
-        "billId": 3818,
-        "date": "2026-01-16T00:00:00"
-      }
-    ],
-    "sortOrder": 4
+    "stageSittings": [],
+    "sortOrder": 5
   }
 }

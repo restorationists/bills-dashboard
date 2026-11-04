@@ -42,11 +42,11 @@
   "petitionInformation": null,
   "agent": null,
   "billId": 3982,
-  "shortTitle": "Pension Schemes Bill",
+  "shortTitle": "Pension Schemes Act 2026",
   "formerShortTitle": null,
-  "currentHouse": "Lords",
+  "currentHouse": "Unassigned",
   "originatingHouse": "Commons",
-  "lastUpdate": "2026-01-02T17:11:42.6992687",
+  "lastUpdate": "2026-05-08T12:53:43.1673498",
   "billWithdrawn": null,
   "isDefeated": false,
   "billTypeId": 1,
@@ -54,44 +54,23 @@
   "includedSessionIds": [
     39
   ],
-  "isAct": false,
+  "isAct": true,
   "currentStage": {
-    "id": 20365,
-    "stageId": 3,
+    "id": 20721,
+    "stageId": 11,
     "sessionId": 39,
-    "description": "Committee stage",
-    "abbreviation": "CS",
-    "house": "Lords",
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
     "stageSittings": [
       {
-        "id": 17612,
-        "stageId": 3,
-        "billStageId": 20365,
+        "id": 18081,
+        "stageId": 11,
+        "billStageId": 20721,
         "billId": 3982,
-        "date": "2026-01-12T00:00:00"
-      },
-      {
-        "id": 17613,
-        "stageId": 3,
-        "billStageId": 20365,
-        "billId": 3982,
-        "date": "2026-01-14T00:00:00"
-      },
-      {
-        "id": 17642,
-        "stageId": 3,
-        "billStageId": 20365,
-        "billId": 3982,
-        "date": "2026-01-19T00:00:00"
-      },
-      {
-        "id": 17643,
-        "stageId": 3,
-        "billStageId": 20365,
-        "billId": 3982,
-        "date": "2026-01-22T00:00:00"
+        "date": "2026-04-29T00:00:00"
       }
     ],
-    "sortOrder": 11
+    "sortOrder": 24
   }
 }
