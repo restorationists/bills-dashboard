@@ -19,3 +19,7 @@ The refresh archives the current data if needed, fetches the live index (without
 Topic tags are editorial: existing tags are retained by bill ID; new IDs use the keyword rules in `src/refresh.py`, with multiple topics allowed and unmatched bills assigned to Other. Topic names/counts are not official parliamentary classifications. Sponsor metadata reflects what the Bills API reports, not a separately verified current member register.
 
 The editorial shortlist is in `public/reports/` and linked from the current edition. It is a dated, sourced opinion document, not an automatically updated ranking. `npm run report` reproduces the 4 November edition from the current raw data. The generator refuses a different capture date so a future refresh cannot silently relabel unreviewed editorial material. Review its selection, wording, status checks and date before regenerating for a later snapshot.
+
+## Optional Bunny scripting experiment
+
+The Python implementation remains the default. An independent, single-file JavaScript backend for Bunny Standalone Edge Scripting lives in `bunny/backend.js`. Run `npm run test:bunny` and `npm run build:bunny` to test and build the separate experimental frontend in `dist-bunny/`. It uses an opt-in live data API, resumable refresh batches and isolated Bunny Storage snapshots. The optional weekly workflow is disabled unless explicitly enabled. See [Bunny experiment setup](bunny/README.md) for variables, secrets, seed uploads and limitations. No Bunny deployment is performed by these commands.

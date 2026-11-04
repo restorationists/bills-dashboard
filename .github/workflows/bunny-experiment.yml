@@ -1,0 +1,55 @@
+name: Bunny scripting experiment — weekly data refresh
+
+# Optional: this calls the experimental JS backend. Python is not modified/run.
+# Scheduled runs are OFF until the repository variable below is explicitly true.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 7 * * 1'
+
+permissions: {}
+
+concurrency:
+  group: bunny-bills-experiment
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.event_name == 'workflow_dispatch' || vars.BILLS_EDGE_EXPERIMENT_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - name: Advance the single edge script until publication completes
+        env:
+          BILLS_SCRIPT_URL: ${{ secrets.BILLS_SCRIPT_URL }}
+          BILLS_ADMIN_TOKEN: ${{ secrets.BILLS_ADMIN_TOKEN }}
+        shell: bash
+        run: |
+          node --input-type=module <<'JS'
+          const { BILLS_SCRIPT_URL, BILLS_ADMIN_TOKEN } = process.env;
+          if (!BILLS_SCRIPT_URL || !BILLS_ADMIN_TOKEN) throw new Error('Configure BILLS_SCRIPT_URL and BILLS_ADMIN_TOKEN secrets first');
+          const endpoint = new URL('/admin/refresh?force=1', BILLS_SCRIPT_URL);
+          if (endpoint.protocol !== 'https:') throw new Error('The script URL must use HTTPS');
+          let failures = 0;
+          for (let step = 0; step < 1000; step++) {
+            try {
+              const response = await fetch(endpoint, {
+                method: 'POST',
+                headers: { Authorization: `Bearer ${BILLS_ADMIN_TOKEN}` },
+                signal: AbortSignal.timeout(120_000),
+                redirect: 'error',
+              });
+              if (!response.ok) throw new Error(`Backend returned HTTP ${response.status}`);
+              const result = await response.json();
+              console.log(JSON.stringify({ status: result.status, phase: result.phase, indexed: result.indexed, cursor: result.cursor, pending: result.pending }));
+              if (['done', 'not_due'].includes(result.status)) process.exit(0);
+              if (result.status !== 'running') throw new Error('Unexpected backend status');
+              failures = 0;
+            } catch (error) {
+              if (++failures >= 8) throw error;
+              console.log(`Batch failed; retry ${failures}/8 from the saved checkpoint`);
+              await new Promise(resolve => setTimeout(resolve, Math.min(60_000, failures * 10_000)));
+            }
+          }
+          throw new Error('Refresh exceeded the batch limit; checkpoints are retained');
+          JS

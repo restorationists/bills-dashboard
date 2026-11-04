@@ -8,7 +8,9 @@
     "build": "vite build",
     "preview": "vite preview",
     "refresh": "python3 src/refresh.py",
-    "report": "python3 src/report.py"
+    "report": "python3 src/report.py",
+    "build:bunny": "VITE_BILLS_API_BASE=/api vite build --outDir dist-bunny",
+    "test:bunny": "node --test bunny/backend.test.js"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^5.0.0",

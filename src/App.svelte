@@ -3,12 +3,17 @@
   import Dashboard from "./Dashboard.svelte";
   import Browse from "./Browse.svelte";
   import Topics from "./Topics.svelte";
-  import edition from "../data/edition.json";
+  import bundled_edition from "../data/edition.json";
   import archived_stats from "../archives/starmer-2026-01-02/data/statistics.json?url";
   import archived_bills from "../archives/starmer-2026-01-02/data/bills_simplified.json?url";
   import archived_members from "../archives/starmer-2026-01-02/data/members.json?url";
   import archived_topics from "../archives/starmer-2026-01-02/data/topics.json?url";
   let archive = $state(false);
+  // Only experimental builds use the edge API. Ordinary/Python builds are unchanged.
+  const edge_api = import.meta.env.VITE_BILLS_API_BASE;
+  let edition = $state(bundled_edition);
+  let live = $state(null);
+  let live_error = $state("");
 
   let tab = $state("dashboard");
 
@@ -79,6 +84,20 @@
     else mq.addListener(mq_handler);
   });
 
+  onMount(async () => {
+    if (!edge_api) return;
+    try {
+      const response = await fetch(`${edge_api.replace(/\/$/, "")}/current`, { cache: "no-store" });
+      if (!response.ok) throw new Error("No live snapshot available");
+      const manifest = await response.json();
+      if (!manifest.snapshot || !manifest.edition || !manifest.urls?.["bills_simplified.json"] || !manifest.urls?.["statistics.json"] || !manifest.urls?.["members.json"] || !manifest.urls?.["topics.json"]) throw new Error("Invalid live snapshot");
+      edition = manifest.edition;
+      live = manifest;
+    } catch {
+      live_error = "Experimental live data is unavailable; showing the bundled snapshot.";
+    }
+  });
+
   onDestroy(() => {
     if (!mq || !mq_handler) return;
     if (mq.removeEventListener) mq.removeEventListener("change", mq_handler);
@@ -141,23 +160,26 @@
     <section class="mb-6 rounded border border-neutral-200 dark:border-white/10 p-4" aria-label="Data edition">
       <label class="font-medium">Edition
         <select class="ml-2 rounded border p-2 bg-white text-neutral-900" bind:value={archive}>
-          <option value={false}>2026 — Burnham era</option>
+          <option value={false}>{edition.label}</option>
           <option value={true}>Archive — original Starmer edition</option>
         </select>
       </label>
       <p class="mt-2 text-sm">{archive ? 'Original snapshot: 2 January 2026. Preserved without changes.' : edition.coverage_note}</p>
+      {#if edge_api && !archive}
+        <p class="mt-1 text-sm" role="status">{live_error || (live ? 'Bunny Edge Scripting experiment — independent of the Python edition.' : 'Checking experimental live data…')}</p>
+      {/if}
       <p class="mt-1 text-sm">Full historical bills collection, including private members’ bills and Acts. Inclusion does not imply sponsorship by the current government.</p>
       {#if !archive}
         <a class="inline-block mt-2 text-sm underline" href="/reports/ridiculous-bills-2026.html" target="_blank" rel="noreferrer">Read the editorial shortlist</a>
       {/if}
     </section>
-    {#key archive}
+    {#key `${archive}-${live?.snapshot || "bundled"}`}
     {#if tab === "dashboard"}
-      <Dashboard stats_url={archive ? archived_stats : undefined} bills_url={archive ? archived_bills : undefined} />
+      <Dashboard stats_url={archive ? archived_stats : live?.urls["statistics.json"]} bills_url={archive ? archived_bills : live?.urls["bills_simplified.json"]} />
     {:else if tab === "browse"}
-      <Browse bills_url={archive ? archived_bills : undefined} members_url={archive ? archived_members : undefined} />
+      <Browse bills_url={archive ? archived_bills : live?.urls["bills_simplified.json"]} members_url={archive ? archived_members : live?.urls["members.json"]} />
     {:else if tab === "topics"}
-      <Topics topics_url={archive ? archived_topics : undefined} bills_url={archive ? archived_bills : undefined} members_url={archive ? archived_members : undefined} />
+      <Topics topics_url={archive ? archived_topics : live?.urls["topics.json"]} bills_url={archive ? archived_bills : live?.urls["bills_simplified.json"]} members_url={archive ? archived_members : live?.urls["members.json"]} />
     {/if}
     {/key}
   </main>
